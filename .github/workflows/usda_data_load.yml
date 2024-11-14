@@ -1,9 +1,11 @@
 # name: load-data-usda
 
 # on:
-#     push:
-#       paths:
-#         - 'transformed_staged_data/usda*.json'
+#   push:
+#     branches:
+#       - 'main'
+#     paths:
+#       - 'transformed_staged_data/usda*.json'
 
 # jobs:
 #   build:
