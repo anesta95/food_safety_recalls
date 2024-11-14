@@ -35,6 +35,7 @@ jobs:
       - name: Add and commit
         id: add_commit
         uses: EndBug/add-and-commit@v9
+        with:
           committer_name: Automated
           committer_email: actions@users.noreply.github.com
           message: "Latest data"
