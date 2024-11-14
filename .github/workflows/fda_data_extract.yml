@@ -1,38 +1,38 @@
-# name: extract-data-fda
+name: extract-data-fda
 
-# on:
-#   workflow_dispatch:
-#   schedule:
-#     - cron: '47 11-23 * * *' # At minute 47 past every hour from 11 through 23 UTC
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '47 11-23 * * *' # At minute 47 past every hour from 11 through 23 UTC
 
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - env:
-#           GH_TOKEN: ${{ secrets.MY_TOKEN }}
-#       - name: checkout repo content
-#         uses: actions/checkout@v4 # checkout the repository content to github runner
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.MY_TOKEN }}
+      - name: checkout repo content
+        uses: actions/checkout@v4 # checkout the repository content to github runner
 
-#       - name: setup python
-#         uses: actions/setup-python@v5
-#         with:
-#           python-version: '3.13.0' # install the python version needed
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13.0' # install the python version needed
           
-#       - name: install python packages
-#         run: |
-#           python -m pip install --upgrade pip
-#           pip install pipenv
-#           pipenv install
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install pipenv
+          pipenv install
           
-#       - name: execute py scripts 
-#         run: |
-#           pipenv run python ./extract/extract_fda_rss.py
+      - name: execute py scripts 
+        run: |
+          pipenv run python ./extract/extract_fda_rss.py
         
-#       # push to git repo
-#       - name: Add and commit
-#         id: add_commit
-#         uses: EndBug/add-and-commit@v9
-#           committer_name: Automated
-#           committer_email: actions@users.noreply.github.com
-#           message: "Latest data"
+      # push to git repo
+      - name: Add and commit
+        id: add_commit
+        uses: EndBug/add-and-commit@v9
+          committer_name: Automated
+          committer_email: actions@users.noreply.github.com
+          message: "Latest data"
