@@ -1,10 +1,11 @@
 # name: load-data-fda
 
 # on:
-#     push:
-#       paths:
-#         - 'transformed_staged_data/fda*.json'
-
+#   push:
+#     branches:
+#       - 'main'
+#     paths:
+#       - 'transformed_staged_data/fda*.json'
 # jobs:
 #   build:
 #     runs-on: ubuntu-latest
