@@ -5,13 +5,13 @@ This repository contains a JSON file in `./clean_data/food_safety_recalls.json` 
 ```mermaid
 flowchart TB
     subgraph Extract
-    A[Download raw FDA Food Safety Alert XML and latest year's USDA Food Recall JSON with python files in `./extract` folder.]
+    A[Download raw FDA Food Safety Alert XML and latest year's USDA Food Recall JSON with python files in ./extract folder.]
     end
     subgraph Transform
-    B[Transform the XML or JSON into JSON that is formatted to be added to the combined data file. Write out staged data into the `./transformed_staged_data` folder.]
+    B[Transform the XML or JSON into JSON that is formatted to be added to the combined data file. Write out staged data into the ./transformed_staged_data folder.]
     end
     subgraph Load
-    C[Commit transformed files to combined data file `./clean_data/food_safety_recalls.json` by checking dates of staged data files against latest data dates in clean data files.]
+    C[Commit transformed files to combined data file ./clean_data/food_safety_recalls.json by checking dates of staged data files against latest data dates in clean data files.]
     end
     Extract --> Transform
     Transform --> Load
