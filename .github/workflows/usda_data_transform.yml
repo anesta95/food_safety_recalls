@@ -1,18 +1,19 @@
 # name: transform-data-usda
 
 # on:
-#     push:
-#       paths:
-#         - 'raw_data/usda*.json'
-
+#   push:
+#     branches:
+#       - 'main'
+#     paths:
+#       - 'raw_data/usda*.json'
 # jobs:
 #   build:
 #     runs-on: ubuntu-latest
 #     steps:
+#       - env:
+#           GH_TOKEN: ${{ secrets.MY_TOKEN }}
 #       - name: checkout repo content
 #         uses: actions/checkout@v4 # checkout the repository content to github runner
-#         with:
-#             GH_TOKEN: ${{ secrets.MY_TOKEN }}
 
 #       - name: setup python
 #         uses: actions/setup-python@v5
@@ -33,8 +34,6 @@
 #       - name: Add and commit
 #         id: add_commit
 #         uses: EndBug/add-and-commit@v9
-#         with:
-#           GH_TOKEN: ${{ secrets.MY_TOKEN }}
 #           committer_name: Automated
 #           committer_email: actions@users.noreply.github.com
 #           message: "Latest data"
