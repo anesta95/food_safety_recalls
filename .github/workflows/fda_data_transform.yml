@@ -11,10 +11,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - env:
-          GH_TOKEN: ${{ secrets.MY_TOKEN }}
       - name: checkout repo content
         uses: actions/checkout@v4 # checkout the repository content to github runner
+        with:
+          token: ${{ secrets.MY_TOKEN }}
 
       - name: setup python
         uses: actions/setup-python@v5
