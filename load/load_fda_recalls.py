@@ -58,3 +58,5 @@ fda_staged_latest_dttm = get_latest_json_dttm(fda_staged_recalls)
 if fda_staged_latest_dttm > overall_latest_dttm:
     print("New FDA data to be added:\n")
     add_latest_json(fda_staged_recalls, overall_food_recalls, overall_latest_dttm, "food_safety_recalls.json", "../clean_data")
+else:
+    print("No new FDA data to be added.")
