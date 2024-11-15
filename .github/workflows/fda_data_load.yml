@@ -26,7 +26,7 @@ jobs:
           
       - name: execute py scripts 
         run: |
-          pipenv run python ./load/load_fda_recall.py
+          pipenv run python ./load/load_fda_recalls.py
         
       # push to git repo
       - name: Add and commit
