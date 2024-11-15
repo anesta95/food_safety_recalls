@@ -58,9 +58,5 @@ usda_staged_latest_dttm = get_latest_json_dttm(usda_staged_recalls)
 if usda_staged_latest_dttm > overall_latest_dttm:
     print("New USDA data to be added:\n")
     add_latest_json(usda_staged_recalls, overall_food_recalls, overall_latest_dttm, "food_safety_recalls.json", "../clean_data")
-
-# TODO: Load latest USDA data date from `clean_data/food_safety_recalls.json`
-# TODO: Use the latest USDA data date in a loop through the data in 
-# `transformed_staged_data/usda_food_safety_recalls_staged.json`
-# and add any nodes released after the date to the `clean_data/food_safety_recalls.json`
-# TODO: Write out final `clean_data/food_safety_recalls.json` data.
+else:
+    print("No new USDA data to be added.")
