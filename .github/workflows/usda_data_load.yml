@@ -27,7 +27,7 @@ jobs:
           
       - name: execute py scripts 
         run: |
-          pipenv run python ./load/load_usda_recall.py
+          pipenv run python ./load/load_usda_recalls.py
         
       # push to git repo
       - name: Add and commit
