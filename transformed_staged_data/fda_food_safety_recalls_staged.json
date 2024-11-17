@@ -1,24 +1,5 @@
 [
     {
-        "title": "Grimmway Farms Recalls Organic Whole and Select Organic Baby Carrots That May Be in Consumers\u2019 Homes Due to Potential E. coli Contamination",
-        "company_announce_dttm": "2024-11-17T00:00:00+00:00",
-        "notification_dttm": "2024-11-16T21:02:00+00:00",
-        "recall_reason": "Products may be contaminated with Shiga toxin-producing Escherichia coli (E. coli) O121:H19.",
-        "company_name": "Grimmway Farms",
-        "brand_name": "Multiple Brand Names ",
-        "product_description": "Organic whole carrots and organic baby carrots",
-        "impacted_states": [
-            "PR"
-        ],
-        "agency": "FDA",
-        "uid": "fcace70f-d519-450b-bc5a-b0b2d516e1f8",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-recalls-organic-whole-and-select-organic-baby-carrots-may-be-consumers-homes-due",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
-    },
-    {
         "title": "Gilster - Mary Lee Corp. Issues a Recall for Undeclared Egg Allergen in Bowl & Basket Onion Soup Mix",
         "company_announce_dttm": "2024-11-12T05:00:00+00:00",
         "notification_dttm": "2024-11-12T19:26:00+00:00",
@@ -31,7 +12,7 @@
             "MO"
         ],
         "agency": "FDA",
-        "uid": "80de9365-a48e-4cbf-a76e-1b42edd87613",
+        "uid": "5df28a61-aa92-4290-ab00-01a1177e1f8b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gilster-mary-lee-corp-issues-recall-undeclared-egg-allergen-bowl-basket-onion-soup-mix",
         "notice_id_number": [],
         "recall_type": [],
@@ -48,7 +29,7 @@
         "product_description": "Asian Sesame Salad with Chicken & Asian Dressing",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "9192641e-e8dd-4491-bfc8-12cd502a6689",
+        "uid": "1bd68f5a-8b13-413f-9246-eca2d6b41f85",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wegmans-food-markets-inc-announces-voluntary-recall-large-asian-sesame-salad-chicken-due-presence",
         "notice_id_number": [],
         "recall_type": [],
@@ -72,7 +53,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "73bdd50b-9369-4dc0-978b-2ea51641a2ab",
+        "uid": "028df821-58d2-4517-b1fb-4ee1ebf07078",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cibus-fresh-recalling-cibus-fresh-products-containing-glenview-farms-spreadable-brie-23lb-due",
         "notice_id_number": [],
         "recall_type": [],
@@ -91,7 +72,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "1eadb935-91ee-411a-a355-ba0d57b72a1d",
+        "uid": "ad4a9234-5956-403d-a833-d0fd302b8d67",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-recalls-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due-undeclared-egg",
         "notice_id_number": [],
         "recall_type": [],
@@ -108,7 +89,7 @@
         "product_description": "Soft ripened cheeses",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "5d102613-7100-406e-b9c6-c110017c5ee5",
+        "uid": "44570eaa-fa8d-4daa-b9e5-50b819fa5658",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savencia-cheese-usa-announces-expanded-voluntary-recall-select-soft-ripened-cheeses",
         "notice_id_number": [],
         "recall_type": [],
@@ -125,7 +106,7 @@
         "product_description": "Soft ripened cheeses",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "58264328-5213-4348-91d9-d3ef00896931",
+        "uid": "2d54ecca-8f42-43e8-92d5-fa658a2aaac9",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savencia-cheese-usa-announces-voluntary-recall-select-soft-ripened-cheeses",
         "notice_id_number": [],
         "recall_type": [],
@@ -146,7 +127,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "879b0e0a-4246-4715-9098-bf0bbe004610",
+        "uid": "c7769152-605d-4af2-8133-78e76163349d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hh-fresh-trading-corp-recalls-taiwan-enoki-200gx25pk-because-possible-health-risk",
         "notice_id_number": [],
         "recall_type": [],
@@ -169,7 +150,7 @@
             "VT"
         ],
         "agency": "FDA",
-        "uid": "8b2a6575-1e47-4225-8584-a5b52be2d00a",
+        "uid": "c3ad56cd-b2e0-40ef-b4a0-d704d98bd879",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/elevation-foods-issues-recall-due-undeclared-soy-hannaford-seafood-salad",
         "notice_id_number": [],
         "recall_type": [],
@@ -222,7 +203,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "dd17cb13-5b75-47d0-81f0-acd7e9a6bdf8",
+        "uid": "e31039b1-4754-42cc-9cc7-ca4853c460b3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dynarex-corporation-expands-recall-include-additional-products-due-possible-health-risk",
         "notice_id_number": [],
         "recall_type": [],
@@ -243,7 +224,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "29c18ff9-5a52-4567-943c-da3eebfee842",
+        "uid": "2645302e-1d6e-4f2a-af04-f668404adaa7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atwaters-issues-allergy-alert-undeclared-tree-nuts-spider-web-tart",
         "notice_id_number": [],
         "recall_type": [],
@@ -265,7 +246,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "0e26b944-3ee2-49c1-ad93-89b10543cd69",
+        "uid": "787ecaa6-60b4-4343-a9f2-41ce4c37151e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresh-express-voluntarily-recalling-limited-number-gourmet-cafe-chicken-caesar-salad-bowls",
         "notice_id_number": [],
         "recall_type": [],
@@ -285,7 +266,7 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "c63e9fb7-7fb7-4108-bf07-14efc323445a",
+        "uid": "f1e975f8-16a1-43f9-87c7-607e56598cd3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/acme-smoked-fish-corporation-recalls-kirkland-signature-smoked-salmon-due-listeria-monocytogenes",
         "notice_id_number": [],
         "recall_type": [],
@@ -305,7 +286,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "0d84cea6-97bc-42ad-a7ae-3ac26684580a",
+        "uid": "cc8b67af-b1cc-4de2-b220-ec8962839d62",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grand-central-bakery-issues-allergy-alert-undeclared-egg-u-bake-pie-crust-u-bake-apple-pie-u-bake",
         "notice_id_number": [],
         "recall_type": [],
@@ -322,7 +303,7 @@
         "product_description": "Frozen toaster waffles, Belgian waffles and pancakes",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "198d1f67-cc8c-4fd3-a1ed-91b7cea3b07a",
+        "uid": "9601285c-dc6e-4116-bb79-412ed397cad2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/treehouse-foods-announces-expansion-voluntary-recall-include-all-waffle-and-pancake-products-due",
         "notice_id_number": [],
         "recall_type": [],
@@ -341,7 +322,7 @@
             "PA"
         ],
         "agency": "FDA",
-        "uid": "936a5f78-17eb-48eb-b225-6a796035a124",
+        "uid": "845bc954-9659-4501-afc4-14d5d855c1d1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/con-yeager-spice-company-issues-allergy-alert-undeclared-soy-and-wheat-trail-bologna-meat-processing",
         "notice_id_number": [],
         "recall_type": [],
@@ -370,7 +351,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "64d011a4-b549-470c-b193-da25fda9552b",
+        "uid": "3f66e494-7304-4bcd-87e4-ca6faec40721",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/church-brothers-farms-recall-green-onions-due-possible-health-risk",
         "notice_id_number": [],
         "recall_type": [],
@@ -387,7 +368,7 @@
         "product_description": "Frozen Waffle Products",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "e65e5a3e-33fe-4c18-a2be-4a665f7a2ac0",
+        "uid": "58680b6b-a30a-4c9c-941d-0821d6d7c421",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/treehouse-foods-announces-voluntary-recall-certain-waffle-products-due-potential-listeria",
         "notice_id_number": [],
         "recall_type": [],
@@ -410,7 +391,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "370ad1c7-9ff1-482e-aa70-c87d1e5b1424",
+        "uid": "87b6f1e2-aee8-43ab-8dcc-df1b479d61eb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dakota-toms-sandwiches-recalls-pepperjack-cheeseburger-bacon-cheeseburger-and-gambler-because",
         "notice_id_number": [],
         "recall_type": [],
@@ -431,8 +412,27 @@
             "MD"
         ],
         "agency": "FDA",
-        "uid": "3be73384-4d9a-479e-9e0d-48ffa355e7fa",
+        "uid": "397bde80-9c42-441b-92e7-bdeaabcac93e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enoki-king-mushroom-farm-recalls-enoki-because-possible-health-risk",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
+        "title": "Tipical Latin Food, Corp. Issues Allergy Alert on Undeclared Wheat in Cachapa de Maiz",
+        "company_announce_dttm": "2024-10-11T22:38:00+00:00",
+        "notification_dttm": "2024-10-11T18:42:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen - Wheat",
+        "company_name": "Tipical Latin Food Corp.",
+        "brand_name": "Los Andes Foods",
+        "product_description": "Cachapa de Maiz sweet corn pancakes",
+        "impacted_states": [
+            "FL"
+        ],
+        "agency": "FDA",
+        "uid": "2914dd9b-8867-415b-b88a-b70b8695ee38",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tipical-latin-food-corp-issues-allergy-alert-undeclared-wheat-cachapa-de-maiz",
         "notice_id_number": [],
         "recall_type": [],
         "risk_level": [],
