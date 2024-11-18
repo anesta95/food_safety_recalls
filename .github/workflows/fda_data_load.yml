@@ -1,6 +1,7 @@
 name: load-data-fda
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'main'

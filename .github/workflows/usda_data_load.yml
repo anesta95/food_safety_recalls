@@ -1,6 +1,7 @@
 name: load-data-usda
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'main'
