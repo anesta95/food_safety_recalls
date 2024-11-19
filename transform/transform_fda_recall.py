@@ -324,7 +324,7 @@ states = [
         "Mississippi",
         "Missouri",
         "Montana",
-        "nationwide"
+        "nationwide",
         "Nebraska",
         "Nevada",
         "New Hampshire",
