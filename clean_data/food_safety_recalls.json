@@ -1,5 +1,26 @@
 [
     {
+        "title": "IHA Beverage Issues a Voluntary Recall of Super Cinnamon Powder 4oz Because of Lead Contamination",
+        "company_announce_dttm": "2024-11-18T05:00:00+00:00",
+        "notification_dttm": "2024-11-18T19:16:00+00:00",
+        "recall_reason": "Potential Metal Contaminant - Lead",
+        "company_name": "IHA Beverage",
+        "brand_name": "SUPER BRAND",
+        "product_description": "Cinnamon Powder",
+        "impacted_states": [
+            "CA",
+            "US",
+            "AR"
+        ],
+        "agency": "FDA",
+        "uid": "7ea449bb-4c7c-45d6-b200-3c6ae8c1e3c4",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/iha-beverage-issues-voluntary-recall-super-cinnamon-powder-4oz-because-lead-contamination",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "Grimmway Farms Recalls Organic Whole and Select Organic Baby Carrots That May Be in Consumers\u2019 Homes Due to Potential E. coli Contamination",
         "company_announce_dttm": "2024-11-17T00:00:00+00:00",
         "notification_dttm": "2024-11-17T15:10:00+00:00",
