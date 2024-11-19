@@ -262,6 +262,7 @@ states = [
         "MS",
         "MO",
         "MT",
+        "US",
         "NE",
         "NV",
         "NH",
@@ -323,6 +324,7 @@ states = [
         "Mississippi",
         "Missouri",
         "Montana",
+        "nationwide"
         "Nebraska",
         "Nevada",
         "New Hampshire",
