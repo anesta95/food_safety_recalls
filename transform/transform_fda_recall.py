@@ -158,12 +158,15 @@ def extract_fda_recall_data(url):
     # since it seems to be a more accurate actual time the recall is posted on the
     # FDA site instead of the FDA Publish Date date which is just 12:00AM ET of the 
     # listed publish date. 
-    meta_tag = soup.find('meta', attrs={'property': 'article:published_time'})
-    meta_tag_dttm_str = str(meta_tag.get("content"))
-    format_string = "%a, %m/%d/%Y - %H:%M"
-    meta_notification_dttm = datetime.strptime(meta_tag_dttm_str, format_string)
-    meta_notification_dttm_et = change_timezones(meta_notification_dttm, "America/New_York")
-    meta_notification_dttm_utc = change_timezones(meta_notification_dttm_et, "UTC")
+    
+    ## Not using this anymore since it gets updated with new updates to recall page content
+    ## and I don't yet want multiple JSON instances of the same recall
+    # meta_tag = soup.find('meta', attrs={'property': 'article:published_time'})
+    # meta_tag_dttm_str = str(meta_tag.get("content"))
+    # format_string = "%a, %m/%d/%Y - %H:%M"
+    # meta_notification_dttm = datetime.strptime(meta_tag_dttm_str, format_string)
+    # meta_notification_dttm_et = change_timezones(meta_notification_dttm, "America/New_York")
+    # meta_notification_dttm_utc = change_timezones(meta_notification_dttm_et, "UTC")
 
     # I could grab the title from here but I'm getting it from the <title> tag in the RSS XML instead 
     # since I feel like it would be there more consistently and in an easier way to obtain?
@@ -224,7 +227,8 @@ def extract_fda_recall_data(url):
         raise CustomError(f"Key list has a length of {len(key_list)} but the value list has a length of {len(val_list)}.")
 
     # Replacing FDA Publish Date with <meta property="article:published_time"/> date
-    val_list[1] = meta_notification_dttm_utc
+    # Not using the meta tag date anymore since it gets updated anytime edits are made to recall page
+    # val_list[1] = meta_notification_dttm_utc
 
     return [key_list, val_list]
 

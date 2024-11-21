@@ -60,3 +60,6 @@ if usda_staged_latest_dttm > overall_latest_dttm:
     add_latest_json(usda_staged_recalls, overall_food_recalls, overall_latest_dttm, "food_safety_recalls.json", "../clean_data")
 else:
     print("No new USDA data to be added.")
+
+## TODO: Implement logic to not add duplicate recalls by notice_id_number that are available in Spanish
+## TODO: Do I want in-place updates to update in-place in the final JSON or show up as new nodes?

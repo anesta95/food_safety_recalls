@@ -1,24 +1,5 @@
 [
     {
-        "title": "Babcock Dairy Recalls Orange Custard Chocolate Chip and Chocolate Peanut Butter Due to Undeclared Egg",
-        "company_announce_dttm": "2024-11-05T05:00:00+00:00",
-        "notification_dttm": "2024-11-20T09:46:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen \u2013 Egg",
-        "company_name": "Babcock Dairy",
-        "brand_name": "Babcock Dairy",
-        "product_description": "Orange Custard Chocolate Chip ice cream",
-        "impacted_states": [
-            "WI"
-        ],
-        "agency": "FDA",
-        "uid": "71343ec5-c57c-4404-9684-392144a8a317",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-recalls-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due-undeclared-egg",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
-    },
-    {
         "title": "Fabalish Inc. Recalls \u201cKickin\u2019 Carrot Falafel Bites\u201d Because of Possible Health Risk",
         "company_announce_dttm": "2024-11-18T05:00:00+00:00",
         "notification_dttm": "2024-11-20T14:30:00+00:00",
@@ -51,25 +32,6 @@
         "agency": "FDA",
         "uid": "c475127b-c1a5-4a85-b645-20802e6cbb95",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fabalish-inc-recalls-kickin-carrot-falafel-bites-because-possible-health-risk",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
-    },
-    {
-        "title": "Babcock Dairy Expands Recall on Orange Custard Chocolate Chip and Chocolate Peanut Butter Due to Undeclared Egg",
-        "company_announce_dttm": "2024-11-20T00:30:00+00:00",
-        "notification_dttm": "2024-11-20T09:46:00+00:00",
-        "recall_reason": "Undeclared Egg",
-        "company_name": "Babcock Dairy",
-        "brand_name": "Babcock Dairy",
-        "product_description": "Orange Custard Chocolate Chip ice cream",
-        "impacted_states": [
-            "WI"
-        ],
-        "agency": "FDA",
-        "uid": "49dd1f73-00a9-4f49-bc53-1762168ec04a",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-expands-recall-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due",
         "notice_id_number": [],
         "recall_type": [],
         "risk_level": [],
