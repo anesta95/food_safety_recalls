@@ -1,5 +1,22 @@
 [
     {
+        "title": "Wolverine Packing Co. Recalls Ground Beef Products Due to Possible E. Coli O157:H7 Contamination",
+        "company_announce_dttm": [],
+        "notification_dttm": "2024-11-20T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Wolverine Packing Co.",
+        "brand_name": [],
+        "product_description": [],
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "a7f8da86-6908-49a1-a057-5dcbb69d61ea",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/wolverine-packing-co--recalls-ground-beef-products-due-possible-e--coli-o157h7",
+        "notice_id_number": "031-2024",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Fabalish Inc. Recalls \u201cKickin\u2019 Carrot Falafel Bites\u201d Because of Possible Health Risk",
         "company_announce_dttm": "2024-11-18T05:00:00+00:00",
         "notification_dttm": "2024-11-20T14:30:00+00:00",
