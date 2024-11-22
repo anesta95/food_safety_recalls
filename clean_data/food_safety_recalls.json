@@ -1,5 +1,22 @@
 [
     {
+        "title": "Grimmway Farms Expands Recall to Include Additional Bag Sizes Due to Potential E. coli Contamination",
+        "company_announce_dttm": "2024-11-21T05:00:00+00:00",
+        "notification_dttm": "2024-11-22T14:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Shiga toxin-producing Escherichia coli (E. coli) O121:H19",
+        "company_name": "Grimmway Farms",
+        "brand_name": "Multiple brand names",
+        "product_description": "Organic whole carrots",
+        "impacted_states": [],
+        "agency": "FDA",
+        "uid": "a34bbf16-1b52-4a00-823a-cc6ff91c1971",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-expands-recall-include-additional-bag-sizes-due-potential-e-coli-contamination",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "Yu Shang Food, Inc. Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
         "company_announce_dttm": [],
         "notification_dttm": "2024-11-21T00:00:00+00:00",
