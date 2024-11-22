@@ -1,5 +1,22 @@
 [
     {
+        "title": "Yu Shang Food, Inc. Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+        "company_announce_dttm": [],
+        "notification_dttm": "2024-11-21T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Yushang Food Inc.",
+        "brand_name": [],
+        "product_description": [],
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "f96d22d3-c69f-4198-b742-d329dbbba52e",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/yu-shang-food-inc--recalls-ready-eat-meat-and-poultry-products-due-possible-0",
+        "notice_id_number": "030-2024-EXP",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Fabalish Inc. Recalls \u201cKickin\u2019 Carrot Falafel Bites\u201d Because of Possible Health Risk",
         "company_announce_dttm": "2024-11-18T05:00:00+00:00",
         "notification_dttm": "2024-11-20T19:00:00+00:00",
