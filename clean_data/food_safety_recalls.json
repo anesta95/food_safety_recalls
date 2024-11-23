@@ -1,5 +1,24 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Ineligible Beef Tallow Products Imported From Mexico",
+        "company_announce_dttm": [],
+        "notification_dttm": "2024-11-22T00:00:00+00:00",
+        "recall_reason": "Import Violation",
+        "company_name": [],
+        "brand_name": [],
+        "product_description": "1-kg or 500-g bag packages containing \u201cINCA GRASA COMESTIBLE DE SEBO BOVINO\u201d (edible fat from beef tallow).",
+        "impacted_states": [
+            "AZ"
+        ],
+        "agency": "USDA",
+        "uid": "d94da4f9-a930-4184-bfbb-f9e89a7aa393",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-beef-tallow-products-imported-mexico",
+        "notice_id_number": "PHA-11222024-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Grimmway Farms Expands Recall to Include Additional Bag Sizes Due to Potential E. coli Contamination",
         "company_announce_dttm": "2024-11-21T05:00:00+00:00",
         "notification_dttm": "2024-11-22T14:00:00+00:00",
