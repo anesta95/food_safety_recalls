@@ -1,5 +1,25 @@
 [
     {
+        "title": "Correction Notice: Canadian Food Inspection Agency Laboratory Error Incorrectly Resulted in Recall of Church Brothers Farms Green Onions \u2013 Recall Rescinded-",
+        "company_announce_dttm": "2024-11-26T00:21:00+00:00",
+        "notification_dttm": "2024-11-25T05:00:00+00:00",
+        "recall_reason": "Recall Cancellation Due to False Positive",
+        "company_name": "Church Brothers",
+        "brand_name": "  Multiple Brand Names",
+        "product_description": "Green Onions",
+        "impacted_states": [
+            "CA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "1edd0085-f4d1-40df-b48b-c79a0b17d65f",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-notice-canadian-food-inspection-agency-laboratory-error-incorrectly-resulted-recall",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "Sugar Foods Recalls Fresh Gourmet Tortilla Strips Santa Fe Style 3.5 Ounce Pouch Due to Undeclared Wheat",
         "company_announce_dttm": "2024-11-23T02:00:00+00:00",
         "notification_dttm": "2024-11-23T02:30:00+00:00",
