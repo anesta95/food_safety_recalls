@@ -1,5 +1,29 @@
 [
     {
+        "title": "Handsome Brook Farms Issues Recall of Kirkland Signature Organic Pasture Raised 24-Count Eggs Because of Possible Health Risk",
+        "company_announce_dttm": "2024-11-27T21:15:00+00:00",
+        "notification_dttm": "2024-11-27T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Handsome Brook Farms",
+        "brand_name": "Kirkland Signature",
+        "product_description": "Organic eggs",
+        "impacted_states": [
+            "AL",
+            "GA",
+            "NY",
+            "NC",
+            "SC",
+            "TN"
+        ],
+        "agency": "FDA",
+        "uid": "aae94981-ab4d-4def-9299-0f1ab8951021",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "Correction Notice: Canadian Food Inspection Agency Laboratory Error Incorrectly Resulted in Recall of Church Brothers Farms Green Onions \u2013 Recall Rescinded-",
         "company_announce_dttm": "2024-11-26T00:21:00+00:00",
         "notification_dttm": "2024-11-25T05:00:00+00:00",
