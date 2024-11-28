@@ -1,5 +1,29 @@
 [
     {
+        "title": "Handsome Brook Farms Issues Recall of Kirkland Signature Organic Pasture Raised 24-Count Eggs Because of Possible Health Risk",
+        "company_announce_dttm": "2024-11-27T21:15:00+00:00",
+        "notification_dttm": "2024-11-27T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Handsome Brook Farms",
+        "brand_name": "Kirkland Signature",
+        "product_description": "Organic eggs",
+        "impacted_states": [
+            "AL",
+            "GA",
+            "NY",
+            "NC",
+            "SC",
+            "TN"
+        ],
+        "agency": "FDA",
+        "uid": "bf1cdd3e-e53b-4c63-ab62-886141cd0470",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "Correction Notice: Canadian Food Inspection Agency Laboratory Error Incorrectly Resulted in Recall of Church Brothers Farms Green Onions \u2013 Recall Rescinded-",
         "company_announce_dttm": "2024-11-26T00:21:00+00:00",
         "notification_dttm": "2024-11-25T05:00:00+00:00",
@@ -12,7 +36,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "d1e81107-c520-45ac-a902-eb876f360b66",
+        "uid": "fb5042b9-511d-4af5-89b2-09337685402d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-notice-canadian-food-inspection-agency-laboratory-error-incorrectly-resulted-recall",
         "notice_id_number": [],
         "recall_type": [],
@@ -52,7 +76,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "275a0af1-8c07-46d7-af75-092a71da2f6a",
+        "uid": "d3a4dc67-3855-4f6d-98e3-b70c8c400159",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sugar-foods-recalls-fresh-gourmet-tortilla-strips-santa-fe-style-35-ounce-pouch-due-undeclared-wheat",
         "notice_id_number": [],
         "recall_type": [],
@@ -69,7 +93,7 @@
         "product_description": "Organic whole carrots",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "e2a4d951-a1c0-44f7-827f-ba374c0b1744",
+        "uid": "af0a3bff-0734-4457-a294-04d1ee94b8e6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-expands-recall-include-additional-bag-sizes-due-potential-e-coli-contamination",
         "notice_id_number": [],
         "recall_type": [],
@@ -92,7 +116,7 @@
             "NV"
         ],
         "agency": "FDA",
-        "uid": "730287bb-0850-4ea4-b791-b5e4c4578198",
+        "uid": "1870e7d8-ef06-4420-9953-d81b69f44ddb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-whole-foods-market-organic-carrot-sticks-and-organic-carrots-celery-because",
         "notice_id_number": [],
         "recall_type": [],
@@ -111,7 +135,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "0a427524-fe7d-47d4-a55b-a485527ba585",
+        "uid": "ff90270f-c905-48c0-b282-134bb7ec76a2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-expands-recall-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due",
         "notice_id_number": [],
         "recall_type": [],
@@ -132,7 +156,7 @@
             "AR"
         ],
         "agency": "FDA",
-        "uid": "8b378c8a-13ca-4041-bf24-65639713722a",
+        "uid": "d8d0cbf0-d5d0-46ff-9659-6750f2a0c5de",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/iha-beverage-issues-voluntary-recall-super-cinnamon-powder-4oz-because-lead-contamination",
         "notice_id_number": [],
         "recall_type": [],
@@ -170,7 +194,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "b7ab6e39-b51a-4e30-b0bf-f133efd151ed",
+        "uid": "454a11d4-3b5e-4ee1-9145-2a5c09e214cf",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fabalish-inc-recalls-kickin-carrot-falafel-bites-because-possible-health-risk",
         "notice_id_number": [],
         "recall_type": [],
@@ -190,7 +214,7 @@
             "PR"
         ],
         "agency": "FDA",
-        "uid": "02dab349-a78e-401e-9416-ec033ae097eb",
+        "uid": "ff999013-38f8-4c32-ba9e-2db38cbf3b32",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-recalls-organic-whole-and-select-organic-baby-carrots-may-be-consumers-homes-due",
         "notice_id_number": [],
         "recall_type": [],
@@ -210,7 +234,7 @@
             "MO"
         ],
         "agency": "FDA",
-        "uid": "d1d2efa4-41ac-40e7-8786-63d212b99546",
+        "uid": "1ed6454c-9461-4e2b-aa47-13e9826088aa",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gilster-mary-lee-corp-issues-recall-undeclared-egg-allergen-bowl-basket-onion-soup-mix",
         "notice_id_number": [],
         "recall_type": [],
@@ -227,7 +251,7 @@
         "product_description": "Asian Sesame Salad with Chicken & Asian Dressing",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "5b15fdf2-1c9f-4030-bc32-fed8ae5d8fe1",
+        "uid": "a117430a-22f5-40e8-af20-1a821293ee08",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wegmans-food-markets-inc-announces-voluntary-recall-large-asian-sesame-salad-chicken-due-presence",
         "notice_id_number": [],
         "recall_type": [],
@@ -251,7 +275,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "9ff76be1-997b-4db8-9dc4-dcba017e33f7",
+        "uid": "6f03756d-e8d8-4b27-92f0-d2facb0a8fd0",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cibus-fresh-recalling-cibus-fresh-products-containing-glenview-farms-spreadable-brie-23lb-due",
         "notice_id_number": [],
         "recall_type": [],
@@ -270,7 +294,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "a998959c-ef36-42c5-9cfd-9af8d28dcc0f",
+        "uid": "2d456a75-51b3-4ce4-a974-0a755695bcb4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-recalls-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due-undeclared-egg",
         "notice_id_number": [],
         "recall_type": [],
@@ -287,7 +311,7 @@
         "product_description": "Soft ripened cheeses",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "adc1ce4e-64b9-4dec-af18-cfd796560a99",
+        "uid": "5032c055-d42d-46ce-95ec-8c5fbf3cd586",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savencia-cheese-usa-announces-expanded-voluntary-recall-select-soft-ripened-cheeses",
         "notice_id_number": [],
         "recall_type": [],
@@ -304,7 +328,7 @@
         "product_description": "Soft ripened cheeses",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "1f45194b-8cf3-44bc-98f8-53ea5246ccf8",
+        "uid": "1f663e28-6b7c-43af-9a16-405eee4b88b5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savencia-cheese-usa-announces-voluntary-recall-select-soft-ripened-cheeses",
         "notice_id_number": [],
         "recall_type": [],
@@ -325,7 +349,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "95a5fbe1-451f-4e13-b865-c56351c637d1",
+        "uid": "ad05fb23-629f-4ab1-ad44-6c4ce427fede",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hh-fresh-trading-corp-recalls-taiwan-enoki-200gx25pk-because-possible-health-risk",
         "notice_id_number": [],
         "recall_type": [],
@@ -348,7 +372,7 @@
             "VT"
         ],
         "agency": "FDA",
-        "uid": "76b30f13-6116-4efb-9366-66f8220cd9cc",
+        "uid": "e94689ab-2f19-48e7-b457-54bfaf9b9054",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/elevation-foods-issues-recall-due-undeclared-soy-hannaford-seafood-salad",
         "notice_id_number": [],
         "recall_type": [],
@@ -401,7 +425,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "8f924be0-60c9-4808-a3d0-3449b0b6a6b5",
+        "uid": "0727419f-0516-45d8-b6d9-8a44aa7a3d73",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dynarex-corporation-expands-recall-include-additional-products-due-possible-health-risk",
         "notice_id_number": [],
         "recall_type": [],
@@ -422,7 +446,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "aa575f48-f9eb-434a-904b-bcd9c94ba5a3",
+        "uid": "04461a13-f051-4cdf-87c1-cdec72537d93",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atwaters-issues-allergy-alert-undeclared-tree-nuts-spider-web-tart",
         "notice_id_number": [],
         "recall_type": [],
@@ -444,28 +468,8 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "9557933b-e7b1-491e-8fdb-d2504d2f008a",
+        "uid": "ca994bc7-5cb3-4395-8a70-9d6a82a4f729",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresh-express-voluntarily-recalling-limited-number-gourmet-cafe-chicken-caesar-salad-bowls",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
-    },
-    {
-        "title": "Acme Smoked Fish Corporation Recalls Kirkland Signature Smoked Salmon Due to Listeria Monocytogenes Contamination",
-        "company_announce_dttm": "2024-10-26T01:41:00+00:00",
-        "notification_dttm": "2024-10-26T04:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogens",
-        "company_name": "Acme Smoked Fish Corporation",
-        "brand_name": "Kirkland Signature",
-        "product_description": "Kirkland Signature Smoked Salmon",
-        "impacted_states": [
-            "NY",
-            "FL"
-        ],
-        "agency": "FDA",
-        "uid": "1dbf36a7-271c-43fa-b37e-88a0b4ec6eb7",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/acme-smoked-fish-corporation-recalls-kirkland-signature-smoked-salmon-due-listeria-monocytogenes",
         "notice_id_number": [],
         "recall_type": [],
         "risk_level": [],
