@@ -1,5 +1,30 @@
 [
     {
+        "title": "4Earth Farms, LLC. Recalls Organic and Conventional Vegetable Medleys and Organic Whole Carrots, Containing Grimmway Farms Carrots, Because of Possible Health Risk",
+        "company_announce_dttm": "2024-11-27T17:37:00+00:00",
+        "notification_dttm": "2024-11-29T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Shiga toxin-producing Escherichia coli (E. coli) O121:H19",
+        "company_name": "4Earth Farms",
+        "brand_name": "Multiple brand names",
+        "product_description": "Vegetable Medleys and Whole Organic Carrots ",
+        "impacted_states": [
+            "CA",
+            "CO",
+            "FL",
+            "IL",
+            "MN",
+            "NH",
+            "PA"
+        ],
+        "agency": "FDA",
+        "uid": "43ffe3e7-43da-4245-9532-bb2391e43a02",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/4earth-farms-llc-recalls-organic-and-conventional-vegetable-medleys-and-organic-whole-carrots",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "Sunfed Produce, LLC Recalls Whole Fresh American Cucumbers Because of Possible Health Risks Due to Salmonella",
         "company_announce_dttm": "2024-11-27T16:31:00+00:00",
         "notification_dttm": "2024-11-28T05:00:00+00:00",
