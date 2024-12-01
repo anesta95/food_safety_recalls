@@ -25,6 +25,26 @@
         "recall_classification": []
     },
     {
+        "title": "Gracie\u2019s Kitchen\u2019s Inc. Recalls Read-To-Eat Products Manufactured Between 11/4 and 11/13/24 Because of Possible Health Risk",
+        "company_announce_dttm": "2024-11-28T20:50:00+00:00",
+        "notification_dttm": "2024-11-28T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Listeria monocytogenes",
+        "company_name": "Gracie\u2019s Kitchens Inc.",
+        "brand_name": "Gracie\u2019s Kitchens, King Kullen, Wild By Nature",
+        "product_description": "RTE fruit and vegetables",
+        "impacted_states": [
+            "CT",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "9e1d8bdc-2c9b-40d8-84c1-eb460498aac4",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gracies-kitchens-inc-recalls-read-eat-products-manufactured-between-114-and-111324-because-possible",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "Sunfed Produce, LLC Recalls Whole Fresh American Cucumbers Because of Possible Health Risks Due to Salmonella",
         "company_announce_dttm": "2024-11-27T16:31:00+00:00",
         "notification_dttm": "2024-11-28T05:00:00+00:00",
