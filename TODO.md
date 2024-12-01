@@ -12,9 +12,10 @@
 * Implement logic to not add duplicate USDA recalls by notice_id_number that are available in Spanish.
 * Use [dataclasses](https://docs.python.org/3/library/dataclasses.html) to enforce static typing and a common schema. More info [here](https://www.dataquest.io/blog/how-to-use-python-data-classes/) & [here](https://www.datacamp.com/tutorial/python-data-classes).
 * Check out [BLN WARN project](https://github.com/biglocalnews/warn-github-flow) for mypy hinting and unit testing.
+* Switch over library & virtual environment manager to [uv](https://docs.astral.sh/uv/).
 
 # Expansion
 * Publish final JSON to GH pages.
-* Build an Observable Framework site that's built on underlying JSON that has cool custom dashboard.
+* Build an [Observable Framework](https://observablehq.com/framework/) site that's built on underlying JSON that has cool custom dashboard.
 * Publish the dashboard as it's own page on GH pages.
 * Use an LLM or ML to use FDA recall text to try and "pre-classify" it as Class I-III.
