@@ -1,5 +1,34 @@
 [
     {
+        "title": "Russ Davis Wholesale Recalls Multiple Products Due to Potential Salmonella Risk",
+        "company_announce_dttm": "2024-12-01T16:40:00+00:00",
+        "notification_dttm": "2024-12-02T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Potential Foodborne Illness/Salmonella",
+        "brand_name": "Crazy Fresh and more",
+        "product_description": "Cucumbers and salads with kit",
+        "impacted_states": [
+            "MN",
+            "IL",
+            "IA",
+            "KS",
+            "MI",
+            "MT",
+            "NE",
+            "ND",
+            "SD",
+            "WI",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "85327ccc-572a-4d06-9e93-529e91157114",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
+        "notice_id_number": [],
+        "recall_type": [],
+        "risk_level": [],
+        "recall_classification": []
+    },
+    {
         "title": "4Earth Farms, LLC. Recalls Organic and Conventional Vegetable Medleys and Organic Whole Carrots, Containing Grimmway Farms Carrots, Because of Possible Health Risk",
         "company_announce_dttm": "2024-11-27T17:37:00+00:00",
         "notification_dttm": "2024-11-29T05:00:00+00:00",
