@@ -1,5 +1,24 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Ineligible Pork Products Imported From Ecuador",
+        "company_announce_dttm": [],
+        "notification_dttm": "2024-12-02T00:00:00+00:00",
+        "recall_reason": "Import Violation",
+        "company_name": [],
+        "brand_name": [],
+        "product_description": "1-lb. vacuum-sealed packages containing \u201cMortadela ESPECIAL BOLOGNIA",
+        "impacted_states": [
+            "RI"
+        ],
+        "agency": "USDA",
+        "uid": "78e3f1c3-38b5-43fa-a38d-58470ff4267e",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-pork-products-imported-ecuador",
+        "notice_id_number": "PHA-12022024-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Russ Davis Wholesale Recalls Multiple Products Due to Potential Salmonella Risk",
         "company_announce_dttm": "2024-12-01T16:40:00+00:00",
         "notification_dttm": "2024-12-02T05:00:00+00:00",
