@@ -1,11 +1,11 @@
 [
     {
         "title": "FSIS Issues Public Health Alert for Ineligible Pork Products Imported From Ecuador",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-12-02T00:00:00+00:00",
         "recall_reason": "Import Violation",
-        "company_name": [],
-        "brand_name": [],
+        "company_name": null,
+        "brand_name": null,
         "product_description": "1-lb. vacuum-sealed packages containing \u201cMortadela ESPECIAL BOLOGNIA",
         "impacted_states": [
             "RI"
@@ -42,10 +42,74 @@
         "agency": "FDA",
         "uid": "85327ccc-572a-4d06-9e93-529e91157114",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Baker Farms Recalls Baker Brand Curly Mustard Due to Listeria Monocytogenes Contamination",
+        "company_announce_dttm": "2024-12-02T23:49:00+00:00",
+        "notification_dttm": "2024-12-02T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogens",
+        "company_name": "Baker Farms",
+        "brand_name": "Baker Farms",
+        "product_description": "Curly Mustard Greens",
+        "impacted_states": [
+            "GA",
+            "AL",
+            "AR",
+            "FL",
+            "KY",
+            "LA",
+            "MS",
+            "TN",
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "1c3a243f-5bc1-4efe-8850-d0e4202eb794",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baker-farms-recalls-baker-brand-curly-mustard-due-listeria-monocytogenes-contamination",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Baloian Farms of Arizona Co., Recalls Whole Fresh American Cucumbers Because of Possible Health Risks Due to Salmonella",
+        "company_announce_dttm": "2024-11-30T04:05:00+00:00",
+        "notification_dttm": "2024-12-02T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Salmonella",
+        "company_name": "Baloian Farms of Arizonia Co., Inc.",
+        "brand_name": "PAM PAK",
+        "product_description": "Whole Fresh American Cucumbers",
+        "impacted_states": [
+            "AZ",
+            "US",
+            "AK",
+            "CA",
+            "CO",
+            "ID",
+            "IA",
+            "KS",
+            "MA",
+            "MI",
+            "MO",
+            "MT",
+            "NV",
+            "NY",
+            "NC",
+            "OR",
+            "TX",
+            "WA",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "103d8df0-f2f2-454e-8871-b4faf1127e48",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baloian-farms-arizona-co-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "4Earth Farms, LLC. Recalls Organic and Conventional Vegetable Medleys and Organic Whole Carrots, Containing Grimmway Farms Carrots, Because of Possible Health Risk",
@@ -67,10 +131,10 @@
         "agency": "FDA",
         "uid": "43ffe3e7-43da-4245-9532-bb2391e43a02",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/4earth-farms-llc-recalls-organic-and-conventional-vegetable-medleys-and-organic-whole-carrots",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Gracie\u2019s Kitchen\u2019s Inc. Recalls Read-To-Eat Products Manufactured Between 11/4 and 11/13/24 Because of Possible Health Risk",
@@ -87,10 +151,10 @@
         "agency": "FDA",
         "uid": "9e1d8bdc-2c9b-40d8-84c1-eb460498aac4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gracies-kitchens-inc-recalls-read-eat-products-manufactured-between-114-and-111324-because-possible",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Sunfed Produce, LLC Recalls Whole Fresh American Cucumbers Because of Possible Health Risks Due to Salmonella",
@@ -132,10 +196,10 @@
         "agency": "FDA",
         "uid": "4f40803c-c756-40a8-882a-101be67cf785",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunfed-produce-llc-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Handsome Brook Farms Issues Recall of Kirkland Signature Organic Pasture Raised 24-Count Eggs Because of Possible Health Risk",
@@ -156,10 +220,10 @@
         "agency": "FDA",
         "uid": "aae94981-ab4d-4def-9299-0f1ab8951021",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Correction Notice: Canadian Food Inspection Agency Laboratory Error Incorrectly Resulted in Recall of Church Brothers Farms Green Onions \u2013 Recall Rescinded-",
@@ -176,10 +240,10 @@
         "agency": "FDA",
         "uid": "1edd0085-f4d1-40df-b48b-c79a0b17d65f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-notice-canadian-food-inspection-agency-laboratory-error-incorrectly-resulted-recall",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Sugar Foods Recalls Fresh Gourmet Tortilla Strips Santa Fe Style 3.5 Ounce Pouch Due to Undeclared Wheat",
@@ -216,18 +280,18 @@
         "agency": "FDA",
         "uid": "7603fedb-14c8-4c4b-8e17-1556cdabf3a5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sugar-foods-recalls-fresh-gourmet-tortilla-strips-santa-fe-style-35-ounce-pouch-due-undeclared-wheat",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "FSIS Issues Public Health Alert for Ineligible Beef Tallow Products Imported From Mexico",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-11-22T00:00:00+00:00",
         "recall_reason": "Import Violation",
-        "company_name": [],
-        "brand_name": [],
+        "company_name": null,
+        "brand_name": null,
         "product_description": "1-kg or 500-g bag packages containing \u201cINCA GRASA COMESTIBLE DE SEBO BOVINO\u201d (edible fat from beef tallow).",
         "impacted_states": [
             "AZ"
@@ -252,19 +316,19 @@
         "agency": "FDA",
         "uid": "a34bbf16-1b52-4a00-823a-cc6ff91c1971",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-expands-recall-include-additional-bag-sizes-due-potential-e-coli-contamination",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Yu Shang Food, Inc. Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-11-21T00:00:00+00:00",
         "recall_reason": "Product Contamination",
         "company_name": "Yushang Food Inc.",
-        "brand_name": [],
-        "product_description": [],
+        "brand_name": null,
+        "product_description": null,
         "impacted_states": [],
         "agency": "USDA",
         "uid": "f96d22d3-c69f-4198-b742-d329dbbba52e",
@@ -307,10 +371,10 @@
         "agency": "FDA",
         "uid": "fbc8b105-5cae-4dcb-b907-5b80fb8fd15a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fabalish-inc-recalls-kickin-carrot-falafel-bites-because-possible-health-risk",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "F&S Fresh Foods Recalls Whole Foods Market Organic Carrot Sticks and Organic Carrots & Celery Because of Possible Health Risk Due to Potential E. coli Contamination",
@@ -330,19 +394,19 @@
         "agency": "FDA",
         "uid": "5f263bc5-52ca-4016-9aab-e4364be39133",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-whole-foods-market-organic-carrot-sticks-and-organic-carrots-celery-because",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Wolverine Packing Co. Recalls Ground Beef Products Due to Possible E. Coli O157:H7 Contamination",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-11-20T00:00:00+00:00",
         "recall_reason": "Product Contamination",
         "company_name": "Wolverine Packing Co.",
-        "brand_name": [],
-        "product_description": [],
+        "brand_name": null,
+        "product_description": null,
         "impacted_states": [],
         "agency": "USDA",
         "uid": "a7f8da86-6908-49a1-a057-5dcbb69d61ea",
@@ -366,10 +430,10 @@
         "agency": "FDA",
         "uid": "7e2fafc6-cbe8-4628-99ca-5aa726c1619a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-expands-recall-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "IHA Beverage Issues a Voluntary Recall of Super Cinnamon Powder 4oz Because of Lead Contamination",
@@ -387,10 +451,10 @@
         "agency": "FDA",
         "uid": "7ea449bb-4c7c-45d6-b200-3c6ae8c1e3c4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/iha-beverage-issues-voluntary-recall-super-cinnamon-powder-4oz-because-lead-contamination",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Grimmway Farms Recalls Organic Whole and Select Organic Baby Carrots That May Be in Consumers\u2019 Homes Due to Potential E. coli Contamination",
@@ -407,18 +471,18 @@
         "agency": "FDA",
         "uid": "a0439665-0332-4e56-9b76-9081fb2b0fba",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-recalls-organic-whole-and-select-organic-baby-carrots-may-be-consumers-homes-due",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "A Tu Gusto, LLC Recalls Frozen Croquette Products Produced Without the Benefit of Inspection and Undeclared Allergens",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-10-29T04:00:00+00:00",
         "recall_reason": "Produced Without Benefit of Inspection, Unreported Allergens",
-        "company_name": [],
-        "brand_name": [],
+        "company_name": null,
+        "brand_name": null,
         "product_description": "\u2022 32-oz. box containing \u201cA TU GUSTO PALADAR POLLO (CHICKEN) CROQUETAS (CROQUETTES).\u201d   , \u2022 32-oz. box containing \u201cA TU GUSTO PALADAR CHORIZO (SAUSAGE) CROQUETAS (CROQUETTES).\u201d   , \u2022 32-oz. box containing \u201cA TU GUSTO PALADAR PESCADO (FISH) CROQUETAS (CROQUETTES).\u201d   , \u2022 32-oz. box containing \u201cA TU GUSTO PALADAR JAMON (HAM) CROQUETAS (CROQUETTES).\u201d",
         "impacted_states": [
             "FL",
@@ -434,11 +498,11 @@
     },
     {
         "title": "A Tu Gusto, Llc Retira Productos De Croquetas  Congeladas Producidos Sin El Beneficio De La Inspecci\u00f3n Y Con Al\u00e9rgenos No Declarados",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-10-29T04:00:00+00:00",
         "recall_reason": "Produced Without Benefit of Inspection, Unreported Allergens",
-        "company_name": [],
-        "brand_name": [],
+        "company_name": null,
+        "brand_name": null,
         "product_description": "\u2022 Caja de 32 oz. que contiene \u201cA TU GUSTO PALADAR POLLO (CHICKEN) CROQUETAS (CROQUETTES)\u201d , \u2022 Caja de 32 oz. que contiene \u201cA TU GUSTO PALADAR CHORIZO (SAUSAGE) CROQUETAS (CROQUETTES).\u201d   , \u2022 Caja de 32 oz. que contiene  \u201cA TU GUSTO PALADAR PESCADO (FISH) CROQUETAS (CROQUETTES).\u201d   , \u2022 Caja de 32 oz. que contiene \u201cA TU GUSTO PALADAR JAMON (HAM) CROQUETAS (CROQUETTES).\u201d",
         "impacted_states": [
             "FL",
@@ -446,7 +510,7 @@
         ],
         "agency": "USDA",
         "uid": "2d2bfb3a-cb0d-4d8e-9a07-686d8c17076e",
-        "recall_url": [],
+        "recall_url": null,
         "notice_id_number": "029-2024",
         "recall_type": "Active Recall",
         "risk_level": "High - Class I",
@@ -454,12 +518,12 @@
     },
     {
         "title": "Yu Shang Food Inc. Recalls Ready-to-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-11-09T05:00:00+00:00",
         "recall_reason": "Product Contamination",
         "company_name": "Yushang Food Inc.",
-        "brand_name": [],
-        "product_description": [],
+        "brand_name": null,
+        "product_description": null,
         "impacted_states": [],
         "agency": "USDA",
         "uid": "21fdf47d-d010-43b8-a7f4-d0a895586ecb",
@@ -484,10 +548,10 @@
         "agency": "FDA",
         "uid": "e55aa881-2f0a-4636-b6bc-a18848e72f89",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gilster-mary-lee-corp-issues-recall-undeclared-egg-allergen-bowl-basket-onion-soup-mix",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Wegmans Food Markets, Inc. Announces Voluntary Recall of Large Asian Sesame Salad with Chicken Due to Presence of Undeclared Egg Allergen",
@@ -501,10 +565,10 @@
         "agency": "FDA",
         "uid": "365683f5-0730-4869-9aa4-a3955f5db522",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wegmans-food-markets-inc-announces-voluntary-recall-large-asian-sesame-salad-chicken-due-presence",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "CIBUS Fresh, is Recalling CIBUS Fresh Products Containing Glenview Farms Spreadable Brie, 2/3lb Due to Supplier Notification of a Possible Listeria Monocytogenes",
@@ -525,10 +589,10 @@
         "agency": "FDA",
         "uid": "acd6b8b8-9f85-4c1d-b575-10c958924a63",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cibus-fresh-recalling-cibus-fresh-products-containing-glenview-farms-spreadable-brie-23lb-due",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Babcock Dairy Recalls Orange Custard Chocolate Chip and Chocolate Peanut Butter Due to Undeclared Egg",
@@ -544,10 +608,10 @@
         "agency": "FDA",
         "uid": "88949d85-1ea9-42f6-acef-b91afbed05fa",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-recalls-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due-undeclared-egg",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Savencia Cheese USA Announces an Expanded Voluntary Recall of Select Soft Ripened Cheeses",
@@ -561,10 +625,10 @@
         "agency": "FDA",
         "uid": "16f83736-184f-417f-8f50-749724f7c8ed",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savencia-cheese-usa-announces-expanded-voluntary-recall-select-soft-ripened-cheeses",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Savencia Cheese USA Announces Voluntary Recall of Select Soft Ripened Cheeses",
@@ -578,10 +642,10 @@
         "agency": "FDA",
         "uid": "b23d547a-f271-412b-ae07-baf2f654c103",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savencia-cheese-usa-announces-voluntary-recall-select-soft-ripened-cheeses",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "HH Fresh Trading Corp Recalls Taiwan Enoki 200gx25pk Because of Possible Health Risk",
@@ -599,10 +663,10 @@
         "agency": "FDA",
         "uid": "30994a08-85c1-4182-be71-4d1d8cf80c23",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hh-fresh-trading-corp-recalls-taiwan-enoki-200gx25pk-because-possible-health-risk",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Elevation Foods Issues Recall Due to Undeclared Soy in Hannaford Seafood Salad",
@@ -622,10 +686,10 @@
         "agency": "FDA",
         "uid": "972627d8-53c8-4c1f-91a7-d8b265fe5f74",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/elevation-foods-issues-recall-due-undeclared-soy-hannaford-seafood-salad",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Dynarex Corporation Expands Recall to Include Additional Products Due to Possible Health Risk",
@@ -675,10 +739,10 @@
         "agency": "FDA",
         "uid": "ef48ec89-d74d-4699-9895-0483b8ae6dc2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dynarex-corporation-expands-recall-include-additional-products-due-possible-health-risk",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Atwater\u2019s Issues Allergy Alert on Undeclared Tree Nuts in \u201cSpider Web Tart\u201d",
@@ -696,10 +760,10 @@
         "agency": "FDA",
         "uid": "6d3f2439-b164-4c5b-b697-b7e440565f51",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atwaters-issues-allergy-alert-undeclared-tree-nuts-spider-web-tart",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Fresh Express is Voluntarily Recalling a Limited Number of Gourmet Caf\u00e9 Chicken Caesar Salad Bowls",
@@ -718,10 +782,10 @@
         "agency": "FDA",
         "uid": "977c66c9-b831-4c29-9882-b60e2f782285",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresh-express-voluntarily-recalling-limited-number-gourmet-cafe-chicken-caesar-salad-bowls",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Acme Smoked Fish Corporation Recalls Kirkland Signature Smoked Salmon Due to Listeria Monocytogenes Contamination",
@@ -738,10 +802,10 @@
         "agency": "FDA",
         "uid": "1da32bbc-e412-48d6-b13f-20d729a33dbe",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/acme-smoked-fish-corporation-recalls-kirkland-signature-smoked-salmon-due-listeria-monocytogenes",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Grand Central Bakery Issues Allergy Alert on Undeclared Egg in U-Bake Pie Crust, U-Bake Apple Pie, U-Bake Marionberry Pie, and U-Bake Chicken Pot Pie",
@@ -758,18 +822,18 @@
         "agency": "FDA",
         "uid": "8550a296-5808-40c8-8d19-9edb2827d9b4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grand-central-bakery-issues-allergy-alert-undeclared-egg-u-bake-pie-crust-u-bake-apple-pie-u-bake",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "FSIS Issues Public Health Alert for Ineligible Meat and Poultry Products Illegally Imported from the Republic of the Union of Myanmar",
-        "company_announce_dttm": [],
+        "company_announce_dttm": null,
         "notification_dttm": "2024-10-24T04:00:00+00:00",
         "recall_reason": "Import Violation",
-        "company_name": [],
-        "brand_name": [],
+        "company_name": null,
+        "brand_name": null,
         "product_description": "180-g. cans containing \u201cBEST BEEF CURRY.\u201d , 425-g. cans containing \u201cBEST Chicken Biryani.\u201d , 360-g. cans containing \u201cHti Mi Gwik Dry MoHinGa Paste.\u201d , 425-g. cans containing \u201cBEST Myanmar Duck Blood.\u201d , 400-g. cans containing \u201cEain Chak MoHinGa Paste.\u201d , 160-g. vacuum sealed clear packages containing \u201cMin Thar Gyi Dried Fish.\u201d , 400-g. cans containing \u201cEain Chak Coconut Soup Paste.\u201d ",
         "impacted_states": [
             "AZ",
@@ -802,10 +866,10 @@
         "agency": "FDA",
         "uid": "276ce95b-8622-47d9-8a86-5a5d3d1b5670",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/treehouse-foods-announces-expansion-voluntary-recall-include-all-waffle-and-pancake-products-due",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Con Yeager Spice Company Issues Allergy Alert on Undeclared Soy and Wheat in Trail Bologna Meat Processing Kits",
@@ -821,10 +885,10 @@
         "agency": "FDA",
         "uid": "98a95cf2-5c44-4a15-a4ee-6b1a6dafab12",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/con-yeager-spice-company-issues-allergy-alert-undeclared-soy-and-wheat-trail-bologna-meat-processing",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Church Brothers Farms Recall Green Onions Due to Possible Health Risk",
@@ -850,10 +914,10 @@
         "agency": "FDA",
         "uid": "5e1c44ea-e9f3-4294-a2c7-bd7d34194791",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/church-brothers-farms-recall-green-onions-due-possible-health-risk",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "TreeHouse Foods Announces Voluntary Recall of Certain Waffle Products Due to the Potential for Listeria monocytogenes Contamination",
@@ -867,10 +931,10 @@
         "agency": "FDA",
         "uid": "553ce393-b675-4c07-8713-fbd6e70c46e7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/treehouse-foods-announces-voluntary-recall-certain-waffle-products-due-potential-listeria",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Dakota Tom\u2019s Sandwiches Recalls Pepperjack Cheeseburger, Bacon Cheeseburger and The Gambler Because of Possible Health Risk",
@@ -890,10 +954,10 @@
         "agency": "FDA",
         "uid": "99499330-8318-4395-b8ff-f575a57d4adc",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dakota-toms-sandwiches-recalls-pepperjack-cheeseburger-bacon-cheeseburger-and-gambler-because",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Enoki King Mushroom Farm Recalls Enoki Because of Possible Health Risk",
@@ -911,10 +975,10 @@
         "agency": "FDA",
         "uid": "d4ea9e2b-cdbe-448f-860a-24f363ea2b0f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enoki-king-mushroom-farm-recalls-enoki-because-possible-health-risk",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Tipical Latin Food, Corp. Issues Allergy Alert on Undeclared Wheat in Cachapa de Maiz",
@@ -930,10 +994,10 @@
         "agency": "FDA",
         "uid": "157a594b-f3cd-4de8-ae6f-fc628a3a6284",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tipical-latin-food-corp-issues-allergy-alert-undeclared-wheat-cachapa-de-maiz",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     },
     {
         "title": "Albertsons Companies Voluntarily Recalls 12 ReadyMeals and Store-Made Deli Items Containing a Recalled Chicken Ingredient Supplied by Fresh Creative Foods Due to Possible Listeria monocytogenes Contamination",
@@ -969,9 +1033,9 @@
         "agency": "FDA",
         "uid": "23370843-87ec-41a1-a734-bb5b38c6b2fa",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-voluntarily-recalls-12-readymeals-and-store-made-deli-items-containing-recalled",
-        "notice_id_number": [],
-        "recall_type": [],
-        "risk_level": [],
-        "recall_classification": []
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
     }
 ]

@@ -108,4 +108,4 @@ This pipeline is automated through GitHub Actions specified in YAML files in the
     }
 ```
 
-Note that fields with missing data will contain an empty list `[]`.
+Note that fields with string and datetime data values that are missing data will contain `null` values while fields with list data values that are missing data will contain an empty list `[]`.

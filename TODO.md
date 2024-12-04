@@ -3,7 +3,7 @@
 * Comment explainers for a bit more code, especially in `transform_fda_recalls.py` file.
 
 # Operation
-* Figure out how to deal with edge case of multiple FDA or USDA recalls issued with identical `notification_dttm` values.
+* ~~Figure out how to deal with edge case of multiple FDA or USDA recalls issued with identical `notification_dttm` values.~~
 * Get back to USDA FSIS Recall API webmaster team about optimizing HTTP GET data query (do I need request headers/cookies?)
 
 # Optimization

@@ -23,7 +23,7 @@ def load_json_file(file_name, rel_file_folder_path):
     return json_data
 
 def empty_string_checker(raw_dict_val_str):
-    replacement_val = []
+    replacement_val = None
     if raw_dict_val_str == "":
         return replacement_val
     else:
@@ -64,19 +64,19 @@ def find_usda_recall_url(title_str, xml_folder, xml_filename):
     
     if not recall_url:
         print(f"Could not find corresponding URL for recall {title_str}, leaving value empty")
-        recall_url = []
+        recall_url = None
     
     return recall_url
 
 
 def transform_usda_node(dict, state_list, xml_folder, xml_filename):
     title = empty_string_checker(dict["field_title"])
-    company_announce_dttm = []
+    company_announce_dttm = None
     notification_dttm_str = dict["field_recall_date"]
     notification_dttm = change_timezones(parse_dttm(notification_dttm_str, "%Y-%m-%d"), "UTC")
     recall_reason = empty_string_checker(dict["field_recall_reason"])
     company_name = empty_string_checker(dict["field_establishment"])
-    brand_name = []
+    brand_name = None
     product_description = empty_string_checker(dict["field_product_items"])
     impacted_states = find_state_postal_codes(state_list, dict["field_states"])
     agency = "USDA"

@@ -212,16 +212,16 @@ def extract_fda_recall_data(url):
 
     # Keys with empty values because they are only present in USDA FSIS data and not FDA
     key_list.append("notice_id_number")
-    val_list.append([])
+    val_list.append(None)
 
     key_list.append("recall_type")
-    val_list.append([])
+    val_list.append(None)
 
     key_list.append("risk_level")
-    val_list.append([])
+    val_list.append(None)
 
     key_list.append("recall_classification")
-    val_list.append([])
+    val_list.append(None)
 
     if len(key_list) != len(val_list):
         raise CustomError(f"Key list has a length of {len(key_list)} but the value list has a length of {len(val_list)}.")

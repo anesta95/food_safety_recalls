@@ -39,9 +39,15 @@ def add_latest_json(staged_json_list, overall_json_list, latest_dttm, overall_fi
     script_dir = os.path.dirname(__file__)
     data_file_path = os.path.join(script_dir, overall_rel_file_folder_path, overall_file_name)
 
+    recall_notice_ids = [recall.get("notice_id_number") for recall in overall_json_list if "notice_id_number" in recall]
+
     for recall in staged_json_list:
         recall_ddtm = datetime.strptime(recall["notification_dttm"], "%Y-%m-%dT%H:%M:%S%z")
-        if recall_ddtm > latest_dttm:
+        recall_notice_id = recall["notice_id_number"]
+        recall_date_check = recall_ddtm >= latest_dttm
+        new_recall_check = recall_notice_id not in recall_notice_ids
+
+        if recall_date_check and new_recall_check:
             print(f"Adding data from recall {recall["title"]} at {recall["recall_url"]}.\n")
             overall_json_list.insert(0, recall)
     
@@ -55,8 +61,8 @@ usda_staged_recalls = load_json_file("usda_food_safety_recalls_staged.json", "..
 overall_latest_dttm = get_latest_json_dttm(overall_food_recalls, agency="USDA")
 usda_staged_latest_dttm = get_latest_json_dttm(usda_staged_recalls)
 
-if usda_staged_latest_dttm > overall_latest_dttm:
-    print("New USDA data to be added:\n")
+if usda_staged_latest_dttm >= overall_latest_dttm:
+    print("Potential new USDA data to be added:\n")
     add_latest_json(usda_staged_recalls, overall_food_recalls, overall_latest_dttm, "food_safety_recalls.json", "../clean_data")
 else:
     print("No new USDA data to be added.")
