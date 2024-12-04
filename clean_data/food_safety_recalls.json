@@ -1,5 +1,25 @@
 [
     {
+        "title": "Walmart Inc. Recalls Marketside Fresh Cut Cucumber Slices in 34 Texas Stores Because of Possible Health Risk",
+        "company_announce_dttm": "2024-12-03T16:55:00+00:00",
+        "notification_dttm": "2024-12-04T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Walmart Inc.",
+        "brand_name": "Marketside",
+        "product_description": "Cut cucumber slices",
+        "impacted_states": [
+            "AZ",
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "b7891411-01eb-4a48-ad98-7efa8f4da73d",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-34-texas-stores-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "FSIS Issues Public Health Alert for Ineligible Pork Products Imported From Ecuador",
         "company_announce_dttm": null,
         "notification_dttm": "2024-12-02T00:00:00+00:00",
