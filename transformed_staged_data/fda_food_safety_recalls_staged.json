@@ -1,5 +1,69 @@
 [
     {
+        "title": "JFE Franchising, Inc. Recalls A Limited Number of Cucumber Products  Because Of Possible Health Risk",
+        "company_announce_dttm": "2024-12-04T21:24:00+00:00",
+        "notification_dttm": "2024-12-04T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "JFE Franchising, Inc.",
+        "brand_name": "Snowfruit",
+        "product_description": "Multiple products with cucumbers",
+        "impacted_states": [
+            "TX",
+            "AZ",
+            "CO",
+            "LA",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "dd222b11-6154-4e05-a1fa-dba3bcce9f71",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Yummi Sushi LLC Voluntarily Recalls Cucumber Products Because of Possible Health Risk",
+        "company_announce_dttm": "2024-12-04T06:47:00+00:00",
+        "notification_dttm": "2024-12-05T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Yummi Sushi LLC",
+        "brand_name": "Yummi Sushi",
+        "product_description": "Multiple sushi products with cucumber",
+        "impacted_states": [
+            "TX",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "0deb65f2-fa08-4d73-a4c3-5e5b90280f78",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/yummi-sushi-llc-voluntarily-recalls-cucumber-products-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Supreme Service Solutions LLC Voluntarily Recalls Supreme Produce Cucumber Products Because of Possible Health Risk",
+        "company_announce_dttm": "2024-12-04T05:45:00+00:00",
+        "notification_dttm": "2024-12-05T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Supreme Produce",
+        "brand_name": "Supreme Produce",
+        "product_description": "Mutiple items with cucumbers",
+        "impacted_states": [
+            "TX",
+            "CO",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "2c3bc7f2-28ff-400c-a326-a9935ef2b336",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-produce-cucumber-products-because-possible",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Walmart Inc. Recalls Marketside Fresh Cut Cucumber Slices in 34 Texas Stores Because of Possible Health Risk",
         "company_announce_dttm": "2024-12-03T16:55:00+00:00",
         "notification_dttm": "2024-12-04T05:00:00+00:00",
@@ -12,7 +76,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "b7891411-01eb-4a48-ad98-7efa8f4da73d",
+        "uid": "7366ec4c-62e3-4285-ac1a-18f00fe70fca",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-34-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -39,7 +103,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "84c38550-42ad-4370-8475-e2bdd35d1a11",
+        "uid": "59caad1d-a9cf-44cb-a457-5c5e3aae884b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baker-farms-recalls-baker-brand-curly-mustard-due-listeria-monocytogenes-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -68,7 +132,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "28f45880-24be-4992-8559-6349a5f185b0",
+        "uid": "b69b53f5-e909-4ea4-bcbf-3a617408ea91",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -105,7 +169,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "31891536-337e-4b40-8bec-01bb0a017ff2",
+        "uid": "db0c08bb-d20c-4810-af3c-58ebccf3c618",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baloian-farms-arizona-co-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -125,7 +189,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "aac60792-a86c-409a-befb-1a73b84d54e6",
+        "uid": "21de699b-2bc6-467a-9d1a-31668f28132a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gracies-kitchens-inc-recalls-read-eat-products-manufactured-between-114-and-111324-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -149,7 +213,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "8e833a28-6946-4464-8821-402347ad1f05",
+        "uid": "56c32bba-29dc-4c8e-9808-25bf122dc1de",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -194,7 +258,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "d533e14a-eae5-4c67-8bb5-2649a1268297",
+        "uid": "c8c5dc34-fdd0-4a73-bb05-9f43cf71e807",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunfed-produce-llc-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -219,7 +283,7 @@
             "PA"
         ],
         "agency": "FDA",
-        "uid": "54dadb40-7368-4ffe-83bd-2f14a214d833",
+        "uid": "e3ce4cc2-6d73-40c3-a489-ecfd21b55328",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/4earth-farms-llc-recalls-organic-and-conventional-vegetable-medleys-and-organic-whole-carrots",
         "notice_id_number": null,
         "recall_type": null,
@@ -239,7 +303,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "86894c28-5048-4436-a0a5-1b75cc00adde",
+        "uid": "275e8f56-bf26-4249-9c88-c83045454d85",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-notice-canadian-food-inspection-agency-laboratory-error-incorrectly-resulted-recall",
         "notice_id_number": null,
         "recall_type": null,
@@ -279,7 +343,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "e3004718-604c-48bf-b69f-cfc2bb934dbe",
+        "uid": "03eac8d1-c19c-4143-8f23-c0376fc73c40",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sugar-foods-recalls-fresh-gourmet-tortilla-strips-santa-fe-style-35-ounce-pouch-due-undeclared-wheat",
         "notice_id_number": null,
         "recall_type": null,
@@ -296,7 +360,7 @@
         "product_description": "Organic whole carrots",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "5c9ff9e0-b75b-4d26-8493-b4892ff8bd80",
+        "uid": "02dbde64-163e-487b-aa5e-7d007a31f3fb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-expands-recall-include-additional-bag-sizes-due-potential-e-coli-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -319,7 +383,7 @@
             "NV"
         ],
         "agency": "FDA",
-        "uid": "e4d088e6-75dd-4bb2-a44c-5c1911100752",
+        "uid": "6902a460-e317-4a42-8719-c344e4e8b59b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-whole-foods-market-organic-carrot-sticks-and-organic-carrots-celery-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -338,7 +402,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "491543b3-4f67-414c-9801-7feb68f2180a",
+        "uid": "5a7c79ea-86f9-418b-b4a8-583e15db5bdd",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-expands-recall-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -359,7 +423,7 @@
             "AR"
         ],
         "agency": "FDA",
-        "uid": "b40e66ef-2a65-4cf1-880c-e369f735c553",
+        "uid": "49d7964c-f18c-4292-9b17-098d58cdc910",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/iha-beverage-issues-voluntary-recall-super-cinnamon-powder-4oz-because-lead-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -397,7 +461,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "dd351941-7e6c-4963-a2c9-595d6565a1df",
+        "uid": "b39c943a-ba28-48c3-9bd2-b787ff09b5c3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fabalish-inc-recalls-kickin-carrot-falafel-bites-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -417,7 +481,7 @@
             "PR"
         ],
         "agency": "FDA",
-        "uid": "52cb5a41-97f6-4695-853a-d076352140ba",
+        "uid": "4cdcbb40-fc76-435f-8d12-5f801c578041",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-recalls-organic-whole-and-select-organic-baby-carrots-may-be-consumers-homes-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -437,68 +501,8 @@
             "MO"
         ],
         "agency": "FDA",
-        "uid": "d1a0cb58-5edc-4459-a43f-c6414224da38",
+        "uid": "58adc9fa-7314-4806-9934-e8c6b0b9477d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gilster-mary-lee-corp-issues-recall-undeclared-egg-allergen-bowl-basket-onion-soup-mix",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Wegmans Food Markets, Inc. Announces Voluntary Recall of Large Asian Sesame Salad with Chicken Due to Presence of Undeclared Egg Allergen",
-        "company_announce_dttm": "2024-11-08T05:00:00+00:00",
-        "notification_dttm": "2024-11-08T05:00:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen \u2013 Egg",
-        "company_name": "Wegmans Food Markets",
-        "brand_name": "Wegmans Food Markets",
-        "product_description": "Asian Sesame Salad with Chicken & Asian Dressing",
-        "impacted_states": [],
-        "agency": "FDA",
-        "uid": "a3079a31-cfec-45db-864f-6efe7246b254",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wegmans-food-markets-inc-announces-voluntary-recall-large-asian-sesame-salad-chicken-due-presence",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "CIBUS Fresh, is Recalling CIBUS Fresh Products Containing Glenview Farms Spreadable Brie, 2/3lb Due to Supplier Notification of a Possible Listeria Monocytogenes",
-        "company_announce_dttm": "2024-11-06T05:00:00+00:00",
-        "notification_dttm": "2024-11-08T05:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogens",
-        "company_name": "CIBUS Fresh",
-        "brand_name": "CF, J&O and other",
-        "product_description": "Autumn Turkey Sandwiches",
-        "impacted_states": [
-            "IL",
-            "IN",
-            "KY",
-            "MO",
-            "OH",
-            "TN"
-        ],
-        "agency": "FDA",
-        "uid": "2a9d5c5a-282d-45df-bb96-9bd7c40e7e66",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cibus-fresh-recalling-cibus-fresh-products-containing-glenview-farms-spreadable-brie-23lb-due",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Babcock Dairy Recalls Orange Custard Chocolate Chip and Chocolate Peanut Butter Due to Undeclared Egg",
-        "company_announce_dttm": "2024-11-05T05:00:00+00:00",
-        "notification_dttm": "2024-11-07T05:00:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen \u2013 Egg",
-        "company_name": "Babcock Dairy",
-        "brand_name": "Babcock Dairy",
-        "product_description": "Orange Custard Chocolate Chip ice cream",
-        "impacted_states": [
-            "WI"
-        ],
-        "agency": "FDA",
-        "uid": "67075f62-e6c7-4f4e-880a-1c815fdb4a43",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-recalls-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due-undeclared-egg",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
