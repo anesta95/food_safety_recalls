@@ -1,5 +1,69 @@
 [
     {
+        "title": "Supreme Service Solutions LLC Voluntarily Recalls Supreme Produce Cucumber Products Because of Possible Health Risk",
+        "company_announce_dttm": "2024-12-04T05:45:00+00:00",
+        "notification_dttm": "2024-12-05T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Supreme Produce",
+        "brand_name": "Supreme Produce",
+        "product_description": "Mutiple items with cucumbers",
+        "impacted_states": [
+            "TX",
+            "CO",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "2c3bc7f2-28ff-400c-a326-a9935ef2b336",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-produce-cucumber-products-because-possible",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Yummi Sushi LLC Voluntarily Recalls Cucumber Products Because of Possible Health Risk",
+        "company_announce_dttm": "2024-12-04T06:47:00+00:00",
+        "notification_dttm": "2024-12-05T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "Yummi Sushi LLC",
+        "brand_name": "Yummi Sushi",
+        "product_description": "Multiple sushi products with cucumber",
+        "impacted_states": [
+            "TX",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "0deb65f2-fa08-4d73-a4c3-5e5b90280f78",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/yummi-sushi-llc-voluntarily-recalls-cucumber-products-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "JFE Franchising, Inc. Recalls A Limited Number of Cucumber Products  Because Of Possible Health Risk",
+        "company_announce_dttm": "2024-12-04T21:24:00+00:00",
+        "notification_dttm": "2024-12-04T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness/Salmonella ",
+        "company_name": "JFE Franchising, Inc.",
+        "brand_name": "Snowfruit",
+        "product_description": "Multiple products with cucumbers",
+        "impacted_states": [
+            "TX",
+            "AZ",
+            "CO",
+            "LA",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "dd222b11-6154-4e05-a1fa-dba3bcce9f71",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": " FSIS Issues Public Health Alert for Ready-To-Eat Frozen Chicken Products Imported Without The Benefit Of Import Reinspection",
         "company_announce_dttm": null,
         "notification_dttm": "2024-12-04T00:00:00+00:00",
