@@ -1,5 +1,24 @@
 [
     {
+        "title": " FSIS Issues Public Health Alert for Ready-To-Eat Frozen Chicken Products Imported Without The Benefit Of Import Reinspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2024-12-04T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "5-lb. cardboard box packages containing \u201cyummy Dino Buddies Holiday NUGGETS Breaded nugget shaped white meat chicken patties\u201d with a \u201cBest if Used by Date\u201d of 11/06/26 and Lot #241556.",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "USDA",
+        "uid": "238bdd04-309a-49f2-8850-6b2826aae045",
+        "recall_url": null,
+        "notice_id_number": "PHA-12042024-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Walmart Inc. Recalls Marketside Fresh Cut Cucumber Slices in 34 Texas Stores Because of Possible Health Risk",
         "company_announce_dttm": "2024-12-03T16:55:00+00:00",
         "notification_dttm": "2024-12-04T05:00:00+00:00",
