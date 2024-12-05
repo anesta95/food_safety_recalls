@@ -50,6 +50,8 @@ def add_latest_json(staged_json_list, overall_json_list, latest_dttm, overall_fi
         if recall_date_check and new_recall_check:
             print(f"Adding data from recall {recall["title"]} at {recall["recall_url"]}.\n")
             overall_json_list.insert(0, recall)
+        else:
+            print("This recall is already present in the data.")
     
     with open(data_file_path, 'w') as f:
         json.dump(overall_json_list, f, indent=4, separators=(",", ": "), cls=DateTimeEncoder)
@@ -59,10 +61,5 @@ overall_food_recalls = load_json_file("food_safety_recalls.json", "../clean_data
 usda_staged_recalls = load_json_file("usda_food_safety_recalls_staged.json", "../transformed_staged_data")
 
 overall_latest_dttm = get_latest_json_dttm(overall_food_recalls, agency="USDA")
-usda_staged_latest_dttm = get_latest_json_dttm(usda_staged_recalls)
 
-if usda_staged_latest_dttm >= overall_latest_dttm:
-    print("Potential new USDA data to be added:\n")
-    add_latest_json(usda_staged_recalls, overall_food_recalls, overall_latest_dttm, "food_safety_recalls.json", "../clean_data")
-else:
-    print("No new USDA data to be added.")
+add_latest_json(usda_staged_recalls, overall_food_recalls, overall_latest_dttm, "food_safety_recalls.json", "../clean_data")
