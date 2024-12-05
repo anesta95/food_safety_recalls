@@ -1,5 +1,31 @@
 [
     {
+        "title": "Atkinson Milling Company Recalls Frozen 1 Lb Bag Frozen Hushpuppies with Onions, 2 Lb 8oz Bag Frozen Hushpuppies With Onions and 2 Lb 8oz Bag Frozen Hushpuppies Without Onions Due to Undeclared Milk",
+        "company_announce_dttm": "2024-12-05T20:04:00+00:00",
+        "notification_dttm": "2024-12-05T05:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen - Milk",
+        "company_name": "Atkinson Milling Company",
+        "brand_name": "Atkinson\u2019s",
+        "product_description": "Hushpuppies with Onions, Hushpuppies",
+        "impacted_states": [
+            "NC",
+            "GA",
+            "MD",
+            "NJ",
+            "SC",
+            "TN",
+            "VA",
+            "WV"
+        ],
+        "agency": "FDA",
+        "uid": "596175a5-54a0-4037-b7d2-9c0e9f721a1f",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atkinson-milling-company-recalls-frozen-1-lb-bag-frozen-hushpuppies-onions-2-lb-8oz-bag-frozen",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Supreme Service Solutions LLC Voluntarily Recalls Supreme Produce Cucumber Products Because of Possible Health Risk",
         "company_announce_dttm": "2024-12-04T05:45:00+00:00",
         "notification_dttm": "2024-12-05T05:00:00+00:00",
