@@ -1,5 +1,30 @@
 [
     {
+        "title": "F&S Fresh Foods Recalls Mediterranean Inspired Party Tray Because of Possible Health Risk Due to Potential Salmonella Contamination",
+        "company_announce_dttm": "2024-12-06T05:00:00+00:00",
+        "notification_dttm": "2024-12-06T05:00:00+00:00",
+        "recall_reason": "May be contaminated with Salmonella",
+        "company_name": "F&S Fresh Foods",
+        "brand_name": "F&S Fresh Foods",
+        "product_description": "Mediterranean Inspired Party Tray",
+        "impacted_states": [
+            "CA",
+            "AZ",
+            "ID",
+            "MT",
+            "NV",
+            "UT",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "5bfc6f24-d9ad-4305-a7e0-96cf394d7f31",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-mediterranean-inspired-party-tray-because-possible-health-risk-due-potential",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Atkinson Milling Company Recalls Frozen 1 Lb Bag Frozen Hushpuppies with Onions, 2 Lb 8oz Bag Frozen Hushpuppies With Onions and 2 Lb 8oz Bag Frozen Hushpuppies Without Onions Due to Undeclared Milk",
         "company_announce_dttm": "2024-12-05T20:04:00+00:00",
         "notification_dttm": "2024-12-05T05:00:00+00:00",
