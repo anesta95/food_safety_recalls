@@ -1,5 +1,25 @@
 [
     {
+        "title": "Hardie\u2019s Fresh Foods Recalls Cucumbers Because of Possible Health Risk",
+        "company_announce_dttm": "2024-12-05T05:00:00+00:00",
+        "notification_dttm": "2024-12-07T05:00:00+00:00",
+        "recall_reason": "May be contaminated with Salmonella",
+        "company_name": "Dairyland Produe, LLC",
+        "brand_name": "Dairyland Produce, LLC",
+        "product_description": "Whole cucumbers",
+        "impacted_states": [
+            "CT",
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "2b0dbefc-dbf4-48ca-88f5-dc9f58eed5d1",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hardies-fresh-foods-recalls-cucumbers-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Voluntary Product Recall Notification \u2013 Gyro Sandwich Express Meal Kit Due to Cucumber Ingredient Linked to Baloian Farms Recall",
         "company_announce_dttm": "2024-12-06T05:00:00+00:00",
         "notification_dttm": "2024-12-06T05:00:00+00:00",
