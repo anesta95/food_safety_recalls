@@ -1,5 +1,24 @@
 [
     {
+        "title": "Borsari Food Co. Recalls \u2013 Bloody Mary Mix \u2013 Due to Possible Health Risk",
+        "company_announce_dttm": "2024-12-09T16:29:00+00:00",
+        "notification_dttm": "2024-12-10T05:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen \u2013 Soy, Fish",
+        "company_name": "Borsari Food Co",
+        "brand_name": "Borsari",
+        "product_description": "Bloody Mary Mix",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "3c559dce-f6d8-42a6-8410-9b94fa3cec90",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Reser\u2019s Fine Foods, Inc. Recalls Select Lots of Sprouts Farmers Market Gyro Family Kits Due to Potential Salmonella Contamination",
         "company_announce_dttm": "2024-12-09T13:58:00+00:00",
         "notification_dttm": "2024-12-10T05:00:00+00:00",
