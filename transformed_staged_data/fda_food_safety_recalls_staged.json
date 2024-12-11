@@ -1,5 +1,85 @@
 [
     {
+        "title": "Riverside Natural Foods Inc. Issues Voluntary Recall of Select  MadeGood Granola Bar Products Over Potential Presence of a Piece of Metal",
+        "company_announce_dttm": "2024-12-09T19:14:00+00:00",
+        "notification_dttm": "2024-12-10T05:00:00+00:00",
+        "recall_reason": "Potential Metal Contaminant",
+        "company_name": "Riverside Natural Foods Inc.",
+        "brand_name": "MadeGood",
+        "product_description": "Granola bars",
+        "impacted_states": [
+            "IL"
+        ],
+        "agency": "FDA",
+        "uid": "b45aabe4-c10f-463f-b955-abc91cb527f8",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Borsari Food Co. Recalls \u2013 Bloody Mary Mix \u2013 Due to Possible Health Risk",
+        "company_announce_dttm": "2024-12-09T16:29:00+00:00",
+        "notification_dttm": "2024-12-10T05:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen \u2013 Soy, Fish",
+        "company_name": "Borsari Food Co",
+        "brand_name": "Borsari",
+        "product_description": "Bloody Mary Mix",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "504d316c-b9a7-4d69-8eb9-974c37348d9c",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Reser\u2019s Fine Foods, Inc. Recalls Select Lots of Sprouts Farmers Market Gyro Family Kits Due to Potential Salmonella Contamination",
+        "company_announce_dttm": "2024-12-09T13:58:00+00:00",
+        "notification_dttm": "2024-12-10T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Salmonella",
+        "company_name": "Reser\u2019s Fine Foods, Inc",
+        "brand_name": "Sprouts Farmers Market",
+        "product_description": "Gyro Family Kit",
+        "impacted_states": [
+            "AL",
+            "AZ",
+            "CA",
+            "CO",
+            "DE",
+            "FL",
+            "GA",
+            "KS",
+            "LA",
+            "MD",
+            "MO",
+            "NV",
+            "NJ",
+            "NM",
+            "NC",
+            "OK",
+            "PA",
+            "SC",
+            "TN",
+            "TX",
+            "UT",
+            "VA",
+            "WA",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "e9d6f993-2d19-486d-b2e2-243b8e3eddbd",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/resers-fine-foods-inc-recalls-select-lots-sprouts-farmers-market-gyro-family-kits-due-potential",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Voluntary Product Recall Notification \u2013 Gyro Sandwich Express Meal Kit Due to Cucumber Ingredient Linked to Baloian Farms Recall",
         "company_announce_dttm": "2024-12-06T05:00:00+00:00",
         "notification_dttm": "2024-12-06T05:00:00+00:00",
@@ -11,7 +91,7 @@
             "AZ"
         ],
         "agency": "FDA",
-        "uid": "9576ad4e-abad-4a31-a2f8-2cae8282a0f1",
+        "uid": "adb06e25-48be-4bae-862b-789032c15762",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-product-recall-notification-gyro-sandwich-express-meal-kit-due-cucumber-ingredient-linked",
         "notice_id_number": null,
         "recall_type": null,
@@ -36,7 +116,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "8a4b609f-45b4-4e96-b8bd-aba25bace4a1",
+        "uid": "f955d2fa-8188-43ea-9f78-79dd744ae548",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-mediterranean-inspired-party-tray-because-possible-health-risk-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -62,7 +142,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "ea7cff74-3afd-413b-8833-fee0ee688d63",
+        "uid": "9e89681c-b5ce-461c-a3f3-80f1aebde147",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atkinson-milling-company-recalls-frozen-1-lb-bag-frozen-hushpuppies-onions-2-lb-8oz-bag-frozen",
         "notice_id_number": null,
         "recall_type": null,
@@ -82,7 +162,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "2c8cfe9c-fa2f-46e4-8afa-8925f01788cb",
+        "uid": "b0955806-194d-4c2a-9c4e-6c4903904d4d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hardies-fresh-foods-recalls-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -105,7 +185,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "a30bad80-5924-41f7-853d-4786f179510c",
+        "uid": "170547b3-2abb-4d10-b8be-c35e3f6aa9cd",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -125,7 +205,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "41a2ef79-5445-4c54-bba0-add9fdd84da2",
+        "uid": "136ca068-c726-4cfb-950b-b3961e8e5bd3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/yummi-sushi-llc-voluntarily-recalls-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -146,7 +226,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "a2e0dc9d-8998-4d57-a228-d12a5d91847f",
+        "uid": "7f5d6386-e50a-4a2b-9ef5-44c74f2500b7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-produce-cucumber-products-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -166,7 +246,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "fd040a5d-60c0-4b3c-8a11-76dc0f5b255f",
+        "uid": "18534e12-a4f1-492b-932a-a587e9c87cce",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-34-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -193,7 +273,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "da530efa-3490-4436-84f2-b9c8a395db8a",
+        "uid": "b33f3af7-a1e3-4563-9626-63b495164e74",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baker-farms-recalls-baker-brand-curly-mustard-due-listeria-monocytogenes-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -222,7 +302,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "a63ce2c4-1858-48d8-aae7-80c097c1fa65",
+        "uid": "9be446bd-551a-4844-8039-eaf5f2b19629",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -259,7 +339,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "6211cbf7-869b-489f-8b5d-b1ba5c230d5f",
+        "uid": "c07f5dd0-0202-432f-8522-25c8f9525c25",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baloian-farms-arizona-co-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -279,7 +359,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "4121ace9-41f9-4f91-8158-3fae7ab0857e",
+        "uid": "0b96e253-77f1-4687-9715-ab413c78904b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gracies-kitchens-inc-recalls-read-eat-products-manufactured-between-114-and-111324-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -303,7 +383,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "7285f115-be51-4b9b-b57f-073b4f150b94",
+        "uid": "c1a492b6-4551-47f9-80c9-d333d63fba22",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -348,7 +428,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "27b3fd23-efdd-4f62-9613-cf4053ecce6e",
+        "uid": "2950654f-81f3-4fb0-8625-ccc07f4877f2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunfed-produce-llc-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -373,7 +453,7 @@
             "PA"
         ],
         "agency": "FDA",
-        "uid": "a8af855c-2707-4ff0-8bab-47e01ac8b2d5",
+        "uid": "04fec8d9-2dff-403c-b68b-415d53d7d6a7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/4earth-farms-llc-recalls-organic-and-conventional-vegetable-medleys-and-organic-whole-carrots",
         "notice_id_number": null,
         "recall_type": null,
@@ -393,7 +473,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "17fef296-4c17-4e38-adb3-9459b98a22d5",
+        "uid": "40498b96-8cad-4d9f-9ab5-26263a236b56",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-notice-canadian-food-inspection-agency-laboratory-error-incorrectly-resulted-recall",
         "notice_id_number": null,
         "recall_type": null,
@@ -433,67 +513,8 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "2b893ad3-036e-4b9b-a0d0-7c4172103c4f",
+        "uid": "ae58615a-8063-4bfa-854f-fd6bc44c838d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sugar-foods-recalls-fresh-gourmet-tortilla-strips-santa-fe-style-35-ounce-pouch-due-undeclared-wheat",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Grimmway Farms Expands Recall to Include Additional Bag Sizes Due to Potential E. coli Contamination",
-        "company_announce_dttm": "2024-11-21T05:00:00+00:00",
-        "notification_dttm": "2024-11-22T14:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness - Shiga toxin-producing Escherichia coli (E. coli) O121:H19",
-        "company_name": "Grimmway Farms",
-        "brand_name": "Multiple brand names",
-        "product_description": "Organic whole carrots",
-        "impacted_states": [],
-        "agency": "FDA",
-        "uid": "09ce9688-9433-47a0-8c3c-625077fd2d4d",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grimmway-farms-expands-recall-include-additional-bag-sizes-due-potential-e-coli-contamination",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "F&S Fresh Foods Recalls Whole Foods Market Organic Carrot Sticks and Organic Carrots & Celery Because of Possible Health Risk Due to Potential E. coli Contamination",
-        "company_announce_dttm": "2024-11-20T05:00:00+00:00",
-        "notification_dttm": "2024-11-21T15:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness - Shiga toxin-producing Escherichia coli (E. coli) O121:H19",
-        "company_name": "F&S Fresh Foods",
-        "brand_name": "Whole Foods Market ",
-        "product_description": "Organic Carrots & Celery",
-        "impacted_states": [
-            "CA",
-            "AZ",
-            "HI",
-            "ID",
-            "NV"
-        ],
-        "agency": "FDA",
-        "uid": "8e26bedc-7de5-4354-94be-cb65f621727e",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-whole-foods-market-organic-carrot-sticks-and-organic-carrots-celery-because",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Babcock Dairy Expands Recall on Orange Custard Chocolate Chip and Chocolate Peanut Butter Due to Undeclared Egg",
-        "company_announce_dttm": "2024-11-20T00:30:00+00:00",
-        "notification_dttm": "2024-11-20T00:00:00+00:00",
-        "recall_reason": "Undeclared Egg",
-        "company_name": "Babcock Dairy",
-        "brand_name": "Babcock Dairy",
-        "product_description": "Orange Custard Chocolate Chip ice cream",
-        "impacted_states": [
-            "WI"
-        ],
-        "agency": "FDA",
-        "uid": "42e54e09-618b-49b5-8710-231c8f15f99e",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/babcock-dairy-expands-recall-orange-custard-chocolate-chip-and-chocolate-peanut-butter-due",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
