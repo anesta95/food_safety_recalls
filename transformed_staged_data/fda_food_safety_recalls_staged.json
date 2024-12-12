@@ -1,5 +1,26 @@
 [
     {
+        "title": "New Age International Recalls \u2018Enoki Mushrooms\u2019 Due to Potential Health Risk",
+        "company_announce_dttm": "2024-12-11T22:00:00+00:00",
+        "notification_dttm": "2024-12-12T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Listeria monocytogenes.",
+        "company_name": "New Age International Inc",
+        "brand_name": "Daily Veggies",
+        "product_description": "Enoki Mushrooms",
+        "impacted_states": [
+            "NY",
+            "MD",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "9a95cc0e-d5d9-47c2-9cf4-4918d398fa86",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Riverside Natural Foods Inc. Issues Voluntary Recall of Select  MadeGood Granola Bar Products Over Potential Presence of a Piece of Metal",
         "company_announce_dttm": "2024-12-09T19:14:00+00:00",
         "notification_dttm": "2024-12-10T05:00:00+00:00",
@@ -11,7 +32,7 @@
             "IL"
         ],
         "agency": "FDA",
-        "uid": "9a421ba5-0b22-4b92-8ce0-aaeca0a8158b",
+        "uid": "30582fff-ee5a-4958-93c2-2cac8d377110",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
         "notice_id_number": null,
         "recall_type": null,
@@ -30,7 +51,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "25f81554-9844-4819-a57e-28f448386d7e",
+        "uid": "0ea81e44-3519-4027-bc5f-7a3e095f44f8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -72,7 +93,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "d0e5f69b-e9a4-4916-9e72-9a8b9750d6cc",
+        "uid": "a639db1f-c766-45da-9432-3a8fd4dbab7c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/resers-fine-foods-inc-recalls-select-lots-sprouts-farmers-market-gyro-family-kits-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -91,7 +112,7 @@
             "AZ"
         ],
         "agency": "FDA",
-        "uid": "cad046e6-e858-4b34-aab4-2e5214d6b30a",
+        "uid": "2003891d-367b-4060-82e7-f3f3c704d67a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-product-recall-notification-gyro-sandwich-express-meal-kit-due-cucumber-ingredient-linked",
         "notice_id_number": null,
         "recall_type": null,
@@ -116,7 +137,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "6caaa332-3953-4e80-899e-47eefe8b3089",
+        "uid": "371d1177-3776-4579-96cc-cd4cbe751517",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-mediterranean-inspired-party-tray-because-possible-health-risk-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -142,7 +163,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "116c1028-805d-4e7f-b957-ffaabcd38a5c",
+        "uid": "6fa63593-4d41-44ee-9789-9e5a22afb8b6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atkinson-milling-company-recalls-frozen-1-lb-bag-frozen-hushpuppies-onions-2-lb-8oz-bag-frozen",
         "notice_id_number": null,
         "recall_type": null,
@@ -162,7 +183,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "6b253ac5-94c3-498d-88d8-dbbe7b94d010",
+        "uid": "f273a28b-5e14-402a-8ffb-1b4f38225ac1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hardies-fresh-foods-recalls-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -185,7 +206,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "89dbf98a-4abf-4794-af85-f81a5e1cec91",
+        "uid": "a7214a46-c6fa-4ff1-85cb-31b42184084a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -205,7 +226,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "74b27a3c-2f3a-48e3-9571-42d7e89d70ee",
+        "uid": "0cb7f9a6-3358-4c0a-8ae5-d5c3734bd017",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/yummi-sushi-llc-voluntarily-recalls-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -226,7 +247,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "d8aed26d-b7ad-410f-9407-f03815535093",
+        "uid": "201a8847-1ecf-4ff8-9970-70e4f5443473",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-produce-cucumber-products-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -246,7 +267,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "e0782c1a-f288-49fd-9aa0-a29c9cb72a90",
+        "uid": "de34adfe-473f-49bc-b2b2-041ec69e4468",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-34-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -273,7 +294,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "b186069e-a8cb-442f-8648-7da8e148c17d",
+        "uid": "f6d2907f-5744-4e40-96f9-f4816d37551a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baker-farms-recalls-baker-brand-curly-mustard-due-listeria-monocytogenes-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -302,7 +323,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "5790dd0d-3b2d-4a29-b254-08a0050ce300",
+        "uid": "88ba0ffe-09ae-410a-950c-2ba44e0c1f8f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -339,7 +360,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "92e0f3b1-bec0-4c11-8054-7565cf0c0959",
+        "uid": "ae12ef3f-4923-4b0a-b1d6-e7431dc66d12",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baloian-farms-arizona-co-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -359,7 +380,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "871c1bdf-3f4d-49e2-90a3-efb59ac7ffdd",
+        "uid": "2ae6bcdb-fdb4-4ce9-9712-8b9a497d6d06",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gracies-kitchens-inc-recalls-read-eat-products-manufactured-between-114-and-111324-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -383,7 +404,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "3bc404d1-1123-4a81-a77d-aa5f6f530bc1",
+        "uid": "e68dde43-3849-4b95-a44d-2e426e1ad9f4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -428,7 +449,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "bbcc5e13-73a9-4878-a3d1-b401a0f9714e",
+        "uid": "1f258cbd-1085-4432-8c02-520adcecf6a0",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunfed-produce-llc-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -453,7 +474,7 @@
             "PA"
         ],
         "agency": "FDA",
-        "uid": "f75f9786-630c-472c-a519-58dbdf33bd38",
+        "uid": "b1ae57bc-bcae-4a91-bed9-367dc3917772",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/4earth-farms-llc-recalls-organic-and-conventional-vegetable-medleys-and-organic-whole-carrots",
         "notice_id_number": null,
         "recall_type": null,
@@ -473,48 +494,8 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "dee9b72f-c4b4-4f42-91cd-2d41b351c8f9",
+        "uid": "6acefad3-111d-46d3-85ff-f5a4274d6b8c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-notice-canadian-food-inspection-agency-laboratory-error-incorrectly-resulted-recall",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Sugar Foods Recalls Fresh Gourmet Tortilla Strips Santa Fe Style 3.5 Ounce Pouch Due to Undeclared Wheat",
-        "company_announce_dttm": "2024-11-23T02:00:00+00:00",
-        "notification_dttm": "2024-11-23T02:30:00+00:00",
-        "recall_reason": "Undeclared Wheat",
-        "company_name": "Sugar Foods",
-        "brand_name": "Fresh Gourmet",
-        "product_description": "Fresh Gourmet Tortilla Strips Santa Fe Style",
-        "impacted_states": [
-            "AZ",
-            "CA",
-            "CO",
-            "FL",
-            "GA",
-            "ID",
-            "IL",
-            "IN",
-            "IA",
-            "ME",
-            "MD",
-            "MI",
-            "MN",
-            "NJ",
-            "NC",
-            "OH",
-            "OR",
-            "PA",
-            "TX",
-            "UT",
-            "VA",
-            "WA"
-        ],
-        "agency": "FDA",
-        "uid": "7b86f8b3-d8ee-4a70-8ec8-e9bc355ca204",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sugar-foods-recalls-fresh-gourmet-tortilla-strips-santa-fe-style-35-ounce-pouch-due-undeclared-wheat",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
