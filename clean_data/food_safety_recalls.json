@@ -1,5 +1,26 @@
 [
     {
+        "title": "New Age International Recalls \u2018Enoki Mushrooms\u2019 Due to Potential Health Risk",
+        "company_announce_dttm": "2024-12-11T22:00:00+00:00",
+        "notification_dttm": "2024-12-12T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Listeria monocytogenes.",
+        "company_name": "New Age International Inc",
+        "brand_name": "Daily Veggies",
+        "product_description": "Enoki Mushrooms",
+        "impacted_states": [
+            "NY",
+            "MD",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "9a95cc0e-d5d9-47c2-9cf4-4918d398fa86",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Riverside Natural Foods Inc. Issues Voluntary Recall of Select  MadeGood Granola Bar Products Over Potential Presence of a Piece of Metal",
         "company_announce_dttm": "2024-12-09T19:14:00+00:00",
         "notification_dttm": "2024-12-10T05:00:00+00:00",
