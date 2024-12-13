@@ -1,5 +1,25 @@
 [
     {
+        "title": "Motivate Me Ashley, LLC is Recalling VidaSlim Brand 90-Day, 30-day and 7-Day Original  Root, Root Plus, and Root Capsules & VidaSlim Hot Body Brew Due to the Presence of Yellow  Oleander in the Products",
+        "company_announce_dttm": "2024-12-13T21:21:00+00:00",
+        "notification_dttm": "2024-12-13T05:00:00+00:00",
+        "recall_reason": "Product contains toxic yellow oleander.",
+        "company_name": "Motivate Me Ashley, LLC",
+        "brand_name": "VidaSlim",
+        "product_description": "VidaSlim Brand 90-day, 30-day and 7-day Original Root, Root Plus, and Root Capsules & VidaSlim Hot Body Brew Dietary Supplements",
+        "impacted_states": [
+            "CT",
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "dd687013-c455-4f81-87f4-b39a355defe3",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/motivate-me-ashley-llc-recalling-vidaslim-brand-90-day-30-day-and-7-day-original-root-root-plus-and",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "New Age International Recalls \u2018Enoki Mushrooms\u2019 Due to Potential Health Risk",
         "company_announce_dttm": "2024-12-11T22:00:00+00:00",
         "notification_dttm": "2024-12-12T05:00:00+00:00",
