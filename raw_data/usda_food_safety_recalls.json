@@ -1,6 +1,7 @@
 [
     {
         "field_title": " FSIS Issues Public Health Alert for Ready-To-Eat Frozen Chicken Products Imported Without The Benefit Of Import Reinspection",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-frozen-chicken-products-imported-without-0",
         "field_active_notice": "True",
         "field_states": "California",
         "field_archive_recall": "False",
@@ -31,6 +32,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ineligible Pork Products Imported From Ecuador",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-pork-products-imported-ecuador",
         "field_active_notice": "False",
         "field_states": "Rhode Island",
         "field_archive_recall": "False",
@@ -61,6 +63,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ineligible Beef Tallow Products Imported From Mexico",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-beef-tallow-products-imported-mexico",
         "field_active_notice": "False",
         "field_states": "Arizona",
         "field_archive_recall": "False",
@@ -91,6 +94,7 @@
     },
     {
         "field_title": "Yu Shang Food, Inc. Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/yu-shang-food-inc--recalls-ready-eat-meat-and-poultry-products-due-possible-0",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -121,6 +125,7 @@
     },
     {
         "field_title": "Wolverine Packing Co. Retira Productos De Carne De Res Molida  Debido A Una Posible Contaminaci\u00f3n Con E. Coli O157:H7",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/wolverine-packing-co--retira-productos-de-carne-de-res-molida-debido-a-una-posible",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -151,6 +156,7 @@
     },
     {
         "field_title": "Wolverine Packing Co. Recalls Ground Beef Products Due to Possible E. Coli O157:H7 Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/wolverine-packing-co--recalls-ground-beef-products-due-possible-e--coli-o157h7",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -181,6 +187,7 @@
     },
     {
         "field_title": "Yu Shang Food Inc. Recalls Ready-to-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/yu-shang-food-inc--recalls-ready-eat-meat-and-poultry-products-due-possible-listeria",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -211,6 +218,7 @@
     },
     {
         "field_title": "A Tu Gusto, LLC Recalls Frozen Croquette Products Produced Without the Benefit of Inspection and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/a-tu-gusto-llc-recalls-frozen-croquette-products-produced-without-benefit-inspection",
         "field_active_notice": "False",
         "field_states": "Florida, Texas",
         "field_archive_recall": "True",
@@ -241,6 +249,7 @@
     },
     {
         "field_title": "A Tu Gusto, Llc Retira Productos De Croquetas  Congeladas Producidos Sin El Beneficio De La Inspecci\u00f3n Y Con Al\u00e9rgenos No Declarados",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/a-tu-gusto-llc-retira-productos-de-croquetas-congeladas-producidos-sin-el-beneficio-de-la",
         "field_active_notice": "False",
         "field_states": "Florida, Texas",
         "field_archive_recall": "True",
@@ -271,6 +280,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ineligible Meat and Poultry Products Illegally Imported from the Republic of the Union of Myanmar",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-meat-and-poultry-products-illegally-1",
         "field_active_notice": "False",
         "field_states": "Arizona, California, Iowa, Kansas, Maryland, Minnesota, Nebraska, Oklahoma, Texas",
         "field_archive_recall": "False",
@@ -301,6 +311,7 @@
     },
     {
         "field_title": "Brucepac Retira Productos De Carne Y Aves Listos Para Consumir  Debido A Una Posible Contaminaci\u00f3n Con Listeria",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/brucepac-retira-productos-de-carne-y-aves-listos-para-consumir-debido-a-una-posible",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -331,6 +342,7 @@
     },
     {
         "field_title": "BrucePac Recalls Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/brucepac-recalls-ready-eat-meat-and-poultry-products-due-possible-listeria",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -361,6 +373,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ready-To-Eat Cranberry Chicken Salad Products Due to Misbranding and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-cranberry-chicken-salad-products-due",
         "field_active_notice": "False",
         "field_states": "Connecticut, Massachusetts, Rhode Island, New Jersey, New York",
         "field_archive_recall": "False",
@@ -391,6 +404,7 @@
     },
     {
         "field_title": "Pork Dynasty Inc. Retira Productos De Piel De Cerdo Frita Listos Para Consumir Debido A Un Error De Rotulaci\u00f3n Y Un Al\u00e9rgeno No Declarado",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/pork-dynasty-inc--retira-productos-de-piel-de-cerdo-frita-listos-para-consumir-debido-a-un",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -421,6 +435,7 @@
     },
     {
         "field_title": "Pork Dynasty Inc. Recalls Ready-to-Eat Fried Pork Skin Products Due to Misbranding and Undeclared Allergen",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/pork-dynasty-inc--recalls-ready-eat-fried-pork-skin-products-due-misbranding-and",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -451,6 +466,7 @@
     },
     {
         "field_title": "Dearborn Sausage Company, Inc. Retira Productos De Vienesa Debido A Un Error De Rotulaci\u00f3n Y Al\u00e9rgenos No Declarados",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/dearborn-sausage-company-inc--retira-productos-de-vienesa-debido-a-un-error-de-rotulacion",
         "field_active_notice": "False",
         "field_states": "Ohio",
         "field_archive_recall": "True",
@@ -481,6 +497,7 @@
     },
     {
         "field_title": "Dearborn Sausage Company, Inc. Recalls Wiener Products Due to Misbranding and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/dearborn-sausage-company-inc--recalls-wiener-products-due-misbranding-and-undeclared",
         "field_active_notice": "False",
         "field_states": "Ohio",
         "field_archive_recall": "True",
@@ -511,6 +528,7 @@
     },
     {
         "field_title": "Hickory Hollow Jerky Recalls Ready-To-Eat Jerky Products Produced Without Benefit of Inspection",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/hickory-hollow-jerky-recalls-ready-eat-jerky-products-produced-without-benefit",
         "field_active_notice": "False",
         "field_states": "Alabama, Florida, Georgia, North Carolina, Oklahoma",
         "field_archive_recall": "True",
@@ -541,6 +559,7 @@
     },
     {
         "field_title": "Hickory Hollow Jerky Retira Productos De Carne Seca Listos Para Consumir  Producidos Sin El Beneficio De La Inspecci\u00f3n",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/hickory-hollow-jerky-retira-productos-de-carne-seca-listos-para-consumir-producidos-sin-el",
         "field_active_notice": "False",
         "field_states": "Alabama, Florida, Georgia, North Carolina, Oklahoma",
         "field_archive_recall": "True",
@@ -571,6 +590,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ineligible Meat and Poultry Products Illegally Imported from the Republic of the Union of Myanmar",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-meat-and-poultry-products-illegally-0",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -601,6 +621,7 @@
     },
     {
         "field_title": "PERDUE FOODS LLC, RETIRA PRODUCTOS CONGELADOS DE NUGGETS Y TIRAS DE PECHUGA DE POLLO LISTOS PARA CONSUMIR  DEBIDO A UNA POSIBLE CONTAMINACI\u00d3N CON MATERIA EXTRA\u00d1A",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/perdue-foods-llc-retira-productos-congelados-de-nuggets-y-tiras-de-pechuga-de-pollo-listos",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
@@ -631,6 +652,7 @@
     },
     {
         "field_title": "Perdue Foods LLC, Recalls Frozen, Ready-To-Eat Chicken Breast Nugget and Tender Products Due to Possible Foreign Matter Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/perdue-foods-llc-recalls-frozen-ready-eat-chicken-breast-nugget-and-tender-products",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
@@ -661,6 +683,7 @@
     },
     {
         "field_title": "Boar&#039;s Head Provisions Co. Expande Su Retirada Para Incluir Productos De Carne Y Aves Listos Para Consumir Debido A Una Posible Contaminaci\u00f3n Con Listeria",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/boars-head-provisions-co--expande-su-retirada-para-incluir-productos-de-carne-y-aves",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -691,6 +714,7 @@
     },
     {
         "field_title": "Boar&#039;s Head Provisions Co. Expands Recall for Ready-To-Eat Meat and Poultry Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/boars-head-provisions-co--expands-recall-ready-eat-meat-and-poultry-products-due",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -721,6 +745,7 @@
     },
     {
         "field_title": "Boar&#039;s Head Provisions Co. Retira Productos De Leberwurst Y Otros Fiambres Listos Para Consumir Debido A Una Posible Contaminaci\u00f3n Con Listeria",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/boars-head-provisions-co--retira-productos-de-leberwurst-y-otros-fiambres-listos-para",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -751,6 +776,7 @@
     },
     {
         "field_title": "Boar&#039;s Head Provisions Co. Recalls Ready-To-Eat Liverwurst And Other Deli Meat Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/boars-head-provisions-co--recalls-ready-eat-liverwurst-and-other-deli-meat-products",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -781,6 +807,7 @@
     },
     {
         "field_title": "AW FARMS RETIRA PRODUCTOS DE PERRO CALIENTE LISTOS PARA CONSUMIR  PRODUCIDOS SIN EL BENEFICIO DE LA INSPECCI\u00d3N",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/aw-farms-retira-productos-de-perro-caliente-listos-para-consumir-producidos-sin-el",
         "field_active_notice": "False",
         "field_states": "Ohio, West Virginia",
         "field_archive_recall": "True",
@@ -811,6 +838,7 @@
     },
     {
         "field_title": "AW Farms Recalls Ready-To-Eat Hot Dog Products Produced Without Benefit of Inspection",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/aw-farms-recalls-ready-eat-hot-dog-products-produced-without-benefit-inspection",
         "field_active_notice": "False",
         "field_states": "Ohio, West Virginia",
         "field_archive_recall": "True",
@@ -841,6 +869,7 @@
     },
     {
         "field_title": "TAYLOR\u2019S SAUSAGE, INC. RETIRA PRODUCTOS DE SALCHICHA LANDJAEGER LISTOS PARA CONSUMIR DEBIDO A UN ERROR DE ROTULACI\u00d3N Y AL\u00c9RGENOS NO DECLARADOS",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/taylors-sausage-inc--retira-productos-de-salchicha-landjaeger-listos-para-consumir-debido",
         "field_active_notice": "False",
         "field_states": "California, Oregon",
         "field_archive_recall": "True",
@@ -871,6 +900,7 @@
     },
     {
         "field_title": "Taylor&#039;s Sausage, Inc. Recalls Ready-To-Eat Landjaeger Sausage Products Due to Misbranding and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/taylors-sausage-inc--recalls-ready-eat-landjaeger-sausage-products-due-misbranding",
         "field_active_notice": "False",
         "field_states": "California, Oregon",
         "field_archive_recall": "True",
@@ -901,6 +931,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ineligible Meat and Poultry Products Illegally Imported from the Philippines",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-meat-and-poultry-products-illegally",
         "field_active_notice": "False",
         "field_states": "Connecticut, Delaware, Maryland, New Jersey, New York, North Carolina, Ohio, South Carolina, Virginia",
         "field_archive_recall": "False",
@@ -931,6 +962,7 @@
     },
     {
         "field_title": "Al-Safa Us LLC Retira Productos De Pollo Congelados Y Listos Para Consumir Debido A Una Posible Contaminaci\u00f3n Con Listeria",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/al-safa-us-llc-retira-productos-de-pollo-congelados-y-listos-para-consumir-debido-a-una",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
@@ -961,6 +993,7 @@
     },
     {
         "field_title": "Al-Safa US LLC Recalls Frozen Ready-To-Eat Chicken Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/al-safa-us-llc-recalls-frozen-ready-eat-chicken-products-due-possible-listeria",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
@@ -991,6 +1024,7 @@
     },
     {
         "field_title": "Michael Foods Inc. Retira Productos De Huevo L\u00edquido Fair Meadow Foundations Debido A Un Error De Rotulaci\u00f3n Y Al\u00e9rgenos No Declarados",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/michael-foods-inc--retira-productos-de-huevo-liquido-fair-meadow-foundations-debido-a-un",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1021,6 +1055,7 @@
     },
     {
         "field_title": "Michael Foods Inc. Recalls Fair Meadow Foundations Liquid Egg Products Due to Misbranding and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/michael-foods-inc--recalls-fair-meadow-foundations-liquid-egg-products-due",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1051,6 +1086,7 @@
     },
     {
         "field_title": " FSIS Issues Public Health Alert For Not-Ready-To-Eat Pork And Beef Bacon Products Due to Sodium Nitrite Levels in Excess of Regulatory Limit",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-not-ready-eat-pork-and-beef-bacon-products-due",
         "field_active_notice": "False",
         "field_states": "Tennessee",
         "field_archive_recall": "False",
@@ -1081,6 +1117,7 @@
     },
     {
         "field_title": "Bonneval Foods, LLC Recalls Barbecue Pork Skin Product Due To Misbranding And Undeclared Allergens ",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/bonneval-foods-llc-recalls-barbecue-pork-skin-product-due-misbranding-and-undeclared",
         "field_active_notice": "False",
         "field_states": "Louisiana, Mississippi",
         "field_archive_recall": "True",
@@ -1111,6 +1148,7 @@
     },
     {
         "field_title": "BONNEVAL FOODS, LLC RETIRA PRODUCTO DE PIEL DE CERDO PARA BARBACOA DEBIDO A UN ERROR DE ROTULACI\u00d3N Y AL\u00c9RGENOS NO DECLARADOS",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/bonneval-foods-llc-retira-producto-de-piel-de-cerdo-para-barbacoa-debido-a-un-error-de",
         "field_active_notice": "False",
         "field_states": "Louisiana, Mississippi",
         "field_archive_recall": "True",
@@ -1141,6 +1179,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert For Southwestern Style Salad Bowls With Chicken Due To Misbranding And Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-southwestern-style-salad-bowls-chicken-due",
         "field_active_notice": "False",
         "field_states": "Nevada",
         "field_archive_recall": "False",
@@ -1171,6 +1210,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Frozen Ready-To-Eat Bao Curry Chicken Products Due to Misbranding and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-ready-eat-bao-curry-chicken-products-due",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -1201,6 +1241,7 @@
     },
     {
         "field_title": "SOUTH AMERICAN MEAT INC. RETIRA PRODUCTOS DE CARNE DE RES CRUDA Y CONGELADA QUE FUE IMPORTADA SIN EL BENEFICIO DE LA INSPECCI\u00d3N DE IMPORTACI\u00d3N",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/south-american-meat-inc--retira-productos-de-carne-de-res-cruda-y-congelada-que-fue",
         "field_active_notice": "False",
         "field_states": "Arizona, California, Oregon, Washington",
         "field_archive_recall": "True",
@@ -1231,6 +1272,7 @@
     },
     {
         "field_title": "South American Meat Inc. Recalls Frozen Raw Beef Products Imported Without Benefit of Import Reinspection",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/south-american-meat-inc--recalls-frozen-raw-beef-products-imported-without-benefit",
         "field_active_notice": "False",
         "field_states": "Arizona, California, Oregon, Washington",
         "field_archive_recall": "True",
@@ -1261,6 +1303,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Raw Pork Chorizo Products Due to Possible Foreign Matter Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-pork-chorizo-products-due-possible-foreign",
         "field_active_notice": "False",
         "field_states": "Texas",
         "field_archive_recall": "False",
@@ -1291,6 +1334,7 @@
     },
     {
         "field_title": "Cargill Meat Solutions Retira Productos De Carne Molida   Debido A Una Posible Contaminaci\u00f3n De E. Coli O157:H7",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/cargill-meat-solutions-retira-productos-de-carne-molida-debido-a-una-posible-contaminacion",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1321,6 +1365,7 @@
     },
     {
         "field_title": "Cargill Meat Solutions Recalls Ground Beef Products Due to Possible E. coli O157:H7 Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/cargill-meat-solutions-recalls-ground-beef-products-due-possible-e--coli-o157h7",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1351,6 +1396,7 @@
     },
     {
         "field_title": " 802 VT Frozen Retira Pizzas De Carne Congelada Debido Errores De Rotulaci\u00f3n Y Al\u00e9rgenos No Declarados",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/802-vt-frozen-retira-pizzas-de-carne-congelada-debido-errores-de-rotulacion-y-alergenos-no",
         "field_active_notice": "False",
         "field_states": "Connecticut, Maine, Massachusetts, New Hampshire, New York, Rhode Island, Vermont",
         "field_archive_recall": "True",
@@ -1381,6 +1427,7 @@
     },
     {
         "field_title": "802 VT Frozen Recalls Frozen Meat Pizza Products Due to Misbranding and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/802-vt-frozen-recalls-frozen-meat-pizza-products-due-misbranding-and-undeclared",
         "field_active_notice": "False",
         "field_states": "Connecticut, Maine, Massachusetts, New Hampshire, New York, Rhode Island, Vermont",
         "field_archive_recall": "True",
@@ -1411,6 +1458,7 @@
     },
     {
         "field_title": "ConSup North America Inc. Recalls Ready-To-Eat Sliced Prosciutto Product Produced Without Benefit of Inspection",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/consup-north-america-inc--recalls-ready-eat-sliced-prosciutto-product-produced",
         "field_active_notice": "False",
         "field_states": "California, Connecticut, Florida, Illinois, Pennsylvania, Texas, Virginia, Washington",
         "field_archive_recall": "True",
@@ -1441,6 +1489,7 @@
     },
     {
         "field_title": "ConSup North America Inc. Retira Prosciutto En Rodajas Listos Para El Consumo Producido Sin El Beneficio De La Inspecci\u00f3n",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/consup-north-america-inc--retira-prosciutto-en-rodajas-listos-para-el-consumo-producido",
         "field_active_notice": "False",
         "field_states": "California, Connecticut, Florida, Illinois, Pennsylvania, Texas, Virginia, Washington",
         "field_archive_recall": "True",
@@ -1471,6 +1520,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ground Beef Products  Due to Possible E. Coli O157:H7 Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ground-beef-products-due-possible-e--coli-o157h7-0",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "False",
@@ -1501,6 +1551,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ineligible Frozen Siluriformes Products Imported from the People\u2019s Republic of China ",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-frozen-siluriformes-products-imported",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -1531,6 +1582,7 @@
     },
     {
         "field_title": "Taylor Farms Pacific Retira Los Tazones De Ensalada De Pollo Con Nuez Y Manzana Listos Para El Consumo Debido A Errores De Rotulaci\u00f3ny Un Al\u00e9rgeno No Declarado",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/taylor-farms-pacific-retira-los-tazones-de-ensalada-de-pollo-con-nuez-y-manzana-listos",
         "field_active_notice": "False",
         "field_states": "Alaska, Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming",
         "field_archive_recall": "True",
@@ -1561,6 +1613,7 @@
     },
     {
         "field_title": "Taylor Farms Pacific Recalls Kroger Brand Ready-To-Eat Apple Walnut With Chicken Salad Bowl Products Due to Misbranding and Undeclared Allergen",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/taylor-farms-pacific-recalls-kroger-brand-ready-eat-apple-walnut-chicken-salad-bowl",
         "field_active_notice": "False",
         "field_states": "Alaska, Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming",
         "field_archive_recall": "True",
@@ -1591,6 +1644,7 @@
     },
     {
         "field_title": "Jen&#039;s Breakfast Burritos, LLC, Retira Del Mercado Productos De Burritos Para Desayuno Listos Para Consumir Debido A Una Posible Contaminaci\u00f3n Por Listeria",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/jens-breakfast-burritos-llc-retira-del-mercado-productos-de-burritos-para-desayuno-listos",
         "field_active_notice": "False",
         "field_states": "Washington",
         "field_archive_recall": "True",
@@ -1621,6 +1675,7 @@
     },
     {
         "field_title": "Jen&#039;s Breakfast Burritos, LLC, Recalls Ready to Eat Breakfast Burrito Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/jens-breakfast-burritos-llc-recalls-ready-eat-breakfast-burrito-products-due",
         "field_active_notice": "False",
         "field_states": "Washington",
         "field_archive_recall": "True",
@@ -1651,6 +1706,7 @@
     },
     {
         "field_title": "Salm Partners, LLC, Retira Del Mercado Productos De Salchicha De Pavo Kielbasa Polaca De Johnsonville Debido A Una Posible Contaminaci\u00f3n Por Materia Extra\u00f1a",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/salm-partners-llc-retira-del-mercado-productos-de-salchicha-de-pavo-kielbasa-polaca-de",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1681,6 +1737,7 @@
     },
     {
         "field_title": "Salm Partners, LLC, Recalls Johnsonville Polish Kielbasa Turkey Sausage Products Due to Possible Foreign Matter Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/salm-partners-llc-recalls-johnsonville-polish-kielbasa-turkey-sausage-products-due",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1711,6 +1768,7 @@
     },
     {
         "field_title": "CJ Foods Manufacturing Beaumont Corporation Retira Del Mercado Los Bollos De Sopa De Pollo De Trader Joe&#039;s Debido A Una Posible Contaminaci\u00f3n Por Materia Extra\u00f1a",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/cj-foods-manufacturing-beaumont-corporation-retira-del-mercado-los-bollos-de-sopa-de-pollo",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1741,6 +1799,7 @@
     },
     {
         "field_title": "CJ Foods Manufacturing Beaumont Corporation Recalls Trader Joe\u2019s Chicken Soup Dumplings Due to Possible Foreign Matter Contamination ",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/cj-foods-manufacturing-beaumont-corporation-recalls-trader-joes-chicken-soup",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1771,6 +1830,7 @@
     },
     {
         "field_title": "MF Meats Retira Del Mercado Productos C\u00e1rnicos Crudos Debido A Contaminaci\u00f3n Causada Por Una Sustancia No Apta Para Alimentos",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/mf-meats-retira-del-mercado-productos-carnicos-crudos-debido-a-contaminacion-causada-por",
         "field_active_notice": "False",
         "field_states": "New York, Ohio, Pennsylvania",
         "field_archive_recall": "True",
@@ -1801,6 +1861,7 @@
     },
     {
         "field_title": "MF Meats Recalls Raw Meat Products Due to Contamination by a Non-Food Grade Substance",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/mf-meats-recalls-raw-meat-products-due-contamination-a-non-food-grade-substance",
         "field_active_notice": "False",
         "field_states": "New York, Ohio, Pennsylvania",
         "field_archive_recall": "True",
@@ -1831,6 +1892,7 @@
     },
     {
         "field_title": "M&amp;P Production Ltd Retira Del Mercado Productos De Samsa De Cordero Y Res Crudos Debido A Un Error De Rotulaci\u00f3n Y Un Al\u00e9rgeno No Declarado",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/mp-production-ltd-retira-del-mercado-productos-de-samsa-de-cordero-y-res-crudos-debido-a",
         "field_active_notice": "False",
         "field_states": "Massachusetts, New Jersey, New York, Pennsylvania",
         "field_archive_recall": "True",
@@ -1861,6 +1923,7 @@
     },
     {
         "field_title": "M&amp;P Production LTD Recalls Raw Lamb and Beef Samsa Products Due to Misbranding and an Undeclared Allergen",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/mp-production-ltd-recalls-raw-lamb-and-beef-samsa-products-due-misbranding-and",
         "field_active_notice": "False",
         "field_states": "Massachusetts, New Jersey, New York, Pennsylvania",
         "field_archive_recall": "True",
@@ -1891,6 +1954,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Nurture Life Ready-To-Eat Chicken Meal Product Due to Misbranding and an Undeclared Allergen",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-nurture-life-ready-eat-chicken-meal-product-due",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "False",
@@ -1921,6 +1985,7 @@
     },
     {
         "field_title": "Don Novo &amp; Son Recalls Ready-To-Eat Meat Products Due to Possible Listeria Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/don-novo-son-recalls-ready-eat-meat-products-due-possible-listeria-contamination",
         "field_active_notice": "False",
         "field_states": "Florida",
         "field_archive_recall": "True",
@@ -1951,6 +2016,7 @@
     },
     {
         "field_title": "Fratelli Beretta USA, Inc. Recalls Ready-To-Eat Charcuterie Meat Products Due to Possible Under Processing ",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fratelli-beretta-usa-inc--recalls-ready-eat-charcuterie-meat-products-due-possible",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "True",
@@ -1981,6 +2047,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert For Ready-To-Eat Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due To Possible Listeria Monocytogenes Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "False",
@@ -2011,6 +2078,7 @@
     },
     {
         "field_title": "  FSIS Issues Public Health Alert For Frozen Ready-To-Eat Chicken Pilaf Products Due to Possible Foreign Matter Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-ready-eat-chicken-pilaf-products-due-possible",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "False",
@@ -2041,6 +2109,7 @@
     },
     {
         "field_title": "Hormel Foods Recalls Ready-To-Eat Spiced Deli Ham Products Due to Misbranding and Undeclared Allergen",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/hormel-foods-recalls-ready-eat-spiced-deli-ham-products-due-misbranding-and",
         "field_active_notice": "False",
         "field_states": "Pennsylvania",
         "field_archive_recall": "True",
@@ -2071,6 +2140,7 @@
     },
     {
         "field_title": "Macgregors Meat and Seafood Ltd Recalls Frozen Ready-To-Eat Pork Products Imported Without Benefit of Import Reinspection",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/macgregors-meat-and-seafood-ltd-recalls-frozen-ready-eat-pork-products-imported",
         "field_active_notice": "False",
         "field_states": "Indiana, Kentucky, Michigan, New York, Ohio, Pennsylvania",
         "field_archive_recall": "True",
@@ -2101,6 +2171,7 @@
     },
     {
         "field_title": "Vanee Foods Recalls Chicken Flavored Base Products Due to Misbranding and Undeclared Allergens",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/vanee-foods-recalls-chicken-flavored-base-products-due-misbranding-and-undeclared",
         "field_active_notice": "False",
         "field_states": "Pennsylvania, Texas, Virginia",
         "field_archive_recall": "True",
@@ -2131,6 +2202,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Ready-To-Eat Charcuterie Products Due to Possible Salmonella Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-charcuterie-products-due-possible",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "False",
@@ -2161,6 +2233,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert for Raw Frozen Pork Dumpling Products Produced without Benefit of Inspection",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-frozen-pork-dumpling-products-produced-without",
         "field_active_notice": "False",
         "field_states": "Nationwide",
         "field_archive_recall": "False",
@@ -2191,6 +2264,7 @@
     },
     {
         "field_title": "Salm Partners, LLC Retira Del Mercado Productos De Kielbasa De Pavo Listos Para Consumir Debido A Una Posible Contaminaci\u00f3n Por Materiales Extra\u00f1os",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/salm-partners-llc-retira-del-mercado-productos-de-kielbasa-de-pavo-listos-para-consumir",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
@@ -2221,6 +2295,7 @@
     },
     {
         "field_title": "Salm Partners, LLC Recalls Ready-to-Eat Turkey Kielbasa Products Due to Possible Extraneous Material Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/salm-partners-llc-recalls-ready-eat-turkey-kielbasa-products-due-possible-extraneous",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
@@ -2251,6 +2326,7 @@
     },
     {
         "field_title": "FSIS Issues Public Health Alert For Frozen Mushroom Risotto Products Due To Misbranding And Undeclared Allergen",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-mushroom-risotto-products-due-misbranding-and",
         "field_active_notice": "False",
         "field_states": "California, Florida, Illinois, Maryland, Massachusetts, Michigan, New Jersey, New York, Pennsylvania, Texas, Wisconsin",
         "field_archive_recall": "False",
@@ -2281,6 +2357,7 @@
     },
     {
         "field_title": "Fratelli Beretta USA, Inc. Recalls Busseto Foods Brand Ready-to-Eat Charcuterie Meat Products Due to Possible Salmonella Contamination",
+        "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/fratelli-beretta-usa-inc--recalls-busseto-foods-brand-ready-eat-charcuterie-meat",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
@@ -2311,6 +2388,7 @@
     },
     {
         "field_title": "Fratelli Beretta Usa, Inc. Retira Del Mercado Productos De Carne De Charcuter\u00eda Listos Para Consumir De La Marca Busseto Foods Debido A Posible Contaminaci\u00f3n Con Salmonella",
+        "field_recall_url": "http://www.fsis.usda.gov/es/retirada/fratelli-beretta-usa-inc--retira-del-mercado-productos-de-carne-de-charcuteria-listos-para",
         "field_active_notice": "False",
         "field_states": "",
         "field_archive_recall": "True",
