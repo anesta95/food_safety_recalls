@@ -1,25 +1,5 @@
 [
     {
-        "title": "Motivate Me Ashley, LLC is Recalling VidaSlim Brand 90-Day, 30-day and 7-Day Original  Root, Root Plus, and Root Capsules & VidaSlim Hot Body Brew Due to the Presence of Yellow  Oleander in the Products",
-        "company_announce_dttm": "2024-12-13T21:21:00+00:00",
-        "notification_dttm": "2024-12-13T05:00:00+00:00",
-        "recall_reason": "Product contains toxic yellow oleander.",
-        "company_name": "Motivate Me Ashley, LLC",
-        "brand_name": "VidaSlim",
-        "product_description": "VidaSlim Brand 90-day, 30-day and 7-day Original Root, Root Plus, and Root Capsules & VidaSlim Hot Body Brew Dietary Supplements",
-        "impacted_states": [
-            "CT",
-            "TX"
-        ],
-        "agency": "FDA",
-        "uid": "dd687013-c455-4f81-87f4-b39a355defe3",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/motivate-me-ashley-llc-recalling-vidaslim-brand-90-day-30-day-and-7-day-original-root-root-plus-and",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
         "title": "New Age International Recalls \u2018Enoki Mushrooms\u2019 Due to Potential Health Risk",
         "company_announce_dttm": "2024-12-11T22:00:00+00:00",
         "notification_dttm": "2024-12-12T05:00:00+00:00",
@@ -33,7 +13,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "e485cdb1-5f28-49fa-b724-5b2bcd89d240",
+        "uid": "c95bb732-a960-4934-b514-112fd2918eae",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -52,7 +32,7 @@
             "IL"
         ],
         "agency": "FDA",
-        "uid": "1a0e8036-b470-4829-9a60-9b6f16a8020e",
+        "uid": "f0bc487f-9700-4892-bf67-faa120a2af61",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
         "notice_id_number": null,
         "recall_type": null,
@@ -71,7 +51,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "a8cbbf00-e5a2-4c71-8d01-468fb320465d",
+        "uid": "cbdb0e16-3217-4e7c-9218-1829b5222f28",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -113,7 +93,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "7a421520-68a7-472d-82f6-7e3e0c7f7d5c",
+        "uid": "16ce0ce8-1f1c-4af8-9876-a12f01fc4254",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/resers-fine-foods-inc-recalls-select-lots-sprouts-farmers-market-gyro-family-kits-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -132,7 +112,7 @@
             "AZ"
         ],
         "agency": "FDA",
-        "uid": "728fca44-97c5-413f-a151-078be6d646a2",
+        "uid": "1529c926-187c-4ee6-8275-c0e09fbee632",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-product-recall-notification-gyro-sandwich-express-meal-kit-due-cucumber-ingredient-linked",
         "notice_id_number": null,
         "recall_type": null,
@@ -157,7 +137,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "6c158732-4a0a-4576-91ac-d81193587d50",
+        "uid": "2bfdbe17-87b7-456b-965f-e4613bd88dcb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-mediterranean-inspired-party-tray-because-possible-health-risk-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -183,7 +163,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "6c270278-e31d-4bac-8f32-e84147f3d82a",
+        "uid": "ff2a6cf8-faaa-4572-84ce-4ab6d9a0a2ae",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atkinson-milling-company-recalls-frozen-1-lb-bag-frozen-hushpuppies-onions-2-lb-8oz-bag-frozen",
         "notice_id_number": null,
         "recall_type": null,
@@ -203,7 +183,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "c4d3c5f9-3e71-48a8-a62c-a05239294dd8",
+        "uid": "76575063-eadd-46a6-a426-067aec63b2bc",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hardies-fresh-foods-recalls-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -226,7 +206,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "191ceb0c-db07-49a7-b120-b0217d047cda",
+        "uid": "d4ea7963-3123-43cd-8d77-99f67d14db16",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -246,7 +226,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "118f323f-8a69-497e-af53-809a55b8241d",
+        "uid": "27e04fbc-eb09-480c-ba4e-f3a4578140e5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/yummi-sushi-llc-voluntarily-recalls-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -267,7 +247,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "4c14133f-ecc3-4e93-baf3-4c991359c30a",
+        "uid": "bdcc290e-71fb-4383-807f-31675b728600",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-produce-cucumber-products-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -287,7 +267,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "6610189b-b98b-4c58-acca-c7d169871300",
+        "uid": "17a015c8-a8e2-490a-bfe2-43dab6d127b6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-34-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -314,7 +294,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "538bfe1a-3454-41c6-9156-45dad8d9e7b3",
+        "uid": "3d9d0e94-3eca-4bf5-84d1-ff05a5e61bcf",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baker-farms-recalls-baker-brand-curly-mustard-due-listeria-monocytogenes-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -343,7 +323,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "5dc6af7d-58d2-490a-bdf0-269832352c37",
+        "uid": "90e4316f-c528-4c40-9b1d-f5b76ce5a73b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -380,7 +360,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "55f54c75-0655-42cd-90fc-6ed3eee036c0",
+        "uid": "cbf55697-ef06-4cd7-86ab-8378691b4a58",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baloian-farms-arizona-co-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -400,7 +380,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "52455047-992a-4324-af44-abc55bd3de1d",
+        "uid": "804c0e78-f42f-412f-8a1b-378fd14943a1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gracies-kitchens-inc-recalls-read-eat-products-manufactured-between-114-and-111324-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -424,7 +404,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "7ef46b59-fbc9-4250-aa1e-cafb495ad94d",
+        "uid": "d4e9e961-85f5-4a6e-8a0a-29341c1c3f9b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -469,7 +449,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "492cc290-f68a-4788-a0f9-43a658f253c9",
+        "uid": "40c90139-627a-4fc1-8314-18287c217f55",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunfed-produce-llc-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -494,8 +474,28 @@
             "PA"
         ],
         "agency": "FDA",
-        "uid": "7cf83c6e-1512-4fe5-bc5e-e6395540ad09",
+        "uid": "7f61af78-c72b-4d27-b835-7066b87a16ba",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/4earth-farms-llc-recalls-organic-and-conventional-vegetable-medleys-and-organic-whole-carrots",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Correction Notice: Canadian Food Inspection Agency Laboratory Error Incorrectly Resulted in Recall of Church Brothers Farms Green Onions \u2013 Recall Rescinded-",
+        "company_announce_dttm": "2024-11-26T00:21:00+00:00",
+        "notification_dttm": "2024-11-25T05:00:00+00:00",
+        "recall_reason": "Recall Cancellation Due to False Positive",
+        "company_name": "Church Brothers",
+        "brand_name": "  Multiple Brand Names",
+        "product_description": "Green Onions",
+        "impacted_states": [
+            "CA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "a362d7f4-9d63-4879-b917-8b5b6ed7e6eb",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-notice-canadian-food-inspection-agency-laboratory-error-incorrectly-resulted-recall",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
