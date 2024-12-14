@@ -1,5 +1,32 @@
 [
     {
+        "title": "Cal Yee Farm LLC Issues Allergy Alert on Undeclared Milk, Soy, Wheat, Sesame, FD&C #6 and Almonds in Snack Products",
+        "company_announce_dttm": "2024-12-12T17:14:00+00:00",
+        "notification_dttm": "2024-12-14T05:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen \u2013 almond, milk, soy, wheat, sesame, and FD&C #6",
+        "company_name": "Cal Yee Farm LLC",
+        "brand_name": "Cal Yee's, Cal Yee Farm, Boa Vista Orchards",
+        "product_description": "Nut and snack products",
+        "impacted_states": [
+            "CA",
+            "AZ",
+            "NM",
+            "OH",
+            "OR",
+            "PA",
+            "TN",
+            "TX",
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "5f0098a6-4bd3-4bfa-8e9a-350f63cdb6a7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cal-yee-farm-llc-issues-allergy-alert-undeclared-milk-soy-wheat-sesame-fdc-6-and-almonds-snack",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Palermo Villa, Inc. Issues Recall for 1,728 Connie\u2019s Thin Crust Cheese Frozen Pizzas Due to Possible Plastic Contaminant",
         "company_announce_dttm": "2024-12-13T23:57:00+00:00",
         "notification_dttm": "2024-12-13T05:00:00+00:00",
