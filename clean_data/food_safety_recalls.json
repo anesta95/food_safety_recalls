@@ -1,5 +1,27 @@
 [
     {
+        "title": "Palermo Villa, Inc. Issues Recall for 1,728 Connie\u2019s Thin Crust Cheese Frozen Pizzas Due to Possible Plastic Contaminant",
+        "company_announce_dttm": "2024-12-13T23:57:00+00:00",
+        "notification_dttm": "2024-12-13T05:00:00+00:00",
+        "recall_reason": "Potential Metal or Chemical Contaminant",
+        "company_name": "Palermo Villa, Inc",
+        "brand_name": "Connie\u2019s",
+        "product_description": "Thin crust cheese frozen pizza, 20.36oz ",
+        "impacted_states": [
+            "IL",
+            "MD",
+            "MN",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "4cf60082-595e-41aa-8cba-0bc213c78dc7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/palermo-villa-inc-issues-recall-1728-connies-thin-crust-cheese-frozen-pizzas-due-possible-plastic",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Motivate Me Ashley, LLC is Recalling VidaSlim Brand 90-Day, 30-day and 7-Day Original  Root, Root Plus, and Root Capsules & VidaSlim Hot Body Brew Due to the Presence of Yellow  Oleander in the Products",
         "company_announce_dttm": "2024-12-13T21:21:00+00:00",
         "notification_dttm": "2024-12-13T05:00:00+00:00",
