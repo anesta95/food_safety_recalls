@@ -1,5 +1,26 @@
 [
     {
+        "title": "Frito-Lay Issues Limited Recall on Undeclared Milk in Lay\u2019s Classic Potato Chips Distributed in Oregon and Washington",
+        "company_announce_dttm": "2024-12-16T16:38:00+00:00",
+        "notification_dttm": "2024-12-18T05:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen \u2013 Milk",
+        "company_name": "Frito-Lay",
+        "brand_name": "Lay\u2019s ",
+        "product_description": "Potato Chip",
+        "impacted_states": [
+            "OR",
+            "TX",
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "5b0efc8a-65dc-45a4-a8bd-1f38f9970cbb",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-undeclared-milk-lays-classic-potato-chips-distributed-oregon-and",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Cal Yee Farm LLC Issues Allergy Alert on Undeclared Milk, Soy, Wheat, Sesame, FD&C #6 and Almonds in Snack Products",
         "company_announce_dttm": "2024-12-12T17:14:00+00:00",
         "notification_dttm": "2024-12-14T05:00:00+00:00",
