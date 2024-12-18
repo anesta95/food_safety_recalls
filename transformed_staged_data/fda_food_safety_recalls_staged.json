@@ -1,5 +1,26 @@
 [
     {
+        "title": "Frito-Lay Issues Limited Recall on Undeclared Milk in Lay\u2019s Classic Potato Chips Distributed in Oregon and Washington",
+        "company_announce_dttm": "2024-12-16T16:38:00+00:00",
+        "notification_dttm": "2024-12-18T05:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen \u2013 Milk",
+        "company_name": "Frito-Lay",
+        "brand_name": "Lay\u2019s ",
+        "product_description": "Potato Chip",
+        "impacted_states": [
+            "OR",
+            "TX",
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "5b0efc8a-65dc-45a4-a8bd-1f38f9970cbb",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-undeclared-milk-lays-classic-potato-chips-distributed-oregon-and",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Palermo Villa, Inc. Issues Recall for 1,728 Connie\u2019s Thin Crust Cheese Frozen Pizzas Due to Possible Plastic Contaminant",
         "company_announce_dttm": "2024-12-13T23:57:00+00:00",
         "notification_dttm": "2024-12-13T05:00:00+00:00",
@@ -13,7 +34,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "ea8efeb1-df42-4279-bed3-32040da49f74",
+        "uid": "4605bd01-5ba5-4b8e-81b0-ee04db8cde2b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/palermo-villa-inc-issues-recall-1728-connies-thin-crust-cheese-frozen-pizzas-due-possible-plastic",
         "notice_id_number": null,
         "recall_type": null,
@@ -33,7 +54,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "b268bb77-4da7-42c0-87e1-a7904efa5140",
+        "uid": "f5a82be5-1140-4d3f-813f-0714f3f77989",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/motivate-me-ashley-llc-recalling-vidaslim-brand-90-day-30-day-and-7-day-original-root-root-plus-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -60,7 +81,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "59c1262c-87f1-4459-a4e1-0c46a59c51cd",
+        "uid": "400ccc41-b9fe-4fca-915f-747d785e1290",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cal-yee-farm-llc-issues-allergy-alert-undeclared-milk-soy-wheat-sesame-fdc-6-and-almonds-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -81,7 +102,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "33583127-523f-4e7c-8a21-7bf7dc4578af",
+        "uid": "fbca13b5-f950-4fdc-9346-6025ed547205",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -100,7 +121,7 @@
             "IL"
         ],
         "agency": "FDA",
-        "uid": "91dc1698-1815-4df9-83ff-8e0f4730a6d6",
+        "uid": "2f3c9fce-9928-41cf-a9d7-3d83e66ccffe",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
         "notice_id_number": null,
         "recall_type": null,
@@ -119,7 +140,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "10ef3606-f936-4307-b974-c52a1c812036",
+        "uid": "e493bd2d-8588-457d-b551-014c30e46968",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -161,7 +182,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "4f63d0d2-5ade-4817-a239-88c859820a33",
+        "uid": "a30dcc12-48c4-4c31-9628-185b663ff449",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/resers-fine-foods-inc-recalls-select-lots-sprouts-farmers-market-gyro-family-kits-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -180,7 +201,7 @@
             "AZ"
         ],
         "agency": "FDA",
-        "uid": "68a6cfc7-3479-470e-add6-1e2e797bed80",
+        "uid": "5dedfc03-0a4b-47c8-a14f-621d8332f59f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-product-recall-notification-gyro-sandwich-express-meal-kit-due-cucumber-ingredient-linked",
         "notice_id_number": null,
         "recall_type": null,
@@ -205,7 +226,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "87c58cb7-47d6-4139-8c7f-91d8f5415f82",
+        "uid": "edb31ca3-fdf8-45e5-9dfd-19fc9d6ef288",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-mediterranean-inspired-party-tray-because-possible-health-risk-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -231,7 +252,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "fbe6bdee-8959-4002-83e4-b11d978074e6",
+        "uid": "cb02a44c-78b1-49a9-b5a5-c5509fd4a502",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atkinson-milling-company-recalls-frozen-1-lb-bag-frozen-hushpuppies-onions-2-lb-8oz-bag-frozen",
         "notice_id_number": null,
         "recall_type": null,
@@ -251,7 +272,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "780c37d3-8bb5-45cc-8023-9c89d7018830",
+        "uid": "6831440f-76d0-4d0b-ab05-d34a612bb942",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hardies-fresh-foods-recalls-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -274,7 +295,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "b405a3cc-bc06-4487-a6bb-593d9d82c3d3",
+        "uid": "96c16993-b212-4680-9328-4e2056233db8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -294,7 +315,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "4225e05d-5d3e-4a59-85b0-9df8068a20c0",
+        "uid": "a355fb5c-91a1-4c84-a197-7c162aafe1e6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/yummi-sushi-llc-voluntarily-recalls-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -315,7 +336,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "813a1c7c-5ff6-491d-8372-766fa11b52b8",
+        "uid": "4906ea13-270c-4352-a20a-388eb8ce7770",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-produce-cucumber-products-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -335,7 +356,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "fe55ca8f-a21c-4ed9-abf9-8494b35d9178",
+        "uid": "8d2acfbf-7191-4f7b-b0c9-71d7c9a1156a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-34-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -362,7 +383,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "f8df7600-09a7-4d75-9956-d901c0d393ad",
+        "uid": "7f6de083-185f-4bac-92d4-336474757000",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baker-farms-recalls-baker-brand-curly-mustard-due-listeria-monocytogenes-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -391,7 +412,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "fea9b3ea-7c19-467d-9281-f328842b2e62",
+        "uid": "7f6086e4-a06d-49fe-a962-e5a006ba003d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -428,7 +449,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "1cb23c60-0269-48d5-821f-567a406fdb8f",
+        "uid": "dfb0c907-3762-4054-b83e-5e75486c9711",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baloian-farms-arizona-co-recalls-whole-fresh-american-cucumbers-because-possible-health-risks-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -448,32 +469,8 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "70482820-7fc2-4196-8538-25050a360c8f",
+        "uid": "96b4bede-2694-4f7d-ae0d-6ad21437da25",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gracies-kitchens-inc-recalls-read-eat-products-manufactured-between-114-and-111324-because-possible",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Handsome Brook Farms Issues Recall of Kirkland Signature Organic Pasture Raised 24-Count Eggs Because of Possible Health Risk",
-        "company_announce_dttm": "2024-11-27T21:15:00+00:00",
-        "notification_dttm": "2024-11-27T05:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness/Salmonella ",
-        "company_name": "Handsome Brook Farms",
-        "brand_name": "Kirkland Signature",
-        "product_description": "Organic eggs",
-        "impacted_states": [
-            "AL",
-            "GA",
-            "NY",
-            "NC",
-            "SC",
-            "TN"
-        ],
-        "agency": "FDA",
-        "uid": "644de3d7-71b2-4677-a426-bee0610132fd",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/handsome-brook-farms-issues-recall-kirkland-signature-organic-pasture-raised-24-count-eggs-because",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
