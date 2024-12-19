@@ -1,5 +1,25 @@
 [
     {
+        "title": "Orgain Issues Voluntary Allergy Alert on Possible Undeclared Peanut Residue in a Single Batch of 30G Protein Organic Plant Based Powder \u2013 Chocolate 2.01lb",
+        "company_announce_dttm": "2024-12-19T23:01:00+00:00",
+        "notification_dttm": "2024-12-19T05:00:00+00:00",
+        "recall_reason": "Product may contain undeclared peanut",
+        "company_name": "Orgain",
+        "brand_name": "Orgain",
+        "product_description": "30g Plant Protein Complete Protein Powder \u2013 Chocolate  ",
+        "impacted_states": [
+            "CA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "98f2a095-e5ff-42ef-9fa9-40eddbeca897",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/orgain-issues-voluntary-allergy-alert-possible-undeclared-peanut-residue-single-batch-30g-protein",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Frito-Lay Issues Limited Recall on Undeclared Milk in Lay\u2019s Classic Potato Chips Distributed in Oregon and Washington",
         "company_announce_dttm": "2024-12-16T16:38:00+00:00",
         "notification_dttm": "2024-12-18T05:00:00+00:00",
