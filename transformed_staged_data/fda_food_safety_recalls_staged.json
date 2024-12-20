@@ -1,5 +1,34 @@
 [
     {
+        "title": "Lidl Recalls Taste of Deutschland Buttered Vegetables Due to Undeclared Milk Allergens",
+        "company_announce_dttm": "2024-12-20T23:00:00+00:00",
+        "notification_dttm": "2024-12-20T05:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "Lidl US",
+        "brand_name": "Taste of Deutschland",
+        "product_description": "Frozen Buttered Vegetables, Carrots, Peas, Cauliflower, & Corn",
+        "impacted_states": [
+            "VA",
+            "US",
+            "DE",
+            "DC",
+            "GA",
+            "MD",
+            "NJ",
+            "NY",
+            "NC",
+            "PA",
+            "SC"
+        ],
+        "agency": "FDA",
+        "uid": "e2ba1443-49e7-4acd-8cf7-126423728e3f",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-recalls-taste-deutschland-buttered-vegetables-due-undeclared-milk-allergens",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Recall of Jose Madrid Salsa Chipotle Con Queso",
         "company_announce_dttm": "2024-12-20T20:15:00+00:00",
         "notification_dttm": "2024-12-20T05:00:00+00:00",
@@ -13,7 +42,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "2567b6b7-e31f-4d7c-80ff-16e60b64e949",
+        "uid": "c240a897-9766-4b7f-b411-f5b76eaa7148",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-jose-madrid-salsa-chipotle-con-queso",
         "notice_id_number": null,
         "recall_type": null,
@@ -33,7 +62,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "052e99a8-1728-4617-9668-31422f270cc2",
+        "uid": "91bdbdea-d5df-401b-975a-4546257c397c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/orgain-issues-voluntary-allergy-alert-possible-undeclared-peanut-residue-single-batch-30g-protein",
         "notice_id_number": null,
         "recall_type": null,
@@ -54,7 +83,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "76f3a9c8-6d0a-4f7c-8947-eade4e1aff6a",
+        "uid": "b2f3e3a3-a372-4546-a49c-6175cbe83cd2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-undeclared-milk-lays-classic-potato-chips-distributed-oregon-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -75,7 +104,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "f13a2253-ff3b-42c2-8ce8-f15c7e60e337",
+        "uid": "1b264857-1434-41cc-b7d0-112e8595ed2e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/palermo-villa-inc-issues-recall-1728-connies-thin-crust-cheese-frozen-pizzas-due-possible-plastic",
         "notice_id_number": null,
         "recall_type": null,
@@ -95,7 +124,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "90331b0a-69d6-4720-a842-39dde0403035",
+        "uid": "29f621c8-33f3-40a3-ad84-dac88c9c9a9c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/motivate-me-ashley-llc-recalling-vidaslim-brand-90-day-30-day-and-7-day-original-root-root-plus-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -122,7 +151,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "383ebe82-a52e-4f6f-85bf-d7113e919d59",
+        "uid": "11412f74-a2fe-4ba5-8887-13f31dbf8ceb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cal-yee-farm-llc-issues-allergy-alert-undeclared-milk-soy-wheat-sesame-fdc-6-and-almonds-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -143,7 +172,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "652d2fbb-423f-4b64-aebb-deceab15ec43",
+        "uid": "5a5f3c69-af30-41e5-b50a-e3634521e203",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -162,7 +191,7 @@
             "IL"
         ],
         "agency": "FDA",
-        "uid": "970af386-069e-4b77-9a82-0a418f65997e",
+        "uid": "4de4e145-a561-4580-8e5a-3365d72e279c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
         "notice_id_number": null,
         "recall_type": null,
@@ -181,7 +210,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "ecad19eb-e5fa-498f-ba59-654c276e77f6",
+        "uid": "9779b73d-f4a4-4e53-8027-82b99193c337",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -223,7 +252,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "fd3013ca-ab61-489b-97b8-06bb0906fb80",
+        "uid": "479d8da6-a1da-4237-86d2-e88c06fd95fe",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/resers-fine-foods-inc-recalls-select-lots-sprouts-farmers-market-gyro-family-kits-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -242,7 +271,7 @@
             "AZ"
         ],
         "agency": "FDA",
-        "uid": "422aa19f-9ece-4158-986d-f06680ea9f73",
+        "uid": "47bc6699-f54f-4f9c-a6b3-d18371da1f1c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-product-recall-notification-gyro-sandwich-express-meal-kit-due-cucumber-ingredient-linked",
         "notice_id_number": null,
         "recall_type": null,
@@ -267,7 +296,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "9895bd27-7c0d-4d4a-b53a-cc08b5397090",
+        "uid": "a8441d63-7601-4948-901c-d64f154207ea",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-mediterranean-inspired-party-tray-because-possible-health-risk-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -293,7 +322,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "4a8545dc-048d-4cf2-840e-a4646ba5486c",
+        "uid": "5cc19083-8f1a-46a9-a946-b23cf33f74c0",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atkinson-milling-company-recalls-frozen-1-lb-bag-frozen-hushpuppies-onions-2-lb-8oz-bag-frozen",
         "notice_id_number": null,
         "recall_type": null,
@@ -313,7 +342,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "4bb7db4e-2800-4b31-a923-1e946ddd4233",
+        "uid": "7303bc37-0c20-4a15-99da-98e0bf678767",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hardies-fresh-foods-recalls-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -336,7 +365,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "6ab3a721-1463-49bd-8f49-b3da3d51f6ee",
+        "uid": "b1b2d3fd-c180-4c56-accb-2ff97e3ecb66",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -356,7 +385,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "508661d9-f3ef-4481-889a-389298d28a74",
+        "uid": "97be23ff-fe7b-4c12-aefe-1ab3a111d9bb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/yummi-sushi-llc-voluntarily-recalls-cucumber-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -377,7 +406,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "88e09f58-56a4-480e-a6bc-d004f2794bd2",
+        "uid": "a86883a6-e0a1-4df4-bb90-891bb2ea88c2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-produce-cucumber-products-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -397,7 +426,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "f48bcb72-606d-41af-b871-4236c3bcef9c",
+        "uid": "37c035d4-7eda-410f-9fa4-7efa6f4dd07d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-34-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -424,37 +453,8 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "00cbe705-4c9f-4474-9f90-774e4875c356",
+        "uid": "28b0e172-f3c9-44e8-ae75-54d190623b29",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baker-farms-recalls-baker-brand-curly-mustard-due-listeria-monocytogenes-contamination",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Russ Davis Wholesale Recalls Multiple Products Due to Potential Salmonella Risk",
-        "company_announce_dttm": "2024-12-01T16:40:00+00:00",
-        "notification_dttm": "2024-12-02T05:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness/Salmonella ",
-        "company_name": "Russ Davis Wholesale",
-        "brand_name": "Crazy Fresh and more",
-        "product_description": "Cucumbers and salads with kit",
-        "impacted_states": [
-            "MN",
-            "IL",
-            "IA",
-            "KS",
-            "MI",
-            "MT",
-            "NE",
-            "ND",
-            "SD",
-            "WI",
-            "WY"
-        ],
-        "agency": "FDA",
-        "uid": "f6932189-5347-4875-9953-13d6f9ab4c3c",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/russ-davis-wholesale-recalls-multiple-products-due-potential-salmonella-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
