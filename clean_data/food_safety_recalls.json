@@ -1,5 +1,26 @@
 [
     {
+        "title": "Recall of Jose Madrid Salsa Chipotle Con Queso",
+        "company_announce_dttm": "2024-12-20T20:15:00+00:00",
+        "notification_dttm": "2024-12-20T05:00:00+00:00",
+        "recall_reason": "Undeclared Yellow 5 and Yellow 6",
+        "company_name": "Jose Madrid Salsa",
+        "brand_name": "Jose Madrid",
+        "product_description": "Chipotle Con Queso Salsa ",
+        "impacted_states": [
+            "NY",
+            "NC",
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "2567b6b7-e31f-4d7c-80ff-16e60b64e949",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-jose-madrid-salsa-chipotle-con-queso",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Nail Factory Recalls Ineligible Frozen Siluriformes Fish Products Imported From Vietnam",
         "company_announce_dttm": null,
         "notification_dttm": "2024-12-19T00:00:00+00:00",
