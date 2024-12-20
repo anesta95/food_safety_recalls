@@ -1,5 +1,26 @@
 [
     {
+        "title": "Nail Factory Recalls Ineligible Frozen Siluriformes Fish Products Imported From Vietnam",
+        "company_announce_dttm": null,
+        "notification_dttm": "2024-12-19T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "\u2022\t28.2-oz. plastic containers containing \u201cDac san dong que CA TRE VANG KHO TO Stewed Walking Catfish\u201d with a \u201cBEST BEFORE: Dec 30, 2025.\u201d, \u2022\t28.2-oz. plastic containers containing \u201cDac san dong que CA HU KHO TO Stewed Shark Catfish\u201d with a \u201cBEST BEFORE: Dec 30, 2025.\u201d, \u2022\t24.7-oz. plastic containers containing \u201cDac san dong que CA TRE VANG CHIEN NUOC MAM GUNG Fried Walking Catfish\u201d with a \u201cBEST BEFORE: Dec 30, 2025.\u201d",
+        "impacted_states": [
+            "AZ",
+            "CA",
+            "IA"
+        ],
+        "agency": "USDA",
+        "uid": "f89fd9f1-b1f1-488d-9f3d-7f78cc8819f5",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/nail-factory-recalls-ineligible-frozen-siluriformes-fish-products-imported-vietnam",
+        "notice_id_number": "032-2024",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Orgain Issues Voluntary Allergy Alert on Possible Undeclared Peanut Residue in a Single Batch of 30G Protein Organic Plant Based Powder \u2013 Chocolate 2.01lb",
         "company_announce_dttm": "2024-12-19T23:01:00+00:00",
         "notification_dttm": "2024-12-19T05:00:00+00:00",
