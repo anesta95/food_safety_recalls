@@ -1,5 +1,45 @@
 [
     {
+        "title": "Ralph&#039;s Packing Company Recalls Ready-To-Eat Pork and Beef Bologna Products Due to Misbranding and an Undeclared Allergen",
+        "company_announce_dttm": null,
+        "notification_dttm": "2024-12-20T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "Ralph&#039;s Packing Company",
+        "brand_name": null,
+        "product_description": "\u2022\t16-oz. (1 LB) or various weight (larger than 16-oz.) vacuum-sealed chubs of \u201cRalph\u2019s CIRCLE R BRAND GARLIC BOLOGNA\u201d with lot codes 0093, 0654, 0804, 1074, 1153, 1224, 1374, 1774, 1924, 2572, 2974, 3132, and 3483, \u2022\t16-oz. (1 LB) or various weight (larger than 16-oz.) vacuum-sealed chubs of \u201cRalph\u2019s CIRCLE R BRAND GARLIC BOLOGNA with Jalapenos\u201d with lot codes 0804, 1074, 1224, 1233, 1354, 2184, and 3374",
+        "impacted_states": [
+            "OK"
+        ],
+        "agency": "USDA",
+        "uid": "e4ce4967-528b-4db1-a529-2d6ec6814be2",
+        "recall_url": null,
+        "notice_id_number": "033-2024",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "Impero Foods &amp; Meats, Inc. Recalls Raw Pork Sausage Products Produced Without Benefit of Inspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2024-12-20T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": "Impero Foods &amp; Meats, Inc.",
+        "brand_name": null,
+        "product_description": "\u2022\t10-lb. white cardboard box cases containing a plastic bag of \u201cOld World Italian Sausage\u201d with \u201crope\u201d handwritten on the case.  , \u2022\t10-lb. white cardboard box cases containing a plastic bag of \u201cOld World Italian Sausage\u201d with \u201clink\u201d handwritten on the case.  ",
+        "impacted_states": [
+            "DE",
+            "MD",
+            "PA"
+        ],
+        "agency": "USDA",
+        "uid": "794f4c63-5e79-4c7a-a86c-8baf03023b3b",
+        "recall_url": null,
+        "notice_id_number": " 034-2024",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Lidl Recalls Taste of Deutschland Buttered Vegetables Due to Undeclared Milk Allergens",
         "company_announce_dttm": "2024-12-20T23:00:00+00:00",
         "notification_dttm": "2024-12-20T05:00:00+00:00",
