@@ -1,5 +1,29 @@
 [
     {
+        "title": "Abbey Specialty Foods Recalls Wicklow Gold Cheddar Nettle & Chive 5.2 oz and Wicklow Gold Cheddar Tomato & Herb 5.2 oz Because of Possible Health Risk",
+        "company_announce_dttm": "2025-01-03T21:30:00+00:00",
+        "notification_dttm": "2025-01-03T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Listeria monocytogenes",
+        "company_name": "Abbey Specialty Foods",
+        "brand_name": "Wicklow Gold",
+        "product_description": "Cheddar style cheeses",
+        "impacted_states": [
+            "NJ",
+            "CO",
+            "ME",
+            "MA",
+            "NH",
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "cb06c837-5229-43c7-b36a-36d3265dba58",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Braga Fresh Issues Voluntary and Precautionary Advisory Due to Possible Health Risk",
         "company_announce_dttm": "2024-12-27T20:18:00+00:00",
         "notification_dttm": "2024-12-31T05:00:00+00:00",
