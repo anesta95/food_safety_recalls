@@ -33,7 +33,7 @@
     {
         "field_title": "Ralph&#039;s Packing Company Recalls Ready-To-Eat Pork and Beef Bologna Products Due to Misbranding and an Undeclared Allergen",
         "field_recall_url": "http://www.fsis.usda.gov/recalls-alerts/ralphs-packing-company-recalls-ready-eat-pork-and-beef-bologna-products-due",
-        "field_active_notice": "True",
+        "field_active_notice": "False",
         "field_states": "Oklahoma",
         "field_archive_recall": "False",
         "field_closed_date": "",
