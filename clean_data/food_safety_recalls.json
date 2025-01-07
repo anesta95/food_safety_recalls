@@ -1,5 +1,24 @@
 [
     {
+        "title": "Dierbregs Markets Issues Allergy Alert on Undeclared Wheat in Product",
+        "company_announce_dttm": "2025-01-03T22:12:00+00:00",
+        "notification_dttm": "2025-01-07T05:00:00+00:00",
+        "recall_reason": "Undeclared wheat",
+        "company_name": "Dierbergs Markets",
+        "brand_name": "Dierbergs Kitchen",
+        "product_description": "Premium Home-Style Mashed Potatoes",
+        "impacted_states": [
+            "ID"
+        ],
+        "agency": "FDA",
+        "uid": "26af3993-3295-4858-81c9-da9512144070",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Abbey Specialty Foods Recalls Wicklow Gold Cheddar Nettle & Chive 5.2 oz and Wicklow Gold Cheddar Tomato & Herb 5.2 oz Because of Possible Health Risk",
         "company_announce_dttm": "2025-01-03T21:30:00+00:00",
         "notification_dttm": "2025-01-03T05:00:00+00:00",
