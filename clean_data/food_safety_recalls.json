@@ -1,5 +1,22 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert For Chicken Empanada Products  Due To Misbranding And Undeclared Allergen ",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-01-08T00:00:00+00:00",
+        "recall_reason": "Unreported Allergens",
+        "company_name": "Rajbhog Foods (NJ), Inc.",
+        "brand_name": null,
+        "product_description": "\u2022\t9.6-oz. cardboard packages labeled as \u201cbettergoods TRADITIONALLY CRAFTED Chicken Curry Empanadas\u201d with \u201cBEST BY: 05/21/26\u201d or \u201cBEST BY: 05/22/26\u201d and \u201cEST. P33967\u201d on the side of the box. ",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "7e59700d-b41e-4f53-bc8c-3bf39a4dc386",
+        "recall_url": null,
+        "notice_id_number": "PHA-01082025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Dierbregs Markets Issues Allergy Alert on Undeclared Wheat in Product",
         "company_announce_dttm": "2025-01-03T22:12:00+00:00",
         "notification_dttm": "2025-01-07T05:00:00+00:00",
