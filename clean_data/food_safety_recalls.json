@@ -1,5 +1,25 @@
 [
     {
+        "title": "The Mochi Ice Cream Company LLC Issues Allergy Alert on Undeclared Egg in Peach Mango Sorbet",
+        "company_announce_dttm": "2025-01-09T16:41:00+00:00",
+        "notification_dttm": "2025-01-10T05:00:00+00:00",
+        "recall_reason": "Undeclared egg",
+        "company_name": "My Mochi Ice Cream Company LLC",
+        "brand_name": "My Mochi",
+        "product_description": "My Mochi Peach Mango Sorbet",
+        "impacted_states": [
+            "CA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "ba0fb941-9303-4313-bd62-6c774bcec91d",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mochi-ice-cream-company-llc-issues-allergy-alert-undeclared-egg-peach-mango-sorbet",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "FSIS Issues Public Health Alert For Chicken Empanada Products  Due To Misbranding And Undeclared Allergen ",
         "company_announce_dttm": null,
         "notification_dttm": "2025-01-08T00:00:00+00:00",
