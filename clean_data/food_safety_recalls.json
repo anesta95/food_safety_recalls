@@ -1,5 +1,24 @@
 [
     {
+        "title": "Lifestyle Evolution Voluntarily Recalls NuGo Dark Chocolate Chip and NuGo Dark Pretzel Due to Undeclared Milk",
+        "company_announce_dttm": "2025-01-10T22:42:00+00:00",
+        "notification_dttm": "2025-01-10T05:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "Lifestyle Evolution Inc.",
+        "brand_name": "NuGo",
+        "product_description": "NuGo Dark Chocolate Chip Nutrition Bar and NuGo Dark Pretzel Chocolate Nutrition Bar",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "51946eba-3b42-4e17-83e7-35a3b22eaf90",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lifestyle-evolution-voluntarily-recalls-nugo-dark-chocolate-chip-and-nugo-dark-pretzel-due",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "The Mochi Ice Cream Company LLC Issues Allergy Alert on Undeclared Egg in Peach Mango Sorbet",
         "company_announce_dttm": "2025-01-09T16:41:00+00:00",
         "notification_dttm": "2025-01-10T05:00:00+00:00",
