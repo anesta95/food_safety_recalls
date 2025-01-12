@@ -1,5 +1,22 @@
 [
     {
+        "title": "Bestway Sandwiches Inc. Recalls Frozen Chicken And Cheese Taquito Products Due To Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-01-11T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Bestway Sandwiches Inc.",
+        "brand_name": null,
+        "product_description": "20-oz. carton packages containing \u201cCASA MAMITA CHICKEN &amp; CHEESE TAQUITOS,\u201d with Best By Dates 07/03/25 and 09/25/25 on the bottom panel. \u00a0\u00a0\u00a0",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "defe466e-71a8-4900-a68a-0a5cc2d87551",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/bestway-sandwiches-inc--recalls-frozen-chicken-and-cheese-taquito-products-due",
+        "notice_id_number": "001-2025",
+        "recall_type": "Outbreak",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Lifestyle Evolution Voluntarily Recalls NuGo Dark Chocolate Chip and NuGo Dark Pretzel Due to Undeclared Milk",
         "company_announce_dttm": "2025-01-10T22:42:00+00:00",
         "notification_dttm": "2025-01-10T05:00:00+00:00",
