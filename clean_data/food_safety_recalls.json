@@ -1,5 +1,34 @@
 [
     {
+        "title": "Quaker Issues Limited Recall on Undeclared Milk in Pearl Milling Company Original Pancake & Waffle Mix Distributed in 11 States",
+        "company_announce_dttm": "2025-01-14T17:27:00+00:00",
+        "notification_dttm": "2025-01-15T05:00:00+00:00",
+        "recall_reason": "Undeclared Milk",
+        "company_name": "The Quaker Oats Company",
+        "brand_name": "Pearl Milling Company",
+        "product_description": "Pancake and Waffle Mix",
+        "impacted_states": [
+            "AR",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "MN",
+            "MS",
+            "NE",
+            "UT",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "f770eb1b-ca52-4d5d-98df-def5fac1f337",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quaker-issues-limited-recall-undeclared-milk-pearl-milling-company-original-pancake-waffle-mix",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Bestway Sandwiches Inc. Recalls Frozen Chicken And Cheese Taquito Products Due To Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-01-11T00:00:00+00:00",
