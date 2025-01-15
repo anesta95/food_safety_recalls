@@ -1,5 +1,34 @@
 [
     {
+        "title": "Quaker Issues Limited Recall on Undeclared Milk in Pearl Milling Company Original Pancake & Waffle Mix Distributed in 11 States",
+        "company_announce_dttm": "2025-01-14T17:27:00+00:00",
+        "notification_dttm": "2025-01-15T05:00:00+00:00",
+        "recall_reason": "Undeclared Milk",
+        "company_name": "The Quaker Oats Company",
+        "brand_name": "Pearl Milling Company",
+        "product_description": "Pancake and Waffle Mix",
+        "impacted_states": [
+            "AR",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "MN",
+            "MS",
+            "NE",
+            "UT",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "f770eb1b-ca52-4d5d-98df-def5fac1f337",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quaker-issues-limited-recall-undeclared-milk-pearl-milling-company-original-pancake-waffle-mix",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Lifestyle Evolution Voluntarily Recalls NuGo Dark Chocolate Chip and NuGo Dark Pretzel Due to Undeclared Milk",
         "company_announce_dttm": "2025-01-10T22:42:00+00:00",
         "notification_dttm": "2025-01-10T05:00:00+00:00",
@@ -11,7 +40,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "51946eba-3b42-4e17-83e7-35a3b22eaf90",
+        "uid": "e55c67ec-3c34-406c-a2f5-8f73c998beab",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lifestyle-evolution-voluntarily-recalls-nugo-dark-chocolate-chip-and-nugo-dark-pretzel-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -31,7 +60,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "35528dad-31fe-4d31-9f53-aa7f8ecde45f",
+        "uid": "6827face-e0c1-4ee6-92b7-a01b18404a33",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mochi-ice-cream-company-llc-issues-allergy-alert-undeclared-egg-peach-mango-sorbet",
         "notice_id_number": null,
         "recall_type": null,
@@ -50,7 +79,7 @@
             "ID"
         ],
         "agency": "FDA",
-        "uid": "318ce088-2aaf-4a83-b3e1-fe841e59938e",
+        "uid": "adb20dd0-5e83-45f4-aeae-0b49b1d88b29",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
         "notice_id_number": null,
         "recall_type": null,
@@ -74,7 +103,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "b4f99345-916d-4f5e-a061-78d341371eb8",
+        "uid": "6f5c0a57-58cf-4582-999d-d3862e0b9ce8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
         "notice_id_number": null,
         "recall_type": null,
@@ -110,7 +139,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "b766338f-a1f4-4487-b921-429f113be9c8",
+        "uid": "b377ac1c-84ad-4874-a235-d5b6ad1ca3dc",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/braga-fresh-issues-voluntary-and-precautionary-advisory-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -130,7 +159,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "6c97291e-0971-4797-b8da-3a8f6ba59e31",
+        "uid": "5926b8fd-342b-4330-a233-725927b4d89c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardners-candies-issues-allergy-alert-undeclared-tree-nuts-cappuccino-meltawayr-bars-and-gardners",
         "notice_id_number": null,
         "recall_type": null,
@@ -159,7 +188,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "7e05f2c8-bbf2-4738-a646-7121968c4160",
+        "uid": "cf6fbca5-f2f2-4b39-a23c-836a6c30b323",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-recalls-taste-deutschland-buttered-vegetables-due-undeclared-milk-allergens",
         "notice_id_number": null,
         "recall_type": null,
@@ -180,7 +209,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "bea65dce-685c-40a4-83dc-cd835c8c6f12",
+        "uid": "83e11b5f-a687-4c86-b95b-275f1cdc6003",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-jose-madrid-salsa-chipotle-con-queso",
         "notice_id_number": null,
         "recall_type": null,
@@ -200,7 +229,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "15d25c2e-42bd-4836-be20-94e1ce7c68fc",
+        "uid": "441af6f9-41fb-4868-b661-58fcb6c196cc",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/orgain-issues-voluntary-allergy-alert-possible-undeclared-peanut-residue-single-batch-30g-protein",
         "notice_id_number": null,
         "recall_type": null,
@@ -221,7 +250,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "91481d06-f791-4207-a0e0-40697872eea9",
+        "uid": "5e1bb40b-292e-4a49-8c49-1d4fcec64b36",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-undeclared-milk-lays-classic-potato-chips-distributed-oregon-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -242,7 +271,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "4bd7affc-d4cf-40f9-9cf7-4e87cf506592",
+        "uid": "32e24493-df9e-4aa9-a253-7fa69dec0650",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/palermo-villa-inc-issues-recall-1728-connies-thin-crust-cheese-frozen-pizzas-due-possible-plastic",
         "notice_id_number": null,
         "recall_type": null,
@@ -262,7 +291,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "8161c32d-a621-40b6-8a6b-c31fb2a824c5",
+        "uid": "367e9868-434a-4bf0-836c-002e6da93a53",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/motivate-me-ashley-llc-recalling-vidaslim-brand-90-day-30-day-and-7-day-original-root-root-plus-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -289,7 +318,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "5d83a9e0-1a25-4f47-8cac-8c7c29a2c559",
+        "uid": "dddc731b-0686-4584-b467-0bc0f37a4aaa",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cal-yee-farm-llc-issues-allergy-alert-undeclared-milk-soy-wheat-sesame-fdc-6-and-almonds-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -310,7 +339,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "0f25488b-7ac9-48da-8eba-686853e5c05a",
+        "uid": "1c28e07f-6347-4878-aaef-7ba693ca0b80",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -329,7 +358,7 @@
             "IL"
         ],
         "agency": "FDA",
-        "uid": "44985ec8-48a0-4b28-8f11-661675c97faa",
+        "uid": "84966a60-d631-4540-853f-c5e5a2b5967a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
         "notice_id_number": null,
         "recall_type": null,
@@ -348,7 +377,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "67a8f51f-d5e8-40f7-866f-7ad452b86276",
+        "uid": "77af7a56-403f-464c-8f46-9bda4aa74869",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -390,7 +419,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "5c7d681a-dcc2-4f0d-b8ba-bf0aa8c693b4",
+        "uid": "9046314e-1e83-4034-881f-d97833e0eadc",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/resers-fine-foods-inc-recalls-select-lots-sprouts-farmers-market-gyro-family-kits-due-potential",
         "notice_id_number": null,
         "recall_type": null,
@@ -409,7 +438,7 @@
             "AZ"
         ],
         "agency": "FDA",
-        "uid": "c914101d-686e-48ff-bb68-aa49357309a3",
+        "uid": "c862798c-3b2d-4837-9d4e-078600de3149",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-product-recall-notification-gyro-sandwich-express-meal-kit-due-cucumber-ingredient-linked",
         "notice_id_number": null,
         "recall_type": null,
@@ -434,34 +463,8 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "a1dcc5b9-b5e6-45ec-94f4-179005e976cb",
+        "uid": "02b3b439-ccd7-4383-aef0-62310c267fc1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fs-fresh-foods-recalls-mediterranean-inspired-party-tray-because-possible-health-risk-due-potential",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Atkinson Milling Company Recalls Frozen 1 Lb Bag Frozen Hushpuppies with Onions, 2 Lb 8oz Bag Frozen Hushpuppies With Onions and 2 Lb 8oz Bag Frozen Hushpuppies Without Onions Due to Undeclared Milk",
-        "company_announce_dttm": "2024-12-05T20:04:00+00:00",
-        "notification_dttm": "2024-12-05T05:00:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen - Milk",
-        "company_name": "Atkinson Milling Company",
-        "brand_name": "Atkinson\u2019s",
-        "product_description": "Hushpuppies with Onions, Hushpuppies",
-        "impacted_states": [
-            "NC",
-            "GA",
-            "MD",
-            "NJ",
-            "SC",
-            "TN",
-            "VA",
-            "WV"
-        ],
-        "agency": "FDA",
-        "uid": "d612248d-8ca9-4133-adb9-7f96b187e308",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/atkinson-milling-company-recalls-frozen-1-lb-bag-frozen-hushpuppies-onions-2-lb-8oz-bag-frozen",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
