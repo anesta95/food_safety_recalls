@@ -1,5 +1,24 @@
 [
     {
+        "title": "Monkey Spit, LLC Issues Allergy Alert on Undeclared Milk/Wheat/Soy in  Monkey Spit BBQ Sauces",
+        "company_announce_dttm": "2025-01-18T02:35:00+00:00",
+        "notification_dttm": "2025-01-17T05:00:00+00:00",
+        "recall_reason": "Undeclared Milk, Soy, and Wheat",
+        "company_name": "Monkey Spit, LLC.",
+        "brand_name": "Monkey Spit",
+        "product_description": "Barbecue sauces",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "c13def3c-3c05-4df4-bab9-63df5e83edde",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/monkey-spit-llc-issues-allergy-alert-undeclared-milkwheatsoy-monkey-spit-bbq-sauces",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Mutual Trading Co., Issues Allergy Alert Undeclared Milk in Prepared Monkfish Liver",
         "company_announce_dttm": "2025-01-15T17:31:00+00:00",
         "notification_dttm": "2025-01-16T05:00:00+00:00",
