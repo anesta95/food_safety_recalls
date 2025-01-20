@@ -1,5 +1,24 @@
 [
     {
+        "title": "Monkey Spit, LLC Issues Allergy Alert on Undeclared Milk/Wheat/Soy in  Monkey Spit BBQ Sauces",
+        "company_announce_dttm": "2025-01-18T02:35:00+00:00",
+        "notification_dttm": "2025-01-17T05:00:00+00:00",
+        "recall_reason": "Undeclared Milk, Soy, and Wheat",
+        "company_name": "Monkey Spit, LLC.",
+        "brand_name": "Monkey Spit",
+        "product_description": "Barbecue sauces",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "5d6de920-9d45-4002-a094-4cbd89dd6865",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/monkey-spit-llc-issues-allergy-alert-undeclared-milkwheatsoy-monkey-spit-bbq-sauces",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Mutual Trading Co., Issues Allergy Alert Undeclared Milk in Prepared Monkfish Liver",
         "company_announce_dttm": "2025-01-15T17:31:00+00:00",
         "notification_dttm": "2025-01-16T05:00:00+00:00",
@@ -15,7 +34,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "3ba929c6-9832-466e-bf1e-9cd696358a03",
+        "uid": "886a72d0-995d-4f57-b581-e6fbd45ae995",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mutual-trading-co-issues-allergy-alert-undeclared-milk-prepared-monkfish-liver",
         "notice_id_number": null,
         "recall_type": null,
@@ -44,7 +63,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "d1fa7a19-2970-4838-be72-7f4149041de8",
+        "uid": "98337f2e-b97b-4a50-82d5-117b8d7574f8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quaker-issues-limited-recall-undeclared-milk-pearl-milling-company-original-pancake-waffle-mix",
         "notice_id_number": null,
         "recall_type": null,
@@ -63,7 +82,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "b2dc96c7-3e85-4915-b6d0-8511b29ba6e6",
+        "uid": "53af1cb0-91d5-403d-8d9a-afa5dc1d2665",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lifestyle-evolution-voluntarily-recalls-nugo-dark-chocolate-chip-and-nugo-dark-pretzel-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -83,7 +102,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "a5e463db-ef60-451a-9769-1b4c506e5998",
+        "uid": "309dc30c-765a-4188-aad7-1f26142c03b6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mochi-ice-cream-company-llc-issues-allergy-alert-undeclared-egg-peach-mango-sorbet",
         "notice_id_number": null,
         "recall_type": null,
@@ -102,7 +121,7 @@
             "ID"
         ],
         "agency": "FDA",
-        "uid": "2daf4b06-99e5-4f74-84d9-bb120fa9cfd2",
+        "uid": "e7698a5d-0ba7-419d-9ca0-7a31abdef28c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
         "notice_id_number": null,
         "recall_type": null,
@@ -126,7 +145,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "a3ef4578-2d1d-45c8-a83b-ba8f4065728f",
+        "uid": "60c6b28e-3fd9-49cd-bc55-05712ea95d25",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
         "notice_id_number": null,
         "recall_type": null,
@@ -162,7 +181,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "b3a0c6af-494d-425f-8093-0292034ab738",
+        "uid": "070f2eba-829e-4e12-8e75-a59b9fa85556",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/braga-fresh-issues-voluntary-and-precautionary-advisory-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -182,7 +201,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "fc5f2fde-732a-4b0a-bc13-3e2e991e3d36",
+        "uid": "1d3ed2fc-33b5-499b-b6b0-238998beeb86",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardners-candies-issues-allergy-alert-undeclared-tree-nuts-cappuccino-meltawayr-bars-and-gardners",
         "notice_id_number": null,
         "recall_type": null,
@@ -211,7 +230,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "c34c0866-0846-4b1d-a891-7d37fd7ad385",
+        "uid": "016cd3a6-d643-477b-b19f-f1d7cf098131",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-recalls-taste-deutschland-buttered-vegetables-due-undeclared-milk-allergens",
         "notice_id_number": null,
         "recall_type": null,
@@ -232,7 +251,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "6aaaecf8-09f7-4f67-b7cc-3aea29e93827",
+        "uid": "8dfb3b1e-1351-4055-80ab-97083c64a009",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-jose-madrid-salsa-chipotle-con-queso",
         "notice_id_number": null,
         "recall_type": null,
@@ -252,7 +271,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "62139b69-0a6f-48b8-a343-da891b7d6a61",
+        "uid": "9f9b2ffc-d91b-4cf2-9393-4604cfaaf5c7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/orgain-issues-voluntary-allergy-alert-possible-undeclared-peanut-residue-single-batch-30g-protein",
         "notice_id_number": null,
         "recall_type": null,
@@ -273,7 +292,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "b98c01c7-81da-42c5-b756-240a79f40bcc",
+        "uid": "d026b042-a649-4577-acb1-8bc463f45139",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-undeclared-milk-lays-classic-potato-chips-distributed-oregon-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -294,7 +313,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "93102b7b-e515-4f2c-a6c2-78ea27736e69",
+        "uid": "9ab8780f-3ee6-4ea4-81a9-88d89938099d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/palermo-villa-inc-issues-recall-1728-connies-thin-crust-cheese-frozen-pizzas-due-possible-plastic",
         "notice_id_number": null,
         "recall_type": null,
@@ -314,7 +333,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "cbf83c2a-f33a-4d6e-945f-992e0909ba7d",
+        "uid": "4600add4-5bb2-4753-8eb5-07ca299b794a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/motivate-me-ashley-llc-recalling-vidaslim-brand-90-day-30-day-and-7-day-original-root-root-plus-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -341,7 +360,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "ab271d7d-0505-47b3-a614-7c5ec8260d62",
+        "uid": "84dc4882-479c-44b0-94ea-969ff126a2cf",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cal-yee-farm-llc-issues-allergy-alert-undeclared-milk-soy-wheat-sesame-fdc-6-and-almonds-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -362,7 +381,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "ef0d0fbb-fa88-47ae-b9ba-07aca02fe9b2",
+        "uid": "cda9ae93-9a1b-4be7-9a0e-0d3165a5967e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -381,7 +400,7 @@
             "IL"
         ],
         "agency": "FDA",
-        "uid": "90a50d60-9276-4adc-ad32-78dd371ec311",
+        "uid": "d44bf119-ecee-46fb-b9d3-bec6a63985b1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
         "notice_id_number": null,
         "recall_type": null,
@@ -400,7 +419,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "3753e5f7-273f-4099-96ba-8883ebd5870c",
+        "uid": "6ba2600c-2e32-41a1-bd3e-bb9dc7853eeb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -442,27 +461,8 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "eeaadab9-2f19-4c4e-a50f-144f379607c9",
+        "uid": "d40b6389-5cee-4c25-b639-258c2e394a7a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/resers-fine-foods-inc-recalls-select-lots-sprouts-farmers-market-gyro-family-kits-due-potential",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Voluntary Product Recall Notification \u2013 Gyro Sandwich Express Meal Kit Due to Cucumber Ingredient Linked to Baloian Farms Recall",
-        "company_announce_dttm": "2024-12-06T05:00:00+00:00",
-        "notification_dttm": "2024-12-06T05:00:00+00:00",
-        "recall_reason": "May be contaminated with Salmonella",
-        "company_name": "Fresh Creative Foods",
-        "brand_name": "Fresh Creative Foods",
-        "product_description": "The Beef & Lamb Gyro Sandwich Express Meal Kits",
-        "impacted_states": [
-            "AZ"
-        ],
-        "agency": "FDA",
-        "uid": "07414f1a-a77f-4ee9-b381-5972ec62a9a1",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-product-recall-notification-gyro-sandwich-express-meal-kit-due-cucumber-ingredient-linked",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
