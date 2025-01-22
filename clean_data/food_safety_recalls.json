@@ -1,5 +1,44 @@
 [
     {
+        "title": "Apna Wholesale Issues Alert on Undeclared Sulfites in \u201cParas Premium Golden Raisins",
+        "company_announce_dttm": "2025-01-07T05:00:00+00:00",
+        "notification_dttm": "2025-01-22T05:00:00+00:00",
+        "recall_reason": "Undeclared Sulfites",
+        "company_name": "Apna Wholesale Inc",
+        "brand_name": "Paras",
+        "product_description": "Premium Golden Raisins",
+        "impacted_states": [
+            "NY",
+            "MA"
+        ],
+        "agency": "FDA",
+        "uid": "a1413b45-91b2-4bf0-a66a-52f4b0276137",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/apna-wholesale-issues-alert-undeclared-sulfites-paras-premium-golden-raisins",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "D. Coluccio & Sons, Issues Allergy Alert on Undeclared Almonds in \u201cColussi Cantuccini Chocolate Drops\u201d Cookies",
+        "company_announce_dttm": "2025-01-21T05:00:00+00:00",
+        "notification_dttm": "2025-01-21T05:00:00+00:00",
+        "recall_reason": "Undeclared almond",
+        "company_name": "D. Coluccio & Sons",
+        "brand_name": "Colussi",
+        "product_description": "\u201cColussi Cantuccini Chocolate Drops\u201d chocolate chip cookies",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "b06a379c-9c45-48d7-be85-b7198e826880",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/d-coluccio-sons-issues-allergy-alert-undeclared-almonds-colussi-cantuccini-chocolate-drops-cookies",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Wismettac Asian Foods Issues Allergy Alert on Undeclared Milk in Curvee Puffs Corn Puff Snack Curry Flavor",
         "company_announce_dttm": "2025-01-17T22:43:00+00:00",
         "notification_dttm": "2025-01-20T05:00:00+00:00",
