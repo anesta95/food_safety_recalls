@@ -1,5 +1,24 @@
 [
     {
+        "title": "D. Coluccio & Sons, Issues Allergy Alert on Undeclared Almonds in \u201cColussi Cantuccini Chocolate Drops\u201d Cookies",
+        "company_announce_dttm": "2025-01-21T05:00:00+00:00",
+        "notification_dttm": "2025-01-21T05:00:00+00:00",
+        "recall_reason": "Undeclared almond",
+        "company_name": "D. Coluccio & Sons",
+        "brand_name": "Colussi",
+        "product_description": "\u201cColussi Cantuccini Chocolate Drops\u201d chocolate chip cookies",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "54f3e6db-6b75-42de-9757-3337a712eb2e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/d-coluccio-sons-issues-allergy-alert-undeclared-almonds-colussi-cantuccini-chocolate-drops-cookies",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Monkey Spit, LLC Issues Allergy Alert on Undeclared Milk/Wheat/Soy in  Monkey Spit BBQ Sauces",
         "company_announce_dttm": "2025-01-18T02:35:00+00:00",
         "notification_dttm": "2025-01-17T05:00:00+00:00",
@@ -11,7 +30,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "ae7a0989-f69d-4a4f-a20c-47fc5420a516",
+        "uid": "9fc231a0-ca83-46ff-b62e-c82fc820bbfa",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/monkey-spit-llc-issues-allergy-alert-undeclared-milkwheatsoy-monkey-spit-bbq-sauces",
         "notice_id_number": null,
         "recall_type": null,
@@ -68,7 +87,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "b0afd92e-d7aa-4eba-bdd3-b06c7694425f",
+        "uid": "d5c2d3a0-bf88-4c64-b50b-592834edcf44",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack-curry-flavor",
         "notice_id_number": null,
         "recall_type": null,
@@ -91,7 +110,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "81588f52-7373-4881-86b2-1720374ac9cf",
+        "uid": "dfd90e58-f236-4b99-b975-30a1e4ee5cf9",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mutual-trading-co-issues-allergy-alert-undeclared-milk-prepared-monkfish-liver",
         "notice_id_number": null,
         "recall_type": null,
@@ -120,7 +139,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "7790d747-7198-40e7-9a1c-ee8d48672a01",
+        "uid": "b13597e4-e3b2-457c-9674-50d779f9188c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quaker-issues-limited-recall-undeclared-milk-pearl-milling-company-original-pancake-waffle-mix",
         "notice_id_number": null,
         "recall_type": null,
@@ -139,7 +158,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "2238f6ff-5ac9-47eb-99e3-92e1b9e42a0f",
+        "uid": "671c62eb-67ea-4f43-b241-5200f3d7a486",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lifestyle-evolution-voluntarily-recalls-nugo-dark-chocolate-chip-and-nugo-dark-pretzel-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -159,8 +178,28 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "e270610a-f03c-4ecf-9448-c46c430d0066",
+        "uid": "c7b5a69f-6d87-4ece-a894-4094af80c811",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mochi-ice-cream-company-llc-issues-allergy-alert-undeclared-egg-peach-mango-sorbet",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Apna Wholesale Issues Alert on Undeclared Sulfites in \u201cParas Premium Golden Raisins",
+        "company_announce_dttm": "2025-01-07T05:00:00+00:00",
+        "notification_dttm": "2025-01-22T05:00:00+00:00",
+        "recall_reason": "Undeclared Sulfites",
+        "company_name": "Apna Wholesale Inc",
+        "brand_name": "Paras",
+        "product_description": "Premium Golden Raisins",
+        "impacted_states": [
+            "NY",
+            "MA"
+        ],
+        "agency": "FDA",
+        "uid": "e52b65d6-26aa-420d-b638-e24f0f2cb19c",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/apna-wholesale-issues-alert-undeclared-sulfites-paras-premium-golden-raisins",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
@@ -178,7 +217,7 @@
             "ID"
         ],
         "agency": "FDA",
-        "uid": "06610c58-8003-41dd-ba43-ab9b25d7fcb7",
+        "uid": "a2723628-55ed-4f47-9551-45ac04ce2e88",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
         "notice_id_number": null,
         "recall_type": null,
@@ -202,7 +241,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "0e139dcb-5439-4bac-95b4-baf5d0e1d63a",
+        "uid": "a43516a9-9837-4f73-bd1b-37d79a79a973",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
         "notice_id_number": null,
         "recall_type": null,
@@ -238,7 +277,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "a6bf8b76-fa20-4760-9bc2-b868bf2c383a",
+        "uid": "dc76cb36-f897-4162-9076-182c3ffbc960",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/braga-fresh-issues-voluntary-and-precautionary-advisory-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -258,7 +297,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "2a34a9e5-7fdc-48a9-b03e-5f879b2e3b9a",
+        "uid": "9bb97a46-27f7-4cc3-9ba7-3106cf1efa1c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardners-candies-issues-allergy-alert-undeclared-tree-nuts-cappuccino-meltawayr-bars-and-gardners",
         "notice_id_number": null,
         "recall_type": null,
@@ -287,7 +326,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "ea238109-8bc5-4caf-b5fb-3913b7175d45",
+        "uid": "a27a18ca-f4a9-47fb-b556-bd7caf7a179a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-recalls-taste-deutschland-buttered-vegetables-due-undeclared-milk-allergens",
         "notice_id_number": null,
         "recall_type": null,
@@ -308,7 +347,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "45bb3b88-925f-4f2f-9b35-72beb4aebc49",
+        "uid": "cc9c8c8e-d822-494c-a675-ac222e6601fc",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-jose-madrid-salsa-chipotle-con-queso",
         "notice_id_number": null,
         "recall_type": null,
@@ -328,7 +367,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "a629c8ba-ac90-4ab9-a026-50e4342af175",
+        "uid": "84c091e9-d196-4614-8047-7d039f4f4b2a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/orgain-issues-voluntary-allergy-alert-possible-undeclared-peanut-residue-single-batch-30g-protein",
         "notice_id_number": null,
         "recall_type": null,
@@ -349,7 +388,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "82985cda-b3e6-486d-89fa-2c61308bfc45",
+        "uid": "d39611dc-97e5-411f-a81e-fdb99b1bc95a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-undeclared-milk-lays-classic-potato-chips-distributed-oregon-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -370,7 +409,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "44b39410-5805-4a7f-9754-9ebd0e2779ec",
+        "uid": "16f678c6-dec6-41cc-a45e-0a5dbdb10c78",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/palermo-villa-inc-issues-recall-1728-connies-thin-crust-cheese-frozen-pizzas-due-possible-plastic",
         "notice_id_number": null,
         "recall_type": null,
@@ -390,7 +429,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "36bc84a3-d495-4a29-91f5-a61e9aab8fce",
+        "uid": "b046f8f0-55ba-4cd8-9aca-cf8b6ad1f95c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/motivate-me-ashley-llc-recalling-vidaslim-brand-90-day-30-day-and-7-day-original-root-root-plus-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -417,7 +456,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "507f1a6b-ed00-47c2-af66-728c98f30cd4",
+        "uid": "7c155150-693c-4626-8e4f-7f9665f0d3c7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cal-yee-farm-llc-issues-allergy-alert-undeclared-milk-soy-wheat-sesame-fdc-6-and-almonds-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -438,46 +477,8 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "71bfab4c-4d47-4239-9c22-446e37bb99b3",
+        "uid": "e39f5720-f94e-473e-a240-ecc12b6949ef",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-enoki-mushrooms-due-potential-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Riverside Natural Foods Inc. Issues Voluntary Recall of Select  MadeGood Granola Bar Products Over Potential Presence of a Piece of Metal",
-        "company_announce_dttm": "2024-12-09T19:14:00+00:00",
-        "notification_dttm": "2024-12-10T05:00:00+00:00",
-        "recall_reason": "Potential Metal Contaminant",
-        "company_name": "Riverside Natural Foods Inc.",
-        "brand_name": "MadeGood",
-        "product_description": "Granola bars",
-        "impacted_states": [
-            "IL"
-        ],
-        "agency": "FDA",
-        "uid": "26390a5a-03c4-4fa7-8c5c-2605679dd1a2",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/riverside-natural-foods-inc-issues-voluntary-recall-select-madegood-granola-bar-products-over",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Borsari Food Co. Recalls \u2013 Bloody Mary Mix \u2013 Due to Possible Health Risk",
-        "company_announce_dttm": "2024-12-09T16:29:00+00:00",
-        "notification_dttm": "2024-12-10T05:00:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen \u2013 Soy, Fish",
-        "company_name": "Borsari Food Co",
-        "brand_name": "Borsari",
-        "product_description": "Bloody Mary Mix",
-        "impacted_states": [
-            "NY"
-        ],
-        "agency": "FDA",
-        "uid": "13323471-a1f8-4e2e-a8b8-13249a058dbb",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/borsari-food-co-recalls-bloody-mary-mix-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
