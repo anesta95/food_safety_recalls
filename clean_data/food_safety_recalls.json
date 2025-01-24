@@ -1,5 +1,24 @@
 [
     {
+        "title": "TS Food Packaging is Recalling its \u201cRural King\u201d and \u201cWabash Valley Farms\u201d Bacon Seasoning Due to the Presence of an Undeclared Soy Ingredient",
+        "company_announce_dttm": "2025-01-24T23:03:00+00:00",
+        "notification_dttm": "2025-01-24T05:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen \u2013 soy",
+        "company_name": "TS FOOD PACKAGING",
+        "brand_name": "Wabash Valley Farms, Rural King",
+        "product_description": "Bacon flavor popcorn seasoning",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "6f9d67ee-0f27-4ffc-a2be-accb2b205b22",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ts-food-packaging-recalling-its-rural-king-and-wabash-valley-farms-bacon-seasoning-due-presence",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Apna Wholesale Issues Alert on Undeclared Sulfites in \u201cParas Premium Golden Raisins",
         "company_announce_dttm": "2025-01-07T05:00:00+00:00",
         "notification_dttm": "2025-01-22T05:00:00+00:00",
