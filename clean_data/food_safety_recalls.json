@@ -1,5 +1,26 @@
 [
     {
+        "title": "New York Wholesale Group Recalls Zaarah Herbals Shatavari Powder Because of Possible Health Risk",
+        "company_announce_dttm": "2025-01-27T21:26:00+00:00",
+        "notification_dttm": "2025-01-27T05:00:00+00:00",
+        "recall_reason": "Product may be contaminated with elevated levels of lead. ",
+        "company_name": "New York Wholesale Group",
+        "brand_name": "Zaarah Herbals",
+        "product_description": "Shatavari Powder",
+        "impacted_states": [
+            "NY",
+            "CT",
+            "NJ"
+        ],
+        "agency": "FDA",
+        "uid": "2088b26a-a062-4e46-9613-74d7258014f8",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-shatavari-powder-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "TS Food Packaging is Recalling its \u201cRural King\u201d and \u201cWabash Valley Farms\u201d Bacon Seasoning Due to the Presence of an Undeclared Soy Ingredient",
         "company_announce_dttm": "2025-01-24T23:03:00+00:00",
         "notification_dttm": "2025-01-24T05:00:00+00:00",
