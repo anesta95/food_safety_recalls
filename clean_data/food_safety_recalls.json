@@ -1,5 +1,25 @@
 [
     {
+        "title": "Recall of La Fiesta Brand Bread Crumbs (Unseasoned and Seasoned) for Undeclared Sesame",
+        "company_announce_dttm": "2025-01-25T18:27:00+00:00",
+        "notification_dttm": "2025-01-28T05:00:00+00:00",
+        "recall_reason": "Undeclared allergen (sesame) ",
+        "company_name": "La Fiesta Food Products, LLC.",
+        "brand_name": "La Fiesta",
+        "product_description": " Breadcrumbs (pan Rayado)",
+        "impacted_states": [
+            "CA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "6b4cba19-e6e3-4371-9028-fb93307f3c75",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-la-fiesta-brand-bread-crumbs-unseasoned-and-seasoned-undeclared-sesame",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "FSIS Issues Public Health Alert for Wegmans Frozen Fully Cooked Chicken Nuggets Due to Possible Extraneous Material Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-01-27T00:00:00+00:00",
