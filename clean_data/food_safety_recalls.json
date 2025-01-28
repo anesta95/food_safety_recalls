@@ -1,5 +1,32 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Wegmans Frozen Fully Cooked Chicken Nuggets Due to Possible Extraneous Material Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-01-27T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Perdue Foods LLC",
+        "brand_name": null,
+        "product_description": "\u2022\t46-oz. plastic packages containing \u201cWegmans FAMILY PACK FULLY COOKED Breaded Chicken Breast with Rib Meat\u201d and a best if used by date 08 26 25, located on the back of the packaging next to the barcode in the lower right corner. ",
+        "impacted_states": [
+            "DE",
+            "DC",
+            "MD",
+            "MA",
+            "NJ",
+            "NY",
+            "NC",
+            "PA",
+            "VA"
+        ],
+        "agency": "USDA",
+        "uid": "f02b2763-3f04-4c62-ae3b-a29d6db6ec1e",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-wegmans-frozen-fully-cooked-chicken-nuggets-due",
+        "notice_id_number": "PHA-01272025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "New York Wholesale Group Recalls Zaarah Herbals Shatavari Powder Because of Possible Health Risk",
         "company_announce_dttm": "2025-01-27T21:26:00+00:00",
         "notification_dttm": "2025-01-27T05:00:00+00:00",
