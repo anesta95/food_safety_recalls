@@ -1,5 +1,32 @@
 [
     {
+        "title": "Blue Ridge Beef Issues a Recall of Blue Ridge Beef Natural Mix Due to Salmonella Contamination",
+        "company_announce_dttm": "2025-01-31T19:38:00+00:00",
+        "notification_dttm": "2025-01-31T05:00:00+00:00",
+        "recall_reason": "Salmonella contamination",
+        "company_name": "Blue Ridge Beef",
+        "brand_name": "Blue Ridge Beef",
+        "product_description": "Natural Mix",
+        "impacted_states": [
+            "NC",
+            "CT",
+            "MD",
+            "MA",
+            "NY",
+            "PA",
+            "RI",
+            "TN",
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "821799ad-5942-4cf6-850d-1813fd0591ae",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-recall-blue-ridge-beef-natural-mix-due-salmonella-contamination",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "United Natural Trading LLC Announces Allergy Alert for Undeclared Milk in Fresh Direct Dark Chocolate Covered Pretzels",
         "company_announce_dttm": "2025-01-31T00:31:00+00:00",
         "notification_dttm": "2025-01-30T05:00:00+00:00",
