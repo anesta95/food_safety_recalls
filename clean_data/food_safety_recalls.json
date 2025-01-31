@@ -1,5 +1,26 @@
 [
     {
+        "title": "United Natural Trading LLC Announces Allergy Alert for Undeclared Milk in Fresh Direct Dark Chocolate Covered Pretzels",
+        "company_announce_dttm": "2025-01-31T00:31:00+00:00",
+        "notification_dttm": "2025-01-30T05:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "United Natural Trading LLC",
+        "brand_name": "Fresh Direct",
+        "product_description": "Dark Chocolate Covered Pretzels",
+        "impacted_states": [
+            "NJ",
+            "CT",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "43a810ee-5c6c-4664-9d3e-a7a09cd03380",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/united-natural-trading-llc-announces-allergy-alert-undeclared-milk-fresh-direct-dark-chocolate",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Wismettac Asian Foods Issues Allergy Alert on Undeclared Milk in Curvee Puffs Corn Puff Snack",
         "company_announce_dttm": "2025-01-29T01:08:00+00:00",
         "notification_dttm": "2025-01-28T05:00:00+00:00",
