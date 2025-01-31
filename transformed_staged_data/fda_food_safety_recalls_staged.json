@@ -1,5 +1,26 @@
 [
     {
+        "title": "United Natural Trading LLC Announces Allergy Alert for Undeclared Milk in Fresh Direct Dark Chocolate Covered Pretzels",
+        "company_announce_dttm": "2025-01-31T00:31:00+00:00",
+        "notification_dttm": "2025-01-30T05:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "United Natural Trading LLC",
+        "brand_name": "Fresh Direct",
+        "product_description": "Dark Chocolate Covered Pretzels",
+        "impacted_states": [
+            "NJ",
+            "CT",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "43a810ee-5c6c-4664-9d3e-a7a09cd03380",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/united-natural-trading-llc-announces-allergy-alert-undeclared-milk-fresh-direct-dark-chocolate",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Wismettac Asian Foods Issues Allergy Alert on Undeclared Milk in Curvee Puffs Corn Puff Snack",
         "company_announce_dttm": "2025-01-29T01:08:00+00:00",
         "notification_dttm": "2025-01-28T05:00:00+00:00",
@@ -50,7 +71,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "835581b5-363a-4abe-9017-ed457bbd379d",
+        "uid": "a216384a-6b61-4630-969f-fa9ca1be5152",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -71,7 +92,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "04dcf83e-c535-4528-9729-2bba293281b9",
+        "uid": "b289d448-5d52-417e-a187-449ba0cdddab",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-shatavari-powder-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -91,7 +112,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "fb95ecaa-24ed-40d6-b36c-3ffb4e10390c",
+        "uid": "ed78d339-04e3-40c3-a97e-22728feab515",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-la-fiesta-brand-bread-crumbs-unseasoned-and-seasoned-undeclared-sesame",
         "notice_id_number": null,
         "recall_type": null,
@@ -110,7 +131,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "93d46aa7-07d2-4e07-be8d-1988e67282c7",
+        "uid": "1de780f4-af46-4392-b07b-02ca3531b551",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ts-food-packaging-recalling-its-rural-king-and-wabash-valley-farms-bacon-seasoning-due-presence",
         "notice_id_number": null,
         "recall_type": null,
@@ -129,7 +150,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "f6e2ec20-4670-4a2a-a8ea-a4773ac3cff0",
+        "uid": "2485f6a8-bc65-4372-84bb-95a4cb71ae3b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/d-coluccio-sons-issues-allergy-alert-undeclared-almonds-colussi-cantuccini-chocolate-drops-cookies",
         "notice_id_number": null,
         "recall_type": null,
@@ -148,7 +169,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "69362ccd-8c1f-4e46-bf1b-a395283c2ded",
+        "uid": "5cf164d2-20c7-4131-a630-206b09644797",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/monkey-spit-llc-issues-allergy-alert-undeclared-milkwheatsoy-monkey-spit-bbq-sauces",
         "notice_id_number": null,
         "recall_type": null,
@@ -205,7 +226,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "465cc2ec-4c24-4cbb-8572-0c45ccef9408",
+        "uid": "efea26e9-bd1d-4ea7-a87c-d3bebb8945a0",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack-curry-flavor",
         "notice_id_number": null,
         "recall_type": null,
@@ -228,7 +249,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "a92434b3-e147-4fe1-80e0-36e8fadc51d9",
+        "uid": "ac725d4c-aaee-4e0e-8ef7-7b589607c4e4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mutual-trading-co-issues-allergy-alert-undeclared-milk-prepared-monkfish-liver",
         "notice_id_number": null,
         "recall_type": null,
@@ -257,7 +278,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "599d5241-a049-42b3-8501-4f6fbff67d81",
+        "uid": "5140b260-5a98-407f-b57e-50cf492d65fb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quaker-issues-limited-recall-undeclared-milk-pearl-milling-company-original-pancake-waffle-mix",
         "notice_id_number": null,
         "recall_type": null,
@@ -276,7 +297,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "eaa903f3-1688-4fc1-8e53-72d2803e3dad",
+        "uid": "3fc25ccd-8faa-45dd-9fd5-866436385f20",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lifestyle-evolution-voluntarily-recalls-nugo-dark-chocolate-chip-and-nugo-dark-pretzel-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -296,7 +317,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "c7a8f658-801d-41e5-a611-df4c308461d0",
+        "uid": "0d2ab085-78fa-43ae-97d4-bb1bc960dc52",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mochi-ice-cream-company-llc-issues-allergy-alert-undeclared-egg-peach-mango-sorbet",
         "notice_id_number": null,
         "recall_type": null,
@@ -316,7 +337,7 @@
             "MA"
         ],
         "agency": "FDA",
-        "uid": "2aac1464-fb95-4dda-bc86-f1f07b1b32f7",
+        "uid": "7fe6e28f-85f5-486e-afc9-27eaab428cdd",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/apna-wholesale-issues-alert-undeclared-sulfites-paras-premium-golden-raisins",
         "notice_id_number": null,
         "recall_type": null,
@@ -335,7 +356,7 @@
             "ID"
         ],
         "agency": "FDA",
-        "uid": "8250ec3e-0b9f-49fc-a5f9-cd41fa495083",
+        "uid": "5d73650b-977c-4e24-942e-9e4667104c30",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
         "notice_id_number": null,
         "recall_type": null,
@@ -359,7 +380,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "3a9748ad-8dfd-4a1b-bf09-487060e7e681",
+        "uid": "fc809d50-0d0d-48bf-baae-5b05a481e865",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
         "notice_id_number": null,
         "recall_type": null,
@@ -395,7 +416,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "792386f5-d2c7-467a-a884-ad291188d845",
+        "uid": "2fabb70c-93b1-4ffc-a01e-b6a0025f7f50",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/braga-fresh-issues-voluntary-and-precautionary-advisory-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -415,7 +436,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "dbe32129-2cae-4ac2-9b4f-8f91476ce710",
+        "uid": "72a75177-94a1-4f7b-a3b2-eb3c2c30eb0f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardners-candies-issues-allergy-alert-undeclared-tree-nuts-cappuccino-meltawayr-bars-and-gardners",
         "notice_id_number": null,
         "recall_type": null,
@@ -444,7 +465,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "42dbe22d-1d76-45b3-8e37-3f6f725d1e6d",
+        "uid": "1a562c9d-3fc8-4d98-8045-50fb94c8edba",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-recalls-taste-deutschland-buttered-vegetables-due-undeclared-milk-allergens",
         "notice_id_number": null,
         "recall_type": null,
@@ -465,7 +486,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "052ba3d8-a042-4abe-bacd-b2316da93f56",
+        "uid": "6431bc83-920c-4ca1-88b4-fb4a97b8b136",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-jose-madrid-salsa-chipotle-con-queso",
         "notice_id_number": null,
         "recall_type": null,
@@ -485,29 +506,8 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "209658cd-bada-45ed-96e4-094ae8b8dacb",
+        "uid": "638779d3-3565-4a10-8132-7290ca9b87db",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/orgain-issues-voluntary-allergy-alert-possible-undeclared-peanut-residue-single-batch-30g-protein",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Frito-Lay Issues Limited Recall on Undeclared Milk in Lay\u2019s Classic Potato Chips Distributed in Oregon and Washington",
-        "company_announce_dttm": "2024-12-16T16:38:00+00:00",
-        "notification_dttm": "2024-12-18T05:00:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen \u2013 Milk",
-        "company_name": "Frito-Lay",
-        "brand_name": "Lay\u2019s ",
-        "product_description": "Potato Chip",
-        "impacted_states": [
-            "OR",
-            "TX",
-            "WA"
-        ],
-        "agency": "FDA",
-        "uid": "5bffb84f-e99e-41b8-8d45-f6a42403542e",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-undeclared-milk-lays-classic-potato-chips-distributed-oregon-and",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
