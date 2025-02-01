@@ -1,5 +1,26 @@
 [
     {
+        "title": "DJ\u2019s Boudain LLC Recalls Sausage Link Products  Due to Possible Foreign Matter Contamination  ",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-01-31T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "D. J.&#039;s Boudain, LLC",
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [
+            "LA",
+            "MS",
+            "TX"
+        ],
+        "agency": "USDA",
+        "uid": "335ad175-27b2-4f9a-b5b6-d9de7b2d2cec",
+        "recall_url": null,
+        "notice_id_number": "004-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Blue Ridge Beef Issues a Recall of Blue Ridge Beef Natural Mix Due to Salmonella Contamination",
         "company_announce_dttm": "2025-01-31T19:38:00+00:00",
         "notification_dttm": "2025-01-31T05:00:00+00:00",
