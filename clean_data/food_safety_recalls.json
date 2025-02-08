@@ -1,5 +1,26 @@
 [
     {
+        "title": "Jack and the Green Sprouts Recalls Expired Alfalfa Sprouts Because of Possible Health Risk",
+        "company_announce_dttm": "2025-02-07T20:53:00+00:00",
+        "notification_dttm": "2025-02-08T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "Jack and the Green Sprouts, Inc.",
+        "brand_name": "Jack & the Green Sprouts",
+        "product_description": "Alfalfa Sprouts",
+        "impacted_states": [
+            "WI",
+            "MN",
+            "IA"
+        ],
+        "agency": "FDA",
+        "uid": "974a1288-b7e8-4960-85f0-0d847bad1f8d",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jack-and-green-sprouts-recalls-expired-alfalfa-sprouts-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Turkana Food Inc. Recalls Aleppo Tahini Sesame Paste 1lb (16oz) Because of Possible Health Risk",
         "company_announce_dttm": "2025-02-06T17:43:00+00:00",
         "notification_dttm": "2025-02-06T05:00:00+00:00",
