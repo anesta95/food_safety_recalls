@@ -1,62 +1,5 @@
 [
     {
-        "title": "Jack and the Green Sprouts Recalls Expired Alfalfa Sprouts Because of Possible Health Risk",
-        "company_announce_dttm": "2025-02-07T20:53:00+00:00",
-        "notification_dttm": "2025-02-08T05:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
-        "company_name": "Jack and the Green Sprouts, Inc.",
-        "brand_name": "Jack & the Green Sprouts",
-        "product_description": "Alfalfa Sprouts",
-        "impacted_states": [
-            "WI",
-            "MN",
-            "IA"
-        ],
-        "agency": "FDA",
-        "uid": "896d2a60-fba1-48c8-9c9d-f477e41bcd2c",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jack-and-green-sprouts-recalls-expired-alfalfa-sprouts-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Turkana Food Inc. Recalls Aleppo Tahini Sesame Paste 1lb (16oz) Because of Possible Health Risk",
-        "company_announce_dttm": "2025-02-06T17:43:00+00:00",
-        "notification_dttm": "2025-02-06T05:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness - Salmonella",
-        "company_name": "Turkana Food Inc.",
-        "brand_name": "Aleppo",
-        "product_description": "Tahini Sesame Paste",
-        "impacted_states": [
-            "NJ",
-            "AL",
-            "CA",
-            "FL",
-            "IN",
-            "KY",
-            "MD",
-            "MA",
-            "MI",
-            "MO",
-            "NY",
-            "NC",
-            "OH",
-            "PA",
-            "RI",
-            "TN",
-            "TX",
-            "VA"
-        ],
-        "agency": "FDA",
-        "uid": "1041433d-f111-4197-b9b0-4709c1e4ab79",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/turkana-food-inc-recalls-aleppo-tahini-sesame-paste-1lb-16oz-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
         "title": "Gerber Products Company Announces Recall and Discontinuation of All Batches of   Gerber\u00ae Soothe N Chew\u00ae Teething Sticks Due To Choking Hazard",
         "company_announce_dttm": "2025-01-31T23:54:00+00:00",
         "notification_dttm": "2025-01-31T05:00:00+00:00",
@@ -114,7 +57,7 @@
             "PR"
         ],
         "agency": "FDA",
-        "uid": "fefceb06-5642-4595-b2cc-b022130d7f38",
+        "uid": "7b6b79cf-a4c3-4024-b8a9-75483daf2a0c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gerber-products-company-announces-recall-and-discontinuation-all-batches-gerberr-soothe-n-chewr",
         "notice_id_number": null,
         "recall_type": null,
@@ -141,7 +84,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "f5d8dd8c-432f-4ff9-b4c6-7fed493ef159",
+        "uid": "be839dd9-d151-4077-9a09-602317787cca",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-recall-blue-ridge-beef-natural-mix-due-salmonella-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -162,7 +105,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "c5312c44-52e1-4160-abd8-cd4b8879f0ca",
+        "uid": "ab14187d-9e13-41c2-9bd0-b62f550a94e3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/united-natural-trading-llc-announces-allergy-alert-undeclared-milk-fresh-direct-dark-chocolate",
         "notice_id_number": null,
         "recall_type": null,
@@ -220,7 +163,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "f1254071-c3d8-4d52-806b-7beb0d60df1d",
+        "uid": "d29ad1b8-c9aa-42e3-b745-1a968f9190d7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -242,7 +185,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "22204ec0-080c-4109-9170-712986036c72",
+        "uid": "e876c0f7-d3c0-4194-b24d-813a82ef7784",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-shatavari-powder-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -262,7 +205,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "a3aba88b-c829-435f-bf2a-07738346952a",
+        "uid": "29449ea8-724e-4fa5-b227-6c4b3f73efc3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-la-fiesta-brand-bread-crumbs-unseasoned-and-seasoned-undeclared-sesame",
         "notice_id_number": null,
         "recall_type": null,
@@ -281,7 +224,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "a42cbc1b-f5b2-472e-a1b5-78ac559bf908",
+        "uid": "af0a5fd0-1cc3-4c4d-9e22-b874a988d012",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ts-food-packaging-recalling-its-rural-king-and-wabash-valley-farms-bacon-seasoning-due-presence",
         "notice_id_number": null,
         "recall_type": null,
@@ -300,7 +243,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "8b2d8f09-f237-4085-909b-a52ce9a856e6",
+        "uid": "d6e6136c-1d01-48c1-89f8-df0cf00f2e1c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/d-coluccio-sons-issues-allergy-alert-undeclared-almonds-colussi-cantuccini-chocolate-drops-cookies",
         "notice_id_number": null,
         "recall_type": null,
@@ -319,7 +262,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "30ea51c0-40b4-4c6e-93eb-02ea0872138e",
+        "uid": "87e7f41c-87d5-4d5b-bd5d-3a8b4213b628",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/monkey-spit-llc-issues-allergy-alert-undeclared-milkwheatsoy-monkey-spit-bbq-sauces",
         "notice_id_number": null,
         "recall_type": null,
@@ -376,7 +319,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "7e7f7878-c805-4aa1-a227-5782e5361adf",
+        "uid": "15093811-9c72-4f62-835a-4db5677d7281",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack-curry-flavor",
         "notice_id_number": null,
         "recall_type": null,
@@ -399,7 +342,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "3542fed6-fed2-4bd8-b8f1-3c175c2c09f4",
+        "uid": "df70bdf0-f542-4c6e-a5e5-c9eda555dc17",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mutual-trading-co-issues-allergy-alert-undeclared-milk-prepared-monkfish-liver",
         "notice_id_number": null,
         "recall_type": null,
@@ -428,7 +371,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "c4e45c1b-daf7-4cc8-976a-3245396167c8",
+        "uid": "2dc7b54c-ffda-4a85-8535-f234da0b9983",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quaker-issues-limited-recall-undeclared-milk-pearl-milling-company-original-pancake-waffle-mix",
         "notice_id_number": null,
         "recall_type": null,
@@ -447,7 +390,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "b5505146-fb04-4d18-98e1-a65e5dbd3af7",
+        "uid": "b0fbe657-53ee-4c16-88b6-c0f4c1e35fc4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lifestyle-evolution-voluntarily-recalls-nugo-dark-chocolate-chip-and-nugo-dark-pretzel-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -467,7 +410,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "c63687be-beaa-4903-96ba-dd64f426439c",
+        "uid": "dbe42a10-004b-475c-a955-4f55d03caf4c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mochi-ice-cream-company-llc-issues-allergy-alert-undeclared-egg-peach-mango-sorbet",
         "notice_id_number": null,
         "recall_type": null,
@@ -487,7 +430,7 @@
             "MA"
         ],
         "agency": "FDA",
-        "uid": "d838af1d-72b5-434f-880e-a7cb928c0e17",
+        "uid": "d88314fd-92e9-4691-81eb-5f43cb394470",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/apna-wholesale-issues-alert-undeclared-sulfites-paras-premium-golden-raisins",
         "notice_id_number": null,
         "recall_type": null,
@@ -506,7 +449,7 @@
             "ID"
         ],
         "agency": "FDA",
-        "uid": "c2d4d7b8-a6b3-46d2-a5b1-173ba7274d83",
+        "uid": "f6adb8cc-9ec5-4e27-9cc7-674138dbceac",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
         "notice_id_number": null,
         "recall_type": null,
@@ -530,7 +473,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "6aaadf03-5a97-4c52-988c-f8efaee613cf",
+        "uid": "86984597-c4a0-48de-9c37-4bb9bcf069d8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
         "notice_id_number": null,
         "recall_type": null,
@@ -566,8 +509,57 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "a1ee8ad0-ccd6-4dc7-b9ee-8e5f21471659",
+        "uid": "ab08f9c2-1143-4534-9032-ff5ae5b7b279",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/braga-fresh-issues-voluntary-and-precautionary-advisory-due-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Gardners Candies Issues Allergy Alert on Undeclared Tree Nuts in Cappuccino Meltaway\u00ae Bars and Gardners Meltaway Treat Boxes Containing Cappuccino Meltaway Bars",
+        "company_announce_dttm": "2024-12-27T17:24:00+00:00",
+        "notification_dttm": "2024-12-27T05:00:00+00:00",
+        "recall_reason": "Undeclared Tree Nuts (Cashews)",
+        "company_name": "Gardners Candies, Inc.",
+        "brand_name": "Gardners Candies",
+        "product_description": "Chocolate Candy Bars",
+        "impacted_states": [
+            "PA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "bfdfd620-ad01-4a4f-9561-fce8929d681b",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardners-candies-issues-allergy-alert-undeclared-tree-nuts-cappuccino-meltawayr-bars-and-gardners",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Lidl Recalls Taste of Deutschland Buttered Vegetables Due to Undeclared Milk Allergens",
+        "company_announce_dttm": "2024-12-20T23:00:00+00:00",
+        "notification_dttm": "2024-12-20T05:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "Lidl US",
+        "brand_name": "Taste of Deutschland",
+        "product_description": "Frozen Buttered Vegetables, Carrots, Peas, Cauliflower, & Corn",
+        "impacted_states": [
+            "VA",
+            "US",
+            "DE",
+            "DC",
+            "GA",
+            "MD",
+            "NJ",
+            "NY",
+            "NC",
+            "PA",
+            "SC"
+        ],
+        "agency": "FDA",
+        "uid": "9c8ccae2-3fca-4919-83ab-01487c368b48",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-recalls-taste-deutschland-buttered-vegetables-due-undeclared-milk-allergens",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
