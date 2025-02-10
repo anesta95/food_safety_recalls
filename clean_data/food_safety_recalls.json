@@ -1,5 +1,24 @@
 [
     {
+        "title": "Tri-Union Seafoods Issues Recall of Select Genova\u00ae, Van Camp\u2019s\u00ae, H-E-B and Trader Joe\u2019s\u00ae Tuna Cans Due to Clostridium Botulinum Risk",
+        "company_announce_dttm": "2025-02-07T20:02:00+00:00",
+        "notification_dttm": "2025-02-10T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Botulism",
+        "company_name": "Tri-Union Seafoods",
+        "brand_name": "Genova, Van Camp\u2019s, H-E-B, Trader Joe\u2019s",
+        "product_description": "Canned tuna",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "89b393d8-75a0-4ed5-97f8-27268e47c8d9",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tri-union-seafoods-issues-recall-select-genovar-van-campsr-h-e-b-and-trader-joesr-tuna-cans-due",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Jack and the Green Sprouts Recalls Expired Alfalfa Sprouts Because of Possible Health Risk",
         "company_announce_dttm": "2025-02-07T20:53:00+00:00",
         "notification_dttm": "2025-02-08T05:00:00+00:00",
