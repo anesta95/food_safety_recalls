@@ -1,5 +1,24 @@
 [
     {
+        "title": "AKT Trading Inc. Recalls Seasoned Bamboo Shoots Because of Possible Health Risk",
+        "company_announce_dttm": "2025-02-11T22:56:00+00:00",
+        "notification_dttm": "2025-02-12T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Botulism",
+        "company_name": "AKT Trading Inc.",
+        "brand_name": "CHOSHIYA",
+        "product_description": "Menma Ajitsuke Prepared Bamboo Shoot",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "3ae86564-73ac-4d81-82ee-7256f1a2dd6a",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-seasoned-bamboo-shoots-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Tri-Union Seafoods Issues Recall of Select Genova\u00ae, Van Camp\u2019s\u00ae, H-E-B and Trader Joe\u2019s\u00ae Tuna Cans Due to Clostridium Botulinum Risk",
         "company_announce_dttm": "2025-02-07T20:02:00+00:00",
         "notification_dttm": "2025-02-10T05:00:00+00:00",
