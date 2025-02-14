@@ -1,5 +1,24 @@
 [
     {
+        "title": "JE Bakery 2019 LLC DBA Broadway Bakery Issues Allergy Alert for Mislabeled Raisin Bran Muffin 6 Count Due to Undeclared Walnuts",
+        "company_announce_dttm": "2025-02-13T15:05:00+00:00",
+        "notification_dttm": "2025-02-14T05:00:00+00:00",
+        "recall_reason": "Undeclared walnuts",
+        "company_name": "JE Bakery LLC DBA Broadway Bakery",
+        "brand_name": "Cub Foods, Jerrys Foods, Country Market",
+        "product_description": "Raisin Bran Muffin",
+        "impacted_states": [
+            "MN"
+        ],
+        "agency": "FDA",
+        "uid": "082ff88c-058d-4a71-be1b-8d86af7948f1",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/je-bakery-2019-llc-dba-broadway-bakery-issues-allergy-alert-mislabeled-raisin-bran-muffin-6-count",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "AKT Trading Inc. Recalls Seasoned Bamboo Shoots Because of Possible Health Risk",
         "company_announce_dttm": "2025-02-11T22:56:00+00:00",
         "notification_dttm": "2025-02-12T05:00:00+00:00",
