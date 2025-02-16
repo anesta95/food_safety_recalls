@@ -1,5 +1,25 @@
 [
     {
+        "title": "Mauna Loa Macadamia Nut Company, LLC Issues a Product Recall on Undeclared Almonds in Mauna Loa Milk Chocolate Covered Macadamias (1oz) Pouches",
+        "company_announce_dttm": "2025-02-16T01:00:00+00:00",
+        "notification_dttm": "2025-02-16T01:00:00+00:00",
+        "recall_reason": "Undeclared almonds",
+        "company_name": "Mauna Loa Macadamia Nut Company, LLC",
+        "brand_name": "Mauna Loa",
+        "product_description": "Mauna Loa Milk Chocolate Covered Macadamias",
+        "impacted_states": [
+            "HI",
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "eef37aaf-02a0-4527-b993-484ffc67fdcc",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mauna-loa-macadamia-nut-company-llc-issues-product-recall-undeclared-almonds-mauna-loa-milk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "JE Bakery 2019 LLC DBA Broadway Bakery Issues Allergy Alert for Mislabeled Raisin Bran Muffin 6 Count Due to Undeclared Walnuts",
         "company_announce_dttm": "2025-02-13T15:05:00+00:00",
         "notification_dttm": "2025-02-14T05:00:00+00:00",
