@@ -1,5 +1,25 @@
 [
     {
+        "title": "Mauna Loa Macadamia Nut Company, LLC Issues a Product Recall on Undeclared Almonds in Mauna Loa Milk Chocolate Covered Macadamias (1oz) Pouches",
+        "company_announce_dttm": "2025-02-16T01:00:00+00:00",
+        "notification_dttm": "2025-02-16T01:00:00+00:00",
+        "recall_reason": "Undeclared almonds",
+        "company_name": "Mauna Loa Macadamia Nut Company, LLC",
+        "brand_name": "Mauna Loa",
+        "product_description": "Mauna Loa Milk Chocolate Covered Macadamias",
+        "impacted_states": [
+            "HI",
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "eef37aaf-02a0-4527-b993-484ffc67fdcc",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mauna-loa-macadamia-nut-company-llc-issues-product-recall-undeclared-almonds-mauna-loa-milk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "JE Bakery 2019 LLC DBA Broadway Bakery Issues Allergy Alert for Mislabeled Raisin Bran Muffin 6 Count Due to Undeclared Walnuts",
         "company_announce_dttm": "2025-02-13T15:05:00+00:00",
         "notification_dttm": "2025-02-14T05:00:00+00:00",
@@ -11,7 +31,7 @@
             "MN"
         ],
         "agency": "FDA",
-        "uid": "df77d4de-2e6b-4f41-b407-36dcc6d09552",
+        "uid": "083243bf-7e4b-4294-990e-0e9aa3a685bb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/je-bakery-2019-llc-dba-broadway-bakery-issues-allergy-alert-mislabeled-raisin-bran-muffin-6-count",
         "notice_id_number": null,
         "recall_type": null,
@@ -30,7 +50,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "f0253fae-c5ea-42e6-870a-a39d4e2e3776",
+        "uid": "d52891d5-ac3b-4418-8889-ea00e5aeb6e4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-seasoned-bamboo-shoots-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -51,7 +71,7 @@
             "IA"
         ],
         "agency": "FDA",
-        "uid": "f58c4946-521f-472b-8822-fde65a4ebf39",
+        "uid": "1075643c-359d-455b-bc60-22ef1d820591",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jack-and-green-sprouts-recalls-expired-alfalfa-sprouts-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -70,7 +90,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "02ef81cd-daa7-4efe-b5b1-5f55d3b534c2",
+        "uid": "7d20e5e4-7ab9-4b2a-bbf7-899d707567fa",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tri-union-seafoods-issues-recall-select-genovar-van-campsr-h-e-b-and-trader-joesr-tuna-cans-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -106,7 +126,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "fd508430-4b7f-470d-ac8a-e1dca35b9d81",
+        "uid": "f62442a9-9052-4688-8dd9-a10f029f32a3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/turkana-food-inc-recalls-aleppo-tahini-sesame-paste-1lb-16oz-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -171,7 +191,7 @@
             "PR"
         ],
         "agency": "FDA",
-        "uid": "7654007c-ad72-45ab-a71c-96fc1eef0221",
+        "uid": "1a6c982e-278d-4517-9dbe-0435557d9256",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gerber-products-company-announces-recall-and-discontinuation-all-batches-gerberr-soothe-n-chewr",
         "notice_id_number": null,
         "recall_type": null,
@@ -198,7 +218,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "4366f2c0-68fb-4269-b943-d69003e98ec1",
+        "uid": "3698638b-a823-48d1-8145-a476d8513d3d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-recall-blue-ridge-beef-natural-mix-due-salmonella-contamination",
         "notice_id_number": null,
         "recall_type": null,
@@ -219,7 +239,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "9c94754e-5ba4-40fc-96ec-66b4e1ac6ea9",
+        "uid": "f34fc027-a845-4bfe-adc2-6e3f90d7b0d3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/united-natural-trading-llc-announces-allergy-alert-undeclared-milk-fresh-direct-dark-chocolate",
         "notice_id_number": null,
         "recall_type": null,
@@ -277,7 +297,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "4e4f3f9b-2dfe-4f52-aac8-b7d2a833ef39",
+        "uid": "fe720dfa-5912-4f11-ba30-0a50600d5d94",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack",
         "notice_id_number": null,
         "recall_type": null,
@@ -299,7 +319,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "b8d48172-d883-4142-a442-3fd56df20054",
+        "uid": "93ca888e-bede-4207-9226-c41bd94375e9",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-shatavari-powder-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -319,7 +339,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "33045f79-c365-4891-9865-dfa7f53ec0b9",
+        "uid": "22cd621a-8bf8-4eaa-ab7a-4065ec75681c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/recall-la-fiesta-brand-bread-crumbs-unseasoned-and-seasoned-undeclared-sesame",
         "notice_id_number": null,
         "recall_type": null,
@@ -338,7 +358,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "8f691f96-16db-4eec-83f6-f22e724b5126",
+        "uid": "f8c9fef3-9caa-4958-a6a1-d46d29dcde28",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ts-food-packaging-recalling-its-rural-king-and-wabash-valley-farms-bacon-seasoning-due-presence",
         "notice_id_number": null,
         "recall_type": null,
@@ -357,7 +377,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "15bc472e-1092-465c-b70d-e99e202abbde",
+        "uid": "8acde602-fe11-4a39-af95-bb7cf9f9ac13",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/d-coluccio-sons-issues-allergy-alert-undeclared-almonds-colussi-cantuccini-chocolate-drops-cookies",
         "notice_id_number": null,
         "recall_type": null,
@@ -376,7 +396,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "1f1d6b52-7060-4aff-a333-0b4024fb299d",
+        "uid": "d77bddda-99ac-4ae3-83af-541170d8724b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/monkey-spit-llc-issues-allergy-alert-undeclared-milkwheatsoy-monkey-spit-bbq-sauces",
         "notice_id_number": null,
         "recall_type": null,
@@ -433,7 +453,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "203394e7-c055-404a-b473-9c7868b1168e",
+        "uid": "ecde7e91-1a25-4fb7-aae0-17dc1365fe64",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack-curry-flavor",
         "notice_id_number": null,
         "recall_type": null,
@@ -456,7 +476,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "d567755a-00a8-4039-8d9e-12d35826f5a1",
+        "uid": "4fac67de-b811-433b-a0e2-79ed5b2b1484",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mutual-trading-co-issues-allergy-alert-undeclared-milk-prepared-monkfish-liver",
         "notice_id_number": null,
         "recall_type": null,
@@ -485,7 +505,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "cafce320-10e9-433a-a2e6-521b22ae925c",
+        "uid": "65c3b16f-81a8-4c22-a7fc-10be3be14ecb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quaker-issues-limited-recall-undeclared-milk-pearl-milling-company-original-pancake-waffle-mix",
         "notice_id_number": null,
         "recall_type": null,
@@ -504,7 +524,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "9854d8b5-948e-4807-b8db-e6e09254419f",
+        "uid": "23141043-7e20-483d-afc7-3c9b2748c97e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lifestyle-evolution-voluntarily-recalls-nugo-dark-chocolate-chip-and-nugo-dark-pretzel-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -524,28 +544,8 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "e3f56032-fe94-4f3b-aa0f-b476a2c1bdea",
+        "uid": "a001dc36-e109-4011-97a1-32c8153ecbea",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mochi-ice-cream-company-llc-issues-allergy-alert-undeclared-egg-peach-mango-sorbet",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Apna Wholesale Issues Alert on Undeclared Sulfites in \u201cParas Premium Golden Raisins",
-        "company_announce_dttm": "2025-01-07T05:00:00+00:00",
-        "notification_dttm": "2025-01-22T05:00:00+00:00",
-        "recall_reason": "Undeclared Sulfites",
-        "company_name": "Apna Wholesale Inc",
-        "brand_name": "Paras",
-        "product_description": "Premium Golden Raisins",
-        "impacted_states": [
-            "NY",
-            "MA"
-        ],
-        "agency": "FDA",
-        "uid": "e24ef639-f8ac-4c67-adfb-47a0c9a253a4",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/apna-wholesale-issues-alert-undeclared-sulfites-paras-premium-golden-raisins",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
