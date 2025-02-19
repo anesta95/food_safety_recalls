@@ -1,5 +1,37 @@
 [
     {
+        "title": "Naturipe Value Added Fresh LLC Issues Allergy Alert On Undeclared Wheat & Eggs In \"Berry Buddies, Berries & Pancakes\u201d Lot # 1097901",
+        "company_announce_dttm": "2025-02-18T13:35:00+00:00",
+        "notification_dttm": "2025-02-19T05:00:00+00:00",
+        "recall_reason": "Undeclared allergen (wheat, eggs) ",
+        "company_name": "Naturipe Value Added Fresh LLC",
+        "brand_name": "Naturipe Snacks",
+        "product_description": "Berry Buddies, Berries & Pancakes bento box snack packs",
+        "impacted_states": [
+            "GA",
+            "AR",
+            "IL",
+            "IN",
+            "KY",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "OH",
+            "TN",
+            "VA",
+            "WV",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "7d0fb1b2-1ade-45e9-8cd1-3db4257acd05",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naturipe-value-added-fresh-llc-issues-allergy-alert-undeclared-wheat-eggs-berry-buddies-berries",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Mauna Loa Macadamia Nut Company, LLC Issues a Product Recall on Undeclared Almonds in Mauna Loa Milk Chocolate Covered Macadamias (1oz) Pouches",
         "company_announce_dttm": "2025-02-16T01:00:00+00:00",
         "notification_dttm": "2025-02-16T01:00:00+00:00",
