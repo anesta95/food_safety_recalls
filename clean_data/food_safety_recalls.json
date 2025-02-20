@@ -1,5 +1,24 @@
 [
     {
+        "title": "Kedake Inc. Issues Allergy Alert on Undeclared Sesame, Soy, Wheat, Yellow No. 5, Yellow No. 6, and Red No. 6 in Botana Mix Snacks",
+        "company_announce_dttm": "2025-02-20T21:19:00+00:00",
+        "notification_dttm": "2025-02-20T05:00:00+00:00",
+        "recall_reason": "Undeclared wheat, sesame, soy, yellow 5, yellow 6, red 6",
+        "company_name": "Kedake Inc",
+        "brand_name": "Las Ollas",
+        "product_description": "Las Ollas Botana Mix Snacks and Delights 2 lb packages",
+        "impacted_states": [
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "5ebb4bb4-045e-436b-8306-b377100029fc",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kedake-inc-issues-allergy-alert-undeclared-sesame-soy-wheat-yellow-no-5-yellow-no-6-and-red-no-6",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "ZB Importing Issue Voluntary Recall and Allergy Alert on Undeclared Egg, Wheat and Milk in Certain Ulker Brand Products",
         "company_announce_dttm": "2025-02-18T18:12:00+00:00",
         "notification_dttm": "2025-02-20T05:00:00+00:00",
