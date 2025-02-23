@@ -1,5 +1,24 @@
 [
     {
+        "title": "Lyons Magnus Recalls Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes  Manufactured by Third Party Because of Possible Health Risk",
+        "company_announce_dttm": "2025-02-22T18:18:00+00:00",
+        "notification_dttm": "2025-02-23T05:00:00+00:00",
+        "recall_reason": "Possible Listeria monocytogenes contamination",
+        "company_name": "Lyons Magnus LLC",
+        "brand_name": "ReadyCare, Imperial",
+        "product_description": "Frozen supplemental shakes",
+        "impacted_states": [
+            "IN"
+        ],
+        "agency": "FDA",
+        "uid": "5d51c258-4ebf-4657-8d8c-15e7392df8e2",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lyons-magnus-recalls-lyons-readycare-and-sysco-imperial-frozen-supplemental-shakes-manufactured",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Kayco Issues an Allergy Alert on Undeclared Milk in Limited Units of Glicks Dark  Chocolate Conettos",
         "company_announce_dttm": "2025-02-21T21:52:00+00:00",
         "notification_dttm": "2025-02-21T05:00:00+00:00",
