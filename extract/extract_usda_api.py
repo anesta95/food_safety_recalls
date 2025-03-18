@@ -29,7 +29,7 @@ def get_data_from_url(url):
 # Values can be found in documentation here: https://www.fsis.usda.gov/sites/default/files/media_file/documents/Recall-API-documentation.pdf
 # landing page here: https://www.fsis.usda.gov/science-data/developer-resources/recall-api
 print("Grabbing USDA Food Safety Recall API JSON")
-usda_api_res = get_data_from_url("https://www.fsis.usda.gov/fsis/api/recall/v/1?field_year_id=606")
+usda_api_res = get_data_from_url("https://www.fsis.usda.gov/fsis/api/recall/v/1")
 usda_api_json = usda_api_res.json() # Parsing as JSON
 
 # Getting script folder

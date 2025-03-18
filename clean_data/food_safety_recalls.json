@@ -1,5 +1,32 @@
 [
     {
+        "title": "C&amp;T Produce Wholesale Inc. Dba L&amp;v Food Supply Recalls Ineligible Frozen, Dried Silurifomes Products  Imported From Vietnam",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-02-25T00:00:00+00:00",
+        "recall_reason": "Import Violation",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "2-lb. cardboard boxes containing “Peppered Dried CATFISH.”",
+        "impacted_states": [
+            "CA",
+            "FL",
+            "IL",
+            "NE",
+            "NC",
+            "OH",
+            "TN",
+            "TX",
+            "WA"
+        ],
+        "agency": "USDA",
+        "uid": "3b4d94f0-6ee8-423d-9a82-34b9714ac0e4",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/ct-produce-wholesale-inc--dba-lv-food-supply-recalls-ineligible-frozen-dried",
+        "notice_id_number": "007-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Lyons Magnus Recalls Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes  Manufactured by Third Party Because of Possible Health Risk",
         "company_announce_dttm": "2025-02-22T18:18:00+00:00",
         "notification_dttm": "2025-02-23T05:00:00+00:00",
@@ -17,6 +44,23 @@
         "recall_type": null,
         "risk_level": null,
         "recall_classification": null
+    },
+    {
+        "title": "LPK1 Recalls Ready-to-Eat Chicken Caesar Wrap Products Due to Misbranding and Undeclared Allergen",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-02-23T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "Amazon - LPK 1",
+        "brand_name": null,
+        "product_description": "•\t10-oz. clear clamshell containers containing “thoughtfully handmade just for you Chicken Caesar Wrap with parmesan cheese, lettuce, Caesar dressing” with Best By dates of 21 FEB, 23 FEB, 25 FEB, and lot codes LPK1WA046, LPK1WA048, LPK1WA050 printed on t",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "11750d8c-c287-444e-b22a-3ae8be8ba24f",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/lpk1-recalls-ready-eat-chicken-caesar-wrap-products-due-misbranding-and-undeclared",
+        "notice_id_number": "006-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "Low - Class II",
+        "recall_classification": "Class II"
     },
     {
         "title": "Kayco Issues an Allergy Alert on Undeclared Milk in Limited Units of Glicks Dark  Chocolate Conettos",
@@ -205,6 +249,46 @@
         "recall_classification": null
     },
     {
+        "title": "Common Sense Soap Recalls Beef Tallow Products Produced Without Benefit of Inspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-02-12T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": "",
+        "brand_name": null,
+        "product_description": "•\t24-fl-oz. glass jar containing “PREMIUM QUALITY GOODS Grass-fed beef TALLOW Lady May ALL NATURAL.” , •\t2-lb. plastic tub containing “PREMIUM QUALITY GOODS Grass-fed beef TALLOW Lady May ALL NATURAL.” , •\t7.8-8-lb. (1 gal) plastic tub containing “PREMIUM QUALITY GOODS Grass-fed beef Original TALLOW Lady May ALL NATURAL.”, •\t16-lb. plastic tub containing “PREMIUM QUALITY GOODS Grass-fed beef TALLOW Lady May ALL NATURAL.” ",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "USDA",
+        "uid": "f9cd889d-011e-4b91-8c50-8abab8e00860",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/common-sense-soap-recalls-beef-tallow-products-produced-without-benefit-inspection",
+        "notice_id_number": "005-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Frozen Ready-To-Eat Meat and Poultry Pasties Due to Misbranding and Undeclared Allergen",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-02-12T00:00:00+00:00",
+        "recall_reason": "Unreported Allergens",
+        "company_name": "The Pasty Oven, Inc.",
+        "brand_name": null,
+        "product_description": "•\t8-oz. plastic packages containing “The Pasty Oven Pasty WITH CHICKEN &amp; CHEESE” with best by dates of December 11, 2025, and prior., •\t8-oz. plastic packages containing “The Pasty Oven Pasty PIZZA PASTY WITH PEPPERONI” with best by dates of December 11, 2025, and prior., •\t15-lb. cases containing 30 8-oz. units of “The Pasty Oven Pasty WITH CHICKEN &amp; CHEESE” with best by dates of December 11, 2025, and prior., •\t15-lb. cases containing 30 8-oz. units of “The Pasty Oven Pasty PIZZA PASTY WITH PEPPERONI” with best by dates of December 11, 2025, and prior.",
+        "impacted_states": [
+            "MI",
+            "MN",
+            "WI"
+        ],
+        "agency": "USDA",
+        "uid": "ac22cf3d-4d3c-4063-af9a-9b1ee031a509",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-ready-eat-meat-and-poultry-pasties-due",
+        "notice_id_number": "PHA-02122025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Tri-Union Seafoods Issues Recall of Select Genova\u00ae, Van Camp\u2019s\u00ae, H-E-B and Trader Joe\u2019s\u00ae Tuna Cans Due to Clostridium Botulinum Risk",
         "company_announce_dttm": "2025-02-07T20:02:00+00:00",
         "notification_dttm": "2025-02-10T05:00:00+00:00",
@@ -360,7 +444,7 @@
         ],
         "agency": "USDA",
         "uid": "335ad175-27b2-4f9a-b5b6-d9de7b2d2cec",
-        "recall_url": null,
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/djs-boudain-llc-recalls-sausage-link-products-due-possible-foreign-matter",
         "notice_id_number": "004-2025",
         "recall_type": "Active Recall",
         "risk_level": "High - Class I",
@@ -580,6 +664,25 @@
         "recall_classification": null
     },
     {
+        "title": "Custom Food Solutions Recalls Ready-To-Eat Frozen Drunken Chicken Product Due to Misbranding and Undeclared Allergens",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-01-22T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "Custom Food Solutions, LLC",
+        "brand_name": null,
+        "product_description": "60-lb. cases containing 12, 5-lb. pouches of “YATS DRUNKEN CHICKEN COOKED CHICKEN THIGH MEAT IN A SPICY TOMATO SAUCE WITH BEER” with lot codes 4074, 4102, 4130, 4144, 4163, 4178, 4214, 4229, 4236, 4255, 4325, 4326, 4339, 4355, 5002 and 5015.",
+        "impacted_states": [
+            "IN"
+        ],
+        "agency": "USDA",
+        "uid": "f320c089-c539-4442-a658-034cb0aa8aa8",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/custom-food-solutions-recalls-ready-eat-frozen-drunken-chicken-product-due",
+        "notice_id_number": "003-2025",
+        "recall_type": "Closed Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "D. Coluccio & Sons, Issues Allergy Alert on Undeclared Almonds in \u201cColussi Cantuccini Chocolate Drops\u201d Cookies",
         "company_announce_dttm": "2025-01-21T05:00:00+00:00",
         "notification_dttm": "2025-01-21T05:00:00+00:00",
@@ -727,6 +830,26 @@
         "recall_classification": null
     },
     {
+        "title": "UP Products, LLC, DBA Meyer Wholesale Recalls Ready-To-Eat and Raw Sausage Products Due to Misbranding and Undeclared Allergen",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-01-13T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "UP Products, LLC",
+        "brand_name": null,
+        "product_description": "5&quot; x 8&quot; vacuum-sealed packages containing “Otto Meyer&#039;s Premium Sausage POLISH SAUSAGE” with lot codes 24304, 24318, 24326, 24346 on a sticker., Bulk packed in 12&quot; x 24&quot; clear bags containing “Otto Meyer&#039;s Premium Sausage POTATO SAUSAGE” with dates 1/6/25, and 1/7/25 handwritten on the label.",
+        "impacted_states": [
+            "MI",
+            "WI"
+        ],
+        "agency": "USDA",
+        "uid": "3c0a9006-0170-4f7f-aba9-1fd35d39aba2",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/products-llc-dba-meyer-wholesale-recalls-ready-eat-and-raw-sausage-products-due",
+        "notice_id_number": "002-2025",
+        "recall_type": "Closed Outbreak",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Bestway Sandwiches Inc. Recalls Frozen Chicken And Cheese Taquito Products Due To Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-01-11T00:00:00+00:00",
@@ -793,8 +916,25 @@
         "impacted_states": [],
         "agency": "USDA",
         "uid": "7e59700d-b41e-4f53-bc8c-3bf39a4dc386",
-        "recall_url": null,
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-empanada-products-due-misbranding-and",
         "notice_id_number": "PHA-01082025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-01-05T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Stockyards Packing Co LLC",
+        "brand_name": null,
+        "product_description": "vacuum-sealed packages weighing approximately one pound containing “Turner Farm”, “STOCKYARDS PACKING COMPANY GROUND BEEF” and lot code 241210.  ",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "bdec1157-baae-4718-a821-9eaa34029cc6",
+        "recall_url": null,
+        "notice_id_number": "PHA-01052025-01",
         "recall_type": "Public Health Alert",
         "risk_level": "Public Health Alert",
         "recall_classification": "Public Health Alert"
