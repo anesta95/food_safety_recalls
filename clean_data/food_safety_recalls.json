@@ -1,5 +1,30 @@
 [
     {
+        "title": "Dessert Holdings Issues Allergy Alert on Undeclared Tree Nut Allergen in Favorite Day\u2122 Gourmet New York Style Cheesecake 6oz/2ct",
+        "company_announce_dttm": "2025-03-19T15:17:00+00:00",
+        "notification_dttm": "2025-03-20T04:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen - Pecans",
+        "company_name": "Dessert Holdings",
+        "brand_name": "Target",
+        "product_description": "Favorite Day Gourmet New York Style Cheesecake",
+        "impacted_states": [
+            "GA",
+            "CA",
+            "FL",
+            "IA",
+            "OH",
+            "TX",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "3f406cab-2e0a-4407-9984-9114d1539e04",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dessert-holdings-issues-allergy-alert-undeclared-tree-nut-allergen-favorite-daytm-gourmet-new-york",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Seabear Company Recalls Smoked Salmon Chowder and Alehouse Clam Chowder Because of Possible Health Risk",
         "company_announce_dttm": "2025-03-15T20:00:00+00:00",
         "notification_dttm": "2025-03-15T20:00:00+00:00",
