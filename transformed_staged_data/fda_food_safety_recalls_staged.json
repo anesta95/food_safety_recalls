@@ -1,5 +1,30 @@
 [
     {
+        "title": "Dessert Holdings Issues Allergy Alert on Undeclared Tree Nut Allergen in Favorite Day\u2122 Gourmet New York Style Cheesecake 6oz/2ct",
+        "company_announce_dttm": "2025-03-19T15:17:00+00:00",
+        "notification_dttm": "2025-03-20T04:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen - Pecans",
+        "company_name": "Dessert Holdings",
+        "brand_name": "Target",
+        "product_description": "Favorite Day Gourmet New York Style Cheesecake",
+        "impacted_states": [
+            "GA",
+            "CA",
+            "FL",
+            "IA",
+            "OH",
+            "TX",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "a918ccd6-3322-40c1-89e6-474f7c23d517",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dessert-holdings-issues-allergy-alert-undeclared-tree-nut-allergen-favorite-daytm-gourmet-new-york",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Nestl\u00e9 USA Announces Voluntary Recall of a Limited Quantity of Lean Cuisine\u00ae and STOUFFER\u2019S\u00ae Frozen Meals Due to Potential Presence of Foreign Material",
         "company_announce_dttm": "2025-03-17T15:51:00+00:00",
         "notification_dttm": "2025-03-18T04:00:00+00:00",
@@ -11,7 +36,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "d08f914d-8ef6-453b-9cdd-09297fbda0f4",
+        "uid": "555315c6-da4b-47bb-9625-07494c69a76c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nestle-usa-announces-voluntary-recall-limited-quantity-lean-cuisiner-and-stouffersr-frozen-meals-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -35,7 +60,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "e40f1269-4fa4-49c1-8a36-14aad4dd5d97",
+        "uid": "2d920ca0-79d2-417b-b5e7-4d1f01555899",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/seabear-company-recalls-smoked-salmon-chowder-and-alehouse-clam-chowder-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -55,7 +80,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "23220506-8c3f-4ec6-9356-6b977aaa7445",
+        "uid": "23b9a7c7-4f6c-40fb-98b7-a3e5fbba36c4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ch-guenther-son-llc-issues-allergy-alert-undeclared-egg-365-whole-foods-market-small-bites-macaroni",
         "notice_id_number": null,
         "recall_type": null,
@@ -74,7 +99,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "29000073-8612-42c9-8440-34a5c599ffd4",
+        "uid": "a63c72ff-d0f2-490e-80e5-faf053f4566f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/har-maspeth-corp-issues-allergy-alert-undeclared-eggs-jinga-glass-noodles-w-vegetables-japche",
         "notice_id_number": null,
         "recall_type": null,
@@ -94,7 +119,7 @@
             "HI"
         ],
         "agency": "FDA",
-        "uid": "5eaeecfe-3a54-4002-9ef9-d79e02924059",
+        "uid": "c7365e11-d169-47da-be03-f866eaf2e96f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/liaoning-cheng-da-usa-inc-san-gabriel-california-recalling-hot-pot-sauce-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -115,7 +140,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "af6322b4-5426-423e-a29a-407c02e6f67e",
+        "uid": "5132a8af-5400-4ae7-ab46-0562d601b818",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-daily-veggies-brand-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -137,7 +162,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "3d3016c2-bcc8-456a-aa55-7cfb3890cbd4",
+        "uid": "427a0338-73f0-429f-a844-a8bdb3cac24c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-rasayan-churan-zaarah-herbals-gurmar-powder-zaarah",
         "notice_id_number": null,
         "recall_type": null,
@@ -161,7 +186,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "699451ee-7e52-49c6-9e01-2a32882f3adc",
+        "uid": "7939f389-bb02-4126-b1d0-f1cc53b6072c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/adm-recalls-select-pelleted-cattle-nutrition-feed-products",
         "notice_id_number": null,
         "recall_type": null,
@@ -181,7 +206,7 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "ff0db069-8546-40ea-a97e-a05102a6d87a",
+        "uid": "93f7e184-96a8-43a8-a143-46796d8e53b3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/us-trading-company-hayward-ca-recalling-joy-luck-brand-lily-flowers-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -200,7 +225,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "7806ed12-2a5e-4594-951f-79e01ca2758f",
+        "uid": "f788adca-95ce-4173-ad2d-418b37fde82c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-prepared-vegetable-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -221,7 +246,7 @@
             "NH"
         ],
         "agency": "FDA",
-        "uid": "fd2430f9-a10b-4bdc-b1f1-44d604125591",
+        "uid": "51f7cd25-ef25-4865-aa91-e8a2c104b028",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/little-leaf-farms-announces-limited-voluntary-withdrawal-specific-lot-code-southwest-salad-kit-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -240,7 +265,7 @@
             "IN"
         ],
         "agency": "FDA",
-        "uid": "3fb49817-af28-41d1-a0ea-bf9a8acb3e5c",
+        "uid": "e1b21c1d-84c1-43fe-9937-117146a6248b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lyons-magnus-recalls-lyons-readycare-and-sysco-imperial-frozen-supplemental-shakes-manufactured",
         "notice_id_number": null,
         "recall_type": null,
@@ -262,7 +287,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "acc78261-4a19-458b-99d4-8713f4932f1c",
+        "uid": "6a4c90ce-e00e-4da0-b066-65621778664a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kayco-issues-allergy-alert-undeclared-milk-limited-units-glicks-dark-chocolate-conettos",
         "notice_id_number": null,
         "recall_type": null,
@@ -281,7 +306,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "ab35d7a7-7b99-48e1-8174-df19fef6d8f8",
+        "uid": "42eaaa3c-52fa-4e64-9ac4-159dc950d774",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kedake-inc-issues-allergy-alert-undeclared-sesame-soy-wheat-yellow-no-5-yellow-no-6-and-red-no-6",
         "notice_id_number": null,
         "recall_type": null,
@@ -336,7 +361,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "4de49612-ad16-49e4-8b7d-87f222f6b9a9",
+        "uid": "d6a9b3b3-5abc-4df7-88b2-e6ab34c7e853",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/zb-importing-issue-voluntary-recall-and-allergy-alert-undeclared-egg-wheat-and-milk-certain-ulker",
         "notice_id_number": null,
         "recall_type": null,
@@ -368,7 +393,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "5927c1a1-e0ea-4a45-9f73-ac5429360e79",
+        "uid": "c96e3e9a-603b-4571-baad-803dcefd5cd7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naturipe-value-added-fresh-llc-issues-allergy-alert-undeclared-wheat-eggs-berry-buddies-berries",
         "notice_id_number": null,
         "recall_type": null,
@@ -388,7 +413,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "e9cd46a4-eb19-4b81-acc0-f14eb66013ab",
+        "uid": "46da3beb-eb9b-4168-841b-cf0deb001d5a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mauna-loa-macadamia-nut-company-llc-issues-product-recall-undeclared-almonds-mauna-loa-milk",
         "notice_id_number": null,
         "recall_type": null,
@@ -407,7 +432,7 @@
             "MN"
         ],
         "agency": "FDA",
-        "uid": "5c704c6d-2310-493f-bcc1-7f46294812d4",
+        "uid": "217f1ba7-b206-4d82-adf3-98453b4d8823",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/je-bakery-2019-llc-dba-broadway-bakery-issues-allergy-alert-mislabeled-raisin-bran-muffin-6-count",
         "notice_id_number": null,
         "recall_type": null,
@@ -426,29 +451,8 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "971d0e47-cf7d-4166-b8cc-b2278d91b2ce",
+        "uid": "436cb911-091d-4f62-a585-a62e6aa40bfb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-seasoned-bamboo-shoots-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Jack and the Green Sprouts Recalls Expired Alfalfa Sprouts Because of Possible Health Risk",
-        "company_announce_dttm": "2025-02-07T20:53:00+00:00",
-        "notification_dttm": "2025-02-08T05:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
-        "company_name": "Jack and the Green Sprouts, Inc.",
-        "brand_name": "Jack & the Green Sprouts",
-        "product_description": "Alfalfa Sprouts",
-        "impacted_states": [
-            "WI",
-            "MN",
-            "IA"
-        ],
-        "agency": "FDA",
-        "uid": "81320a53-0ba8-471e-a1df-d3b8cb6caf84",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jack-and-green-sprouts-recalls-expired-alfalfa-sprouts-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
