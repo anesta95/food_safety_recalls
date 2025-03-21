@@ -1,5 +1,25 @@
 [
     {
+        "title": "Idaho Smokehouse Partners Recalls Ready-To-Eat Beef Stick Products Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-03-20T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Idaho Smokehouse Partners LLC",
+        "brand_name": null,
+        "product_description": " 1.15-oz vacuum-sealed packages of \u201cCHOMPS ORIGINAL BEEF STICK MILD,\u201d with an expiration date of 02-10-2026, and lot code 25016 printed on the label.",
+        "impacted_states": [
+            "CA",
+            "IL"
+        ],
+        "agency": "USDA",
+        "uid": "182bd22b-a3d9-4d05-abae-7e52aebaef37",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/idaho-smokehouse-partners-recalls-ready-eat-beef-stick-products-due-possible-foreign",
+        "notice_id_number": "008-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Dessert Holdings Issues Allergy Alert on Undeclared Tree Nut Allergen in Favorite Day\u2122 Gourmet New York Style Cheesecake 6oz/2ct",
         "company_announce_dttm": "2025-03-19T15:17:00+00:00",
         "notification_dttm": "2025-03-20T04:00:00+00:00",
