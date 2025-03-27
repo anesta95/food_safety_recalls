@@ -1,5 +1,36 @@
 [
     {
+        "title": "Frito-Lay Issues Limited Recall for Tostitos Cantina Traditional Yellow Corn Tortilla Chips for Undeclared Milk",
+        "company_announce_dttm": "2025-03-26T12:00:00+00:00",
+        "notification_dttm": "2025-03-27T14:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "Frito-Lay",
+        "brand_name": "Tostitos",
+        "product_description": " Cantina Traditional Yellow Corn Tortilla Chips",
+        "impacted_states": [
+            "AL",
+            "FL",
+            "GA",
+            "IL",
+            "IN",
+            "KY",
+            "MS",
+            "NC",
+            "OH",
+            "SC",
+            "TN",
+            "VA",
+            "WV"
+        ],
+        "agency": "FDA",
+        "uid": "60c231e0-c729-4e1a-9819-f6d0a27faa26",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-tostitos-cantina-traditional-yellow-corn-tortilla-chips-undeclared",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Idaho Smokehouse Partners Recalls Ready-To-Eat Beef Stick Products Due to Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-03-20T00:00:00+00:00",
