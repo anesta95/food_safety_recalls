@@ -1,5 +1,25 @@
 [
     {
+        "title": "Cromer Food Services, Inc. Recalls Chicken Salad on White Sandwich Due to Undeclared Milk Allergen",
+        "company_announce_dttm": "2025-03-27T20:00:00+00:00",
+        "notification_dttm": "2025-03-27T20:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "Cromer Food Services, Inc.",
+        "brand_name": "CFS Cromer Food Services, Inc.",
+        "product_description": "Chicken salad on white bread sandwich",
+        "impacted_states": [
+            "GA",
+            "SC"
+        ],
+        "agency": "FDA",
+        "uid": "077b1df1-08a4-425a-b54d-2927be2103c4",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cromer-food-services-inc-recalls-chicken-salad-white-sandwich-due-undeclared-milk-allergen",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Frito-Lay Issues Limited Recall for Tostitos Cantina Traditional Yellow Corn Tortilla Chips for Undeclared Milk",
         "company_announce_dttm": "2025-03-26T12:00:00+00:00",
         "notification_dttm": "2025-03-27T14:00:00+00:00",
