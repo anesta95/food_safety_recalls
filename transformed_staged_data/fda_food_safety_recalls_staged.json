@@ -12,7 +12,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "5598ba0e-c432-478f-99ce-07047a1b6463",
+        "uid": "024de522-707c-4ce3-a6cf-3e187cf3fa83",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cromer-food-services-inc-recalls-chicken-salad-white-sandwich-due-undeclared-milk-allergen",
         "notice_id_number": null,
         "recall_type": null,
@@ -43,7 +43,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "2b7a5bf3-cc8b-400b-9257-0a071fce0f25",
+        "uid": "6784254d-453c-4fe6-8f1d-957a7d18bed5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-tostitos-cantina-traditional-yellow-corn-tortilla-chips-undeclared",
         "notice_id_number": null,
         "recall_type": null,
@@ -68,7 +68,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "e7b4ae76-febe-4912-97d0-dde1d5e97e19",
+        "uid": "0e8fc73d-73d7-4611-bad4-c385db5baa2c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dessert-holdings-issues-allergy-alert-undeclared-tree-nut-allergen-favorite-daytm-gourmet-new-york",
         "notice_id_number": null,
         "recall_type": null,
@@ -87,7 +87,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "b8c02ddb-8885-4d0c-bbcb-807d573952a1",
+        "uid": "fe185530-817e-49b3-a633-a53f9e9bc1b6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nestle-usa-announces-voluntary-recall-limited-quantity-lean-cuisiner-and-stouffersr-frozen-meals-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -111,8 +111,27 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "ead23890-f74b-427b-9bbc-bb138e0863d3",
+        "uid": "288c9b35-27e5-4534-890b-505931965466",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/seabear-company-recalls-smoked-salmon-chowder-and-alehouse-clam-chowder-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Har Maspeth Corp Issues Allergy Alert on Undeclared Eggs in \u201cJinga Glass Noodles w/ Vegetables (Japche)\u201d",
+        "company_announce_dttm": "2025-03-14T21:00:00+00:00",
+        "notification_dttm": "2025-03-14T21:00:00+00:00",
+        "recall_reason": "Undeclared eggs",
+        "company_name": "HAR Maspeth Corp",
+        "brand_name": "Jinga",
+        "product_description": "Glass noodles with vegetables",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "5446a9e0-1a7e-4dde-a940-8cb1c0fdb754",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/har-maspeth-corp-issues-allergy-alert-undeclared-eggs-jinga-glass-noodles-w-vegetables-japche",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
@@ -131,27 +150,8 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "005eebf6-3773-4a63-afcd-021dc91cea55",
+        "uid": "f8dd3949-090a-4792-9198-bf847d015407",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ch-guenther-son-llc-issues-allergy-alert-undeclared-egg-365-whole-foods-market-small-bites-macaroni",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Har Maspeth Corp Issues Allergy Alert on Undeclared Eggs in \u201cJinga Glass Noodles w/ Vegetables (Japche)\u201d",
-        "company_announce_dttm": "2025-03-14T21:00:00+00:00",
-        "notification_dttm": "2025-03-14T21:00:00+00:00",
-        "recall_reason": "Undeclared eggs",
-        "company_name": "HAR Maspeth Corp",
-        "brand_name": "Jinga",
-        "product_description": "Glass noodles with vegetables",
-        "impacted_states": [
-            "NY"
-        ],
-        "agency": "FDA",
-        "uid": "6e137787-e11b-4317-96f0-2efb2656f3fe",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/har-maspeth-corp-issues-allergy-alert-undeclared-eggs-jinga-glass-noodles-w-vegetables-japche",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
@@ -170,7 +170,7 @@
             "HI"
         ],
         "agency": "FDA",
-        "uid": "bcbbf5f7-10bf-4cf6-bd23-b01e6ba0aeab",
+        "uid": "122c00c8-fa68-4a90-b706-46cfb754b63e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/liaoning-cheng-da-usa-inc-san-gabriel-california-recalling-hot-pot-sauce-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -191,7 +191,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "f34055f5-cce1-4d9b-a7ac-61f7a4cc852c",
+        "uid": "e0c1d8ab-b16f-436d-9509-ecd3ca106cc7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-daily-veggies-brand-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -213,7 +213,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "a188446b-4a69-4bac-a430-c543a39b03b9",
+        "uid": "b2a9ea07-1eab-4ab6-b93b-cd80c59de82e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-rasayan-churan-zaarah-herbals-gurmar-powder-zaarah",
         "notice_id_number": null,
         "recall_type": null,
@@ -237,7 +237,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "d5444654-52b1-462e-8c5e-10d5574a74b6",
+        "uid": "47f90236-ece5-4cbd-9ebd-df0c74bb4894",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/adm-recalls-select-pelleted-cattle-nutrition-feed-products",
         "notice_id_number": null,
         "recall_type": null,
@@ -257,7 +257,7 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "e19a15df-89e9-476f-a3ab-fe3962d34d32",
+        "uid": "f4f01679-df30-4d60-974e-7098aabd8086",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/us-trading-company-hayward-ca-recalling-joy-luck-brand-lily-flowers-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -276,7 +276,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "a2619bf2-cece-4163-bbf7-423ba11dd427",
+        "uid": "6fde7195-00ad-47ee-b374-0251aabddf44",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-prepared-vegetable-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -297,7 +297,7 @@
             "NH"
         ],
         "agency": "FDA",
-        "uid": "63245b0d-dabb-45c8-9782-b385bb3dbfa0",
+        "uid": "b811a0e7-76c5-4b49-ba09-08abd66d251a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/little-leaf-farms-announces-limited-voluntary-withdrawal-specific-lot-code-southwest-salad-kit-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -316,7 +316,7 @@
             "IN"
         ],
         "agency": "FDA",
-        "uid": "45ceb608-0741-48dc-a995-00e2cfdece13",
+        "uid": "dbcada89-67dc-4252-a089-297ba7c84cd2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lyons-magnus-recalls-lyons-readycare-and-sysco-imperial-frozen-supplemental-shakes-manufactured",
         "notice_id_number": null,
         "recall_type": null,
@@ -338,7 +338,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "9d431b20-0c92-40d8-883a-fde19a4bc23d",
+        "uid": "b45cfbe9-ec9d-4edf-a845-95e9a644836d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kayco-issues-allergy-alert-undeclared-milk-limited-units-glicks-dark-chocolate-conettos",
         "notice_id_number": null,
         "recall_type": null,
@@ -357,7 +357,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "4e931818-d082-455a-a685-a3a1d38e34dc",
+        "uid": "4c637d54-13d5-48d0-b6d1-cf9428d71e51",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kedake-inc-issues-allergy-alert-undeclared-sesame-soy-wheat-yellow-no-5-yellow-no-6-and-red-no-6",
         "notice_id_number": null,
         "recall_type": null,
@@ -412,7 +412,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "d4c918f3-19b1-47c6-bd1c-baf7aab026a9",
+        "uid": "8fa9418b-dea0-4e2d-aa32-10aefc69b0b1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/zb-importing-issue-voluntary-recall-and-allergy-alert-undeclared-egg-wheat-and-milk-certain-ulker",
         "notice_id_number": null,
         "recall_type": null,
@@ -444,7 +444,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "eeef041c-c6e1-4834-8c89-95ee84157b60",
+        "uid": "8dfdfd8b-1876-4ff7-9b63-77316a26d18b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naturipe-value-added-fresh-llc-issues-allergy-alert-undeclared-wheat-eggs-berry-buddies-berries",
         "notice_id_number": null,
         "recall_type": null,
@@ -464,7 +464,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "27624c12-1365-4ebb-8168-bbd3a3d370a3",
+        "uid": "824ead67-3736-432b-86fd-93fe109b398c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mauna-loa-macadamia-nut-company-llc-issues-product-recall-undeclared-almonds-mauna-loa-milk",
         "notice_id_number": null,
         "recall_type": null,
