@@ -1,5 +1,22 @@
 [
     {
+        "title": "Cargill Kitchen Solutions Recalls Liquid Egg Products  Due to an Unapproved Substance",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-03-28T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Cargill Kitchen Solutions, Inc.",
+        "brand_name": null,
+        "product_description": "32-oz. (2 LB) carton containing \u201cegg beaters ORIGINAL LIQUID EGG SUBSTITUTE\u201d and USE BY AUG 10 2025., 32-oz. (2 LB) carton containing \u201cegg beaters CAGE-FREE ORIGINAL LIQUID EGG SUBSTITUTE\u201d and USE BY AUG 09 2025., 32-oz. (2 LB) carton containing \u201cegg beaters CAGE-FREE ORIGINAL FROZEN EGG SUBSTITUTE\u201d and \u201cegg beaters NO ENJAULADAS ORIGINAL SUSTITUTO DE HUEVO CONGELADO\u201d and USE BY MAR 07 2026., 32-oz. (2 LB) carton containing \u201cBob Evans Better\u2019n Eggs Made with Real Egg Whites LIQUID EGG SUBSTITUTE\u201d and USE BY AUG 10 2025.",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "e9b05f14-93f2-4c3e-864b-08c4cb41deee",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/cargill-kitchen-solutions-recalls-liquid-egg-products-due-unapproved-substance",
+        "notice_id_number": "009-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "Marginal - Class III",
+        "recall_classification": "Class III"
+    },
+    {
         "title": "The Bakery Group Issues Allergen Alert on Undeclared Milk, Soy and Yellow FD&C #5 In Specific Bread and Hamburger Buns",
         "company_announce_dttm": "2025-03-25T20:31:00+00:00",
         "notification_dttm": "2025-03-28T04:00:00+00:00",
