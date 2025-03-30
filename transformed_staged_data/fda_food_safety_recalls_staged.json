@@ -12,7 +12,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "3fa41538-5bfe-49b3-95e2-5990c0cc6950",
+        "uid": "73770ef1-b839-4a21-b560-7082eb7c93e5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cromer-food-services-inc-recalls-chicken-salad-white-sandwich-due-undeclared-milk-allergen",
         "notice_id_number": null,
         "recall_type": null,
@@ -43,27 +43,8 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "dbed62ef-e87d-4a62-a08b-5b789dbc7e24",
+        "uid": "eaab3257-9245-470a-9d23-d00faa3f4f34",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-tostitos-cantina-traditional-yellow-corn-tortilla-chips-undeclared",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "The Bakery Group Issues Allergen Alert on Undeclared Milk, Soy and Yellow FD&C #5 In Specific Bread and Hamburger Buns",
-        "company_announce_dttm": "2025-03-25T20:31:00+00:00",
-        "notification_dttm": "2025-03-28T04:00:00+00:00",
-        "recall_reason": "May contain undeclared milk, soy and yellow FD&C # 5",
-        "company_name": "The Bakery Group",
-        "brand_name": "Ben E. Keith, Rodeo Goat, Casa Linda",
-        "product_description": " Brioche loaves, Brioche Buns",
-        "impacted_states": [
-            "TX"
-        ],
-        "agency": "FDA",
-        "uid": "0b24bc74-fd67-4f14-ae1a-1f2b998875b6",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bakery-group-issues-allergen-alert-undeclared-milk-soy-and-yellow-fdc-5-specific-bread-and-hamburger",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
@@ -87,7 +68,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "febb2203-b924-4026-8eb0-db90e8024dc7",
+        "uid": "d3069d90-587b-46c0-9af6-9aab36bff7ba",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dessert-holdings-issues-allergy-alert-undeclared-tree-nut-allergen-favorite-daytm-gourmet-new-york",
         "notice_id_number": null,
         "recall_type": null,
@@ -106,7 +87,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "1331447a-3e66-40d3-b247-9ef4c3f63cac",
+        "uid": "3f900417-d9e5-4437-aae9-8639950b9545",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nestle-usa-announces-voluntary-recall-limited-quantity-lean-cuisiner-and-stouffersr-frozen-meals-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -130,7 +111,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "68c73c6b-9866-4d79-8459-428b278d7a29",
+        "uid": "8cef1c38-e873-4867-9674-dcd8c373fd05",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/seabear-company-recalls-smoked-salmon-chowder-and-alehouse-clam-chowder-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -149,7 +130,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "82ec58d7-921b-418e-872f-8db26a02918c",
+        "uid": "ad4cffb6-737b-487a-97a3-40b5d4ee4d56",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/har-maspeth-corp-issues-allergy-alert-undeclared-eggs-jinga-glass-noodles-w-vegetables-japche",
         "notice_id_number": null,
         "recall_type": null,
@@ -169,7 +150,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "82e6e04b-ef7b-4db9-b2c5-98ea099dd057",
+        "uid": "dab73b92-5d3f-4284-bf13-2ab3a0e86364",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ch-guenther-son-llc-issues-allergy-alert-undeclared-egg-365-whole-foods-market-small-bites-macaroni",
         "notice_id_number": null,
         "recall_type": null,
@@ -189,7 +170,7 @@
             "HI"
         ],
         "agency": "FDA",
-        "uid": "3f7bfec7-13ef-4607-b98d-947bc714d710",
+        "uid": "edd9668e-813a-47d8-8f7b-66f9183e059c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/liaoning-cheng-da-usa-inc-san-gabriel-california-recalling-hot-pot-sauce-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -210,7 +191,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "52460f56-6f8b-4a2e-b5a9-cc1507de3a09",
+        "uid": "24bfd5a1-885c-4343-8750-88989c1eaa21",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-daily-veggies-brand-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -232,7 +213,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "b2b7539e-6aaf-42ac-980e-4cde8e764877",
+        "uid": "77f35f33-ca27-41ff-b0c1-716c3ddb6088",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-rasayan-churan-zaarah-herbals-gurmar-powder-zaarah",
         "notice_id_number": null,
         "recall_type": null,
@@ -256,7 +237,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "ae2ee189-ac9a-450c-9d07-2a1d14791b0a",
+        "uid": "8edce577-a835-484e-89cd-b4afb1620a7d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/adm-recalls-select-pelleted-cattle-nutrition-feed-products",
         "notice_id_number": null,
         "recall_type": null,
@@ -276,7 +257,7 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "1baf55be-aa41-4a12-8924-f219d0f49a2f",
+        "uid": "1dcdb554-59f0-4b30-9944-860085a091bb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/us-trading-company-hayward-ca-recalling-joy-luck-brand-lily-flowers-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -295,7 +276,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "00a25e40-6165-404c-90b9-41f2c708a4d8",
+        "uid": "f0e67fcc-ad75-4e03-8ed6-456aeb755942",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-prepared-vegetable-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -316,7 +297,7 @@
             "NH"
         ],
         "agency": "FDA",
-        "uid": "84312a15-1e15-45f5-846b-f3767e41270a",
+        "uid": "40457a43-8120-4640-a7bb-6a9f072ee34d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/little-leaf-farms-announces-limited-voluntary-withdrawal-specific-lot-code-southwest-salad-kit-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -335,7 +316,7 @@
             "IN"
         ],
         "agency": "FDA",
-        "uid": "b2725d51-d864-451c-bf7c-4e5bd0afda68",
+        "uid": "fecda355-5c41-4d92-9056-3b5588d9b735",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lyons-magnus-recalls-lyons-readycare-and-sysco-imperial-frozen-supplemental-shakes-manufactured",
         "notice_id_number": null,
         "recall_type": null,
@@ -357,7 +338,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "804868d7-3c9e-4194-8e2e-279b8bfa5545",
+        "uid": "5235e0ba-7abe-4ad6-bf2b-37ff7d44f3ee",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kayco-issues-allergy-alert-undeclared-milk-limited-units-glicks-dark-chocolate-conettos",
         "notice_id_number": null,
         "recall_type": null,
@@ -376,7 +357,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "250059c7-82e6-49c5-b2a1-d5e7238f0710",
+        "uid": "7801d990-3634-492d-b066-74350c78c305",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kedake-inc-issues-allergy-alert-undeclared-sesame-soy-wheat-yellow-no-5-yellow-no-6-and-red-no-6",
         "notice_id_number": null,
         "recall_type": null,
@@ -431,7 +412,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "76bb4fcb-bc73-43e2-b052-95bc1e55fcc2",
+        "uid": "aaf5ad62-6651-4092-831f-de8fb6a19dd0",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/zb-importing-issue-voluntary-recall-and-allergy-alert-undeclared-egg-wheat-and-milk-certain-ulker",
         "notice_id_number": null,
         "recall_type": null,
@@ -463,8 +444,28 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "97ae6928-9523-461e-bfea-f56d0a2afb44",
+        "uid": "6558df6f-13e8-49e4-96bf-65d04664879f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naturipe-value-added-fresh-llc-issues-allergy-alert-undeclared-wheat-eggs-berry-buddies-berries",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Mauna Loa Macadamia Nut Company, LLC Issues a Product Recall on Undeclared Almonds in Mauna Loa Milk Chocolate Covered Macadamias (1oz) Pouches",
+        "company_announce_dttm": "2025-02-16T01:00:00+00:00",
+        "notification_dttm": "2025-02-16T01:00:00+00:00",
+        "recall_reason": "Undeclared almonds",
+        "company_name": "Mauna Loa Macadamia Nut Company, LLC",
+        "brand_name": "Mauna Loa",
+        "product_description": "Mauna Loa Milk Chocolate Covered Macadamias",
+        "impacted_states": [
+            "HI",
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "cdbe1050-7b7a-4c8f-b55a-95f44fb294e0",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mauna-loa-macadamia-nut-company-llc-issues-product-recall-undeclared-almonds-mauna-loa-milk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
