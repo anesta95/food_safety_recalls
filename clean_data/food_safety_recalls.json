@@ -1,5 +1,26 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for White Chicken Chili Imported Without the Benefit of Import Reinspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-03-31T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "7 lbs. 2 oz. cartons containing eight, 14.3-oz. plastic tubs of \u201cAllen FAMILY FOODS WHITE CHICKEN CHILI with Bell Peppers, Corn &amp; White Beans,\u201d with lot codes E225077, E225079, E225080, E225081, E225083 and \u201cbest before by dates\u201d of 03/18/2026, 03/20/20",
+        "impacted_states": [
+            "ID",
+            "OR",
+            "WA"
+        ],
+        "agency": "USDA",
+        "uid": "ff5c48c8-03a2-466b-a715-2bd3a1e4d94f",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-white-chicken-chili-imported-without-benefit-import",
+        "notice_id_number": "PHA-03312025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Cargill Kitchen Solutions Recalls Liquid Egg Products  Due to an Unapproved Substance",
         "company_announce_dttm": null,
         "notification_dttm": "2025-03-28T00:00:00+00:00",
