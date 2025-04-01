@@ -1,5 +1,35 @@
 [
     {
+        "title": "Walker\u2019s Wine Juice LLC Recalls Product Due to Possible Health Risk",
+        "company_announce_dttm": "2025-04-01T12:36:00+00:00",
+        "notification_dttm": "2025-04-01T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Botulism",
+        "company_name": "Walker\u2019s Wine Juice LLC",
+        "brand_name": "Walker\u2019s Wine Juice LLC",
+        "product_description": "Pumpkin Juice",
+        "impacted_states": [
+            "NY",
+            "IL",
+            "IN",
+            "KS",
+            "KY",
+            "ME",
+            "MI",
+            "MN",
+            "NJ",
+            "OH",
+            "PA",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "45299c32-0a9b-484b-9ee8-dec5b1dc8ba9",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walkers-wine-juice-llc-recalls-product-due-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Undeclared Allergen in Trader Joe\u2019s Hot Honey Mustard Dressing with Use By Date of 05/27/2025 Issued by Fresh Creative Foods",
         "company_announce_dttm": "2025-03-31T00:00:00+00:00",
         "notification_dttm": "2025-03-31T04:00:00+00:00",
