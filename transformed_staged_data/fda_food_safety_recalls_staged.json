@@ -1,5 +1,25 @@
 [
     {
+        "title": "Tony's Chocolonely Recalls Two Chocolate Products Because They May Contain Small Stones",
+        "company_announce_dttm": "2025-04-01T13:57:00+00:00",
+        "notification_dttm": "2025-04-02T04:00:00+00:00",
+        "recall_reason": "Potential presence of small stones",
+        "company_name": "Tony\u2019s Chocolonely Inc.",
+        "brand_name": "Tony\u2019s Chocolonely Inc.",
+        "product_description": "Dark Chocolate Almond Sea Salt Bar and Everything Bar",
+        "impacted_states": [
+            "US",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "9d56d5ff-359d-43b8-a68e-ec051713cfa1",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonys-chocolonely-recalls-two-chocolate-products-because-they-may-contain-small-stones",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Walker\u2019s Wine Juice LLC Recalls Product Due to Possible Health Risk",
         "company_announce_dttm": "2025-04-01T12:36:00+00:00",
         "notification_dttm": "2025-04-01T04:00:00+00:00",
@@ -22,7 +42,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "45299c32-0a9b-484b-9ee8-dec5b1dc8ba9",
+        "uid": "ed970401-49cc-4c3f-ab49-d14b6d0ea1f5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walkers-wine-juice-llc-recalls-product-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -59,7 +79,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "76eaea00-7662-4b3e-948f-02a2ff192d61",
+        "uid": "6aec7ad4-ff9a-485d-9769-6b960a0bf3f5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/undeclared-allergen-trader-joes-hot-honey-mustard-dressing-use-date-05272025-issued-fresh-creative",
         "notice_id_number": null,
         "recall_type": null,
@@ -79,7 +99,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "42c95a0f-74c6-4695-b647-a5670dbbe02b",
+        "uid": "c6029983-f879-4e38-80b4-28d8b50671a6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cromer-food-services-inc-recalls-chicken-salad-white-sandwich-due-undeclared-milk-allergen",
         "notice_id_number": null,
         "recall_type": null,
@@ -110,7 +130,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "3a0be143-851c-49ba-a27f-fc74c5ab4ac9",
+        "uid": "cd7bccdd-f004-4bd5-b0a5-8dd3f910592e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-tostitos-cantina-traditional-yellow-corn-tortilla-chips-undeclared",
         "notice_id_number": null,
         "recall_type": null,
@@ -129,7 +149,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "23d9aaa4-a930-467d-aa30-b38f569ec9e2",
+        "uid": "b91f2d82-33e2-4d97-a9fc-697b5b802868",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bakery-group-issues-allergen-alert-undeclared-milk-soy-and-yellow-fdc-5-specific-bread-and-hamburger",
         "notice_id_number": null,
         "recall_type": null,
@@ -154,7 +174,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "c07c0f95-0097-406a-b1c4-09d5f1ce94f1",
+        "uid": "d360aa01-aa0c-41e7-90fc-6fb55322c3d2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dessert-holdings-issues-allergy-alert-undeclared-tree-nut-allergen-favorite-daytm-gourmet-new-york",
         "notice_id_number": null,
         "recall_type": null,
@@ -173,7 +193,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "62b84e0d-1e7c-4a94-888b-31c5bf372aba",
+        "uid": "b630856d-7aa8-444d-9760-058c933770f6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nestle-usa-announces-voluntary-recall-limited-quantity-lean-cuisiner-and-stouffersr-frozen-meals-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -197,7 +217,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "5f9b1b56-d653-4794-9f17-92e7510596cc",
+        "uid": "9e8068f8-d1d5-4bd1-b1be-8c0ebfa68468",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/seabear-company-recalls-smoked-salmon-chowder-and-alehouse-clam-chowder-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -216,7 +236,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "5b23731b-7d06-4758-b118-a2cc2819340e",
+        "uid": "5e82a744-049d-4aff-a122-6b3f4afe05c6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/har-maspeth-corp-issues-allergy-alert-undeclared-eggs-jinga-glass-noodles-w-vegetables-japche",
         "notice_id_number": null,
         "recall_type": null,
@@ -236,7 +256,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "736b55b0-e419-43dc-a0cc-62071fd3a071",
+        "uid": "38a59b97-beed-447c-aadd-033a1864fcb4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ch-guenther-son-llc-issues-allergy-alert-undeclared-egg-365-whole-foods-market-small-bites-macaroni",
         "notice_id_number": null,
         "recall_type": null,
@@ -256,7 +276,7 @@
             "HI"
         ],
         "agency": "FDA",
-        "uid": "f4396f70-17d0-40ef-92ed-fdf38e70bbe7",
+        "uid": "c2e96e41-3c9e-4123-a46a-04615f80d84c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/liaoning-cheng-da-usa-inc-san-gabriel-california-recalling-hot-pot-sauce-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -277,7 +297,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "66dfc25d-43bb-46a9-adfb-fae37eb33f8f",
+        "uid": "0dbb5bef-9f25-41b9-b563-38f5cc5de256",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-daily-veggies-brand-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -299,7 +319,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "8db66c30-7b84-45e9-8448-439848013a27",
+        "uid": "6f978624-9815-4689-8847-c2d78d9208a4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-rasayan-churan-zaarah-herbals-gurmar-powder-zaarah",
         "notice_id_number": null,
         "recall_type": null,
@@ -323,7 +343,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "c65a020f-9576-4078-a6d1-ea624d6f70a3",
+        "uid": "d5e43274-99c7-401b-816b-3c471fb7b5f8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/adm-recalls-select-pelleted-cattle-nutrition-feed-products",
         "notice_id_number": null,
         "recall_type": null,
@@ -343,7 +363,7 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "543fb471-5a67-4879-9361-b4dd4f2ce8e3",
+        "uid": "92dda0f2-2f6f-4bb7-bbcb-81686595723b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/us-trading-company-hayward-ca-recalling-joy-luck-brand-lily-flowers-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -362,7 +382,7 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "fdbca7dd-e757-4477-bc0f-a66b661b160e",
+        "uid": "024fd04b-ef97-4973-ab68-376ac7e9c1c6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-prepared-vegetable-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -383,7 +403,7 @@
             "NH"
         ],
         "agency": "FDA",
-        "uid": "bfe98598-2dd4-444e-a5e0-7756f8cea4ce",
+        "uid": "6098eb49-e1e2-4d3e-a6ec-5c3ea9439f09",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/little-leaf-farms-announces-limited-voluntary-withdrawal-specific-lot-code-southwest-salad-kit-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -402,7 +422,7 @@
             "IN"
         ],
         "agency": "FDA",
-        "uid": "20ed82c6-bd96-4104-8af2-f0f71abdf82a",
+        "uid": "fdb5b621-5268-4144-ab93-6199c91b7a18",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lyons-magnus-recalls-lyons-readycare-and-sysco-imperial-frozen-supplemental-shakes-manufactured",
         "notice_id_number": null,
         "recall_type": null,
@@ -424,27 +444,8 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "29a38a8c-f215-465f-97cb-fae7728a6df3",
+        "uid": "708f80c5-dbd1-4603-a20f-988af12b7182",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kayco-issues-allergy-alert-undeclared-milk-limited-units-glicks-dark-chocolate-conettos",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Kedake Inc. Issues Allergy Alert on Undeclared Sesame, Soy, Wheat, Yellow No. 5, Yellow No. 6, and Red No. 6 in Botana Mix Snacks",
-        "company_announce_dttm": "2025-02-20T21:19:00+00:00",
-        "notification_dttm": "2025-02-20T05:00:00+00:00",
-        "recall_reason": "Undeclared wheat, sesame, soy, yellow 5, yellow 6, red 6",
-        "company_name": "Kedake Inc",
-        "brand_name": "Las Ollas",
-        "product_description": "Las Ollas Botana Mix Snacks and Delights 2 lb packages",
-        "impacted_states": [
-            "TX"
-        ],
-        "agency": "FDA",
-        "uid": "3a8e2180-61b8-4c72-996a-27fdf684ea25",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kedake-inc-issues-allergy-alert-undeclared-sesame-soy-wheat-yellow-no-5-yellow-no-6-and-red-no-6",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
