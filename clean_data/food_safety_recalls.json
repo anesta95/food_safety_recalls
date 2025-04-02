@@ -1,5 +1,25 @@
 [
     {
+        "title": "Tony's Chocolonely Recalls Two Chocolate Products Because They May Contain Small Stones",
+        "company_announce_dttm": "2025-04-01T13:57:00+00:00",
+        "notification_dttm": "2025-04-02T04:00:00+00:00",
+        "recall_reason": "Potential presence of small stones",
+        "company_name": "Tony\u2019s Chocolonely Inc.",
+        "brand_name": "Tony\u2019s Chocolonely Inc.",
+        "product_description": "Dark Chocolate Almond Sea Salt Bar and Everything Bar",
+        "impacted_states": [
+            "US",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "9d56d5ff-359d-43b8-a68e-ec051713cfa1",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonys-chocolonely-recalls-two-chocolate-products-because-they-may-contain-small-stones",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Walker\u2019s Wine Juice LLC Recalls Product Due to Possible Health Risk",
         "company_announce_dttm": "2025-04-01T12:36:00+00:00",
         "notification_dttm": "2025-04-01T04:00:00+00:00",
