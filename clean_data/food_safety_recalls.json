@@ -1,5 +1,25 @@
 [
     {
+        "title": "Panaderia Salvadorena, Inc. Issues Allergy Alert On Undeclared Milk In Quesadilla De Queso",
+        "company_announce_dttm": "2025-04-02T16:46:00+00:00",
+        "notification_dttm": "2025-04-02T04:00:00+00:00",
+        "recall_reason": "May contain undeclared milk",
+        "company_name": "Panaderia Salvadorena Inc.",
+        "brand_name": "Panaderia/Bakery",
+        "product_description": "Quesadilla de Queso bread",
+        "impacted_states": [
+            "RI",
+            "MA"
+        ],
+        "agency": "FDA",
+        "uid": "e68a1a99-1158-4bf3-810c-16dae936af30",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/panaderia-salvadorena-inc-issues-allergy-alert-undeclared-milk-quesadilla-de-queso",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Tony's Chocolonely Recalls Two Chocolate Products Because They May Contain Small Stones",
         "company_announce_dttm": "2025-04-01T13:57:00+00:00",
         "notification_dttm": "2025-04-02T04:00:00+00:00",
