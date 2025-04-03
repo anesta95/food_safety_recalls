@@ -1,5 +1,22 @@
 [
     {
+        "title": "Hearthside Food Solutions, LLC Recalls Ready-To-Eat Sausage and Bacon Breakfast Sandwiches Due to Misbranding and an Undeclared Allergen",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-04-02T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "Hearthside Food Solutions",
+        "brand_name": null,
+        "product_description": "8.35-oz. individually film wrapped sandwiches of \u201cLETTIERI\u2019S FOOD TO GO Sausage, Egg &amp; Cheese FRENCH TOAST BREAKFAST SANDWICH\u201d with lot codes beginning with the numbers 23, 24 and 25 up to 2508451., 7.3-oz. individually film wrapped sandwiches of \u201cLETTIERI\u2019S FOOD TO GO Bacon, Egg &amp; Cheese FRENCH TOAST BREAKFAST SANDWICH\u201d with lot codes beginning with the numbers 23, 24 and 25 up to 2508451.",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "56435b4d-13be-48f6-af59-e68ea2bddb84",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/hearthside-food-solutions-llc-recalls-ready-eat-sausage-and-bacon-breakfast",
+        "notice_id_number": "010-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Panaderia Salvadorena, Inc. Issues Allergy Alert On Undeclared Milk In Quesadilla De Queso",
         "company_announce_dttm": "2025-04-02T16:46:00+00:00",
         "notification_dttm": "2025-04-02T04:00:00+00:00",
