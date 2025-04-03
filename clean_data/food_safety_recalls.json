@@ -1,5 +1,34 @@
 [
     {
+        "title": "T.W. Garner Food Company Issues Recall on Texas Pete\u00ae Habanero Buffalo Sauce Due To Potential Presence of Undeclared Sulfites and Sweet CHAbanero Sweet Sriracha Habanero Sauce Due To Mislabeling",
+        "company_announce_dttm": "2025-04-03T20:48:00+00:00",
+        "notification_dttm": "2025-04-03T04:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen-Sulfites",
+        "company_name": "T.W. Garner Food Company",
+        "brand_name": "Texas Pete",
+        "product_description": " Condiments",
+        "impacted_states": [
+            "CA",
+            "CO",
+            "CT",
+            "IL",
+            "MA",
+            "NJ",
+            "NC",
+            "OH",
+            "VT",
+            "VA",
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "b9a04511-8573-43a1-8182-505644def48e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tw-garner-food-company-issues-recall-texas-peter-habanero-buffalo-sauce-due-potential-presence",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Hearthside Food Solutions, LLC Recalls Ready-To-Eat Sausage and Bacon Breakfast Sandwiches Due to Misbranding and an Undeclared Allergen",
         "company_announce_dttm": null,
         "notification_dttm": "2025-04-02T00:00:00+00:00",
