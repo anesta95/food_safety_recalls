@@ -1,5 +1,33 @@
 [
     {
+        "title": "Johnsonville, LLC, Recalls Cheddar Bratwurst Product Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-04-05T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Momence Real Estate",
+        "brand_name": null,
+        "product_description": "19-oz. Sealed firm tray packages containing five pieces of \u201cJohnsonville BRATS CHEDDAR Bratwurst\u201d and the package code B9FOD. ",
+        "impacted_states": [
+            "GA",
+            "IN",
+            "KS",
+            "KY",
+            "MI",
+            "MN",
+            "OH",
+            "TN",
+            "VA",
+            "WI"
+        ],
+        "agency": "USDA",
+        "uid": "64cb36ef-4f2c-4476-a0bb-c826e560f354",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/johnsonville-llc-recalls-cheddar-bratwurst-product-due-possible-foreign-matter",
+        "notice_id_number": "011-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "T.W. Garner Food Company Issues Recall on Texas Pete\u00ae Habanero Buffalo Sauce Due To Potential Presence of Undeclared Sulfites and Sweet CHAbanero Sweet Sriracha Habanero Sauce Due To Mislabeling",
         "company_announce_dttm": "2025-04-03T20:48:00+00:00",
         "notification_dttm": "2025-04-03T04:00:00+00:00",
