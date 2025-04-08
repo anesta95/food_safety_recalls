@@ -1,5 +1,24 @@
 [
     {
+        "title": "Caraluzzi\u2019s Markets Issues Allergy Alert on Undeclared Egg in Caraluzzi\u2019s Italian Style Seafood Burger, 8 oz",
+        "company_announce_dttm": "2025-04-08T21:56:00+00:00",
+        "notification_dttm": "2025-04-08T04:00:00+00:00",
+        "recall_reason": "Undeclared egg allergen",
+        "company_name": "Caraluzzi Markets",
+        "brand_name": "Caraluzzi\u2019s",
+        "product_description": " Italian Style Seafood Burgers",
+        "impacted_states": [
+            "CT"
+        ],
+        "agency": "FDA",
+        "uid": "88673376-a5f0-4f9c-a800-81537895ca85",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/caraluzzis-markets-issues-allergy-alert-undeclared-egg-caraluzzis-italian-style-seafood-burger-8-oz",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Johnsonville, LLC, Recalls Cheddar Bratwurst Product Due to Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-04-05T00:00:00+00:00",
