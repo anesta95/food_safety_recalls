@@ -1,5 +1,24 @@
 [
     {
+        "title": "Caraluzzi\u2019s Markets Issues Allergy Alert on Undeclared Egg in Caraluzzi\u2019s Italian Style Seafood Burger, 8 oz",
+        "company_announce_dttm": "2025-04-08T21:56:00+00:00",
+        "notification_dttm": "2025-04-08T04:00:00+00:00",
+        "recall_reason": "Undeclared egg allergen",
+        "company_name": "Caraluzzi Markets",
+        "brand_name": "Caraluzzi\u2019s",
+        "product_description": " Italian Style Seafood Burgers",
+        "impacted_states": [
+            "CT"
+        ],
+        "agency": "FDA",
+        "uid": "88673376-a5f0-4f9c-a800-81537895ca85",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/caraluzzis-markets-issues-allergy-alert-undeclared-egg-caraluzzis-italian-style-seafood-burger-8-oz",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "T.W. Garner Food Company Issues Recall on Texas Pete\u00ae Habanero Buffalo Sauce Due To Potential Presence of Undeclared Sulfites and Sweet CHAbanero Sweet Sriracha Habanero Sauce Due To Mislabeling",
         "company_announce_dttm": "2025-04-03T20:48:00+00:00",
         "notification_dttm": "2025-04-03T04:00:00+00:00",
@@ -21,7 +40,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "b9a04511-8573-43a1-8182-505644def48e",
+        "uid": "c2f0e1b2-1b67-418c-9542-ffdb4eed8f77",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tw-garner-food-company-issues-recall-texas-peter-habanero-buffalo-sauce-due-potential-presence",
         "notice_id_number": null,
         "recall_type": null,
@@ -41,7 +60,7 @@
             "MA"
         ],
         "agency": "FDA",
-        "uid": "620132c8-872e-4e18-82c2-3906b56bb52d",
+        "uid": "4da406d0-7b1d-49b2-b8a6-7e3145ca5da2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/panaderia-salvadorena-inc-issues-allergy-alert-undeclared-milk-quesadilla-de-queso",
         "notice_id_number": null,
         "recall_type": null,
@@ -61,7 +80,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "c282e487-248e-49e8-8c71-4050242ad37d",
+        "uid": "2cdba8aa-df59-4bdc-82ca-05bef640ac3b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonys-chocolonely-recalls-two-chocolate-products-because-they-may-contain-small-stones",
         "notice_id_number": null,
         "recall_type": null,
@@ -91,7 +110,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "b45786a4-a90a-4ed1-8738-1e2cc58a8f18",
+        "uid": "565eb381-5e52-4f57-837f-bc5ea761f208",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walkers-wine-juice-llc-recalls-product-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -128,7 +147,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "caac0b34-68a8-40c8-b88f-47619b3418de",
+        "uid": "432658ee-9120-4407-93c9-61a91dd04511",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/undeclared-allergen-trader-joes-hot-honey-mustard-dressing-use-date-05272025-issued-fresh-creative",
         "notice_id_number": null,
         "recall_type": null,
@@ -148,7 +167,7 @@
             "SC"
         ],
         "agency": "FDA",
-        "uid": "afd26054-04b5-4f20-bfbd-c8753940c7f1",
+        "uid": "84807b9e-71d6-439a-a631-e9776e9bd2e2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cromer-food-services-inc-recalls-chicken-salad-white-sandwich-due-undeclared-milk-allergen",
         "notice_id_number": null,
         "recall_type": null,
@@ -179,7 +198,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "60171857-b72d-432f-9409-c2f33a55d32d",
+        "uid": "f7dfb90c-62ce-43f1-a9ae-d918e2b9b120",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frito-lay-issues-limited-recall-tostitos-cantina-traditional-yellow-corn-tortilla-chips-undeclared",
         "notice_id_number": null,
         "recall_type": null,
@@ -198,7 +217,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "ac1305a9-276e-4bcd-aa56-3a9bf1890f8f",
+        "uid": "a7c51577-ee1f-4fa7-b6bf-ed48b79102be",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bakery-group-issues-allergen-alert-undeclared-milk-soy-and-yellow-fdc-5-specific-bread-and-hamburger",
         "notice_id_number": null,
         "recall_type": null,
@@ -223,7 +242,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "f35ec821-e855-4859-b7cd-429ff020f893",
+        "uid": "d761cb29-9561-4b20-9abe-3c5d8849b206",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dessert-holdings-issues-allergy-alert-undeclared-tree-nut-allergen-favorite-daytm-gourmet-new-york",
         "notice_id_number": null,
         "recall_type": null,
@@ -242,7 +261,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "3dd9a953-e196-4100-afa6-e97d819b2eee",
+        "uid": "4de4b940-9d30-4e53-9f8a-cfe38259f532",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nestle-usa-announces-voluntary-recall-limited-quantity-lean-cuisiner-and-stouffersr-frozen-meals-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -266,7 +285,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "8f3e6af5-8caa-40b3-b167-189add616d9a",
+        "uid": "c7601f72-2f33-4754-bdb3-00f9be7b101e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/seabear-company-recalls-smoked-salmon-chowder-and-alehouse-clam-chowder-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -285,7 +304,7 @@
             "NY"
         ],
         "agency": "FDA",
-        "uid": "e7e48516-8f63-4f97-9175-302b389ae65e",
+        "uid": "4ad42f70-4dc7-47fb-b4ee-c56b8dcc384b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/har-maspeth-corp-issues-allergy-alert-undeclared-eggs-jinga-glass-noodles-w-vegetables-japche",
         "notice_id_number": null,
         "recall_type": null,
@@ -305,7 +324,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "08f9b687-3561-4b9b-bdc2-deec022a5ea7",
+        "uid": "718b8593-031e-4b17-97c2-b34fbb666e3e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ch-guenther-son-llc-issues-allergy-alert-undeclared-egg-365-whole-foods-market-small-bites-macaroni",
         "notice_id_number": null,
         "recall_type": null,
@@ -325,7 +344,7 @@
             "HI"
         ],
         "agency": "FDA",
-        "uid": "8a474d8b-56b9-41df-9673-cfdf5c100f03",
+        "uid": "6080587c-bd81-484c-a58d-707755bbd9ca",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/liaoning-cheng-da-usa-inc-san-gabriel-california-recalling-hot-pot-sauce-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -346,7 +365,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "576c1b83-5d75-4d30-a1f3-20fa0ab03391",
+        "uid": "043ad854-1deb-4e86-b2ec-d9910a695e89",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-daily-veggies-brand-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -368,7 +387,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "4142975c-4c2c-4bd1-96bf-b31451a4b31c",
+        "uid": "1fac950f-b9bc-4c5d-b78a-052ef4d8e7e8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-york-wholesale-group-recalls-zaarah-herbals-rasayan-churan-zaarah-herbals-gurmar-powder-zaarah",
         "notice_id_number": null,
         "recall_type": null,
@@ -392,7 +411,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "d035c1ee-07e1-47f0-9193-79b190d62283",
+        "uid": "4b009ebf-7ba0-4564-965e-277f494fee38",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/adm-recalls-select-pelleted-cattle-nutrition-feed-products",
         "notice_id_number": null,
         "recall_type": null,
@@ -412,7 +431,7 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "4cebdc7d-0dc6-49ad-b384-9faaecb9050a",
+        "uid": "0854d099-65b6-460b-be60-9da47ee5fa61",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/us-trading-company-hayward-ca-recalling-joy-luck-brand-lily-flowers-because-it-may-contain",
         "notice_id_number": null,
         "recall_type": null,
@@ -431,29 +450,8 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "57bc800d-601b-4bef-933c-393d4fa91c14",
+        "uid": "678c2938-ed7d-4d49-9722-64c7b69233e9",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/akt-trading-inc-recalls-prepared-vegetable-products-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Little Leaf Farms Announces Limited Voluntary Withdrawal of a Specific Lot Code of Southwest Salad Kit Due to Undeclared Fish and Wheat",
-        "company_announce_dttm": "2025-02-28T15:00:00+00:00",
-        "notification_dttm": "2025-03-01T05:00:00+00:00",
-        "recall_reason": "Undeclared fish and wheat allergen",
-        "company_name": "Little Leaf Farms",
-        "brand_name": "Little Leaf Farms",
-        "product_description": "Southwest Salad Kits",
-        "impacted_states": [
-            "CT",
-            "MA",
-            "NH"
-        ],
-        "agency": "FDA",
-        "uid": "4fc479e3-19ee-407a-b9b8-e4ee0a681a13",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/little-leaf-farms-announces-limited-voluntary-withdrawal-specific-lot-code-southwest-salad-kit-due",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
