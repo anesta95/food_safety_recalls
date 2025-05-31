@@ -1,5 +1,274 @@
 [
     {
+        "title": "Hormel Foods Corporation Recalls Canned Beef Stew Product Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-28T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Hormel Foods Corporation",
+        "brand_name": null,
+        "product_description": "20-oz. metal cans containing “Dinty Moore BEEF STEW” with “BEST BY FEB 2028” and lot code “T02045” printed on the can. The lot code may have an additional number at the end.",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "USDA",
+        "uid": "227b5cb5-1ce2-45f2-b564-7cea3426be4e",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/hormel-foods-corporation-recalls-canned-beef-stew-product-due-possible-foreign",
+        "notice_id_number": "018-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Chicken Soup Product Due To Misbranding and Undeclared Allergen",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-22T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "•\t24-oz. plastic cups labeled “Signature SELECT Creamy Chicken &amp; Wild Rice SOUP with White Meat Chicken” on the lid and labeled “Signature SELECT Chicken Corn CHOWDER with White Meat Chicken Smoke Flavor Added” ",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "USDA",
+        "uid": "615a8d51-b9c8-4f52-b3bb-882038672e23",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-soup-product-due-misbranding-and-undeclared",
+        "notice_id_number": "PHA-05222025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
+        "title": "Snack Mania Brazilian Delights Corp., Recalls Ready-To-Eat Chicken Coxinhas Products Produced Without Benefit of Inspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-20T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "•\t16.37-oz. plastic packages of “Snack Mania COXINHAS BRAZILIAN STUFFED BITES Original Chicken” ",
+        "impacted_states": [
+            "PA"
+        ],
+        "agency": "USDA",
+        "uid": "b1f03e10-dddc-413b-8bac-cc5b1601e7ad",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/snack-mania-brazilian-delights-corp--recalls-ready-eat-chicken-coxinhas-products",
+        "notice_id_number": "017-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "Bourgeois Smokehouse Recalls Ready-To-Eat Smoked Andouille Sausage Products Due to Possible Listeria Contamination ",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-20T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "100 pounds of ready-to-eat (RTE) smoked andouille sausage products",
+        "impacted_states": [
+            "MS"
+        ],
+        "agency": "USDA",
+        "uid": "5fadbe3f-b8d8-4a04-9f1f-bbc7a6d2ba76",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/bourgeois-smokehouse-recalls-ready-eat-smoked-andouille-sausage-products-due",
+        "notice_id_number": "016-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "Fijian Import &amp; Export Co. Inc. Recalls Ready-To-Eat Meat Pie Products Imported Without Benefit of Import Reinspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-16T00:00:00+00:00",
+        "recall_reason": "Import Violation",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "5.6-oz. plastic packages containing “FOUR ‘N TWENTY TRAVELLER PHILLY CHEESESTEAK PASTRY” with use by date of “AUG 20 2025” printed on the back of packaging.",
+        "impacted_states": [
+            "PA"
+        ],
+        "agency": "USDA",
+        "uid": "e823a7202-8583-43f8-8084-c06c8fcae3db",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fijian-import-export-co--inc--recalls-ready-eat-meat-pie-products-imported-without",
+        "notice_id_number": "015-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Ready-To-Eat Chicken and Bacon Wrap Products Due to Possible Listeria Monocytogenes Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-13T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Rachael&#039;s Food Corporation",
+        "brand_name": null,
+        "product_description": "10-oz. clear plastic clamshell packages containing “Big Y quick easy meals CHICKEN BACON RANCH WRAP” with “Sell By 05/07/2025” and lot code 25122. , 10-oz. clear plastic clamshell packages containing “MARKET 32 BY PRICE CHOPPER Chicken Bacon Ranch Wrap” with “Sell Through 05/07/2025” and lot code 25122. ",
+        "impacted_states": [
+            "CT",
+            "MA",
+            "NY"
+        ],
+        "agency": "USDA",
+        "uid": "38d2d313-9332-48b9-b725-fdc979e74a2a",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-chicken-and-bacon-wrap-products-due",
+        "notice_id_number": "PHA-05132025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
+        "title": "Ferrarini USA, Inc., Recalls Ready-to-Eat Prosciutto Products  Imported Without Benefit of Import Reinspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-02T00:00:00+00:00",
+        "recall_reason": "Import Violation",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "o\t4-oz. vacuum-sealed plastic tray packages containing slices of “FERRARINI PROSCIUTTO DI PARMA PRODUCT OF ITALY” and lot code “2527642” on the backside label of the packaging.",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "USDA",
+        "uid": "e757b991-5fb7-4be9-8f19-871ff69403ad",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/ferrarini-usa-inc--recalls-ready-eat-prosciutto-products-imported-without-benefit",
+        "notice_id_number": "014-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Ineligible Pork Cracklings Products Imported From the Republic of Colombia",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-01T00:00:00+00:00",
+        "recall_reason": "Import Violation",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "•\t270-g. plastic bag containing six 45-g. foil bags of “De Todito NATURAL” mixed chips with “CHICHARRÓN AMERICANO JACKS,” “… •\t140-g. foil bags containing “GOLPE CON TODO SABOR LIMÓN” mixed chips with “RIZADAS,” “PLÁTANOS,” and “Chicharrón Fred.”",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "USDA",
+        "uid": "1429db30-8b1b-4c46-9ca0-4255ecadf7d0",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-pork-cracklings-products-imported",
+        "notice_id_number": "PHA-05012025-002",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Bismillah Halal Meats Ground Beef Due to Possible E. Coli O103 Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-05-01T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [
+            "GA"
+        ],
+        "agency": "USDA",
+        "uid": "f232f339-1d92-4f47-9b73-1fa1ca991863",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-bismillah-halal-meats-ground-beef-due-possible-e-",
+        "notice_id_number": "PHA-05012025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
+        "title": "Smith Packing, LLC Recalls Sausage and Sliced Meat and Poultry Products Due to Sodium Nitrite Levels in Excess of Regulatory Limit",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-04-29T00:00:00+00:00",
+        "recall_reason": "Processing Defect",
+        "company_name": "Smith Packing, LLC",
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "USDA",
+        "uid": "f232f339-1d92-4f47-9b73-1fa1ca991863",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/smith-packing-llc-recalls-sausage-and-sliced-meat-and-poultry-products-due-sodium",
+        "notice_id_number": "013-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "ACC Central Kitchen LLC Recalls Pork Bun Products Due To Misbranding and Undeclared Allergens  ",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-04-24T00:00:00+00:00",
+        "recall_reason": "Unreported Allergens",
+        "company_name": "ACC Central Kitchen LLC",
+        "brand_name": null,
+        "product_description": "•\t8.45-oz. sleeve tray packages of “3 Meals A Day SOUPY PORK BUN WITH CRAB ROE” with the following range of lot codes: 052625-090626",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "USDA",
+        "uid": "9e287904-9947-4239-b2fe-b54940cbf6e8",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/acc-central-kitchen-llc-recalls-pork-bun-products-due-misbranding-and-undeclared",
+        "notice_id_number": "012-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Pork Carnitas Products Due to Possible Extraneous Material Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-04-19T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Cargill Mean Solutions",
+        "brand_name": null,
+        "product_description": "16-oz. sleeved tray packages containing &quot;Pork Carnitas SEASONED &amp; SEARED PORK WITH JUICES SLOW COOKED WITH CITRUS&quot; with &quot;USE BY&quot; dates &quot;06/30/2025&quot; or &quot;07/01/2025&quot; printed on the side of the packaging.",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "USDA",
+        "uid": "2b8126c6-a719-4887-a428-5513fa195af4",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-pork-carnitas-products-due-possible-extraneous",
+        "notice_id_number": "PHA-04192025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
+        "title": "FSIS Issues Public Health Alert for Various Soup &amp; Bowl Products Due to Possible Extraneous Material Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-04-11T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "USDA",
+        "uid": "014fc5d5-9fa7-411b-9f6d-4d51787ce9df",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-various-soup-bowl-products-due-possible-extraneous",
+        "notice_id_number": "PHA-04112025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
+        "title": "Trophy Nut Co. Issues Allergy Alert Due to Undeclared Cashews in Heinen’s Honey Roasted Peanuts",
+        "company_announce_dttm": "2025-04-08T00:00:00+00:00",
+        "notification_dttm": "2025-04-08T00:00:00+00:00",
+        "recall_reason": "Undeclared cashew allergen",
+        "company_name": "Trophy Nut Company",
+        "brand_name": "Heinen's",
+        "product_description": "Honey Roasted Peanuts",
+        "impacted_states": [
+            "OH",
+            "IL"
+        ],
+        "agency": "FDA",
+        "uid": "afc498b5-5f6e-43d5-b130-eedc19838501",
+        "recall_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/trophy-nut-co-issues-allergy-alert-due-undeclared-cashews-heinens-honey-roasted-peanuts",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Caraluzzi\u2019s Markets Issues Allergy Alert on Undeclared Egg in Caraluzzi\u2019s Italian Style Seafood Burger, 8 oz",
         "company_announce_dttm": "2025-04-08T21:56:00+00:00",
         "notification_dttm": "2025-04-08T04:00:00+00:00",
