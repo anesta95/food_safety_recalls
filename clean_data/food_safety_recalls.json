@@ -98,7 +98,7 @@
         "recall_reason": "Product Contamination",
         "company_name": "Hormel Foods Corporation",
         "brand_name": null,
-        "product_description": "20-oz. metal cans containing “Dinty Moore BEEF STEW” with “BEST BY FEB 2028” and lot code “T02045” printed on the can. The lot code may have an additional number at the end.",
+        "product_description": "20-oz. metal cans containing \u201cDinty Moore BEEF STEW\u201d with \u201cBEST BY FEB 2028\u201d and lot code \u201cT02045\u201d printed on the can. The lot code may have an additional number at the end.",
         "impacted_states": [
             "US"
         ],
@@ -363,7 +363,7 @@
         "recall_reason": "Misbranding, Unreported Allergens",
         "company_name": null,
         "brand_name": null,
-        "product_description": "•\t24-oz. plastic cups labeled “Signature SELECT Creamy Chicken &amp; Wild Rice SOUP with White Meat Chicken” on the lid and labeled “Signature SELECT Chicken Corn CHOWDER with White Meat Chicken Smoke Flavor Added” ",
+        "product_description": "\u2022\t24-oz. plastic cups labeled \u201cSignature SELECT Creamy Chicken &amp; Wild Rice SOUP with White Meat Chicken\u201d on the lid and labeled \u201cSignature SELECT Chicken Corn CHOWDER with White Meat Chicken Smoke Flavor Added\u201d ",
         "impacted_states": [
             "US"
         ],
@@ -435,7 +435,7 @@
         "recall_reason": "Produced Without Benefit of Inspection",
         "company_name": null,
         "brand_name": null,
-        "product_description": "•\t16.37-oz. plastic packages of “Snack Mania COXINHAS BRAZILIAN STUFFED BITES Original Chicken” ",
+        "product_description": "\u2022\t16.37-oz. plastic packages of \u201cSnack Mania COXINHAS BRAZILIAN STUFFED BITES Original Chicken\u201d ",
         "impacted_states": [
             "PA"
         ],
@@ -512,7 +512,7 @@
         "recall_reason": "Import Violation",
         "company_name": null,
         "brand_name": null,
-        "product_description": "5.6-oz. plastic packages containing “FOUR ‘N TWENTY TRAVELLER PHILLY CHEESESTEAK PASTRY” with use by date of “AUG 20 2025” printed on the back of packaging.",
+        "product_description": "5.6-oz. plastic packages containing \u201cFOUR \u2018N TWENTY TRAVELLER PHILLY CHEESESTEAK PASTRY\u201d with use by date of \u201cAUG 20 2025\u201d printed on the back of packaging.",
         "impacted_states": [
             "PA"
         ],
@@ -570,7 +570,7 @@
         "recall_reason": "Product Contamination",
         "company_name": "Rachael&#039;s Food Corporation",
         "brand_name": null,
-        "product_description": "10-oz. clear plastic clamshell packages containing “Big Y quick easy meals CHICKEN BACON RANCH WRAP” with “Sell By 05/07/2025” and lot code 25122. , 10-oz. clear plastic clamshell packages containing “MARKET 32 BY PRICE CHOPPER Chicken Bacon Ranch Wrap” with “Sell Through 05/07/2025” and lot code 25122. ",
+        "product_description": "10-oz. clear plastic clamshell packages containing \u201cBig Y quick easy meals CHICKEN BACON RANCH WRAP\u201d with \u201cSell By 05/07/2025\u201d and lot code 25122. , 10-oz. clear plastic clamshell packages containing \u201cMARKET 32 BY PRICE CHOPPER Chicken Bacon Ranch Wrap\u201d with \u201cSell Through 05/07/2025\u201d and lot code 25122. ",
         "impacted_states": [
             "CT",
             "MA",
@@ -805,7 +805,7 @@
         "recall_reason": "Import Violation",
         "company_name": null,
         "brand_name": null,
-        "product_description": "o\t4-oz. vacuum-sealed plastic tray packages containing slices of “FERRARINI PROSCIUTTO DI PARMA PRODUCT OF ITALY” and lot code “2527642” on the backside label of the packaging.",
+        "product_description": "o\t4-oz. vacuum-sealed plastic tray packages containing slices of \u201cFERRARINI PROSCIUTTO DI PARMA PRODUCT OF ITALY\u201d and lot code \u201c2527642\u201d on the backside label of the packaging.",
         "impacted_states": [
             "CA"
         ],
@@ -843,7 +843,7 @@
         "recall_reason": "Import Violation",
         "company_name": null,
         "brand_name": null,
-        "product_description": "•\t270-g. plastic bag containing six 45-g. foil bags of “De Todito NATURAL” mixed chips with “CHICHARRÓN AMERICANO JACKS,” “… •\t140-g. foil bags containing “GOLPE CON TODO SABOR LIMÓN” mixed chips with “RIZADAS,” “PLÁTANOS,” and “Chicharrón Fred.”",
+        "product_description": "\u2022\t270-g. plastic bag containing six 45-g. foil bags of \u201cDe Todito NATURAL\u201d mixed chips with \u201cCHICHARR\u00d3N AMERICANO JACKS,\u201d \u201c\u2026 \u2022\t140-g. foil bags containing \u201cGOLPE CON TODO SABOR LIM\u00d3N\u201d mixed chips with \u201cRIZADAS,\u201d \u201cPL\u00c1TANOS,\u201d and \u201cChicharr\u00f3n Fred.\u201d",
         "impacted_states": [
             "US"
         ],
@@ -992,7 +992,7 @@
         "recall_reason": "Unreported Allergens",
         "company_name": "ACC Central Kitchen LLC",
         "brand_name": null,
-        "product_description": "•\t8.45-oz. sleeve tray packages of “3 Meals A Day SOUPY PORK BUN WITH CRAB ROE” with the following range of lot codes: 052625-090626",
+        "product_description": "\u2022\t8.45-oz. sleeve tray packages of \u201c3 Meals A Day SOUPY PORK BUN WITH CRAB ROE\u201d with the following range of lot codes: 052625-090626",
         "impacted_states": [
             "NY"
         ],
@@ -1165,7 +1165,7 @@
         "recall_classification": null
     },
     {
-        "title": "Trophy Nut Co. Issues Allergy Alert Due to Undeclared Cashews in Heinen’s Honey Roasted Peanuts",
+        "title": "Trophy Nut Co. Issues Allergy Alert Due to Undeclared Cashews in Heinen\u2019s Honey Roasted Peanuts",
         "company_announce_dttm": "2025-04-08T00:00:00+00:00",
         "notification_dttm": "2025-04-08T00:00:00+00:00",
         "recall_reason": "Undeclared cashew allergen",
