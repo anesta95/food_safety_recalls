@@ -2,6 +2,7 @@ import requests
 import os
 from fake_useragent import UserAgent
 
+## CUSTOM FUNCTIONS ##
 def get_latest_browser_version_number(browser, browser_type, operating_system):
 
     ua = UserAgent()
@@ -19,8 +20,6 @@ def get_latest_browser_version_number(browser, browser_type, operating_system):
     
     return(latest_ff_browser_num)
 
-
-## CUSTOM FUNCTIONS ##
 def get_data_from_url(url):
     try:
         latest_ff = get_latest_browser_version_number(browser='Firefox', browser_type='desktop', operating_system='Linux')

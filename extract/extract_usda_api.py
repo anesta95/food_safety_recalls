@@ -1,14 +1,34 @@
 import requests
 import os
 import json
+from fake_useragent import UserAgent
 
 ## CUSTOM FUNCTIONS ##
+def get_latest_browser_version_number(browser, browser_type, operating_system):
+
+    ua = UserAgent()
+
+    all_browsers = ua.data_browsers
+
+    ff_linux_desktop_browsers = [d for d in all_browsers if d['type'] == browser_type and d['os'] == operating_system and d['browser'] == browser]
+
+    latest_ff_browser_num = "0.0"
+
+    for i in ff_linux_desktop_browsers:
+        new_num = i["browser_version"]
+        if (float(new_num) > float(latest_ff_browser_num)):
+            latest_ff_browser_num = new_num
+    
+    return(latest_ff_browser_num)
+
 def get_data_from_url(url):
     try:
+        latest_ff = get_latest_browser_version_number(browser='Firefox', browser_type='desktop', operating_system='Linux')
+        ua = f"Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/{latest_ff}"
         headers = {
-        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0'
+        'User-Agent': ua
         }
-        response = requests.get(url, headers=headers, allow_redirects=False, timeout=30)
+        response = requests.get(url, headers=headers)
         response.raise_for_status()  # Raise an exception for 4xx or 5xx status codes
         return response  # Return the response data
     except requests.exceptions.HTTPError as err:
