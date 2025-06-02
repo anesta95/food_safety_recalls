@@ -1,5 +1,24 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Not-Ready-To-Eat Ham Croquette Product Due to Misbranding and Undeclared Allergens",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-06-02T00:00:00+00:00",
+        "recall_reason": "Mislabeling, Unreported Allergens",
+        "company_name": "Croquetas La Mary LLC",
+        "brand_name": null,
+        "product_description": "1.96-lb. boxes containing &quot;HAM CROQUETTES Las que si tienen el sabor cubano A TASTE OF CUBA CROQUETAS DE JAM\u00d3N&quot; with expiration dates of &quot;November 2025,&quot; &quot;December 2025&quot; and &quot;January 2026&quot; printed on the boxes.",
+        "impacted_states": [
+            "FL"
+        ],
+        "agency": "USDA",
+        "uid": "b7c975ff-14b7-4416-b795-0c08e03588b2",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-not-ready-eat-ham-croquette-product-due-misbranding",
+        "notice_id_number": "PHA-06022025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Homegrown Family Foods Issues Allergy Alert on Undeclared Milk in Shore Lunch Oven Style Breader & Batter Mix",
         "company_announce_dttm": "2025-05-29T04:00:00+00:00",
         "notification_dttm": "2025-05-29T19:00:00+00:00",
