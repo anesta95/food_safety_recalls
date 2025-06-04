@@ -1,5 +1,57 @@
 [
     {
+        "title": "Tgd Cuts, LLC Initiated Voluntary Recall of Cucumber from Bedner Growers Inc., Which Had the Potential to Be Contaminated with Salmonella",
+        "company_announce_dttm": "2025-06-04T21:00:00+00:00",
+        "notification_dttm": "2025-06-04T21:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Salmonella",
+        "company_name": "TGD Cuts, LLC.",
+        "brand_name": "Multiple brands",
+        "product_description": "Fresh cucumbers and salsa and salads containing fresh cucumbers",
+        "impacted_states": [
+            "MD",
+            "NJ",
+            "NC",
+            "PA",
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "c2622641-4b99-4263-967b-c4e556898694",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tgd-cuts-llc-initiated-voluntary-recall-cucumber-bedner-growers-inc-which-had-potential-be",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Firehook of Virginia Issues Allergy Alert on Undeclared Sesame in Classic Sea Salt Crackers",
+        "company_announce_dttm": "2025-06-04T21:00:00+00:00",
+        "notification_dttm": "2025-06-04T21:00:00+00:00",
+        "recall_reason": "Undeclared Sesame",
+        "company_name": "Firehook of Virginia",
+        "brand_name": "Firehook",
+        "product_description": "Crackers",
+        "impacted_states": [
+            "CT",
+            "ME",
+            "MD",
+            "MA",
+            "NH",
+            "NJ",
+            "NY",
+            "NC",
+            "PA",
+            "RI",
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "f3bc2dbe-8bce-47f6-ac99-9a8bb6cc2218",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/firehook-virginia-issues-allergy-alert-undeclared-sesame-classic-sea-salt-crackers",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Homegrown Family Foods Issues Allergy Alert on Undeclared Milk in Shore Lunch Oven Style Breader & Batter Mix",
         "company_announce_dttm": "2025-05-29T04:00:00+00:00",
         "notification_dttm": "2025-05-29T19:00:00+00:00",
