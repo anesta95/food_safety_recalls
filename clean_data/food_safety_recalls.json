@@ -1,5 +1,32 @@
 [
     {
+        "title": "August Egg Company Recalls Shell Eggs Because of Possible Health Risk",
+        "company_announce_dttm": "2025-06-06T22:00:00+00:00",
+        "notification_dttm": "2025-06-06T22:00:00+00:00",
+        "recall_reason": "Salmonella",
+        "company_name": "August Egg Company",
+        "brand_name": "Multiple brand names",
+        "product_description": "Brown cage free and brown certified organic eggs",
+        "impacted_states": [
+            "CA",
+            "AZ",
+            "IL",
+            "IN",
+            "NE",
+            "NV",
+            "NM",
+            "WA",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "34ce5975-6165-487c-9849-c9fcf3676394",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/august-egg-company-recalls-shell-eggs-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Tgd Cuts, LLC Initiated Voluntary Recall of Cucumber from Bedner Growers Inc., Which Had the Potential to Be Contaminated with Salmonella",
         "company_announce_dttm": "2025-06-04T21:00:00+00:00",
         "notification_dttm": "2025-06-04T21:00:00+00:00",
