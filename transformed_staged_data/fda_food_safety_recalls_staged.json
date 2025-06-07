@@ -1,32 +1,5 @@
 [
     {
-        "title": "August Egg Company Recalls Shell Eggs Because of Possible Health Risk",
-        "company_announce_dttm": "2025-06-06T22:00:00+00:00",
-        "notification_dttm": "2025-06-06T22:00:00+00:00",
-        "recall_reason": "Salmonella",
-        "company_name": "August Egg Company",
-        "brand_name": "Multiple brand names",
-        "product_description": "Brown cage free and brown certified organic eggs",
-        "impacted_states": [
-            "CA",
-            "AZ",
-            "IL",
-            "IN",
-            "NE",
-            "NV",
-            "NM",
-            "WA",
-            "WY"
-        ],
-        "agency": "FDA",
-        "uid": "2ea55e37-45eb-499e-bf9c-e801e8283e27",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/august-egg-company-recalls-shell-eggs-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
         "title": "Firehook of Virginia Issues Allergy Alert on Undeclared Sesame in Classic Sea Salt Crackers",
         "company_announce_dttm": "2025-06-04T21:00:00+00:00",
         "notification_dttm": "2025-06-04T21:00:00+00:00",
@@ -48,7 +21,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "66d4590f-ba50-4257-8ea0-d61992457af6",
+        "uid": "f1e3be58-8e4b-4350-816e-18537ae40b75",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/firehook-virginia-issues-allergy-alert-undeclared-sesame-classic-sea-salt-crackers",
         "notice_id_number": null,
         "recall_type": null,
@@ -71,7 +44,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "91f8d6c3-3e15-46e3-9fe3-3aa3ba1f7f66",
+        "uid": "5c0e09a8-8f1c-4846-b20a-8b45a5367a0b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tgd-cuts-llc-initiated-voluntary-recall-cucumber-bedner-growers-inc-which-had-potential-be",
         "notice_id_number": null,
         "recall_type": null,
@@ -103,7 +76,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "37d0cc83-3e82-44e2-b8b0-45d69be0df2c",
+        "uid": "287167e9-2244-4453-ae51-061dedd6943d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/camerican-international-inc-issues-allergy-alert-undeclared-milk-aldi-brand-casa-mamita-churro-bites",
         "notice_id_number": null,
         "recall_type": null,
@@ -131,7 +104,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "2e9f7a18-2222-414b-91b0-8dd5a26f4429",
+        "uid": "4db5d480-c153-43a0-8db6-d8b6c1610a6f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/homegrown-family-foods-issues-allergy-alert-undeclared-milk-shore-lunch-oven-style-breader-batter",
         "notice_id_number": null,
         "recall_type": null,
@@ -157,7 +130,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "460bf386-9e5e-42f0-a860-4eb9aa591ad2",
+        "uid": "4cc25218-b42c-45c1-bfa5-4e215ee818b4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/isabelles-kitchen-inc-recalls-refrigerated-deli-salads-containing-fresh-cucumbers-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -195,7 +168,7 @@
             "MO"
         ],
         "agency": "FDA",
-        "uid": "1dae4f35-9d65-4b2e-b7a9-fd963e91d438",
+        "uid": "a4c96066-07cf-4977-a8ca-29d8d0a359a7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-vegetable-products-because-possible-health-0",
         "notice_id_number": null,
         "recall_type": null,
@@ -216,7 +189,7 @@
             "NV"
         ],
         "agency": "FDA",
-        "uid": "64c92592-a7df-4125-9d95-7d321935b56d",
+        "uid": "f5a7f838-6953-4b93-9b90-eaeeed83570f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/santa-monica-seafood-voluntarily-recalls-atlantic-salmon-portions-seafood-stuffing-due-undeclared",
         "notice_id_number": null,
         "recall_type": null,
@@ -236,7 +209,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "1d00a569-932d-4f32-b5b8-01d116985ebe",
+        "uid": "bd7eb241-959b-4f11-b6c0-ba0eedf5fc9c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/spectrum-brands-pet-llc-recalls-single-lot-tetra-reptomin-reptile-food-aquatic-turtles-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -271,7 +244,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "2f2a556c-f49f-474d-b080-ef8bb838e015",
+        "uid": "81939e96-0a16-4e40-b927-2df5dfb5071c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk-0",
         "notice_id_number": null,
         "recall_type": null,
@@ -291,7 +264,7 @@
             "CT"
         ],
         "agency": "FDA",
-        "uid": "a6f6bd45-a2ca-46cb-a0e2-2f518b97952a",
+        "uid": "fa9879a8-514c-467e-9296-734833951db5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/big-y-foods-recalls-made-order-subs-wraps-and-paninis-sold-massachusetts-and-connecticut-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -323,7 +296,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "69f5624c-5abf-4a2c-b81e-5fbb9f73abf2",
+        "uid": "49659b69-77fc-4cc1-b5e8-66ee9bc9fc63",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-voluntarily-recalls-three-store-made-deli-items-containing-recalled-cucumber",
         "notice_id_number": null,
         "recall_type": null,
@@ -353,7 +326,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "891eba9c-ef3e-4065-aefa-d741d9daead3",
+        "uid": "caab9d7e-3e98-46d5-b782-295aac10bcad",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/coastal-companies-issues-voluntary-recall-items-fresh-start-cucumbers-due-potential-salmonella",
         "notice_id_number": null,
         "recall_type": null,
@@ -374,7 +347,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "3736906e-d59a-43cd-a94a-8065f79c23cc",
+        "uid": "8844b71f-05fa-402e-95ed-595e65f8c38c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-select-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -393,7 +366,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "e01c4971-f8f1-4bcb-a993-083424e5d16b",
+        "uid": "d51639a6-f7b4-4d4a-8188-b5755f4335cb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ukrops-homestyle-foods-announces-recall-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -416,7 +389,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "b550b9d4-e5f3-4a97-8913-ebbc6cb838c4",
+        "uid": "4fa3eb68-c2d0-4acd-95f4-52911b01fa02",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pennrose-farms-issues-recall-whole-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -435,7 +408,7 @@
             "UT"
         ],
         "agency": "FDA",
-        "uid": "93d2b89f-69a0-4ec7-9422-77c7f8dddfdb",
+        "uid": "47e1b404-b9fd-46b3-8efa-d41a15278f6c",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-grains-gluten-free-bakery-issues-allergy-alert-undeclared-eggs-tree-nuts-soy-and-milk-bakery",
         "notice_id_number": null,
         "recall_type": null,
@@ -468,7 +441,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "88fc3304-6fe1-43e3-a943-1f9fee245fa9",
+        "uid": "e443c77c-4637-4454-8028-47eb764d2a66",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bedner-growers-inc-recalls-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -487,7 +460,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "2b31f26c-cb8d-4d83-ac00-187201c68ca0",
+        "uid": "d5a2d616-a1ee-4e8c-bcf1-130611e02962",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/rm-trading-llc-issues-allergy-alert-undeclared-milk-rm-refresher-instant-milk-tea-powder",
         "notice_id_number": null,
         "recall_type": null,
@@ -507,8 +480,28 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "62e29c44-3e91-472e-b228-43f54ae5aa1f",
+        "uid": "4262bd40-3725-41bd-b2e2-345dbeca966e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/south-asian-food-inc-issues-allergy-alert-undeclared-peanuts-bengal-king-family-pack-vegetable",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Element 112, LLC dba Madeline\u2019s P\u00e2tisserie Issues Allergy Alert on Undeclared Wheat in Croissants and Croissant Buns",
+        "company_announce_dttm": "2025-05-15T04:00:00+00:00",
+        "notification_dttm": "2025-05-20T04:00:00+00:00",
+        "recall_reason": "Undeclared allergen - wheat.",
+        "company_name": "Element 112, LLC dba Madeline\u2019s P\u00e2tisserie",
+        "brand_name": "Madeline\u2019s P\u00e2tisserie",
+        "product_description": "Croissants and Croissant Buns",
+        "impacted_states": [
+            "MI",
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "a30b2579-0c06-449f-a3f7-c96e05c9dbb5",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/element-112-llc-dba-madelines-patisserie-issues-allergy-alert-undeclared-wheat-croissants-and",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
