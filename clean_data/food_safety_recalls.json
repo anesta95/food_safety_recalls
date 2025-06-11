@@ -1,5 +1,49 @@
 [
     {
+        "title": "P. East Trading Corp Distributors Issues Alert on Uneviscerated 'Salted Smoked Split Herring\u2019 Due to Potential Clostridium Botulinum Contamination",
+        "company_announce_dttm": "2025-06-10T21:12:00+00:00",
+        "notification_dttm": "2025-06-10T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Clostridium Botulinum",
+        "company_name": "P. East Trading Corp Distributors",
+        "brand_name": "No Brand",
+        "product_description": "Uneviscerated Salted Smoked Split Herring",
+        "impacted_states": [
+            "NY",
+            "CO",
+            "CT",
+            "NJ"
+        ],
+        "agency": "FDA",
+        "uid": "7cbfad7a-2c2c-4d29-a70f-adeec279dca0",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/p-east-trading-corp-distributors-issues-alert-uneviscerated-salted-smoked-split-herring-due",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Bornstein Seafoods Inc Recalls Cooked & Peeled Ready-To-Eat Coldwater Shrimp Meat Because of Possible Health Risk",
+        "company_announce_dttm": "2025-06-11T00:32:00+00:00",
+        "notification_dttm": "2025-06-10T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "Bornstein Seafoods Inc.",
+        "brand_name": "Bornstein Seafoods",
+        "product_description": "Coldwater Shrimp Meat",
+        "impacted_states": [
+            "CA",
+            "US",
+            "OR",
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "dfeb6179-1a8c-4a9b-b12d-e94d70dad8a8",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bornstein-seafoods-inc-recalls-cooked-peeled-ready-eat-coldwater-shrimp-meat-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "August Egg Company Recalls Shell Eggs Because of Possible Health Risk",
         "company_announce_dttm": "2025-06-06T22:00:00+00:00",
         "notification_dttm": "2025-06-06T22:00:00+00:00",
