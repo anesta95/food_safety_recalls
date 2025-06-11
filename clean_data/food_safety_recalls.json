@@ -1,5 +1,26 @@
 [
     {
+        "title": "Hofood99 Inc Recalls Enoki Mushroom Due to Possible Health Risk",
+        "company_announce_dttm": "2025-06-11T18:00:00+00:00",
+        "notification_dttm": "2025-06-11T18:30:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "Hofood99 Inc.",
+        "brand_name": "No Brand",
+        "product_description": "Enoki Mushrooms",
+        "impacted_states": [
+            "NY",
+            "MI",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "754d1980-8a5f-4e75-9b6d-908a4053e188",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hofood99-inc-recalls-enoki-mushroom-due-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "P. East Trading Corp Distributors Issues Alert on Uneviscerated 'Salted Smoked Split Herring\u2019 Due to Potential Clostridium Botulinum Contamination",
         "company_announce_dttm": "2025-06-10T21:12:00+00:00",
         "notification_dttm": "2025-06-10T04:00:00+00:00",
