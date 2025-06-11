@@ -1,5 +1,27 @@
 [
     {
+        "title": "Bornstein Seafoods Inc Recalls Cooked & Peeled Ready-To-Eat Coldwater Shrimp Meat Because of Possible Health Risk",
+        "company_announce_dttm": "2025-06-11T00:32:00+00:00",
+        "notification_dttm": "2025-06-10T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "Bornstein Seafoods Inc.",
+        "brand_name": "Bornstein Seafoods",
+        "product_description": "Coldwater Shrimp Meat",
+        "impacted_states": [
+            "CA",
+            "US",
+            "OR",
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "b481e0ff-11de-4c5b-98ff-75526312e66d",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bornstein-seafoods-inc-recalls-cooked-peeled-ready-eat-coldwater-shrimp-meat-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "P. East Trading Corp Distributors Issues Alert on Uneviscerated 'Salted Smoked Split Herring\u2019 Due to Potential Clostridium Botulinum Contamination",
         "company_announce_dttm": "2025-06-10T21:12:00+00:00",
         "notification_dttm": "2025-06-10T04:00:00+00:00",
@@ -14,7 +36,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "ea4ea9d4-87c3-428e-b1c7-9dce1bbe3689",
+        "uid": "2e61989a-7521-4700-bffd-f1c7fa5400a6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/p-east-trading-corp-distributors-issues-alert-uneviscerated-salted-smoked-split-herring-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -41,7 +63,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "22810808-26bc-44ed-824f-e3627ba13089",
+        "uid": "a775bdb5-fa81-4318-bc1c-d8512446ee36",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/august-egg-company-recalls-shell-eggs-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -70,7 +92,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "4aad8196-4f51-43b6-995e-53e9beb64234",
+        "uid": "01f656c8-19a0-473a-b3bf-a9e825f4cea9",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/firehook-virginia-issues-allergy-alert-undeclared-sesame-classic-sea-salt-crackers",
         "notice_id_number": null,
         "recall_type": null,
@@ -93,7 +115,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "a80a2236-fdfa-47d6-bb07-a2b290ad98b3",
+        "uid": "bef76fb9-55cf-43d8-85b3-8f6ca5270df7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tgd-cuts-llc-initiated-voluntary-recall-cucumber-bedner-growers-inc-which-had-potential-be",
         "notice_id_number": null,
         "recall_type": null,
@@ -125,7 +147,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "3451b6f2-a88f-414f-a702-97b7ff9e3d01",
+        "uid": "794119c1-b19b-4c50-9082-0da6cbd3ae17",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/camerican-international-inc-issues-allergy-alert-undeclared-milk-aldi-brand-casa-mamita-churro-bites",
         "notice_id_number": null,
         "recall_type": null,
@@ -153,7 +175,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "0b15e8cd-44ba-44fd-bdf1-46be2f950665",
+        "uid": "cb75c0d1-743e-411e-b88c-29d46c755c4a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/homegrown-family-foods-issues-allergy-alert-undeclared-milk-shore-lunch-oven-style-breader-batter",
         "notice_id_number": null,
         "recall_type": null,
@@ -179,7 +201,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "be3d8199-3f78-47c5-9b73-c8d61bf41124",
+        "uid": "e6c14fee-9136-49ef-9212-75333a0c768a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/isabelles-kitchen-inc-recalls-refrigerated-deli-salads-containing-fresh-cucumbers-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -217,7 +239,7 @@
             "MO"
         ],
         "agency": "FDA",
-        "uid": "a6f44a18-3e77-426c-a000-e707e68f89d2",
+        "uid": "31a234b6-649b-4463-b691-377bf97c1089",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-vegetable-products-because-possible-health-0",
         "notice_id_number": null,
         "recall_type": null,
@@ -238,7 +260,7 @@
             "NV"
         ],
         "agency": "FDA",
-        "uid": "55cd5770-7f5f-435a-9543-ca476f8a8335",
+        "uid": "a3afcaf0-ecb9-4f28-96eb-e2425e916c11",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/santa-monica-seafood-voluntarily-recalls-atlantic-salmon-portions-seafood-stuffing-due-undeclared",
         "notice_id_number": null,
         "recall_type": null,
@@ -258,7 +280,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "49b31f49-cdbf-4ad8-9f73-7777e534c4dd",
+        "uid": "c9aebe71-c6df-42f0-9903-ff75cca5c247",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/spectrum-brands-pet-llc-recalls-single-lot-tetra-reptomin-reptile-food-aquatic-turtles-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -293,7 +315,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "60321eff-6f5a-476c-8ede-2ee8a9f71b09",
+        "uid": "119c6600-33b0-4aa5-9a7d-6beccaa41d6a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk-0",
         "notice_id_number": null,
         "recall_type": null,
@@ -313,7 +335,7 @@
             "CT"
         ],
         "agency": "FDA",
-        "uid": "19ab6baa-b19f-499a-a4ec-7cdaf1358158",
+        "uid": "27d9ee33-bca7-43ca-902d-3c1242c40785",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/big-y-foods-recalls-made-order-subs-wraps-and-paninis-sold-massachusetts-and-connecticut-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -345,7 +367,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "9f60db1b-97ae-44ea-99dc-55f3876f9821",
+        "uid": "6e51d9b3-a772-44de-a853-8a6a451113cf",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-voluntarily-recalls-three-store-made-deli-items-containing-recalled-cucumber",
         "notice_id_number": null,
         "recall_type": null,
@@ -375,7 +397,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "b134a417-36b4-4b1d-a2e2-72ec6c6c8938",
+        "uid": "872d1903-644e-4dcc-9e47-c1acc48fd6cb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/coastal-companies-issues-voluntary-recall-items-fresh-start-cucumbers-due-potential-salmonella",
         "notice_id_number": null,
         "recall_type": null,
@@ -396,7 +418,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "c5902272-144f-40be-b36b-ddf10d9965e3",
+        "uid": "c38ab436-4618-4f3e-a086-73d94a48cf2f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-select-texas-stores-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -415,7 +437,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "69d5edbe-3680-47e2-860e-63de5311b605",
+        "uid": "f69b872e-3939-4c85-97bf-9d32e2b50fbb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ukrops-homestyle-foods-announces-recall-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -438,7 +460,7 @@
             "OH"
         ],
         "agency": "FDA",
-        "uid": "2d234d54-7c72-4325-9053-1901efd43a11",
+        "uid": "550e3077-f8e2-44fd-92a0-3e3c72146f79",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pennrose-farms-issues-recall-whole-cucumbers-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -457,7 +479,7 @@
             "UT"
         ],
         "agency": "FDA",
-        "uid": "a922de0b-27ab-4395-b1dd-b917cc7519fe",
+        "uid": "56fbc753-2721-44fa-a201-6910e3ec3064",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-grains-gluten-free-bakery-issues-allergy-alert-undeclared-eggs-tree-nuts-soy-and-milk-bakery",
         "notice_id_number": null,
         "recall_type": null,
@@ -490,27 +512,8 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "ff299876-455f-49f8-9ed7-d1daa9d870c2",
+        "uid": "13bfd090-a47e-42d2-86c2-4e7bc443a2fb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bedner-growers-inc-recalls-cucumbers-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "R&M Trading LLC Issues Allergy Alert on Undeclared Milk in R&M Refresher Instant Milk Tea Powder",
-        "company_announce_dttm": "2025-05-18T04:00:00+00:00",
-        "notification_dttm": "2025-05-19T04:00:00+00:00",
-        "recall_reason": "Undeclared milk",
-        "company_name": "R&M Trading LLC",
-        "brand_name": "RM Refresher",
-        "product_description": "Instant Milk Tea Powder",
-        "impacted_states": [
-            "WA"
-        ],
-        "agency": "FDA",
-        "uid": "6d356a27-02eb-490f-8053-049fa2890826",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/rm-trading-llc-issues-allergy-alert-undeclared-milk-rm-refresher-instant-milk-tea-powder",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
