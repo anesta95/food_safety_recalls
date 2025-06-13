@@ -1,5 +1,24 @@
 [
     {
+        "title": "Vita-Warehouse Corp. Issues Allergy Alert on Undeclared  Peanut Allergen in ALDI Welby\u00ae, Berkley Jensen\u00ae, and  VitaGlobe\u2122 Vitamin B12 Gummy Products",
+        "company_announce_dttm": "2025-06-12T15:28:00+00:00",
+        "notification_dttm": "2025-06-13T04:00:00+00:00",
+        "recall_reason": "Undeclared allergen - peanut",
+        "company_name": "Vita Warehouse Corp.",
+        "brand_name": "Welby, Berkely Jensen and VitaGlobe",
+        "product_description": "Gummy products",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "c0d14751-5458-40ef-ab75-62998f09f517",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vita-warehouse-corp-issues-allergy-alert-undeclared-peanut-allergen-aldi-welbyr-berkley-jensenr-and",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Starway International Group LLC Recalls Ineligible Frozen Siluriformes Fish Ball Products Imported From Vietnam",
         "company_announce_dttm": null,
         "notification_dttm": "2025-06-12T00:00:00+00:00",
