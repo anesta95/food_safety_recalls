@@ -1,5 +1,24 @@
 [
     {
+        "title": "King Tallow LLC Recalls Beef Tallow Products Produced Without Benefit of Inspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-06-13T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "10.5-oz. jars containing \u201cGRASS FED Beef Tallow ARTISAN COOKING OIL by KING TALLOW.\u201d ",
+        "impacted_states": [
+            "PR"
+        ],
+        "agency": "USDA",
+        "uid": "bc4bf378-b31a-4554-875d-16ef20b4a1a0",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/king-tallow-llc-recalls-beef-tallow-products-produced-without-benefit-inspection",
+        "notice_id_number": "022-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Vita-Warehouse Corp. Issues Allergy Alert on Undeclared  Peanut Allergen in ALDI Welby\u00ae, Berkley Jensen\u00ae, and  VitaGlobe\u2122 Vitamin B12 Gummy Products",
         "company_announce_dttm": "2025-06-12T15:28:00+00:00",
         "notification_dttm": "2025-06-13T04:00:00+00:00",
