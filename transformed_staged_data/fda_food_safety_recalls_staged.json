@@ -1,24 +1,5 @@
 [
     {
-        "title": "Fuentes Farms, LLC Recalls Product Because of Possible Health Risk",
-        "company_announce_dttm": "2025-06-13T14:40:00+00:00",
-        "notification_dttm": "2025-06-16T04:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness \u2013 Salmonella",
-        "company_name": "Fuentes Farms Inc.",
-        "brand_name": "Fuentes Farms Inc",
-        "product_description": "Cucumbers in bushel boxes",
-        "impacted_states": [
-            "TX"
-        ],
-        "agency": "FDA",
-        "uid": "4dd4275e-2b5e-44f2-99bf-d64a22e518d0",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fuentes-farms-llc-recalls-product-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
         "title": "Turkana Food Inc. Recall Flora Dried Apricots with Undeclared Sulfites on Product Labeling Because of Possible Health Risk",
         "company_announce_dttm": "2025-06-12T20:41:00+00:00",
         "notification_dttm": "2025-06-12T04:00:00+00:00",
@@ -47,7 +28,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "dd4d3f5a-5750-4acb-ba33-9cbb1d3a606e",
+        "uid": "3cbf7457-10d0-46ab-8f43-4f6baa3c2097",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/turkana-food-inc-recall-flora-dried-apricots-undeclared-sulfites-product-labeling-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -66,7 +47,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "518c6b9e-97ff-47d9-8e1c-325503348b97",
+        "uid": "fca3c3b7-2e14-4e84-a646-95405ff67e54",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vita-warehouse-corp-issues-allergy-alert-undeclared-peanut-allergen-aldi-welbyr-berkley-jensenr-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -87,7 +68,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "cd64f945-64ec-427a-84f3-3aef70c46658",
+        "uid": "f0c63785-fc3c-4842-b6a0-496baec7b813",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hofood99-inc-recalls-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -109,7 +90,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "fa2b7762-4884-4581-afc8-884c0da6c09f",
+        "uid": "60a4035c-5715-4c19-915a-c40b83685de2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bornstein-seafoods-inc-recalls-cooked-peeled-ready-eat-coldwater-shrimp-meat-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -131,7 +112,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "730d77af-9713-4387-808e-0807dc3fea32",
+        "uid": "17caa62c-9d17-4bbf-87bf-bc16afa3b695",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/p-east-trading-corp-distributors-issues-alert-uneviscerated-salted-smoked-split-herring-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -158,7 +139,7 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "a602db1b-9cd4-4ac6-9ab9-9c7fee1fa65c",
+        "uid": "f6d3997e-a0fa-46b0-8f87-99b54bf048f4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/august-egg-company-recalls-shell-eggs-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -187,7 +168,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "0f94e4e7-976f-4e79-8dcd-f214a2dedd32",
+        "uid": "0f03d89b-5863-4e3d-a2f1-84a699531c0f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/firehook-virginia-issues-allergy-alert-undeclared-sesame-classic-sea-salt-crackers",
         "notice_id_number": null,
         "recall_type": null,
@@ -210,7 +191,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "81d452f5-0e1c-4861-a4e7-63e0758218a9",
+        "uid": "550b4d4e-31ad-4d7f-a926-7c872f414775",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tgd-cuts-llc-initiated-voluntary-recall-cucumber-bedner-growers-inc-which-had-potential-be",
         "notice_id_number": null,
         "recall_type": null,
@@ -242,7 +223,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "8e5bbc26-56b0-401a-8d48-610b4a6f6630",
+        "uid": "1e3ff359-7a6d-4b8b-ac5c-9dc91d2a0763",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/camerican-international-inc-issues-allergy-alert-undeclared-milk-aldi-brand-casa-mamita-churro-bites",
         "notice_id_number": null,
         "recall_type": null,
@@ -270,7 +251,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "f42cf1eb-a0fe-4897-b12b-eadee017697f",
+        "uid": "c80bffea-7a72-4de0-972f-35ff33e6fd29",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/homegrown-family-foods-issues-allergy-alert-undeclared-milk-shore-lunch-oven-style-breader-batter",
         "notice_id_number": null,
         "recall_type": null,
@@ -296,7 +277,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "4d65b305-5dd5-4704-960e-822c3cec306b",
+        "uid": "a34281d0-5bfe-46d1-b704-625824dac00a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/isabelles-kitchen-inc-recalls-refrigerated-deli-salads-containing-fresh-cucumbers-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -334,7 +315,7 @@
             "MO"
         ],
         "agency": "FDA",
-        "uid": "aa70c339-60f2-4980-a9d9-79d5dd91cac4",
+        "uid": "b7534edf-b516-4036-8048-fde02698c9f5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-vegetable-products-because-possible-health-0",
         "notice_id_number": null,
         "recall_type": null,
@@ -355,7 +336,7 @@
             "NV"
         ],
         "agency": "FDA",
-        "uid": "d25351a2-82f1-44b7-94ff-0573f5ba42ea",
+        "uid": "44e22547-5be2-47fd-9d63-c61282fd2ace",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/santa-monica-seafood-voluntarily-recalls-atlantic-salmon-portions-seafood-stuffing-due-undeclared",
         "notice_id_number": null,
         "recall_type": null,
@@ -375,7 +356,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "0c082e24-cc69-46d1-91f8-86f6cd1fba1b",
+        "uid": "bcef491c-8f5b-42f4-a628-ab84c22287a4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/spectrum-brands-pet-llc-recalls-single-lot-tetra-reptomin-reptile-food-aquatic-turtles-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -410,7 +391,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "5d6836b6-c24f-43c6-8f2e-56bc35cb2370",
+        "uid": "b40fe96c-ed94-4b45-818a-0cc062e40dcb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-recalls-limited-number-cucumber-products-because-possible-health-risk-0",
         "notice_id_number": null,
         "recall_type": null,
@@ -430,7 +411,7 @@
             "CT"
         ],
         "agency": "FDA",
-        "uid": "5a4b9113-46bb-46bb-b724-505e783d5bca",
+        "uid": "a6a226da-712a-4cfc-ae97-2d08f085e6d3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/big-y-foods-recalls-made-order-subs-wraps-and-paninis-sold-massachusetts-and-connecticut-because",
         "notice_id_number": null,
         "recall_type": null,
@@ -462,7 +443,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "13b4609e-db8f-4940-ae6c-a4e1c138e54a",
+        "uid": "612a3c89-5fdc-43a6-ae89-9129e9152958",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-voluntarily-recalls-three-store-made-deli-items-containing-recalled-cucumber",
         "notice_id_number": null,
         "recall_type": null,
@@ -492,7 +473,7 @@
             "WV"
         ],
         "agency": "FDA",
-        "uid": "f984d6c8-6367-4d6d-9e2e-54c7ba9cf389",
+        "uid": "db28f9de-8c99-4d7b-b5b3-7010eae61f62",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/coastal-companies-issues-voluntary-recall-items-fresh-start-cucumbers-due-potential-salmonella",
         "notice_id_number": null,
         "recall_type": null,
@@ -513,8 +494,27 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "0f7d7f32-ac21-4341-8a03-70e619876d57",
+        "uid": "c34a8b6b-4020-428f-9e49-295324048130",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-select-texas-stores-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Ukrop\u2019s Homestyle Foods Announces Recall Due to Possible Health Risk",
+        "company_announce_dttm": "2025-05-21T18:26:00+00:00",
+        "notification_dttm": "2025-05-22T04:00:00+00:00",
+        "recall_reason": "Salmonella",
+        "company_name": "Ukrop\u2019s Homestyle Foods, LL",
+        "brand_name": "Ukrop\u2019s",
+        "product_description": "Marinated cucumber Salad",
+        "impacted_states": [
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "2e01a232-9883-4732-b3bc-d747faa67143",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ukrops-homestyle-foods-announces-recall-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
