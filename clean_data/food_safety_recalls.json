@@ -1,5 +1,29 @@
 [
     {
+        "title": "Meijer Issues Recall on Frederik\u2019s Dark Chocolate Almonds Due to Presence of Undeclared Cashews",
+        "company_announce_dttm": "2025-06-13T19:04:00+00:00",
+        "notification_dttm": "2025-06-16T04:00:00+00:00",
+        "recall_reason": "Undeclared cashews",
+        "company_name": "Meijer",
+        "brand_name": "Frederick\u2019s by Meijer",
+        "product_description": " Dark Chocolate Almonds",
+        "impacted_states": [
+            "IL",
+            "IN",
+            "KY",
+            "MI",
+            "OH",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "8cd2d419-b588-455c-97b2-5939ba52486e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/meijer-issues-recall-frederiks-dark-chocolate-almonds-due-presence-undeclared-cashews",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Fuentes Farms, LLC Recalls Product Because of Possible Health Risk",
         "company_announce_dttm": "2025-06-13T14:40:00+00:00",
         "notification_dttm": "2025-06-16T04:00:00+00:00",
