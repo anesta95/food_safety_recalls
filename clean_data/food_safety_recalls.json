@@ -1,5 +1,24 @@
 [
     {
+        "title": "Fuentes Farms, LLC Recalls Product Because of Possible Health Risk",
+        "company_announce_dttm": "2025-06-13T14:40:00+00:00",
+        "notification_dttm": "2025-06-16T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Salmonella",
+        "company_name": "Fuentes Farms Inc.",
+        "brand_name": "Fuentes Farms Inc",
+        "product_description": "Cucumbers in bushel boxes",
+        "impacted_states": [
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "4dd4275e-2b5e-44f2-99bf-d64a22e518d0",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fuentes-farms-llc-recalls-product-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "King Tallow LLC Recalls Beef Tallow Products Produced Without Benefit of Inspection",
         "company_announce_dttm": null,
         "notification_dttm": "2025-06-13T00:00:00+00:00",
