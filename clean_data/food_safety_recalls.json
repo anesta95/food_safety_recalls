@@ -1,5 +1,22 @@
 [
     {
+        "title": "FreshRealm Recalls Chicken Fettuccine Alfredo Products  Due to Possible Listeria Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-06-17T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "FreshRealm",
+        "brand_name": null,
+        "product_description": "32.8-oz. tray packages containing \u201cMARKETSIDE GRILLED CHICKEN ALFREDO WITH FETTUCCINE Tender Pasta with Creamy Alfredo Sauce, White Meat Chicken and Shaved Parmesan Cheese\u201d with best-by date 06/27/25 or prior., 12.3 oz. tray packages containing \u201cMARKETSIDE GRILLED CHICKEN ALFREDO WITH FETTUCCINE Tender Pasta with Creamy Alfredo Sauce, White Meat Chicken, Broccoli and Shaved Parmesan Cheese\u201d with best-by date 06/26/25 or prior., 12.5 oz. tray packages containing \u201cHOME CHEF Heat &amp; Eat Chicken Fettuccine Alfredo with pasta, grilled white meat chicken, and Parmesan cheese\u201d with best-by date 06/19/25 or prior.\u00a0",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "0ad36bf9-2865-4116-b35e-50a24c3ae9e2",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/freshrealm-recalls-chicken-fettuccine-alfredo-products-due-possible-listeria",
+        "notice_id_number": "023-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Meijer Issues Recall on Frederik\u2019s Dark Chocolate Almonds Due to Presence of Undeclared Cashews",
         "company_announce_dttm": "2025-06-13T19:04:00+00:00",
         "notification_dttm": "2025-06-16T04:00:00+00:00",
