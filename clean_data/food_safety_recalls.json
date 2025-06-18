@@ -1,5 +1,25 @@
 [
     {
+        "title": "Medtech Products Inc. Issues Nationwide Recall of Little Remedies\u00ae Honey Cough Syrup Due to Microbial Contamination",
+        "company_announce_dttm": "2025-06-17T15:04:00+00:00",
+        "notification_dttm": "2025-06-18T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Bacillus cereus",
+        "company_name": "Medtech Products Inc.",
+        "brand_name": "Little Remedies",
+        "product_description": "Honey Cough Syrup",
+        "impacted_states": [
+            "FL",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "bbf1db0d-3338-4b71-b5c6-904ac676981f",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medtech-products-inc-issues-nationwide-recall-little-remediesr-honey-cough-syrup-due-microbial",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "FreshRealm Recalls Chicken Fettuccine Alfredo Products  Due to Possible Listeria Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-06-17T00:00:00+00:00",
