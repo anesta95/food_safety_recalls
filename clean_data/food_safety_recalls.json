@@ -1,5 +1,22 @@
 [
     {
+        "title": "Weaver Nut Company Inc., Issues Allergy Alert on Undeclared Milk in Chocolate Nonpareils",
+        "company_announce_dttm": "2025-06-17T16:09:00+00:00",
+        "notification_dttm": "2025-06-18T04:00:00+00:00",
+        "recall_reason": "Undeclared milk allergen",
+        "company_name": "Weaver Nut Company",
+        "brand_name": "Weaver Nut Company",
+        "product_description": " Semi sweet chocolate pareils with white or Christmas colored seeds",
+        "impacted_states": [],
+        "agency": "FDA",
+        "uid": "59915c17-8730-43a5-a85f-02fb11d7f336",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/weaver-nut-company-inc-issues-allergy-alert-undeclared-milk-chocolate-nonpareils",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Medtech Products Inc. Issues Nationwide Recall of Little Remedies\u00ae Honey Cough Syrup Due to Microbial Contamination",
         "company_announce_dttm": "2025-06-17T15:04:00+00:00",
         "notification_dttm": "2025-06-18T04:00:00+00:00",
