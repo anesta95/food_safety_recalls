@@ -1,5 +1,25 @@
 [
     {
+        "title": "Lipari Foods Issues Allergy Alert on Undeclared Milk in \"Dark Chocolate Nonpareils\"",
+        "company_announce_dttm": "2025-06-20T19:34:00+00:00",
+        "notification_dttm": "2025-06-20T04:00:00+00:00",
+        "recall_reason": "Undeclared milk allergen",
+        "company_name": "Lipari Foods",
+        "brand_name": "JLM",
+        "product_description": "Dark chocolate nonpareils",
+        "impacted_states": [
+            "MI",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "9d5c7795-0380-4143-babf-d6cc7684a183",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lipari-foods-issues-allergy-alert-undeclared-milk-dark-chocolate-nonpareils",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Weaver Nut Company Inc., Issues Allergy Alert on Undeclared Milk in Chocolate Nonpareils",
         "company_announce_dttm": "2025-06-17T16:09:00+00:00",
         "notification_dttm": "2025-06-18T04:00:00+00:00",
