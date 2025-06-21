@@ -1,5 +1,24 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Meat Sauce Products Produced Without the Benefit of Inspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-06-20T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "16-oz. jars of \u201cThompson&#039;s B-K Spanish Sauce.\u201d , 16-oz. jars of \u201cThompson&#039;s B-K Spicey Coney Sauce.\u201d ",
+        "impacted_states": [
+            "IL"
+        ],
+        "agency": "USDA",
+        "uid": "467c8970-843f-4994-a005-6078f2caf1ad",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-meat-sauce-products-produced-without-benefit",
+        "notice_id_number": "PHA-06202025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "International Foodsource, LLC. Issues Allergy Alert in Nonpareil, Semi-Sweet Chocolate (Christmas Seeds) Sold as Dark Chocolate Nonpareils",
         "company_announce_dttm": "2025-06-20T21:21:00+00:00",
         "notification_dttm": "2025-06-20T04:00:00+00:00",
