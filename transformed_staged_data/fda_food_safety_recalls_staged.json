@@ -11,8 +11,29 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "b261a5d3-194b-4447-83f5-974b90bdf6db",
+        "uid": "62eea246-5b6f-4ab1-a2e6-1b4d9da5616d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sabores-bakery-dba-sabores-tu-mesa-issues-allergy-alert-undeclared-milk-mousse-desserts",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Face Rock Creamery Voluntarily Recalls Vampire Slayer Garlic Cheddar Curds Because of Possible Health Risk",
+        "company_announce_dttm": "2025-06-20T21:27:00+00:00",
+        "notification_dttm": "2025-06-21T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "Face Rock Creamer",
+        "brand_name": "Face Rock Creamery",
+        "product_description": "Vampire Slayer Garlic Cheddar Curds",
+        "impacted_states": [
+            "CA",
+            "NV",
+            "OR"
+        ],
+        "agency": "FDA",
+        "uid": "375b3d4a-04a0-4dc8-a18a-afc12f8400a9",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/face-rock-creamery-voluntarily-recalls-vampire-slayer-garlic-cheddar-curds-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
@@ -33,7 +54,7 @@
             "LA"
         ],
         "agency": "FDA",
-        "uid": "cfdf279c-4269-4ae8-ad5a-892049aa017d",
+        "uid": "42c0023f-21e6-4e1a-9e62-5322fb1ad928",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/international-foodsource-llc-issues-allergy-alert-nonpareil-semi-sweet-chocolate-christmas-seeds",
         "notice_id_number": null,
         "recall_type": null,
@@ -53,7 +74,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "17cb2ea6-ef4f-4a4f-a61d-8ad2818052b8",
+        "uid": "b03e3466-4a86-496b-9ea1-3ca3e6e2dff3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lipari-foods-issues-allergy-alert-undeclared-milk-dark-chocolate-nonpareils",
         "notice_id_number": null,
         "recall_type": null,
@@ -70,7 +91,7 @@
         "product_description": " Semi sweet chocolate pareils with white or Christmas colored seeds",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "81c20566-3fc8-4770-a115-d6a15ca00759",
+        "uid": "8ef7773b-73ea-44ff-9d66-ba328133ced0",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/weaver-nut-company-inc-issues-allergy-alert-undeclared-milk-chocolate-nonpareils",
         "notice_id_number": null,
         "recall_type": null,
@@ -90,7 +111,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "e505b575-32bc-435e-9502-694fbaffef93",
+        "uid": "39aa904c-76b0-403e-974a-59a3c5de1022",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medtech-products-inc-issues-nationwide-recall-little-remediesr-honey-cough-syrup-due-microbial",
         "notice_id_number": null,
         "recall_type": null,
@@ -114,7 +135,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "8591900c-4327-4e1e-bb15-1072cbf8a8db",
+        "uid": "d08edaf9-3543-46aa-9d48-d739b1e44a89",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/meijer-issues-recall-frederiks-dark-chocolate-almonds-due-presence-undeclared-cashews",
         "notice_id_number": null,
         "recall_type": null,
@@ -133,7 +154,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "e1d211db-10aa-43a2-8745-8068414c5bc6",
+        "uid": "46295646-b8df-4e56-abfa-af426fba9286",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fuentes-farms-llc-recalls-product-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -169,7 +190,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "5af10f9b-8dd6-4e03-bbc4-76b0bb21efa5",
+        "uid": "61df4abf-75ac-4421-994f-11b1e1de85b6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/turkana-food-inc-recall-flora-dried-apricots-undeclared-sulfites-product-labeling-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -188,7 +209,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "42f040ed-bd8d-44a1-91d7-1a2bbc86d125",
+        "uid": "7888c2f5-e400-4b08-82f4-6aefbe9dd743",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vita-warehouse-corp-issues-allergy-alert-undeclared-peanut-allergen-aldi-welbyr-berkley-jensenr-and",
         "notice_id_number": null,
         "recall_type": null,
@@ -209,7 +230,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "9c712c70-d299-4b7b-b2e4-9a037574d691",
+        "uid": "1bb7493f-72a6-4d8d-8a1a-8f3349d43dea",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hofood99-inc-recalls-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -231,7 +252,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "6d520ef4-af43-4e35-8b33-c2a492265db9",
+        "uid": "2170ade9-fb2c-4c48-baa0-b7c7cc726994",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bornstein-seafoods-inc-recalls-cooked-peeled-ready-eat-coldwater-shrimp-meat-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
@@ -253,7 +274,7 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "4fa53202-4126-48f2-8175-9d837d10a7de",
+        "uid": "aa2425e9-4644-4ed1-a43d-88e95e2a98ce",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/p-east-trading-corp-distributors-issues-alert-uneviscerated-salted-smoked-split-herring-due",
         "notice_id_number": null,
         "recall_type": null,
@@ -280,31 +301,8 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "24a992d9-24c4-46ad-bd75-05d5e8af0843",
+        "uid": "718fa8b8-380a-43ee-82a4-31d3b0da3dbc",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/august-egg-company-recalls-shell-eggs-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Tgd Cuts, LLC Initiated Voluntary Recall of Cucumber from Bedner Growers Inc., Which Had the Potential to Be Contaminated with Salmonella",
-        "company_announce_dttm": "2025-06-04T21:00:00+00:00",
-        "notification_dttm": "2025-06-04T21:00:00+00:00",
-        "recall_reason": "Potential to be contaminated with Salmonella",
-        "company_name": "TGD Cuts, LLC.",
-        "brand_name": "Multiple brands",
-        "product_description": "Fresh cucumbers and salsa and salads containing fresh cucumbers",
-        "impacted_states": [
-            "MD",
-            "NJ",
-            "NC",
-            "PA",
-            "VA"
-        ],
-        "agency": "FDA",
-        "uid": "bdbd4f56-91b1-471b-a36b-16d052220c0a",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tgd-cuts-llc-initiated-voluntary-recall-cucumber-bedner-growers-inc-which-had-potential-be",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
@@ -332,8 +330,31 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "be4d3515-e586-4484-822c-432a41dc0d65",
+        "uid": "f86e01f7-91a1-40a1-8b7c-adc4fb6566c7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/firehook-virginia-issues-allergy-alert-undeclared-sesame-classic-sea-salt-crackers",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
+        "title": "Tgd Cuts, LLC Initiated Voluntary Recall of Cucumber from Bedner Growers Inc., Which Had the Potential to Be Contaminated with Salmonella",
+        "company_announce_dttm": "2025-06-04T21:00:00+00:00",
+        "notification_dttm": "2025-06-04T21:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Salmonella",
+        "company_name": "TGD Cuts, LLC.",
+        "brand_name": "Multiple brands",
+        "product_description": "Fresh cucumbers and salsa and salads containing fresh cucumbers",
+        "impacted_states": [
+            "MD",
+            "NJ",
+            "NC",
+            "PA",
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "d4ff2206-ab90-4ce9-8039-98834bbdce6b",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tgd-cuts-llc-initiated-voluntary-recall-cucumber-bedner-growers-inc-which-had-potential-be",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
@@ -364,7 +385,7 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "d2217503-16c2-486a-a1dd-9ef2a5bf6b22",
+        "uid": "22db4442-0a8e-4b1d-94c8-f1ccc2c5e9e8",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/camerican-international-inc-issues-allergy-alert-undeclared-milk-aldi-brand-casa-mamita-churro-bites",
         "notice_id_number": null,
         "recall_type": null,
@@ -392,7 +413,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "6e849abc-4f5b-4489-80d1-c1126a5a0ccb",
+        "uid": "768bc0c2-de38-44d4-8e9e-e48ea7bd1d86",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/homegrown-family-foods-issues-allergy-alert-undeclared-milk-shore-lunch-oven-style-breader-batter",
         "notice_id_number": null,
         "recall_type": null,
@@ -418,7 +439,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "a74ebddb-6d3e-412b-95f0-7cdc0ea482eb",
+        "uid": "feb453ae-7bdd-46ba-8b34-5f366abda4b3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/isabelles-kitchen-inc-recalls-refrigerated-deli-salads-containing-fresh-cucumbers-because-possible",
         "notice_id_number": null,
         "recall_type": null,
@@ -456,29 +477,8 @@
             "MO"
         ],
         "agency": "FDA",
-        "uid": "21eeb669-9057-4b07-bafc-09b0fdf44b60",
+        "uid": "26bdab1d-a86d-4217-8948-7ab58d0f2b00",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-service-solutions-llc-voluntarily-recalls-supreme-vegetable-products-because-possible-health-0",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": null,
-        "recall_classification": null
-    },
-    {
-        "title": "Santa Monica Seafood Voluntarily Recalls Atlantic Salmon Portions with Seafood Stuffing Due to Undeclared Soy",
-        "company_announce_dttm": "2025-05-24T20:56:00+00:00",
-        "notification_dttm": "2025-05-24T04:00:00+00:00",
-        "recall_reason": "Undeclared allergen - soy",
-        "company_name": "Santa Monica Seafood",
-        "brand_name": "Aldi",
-        "product_description": "  Atlantic Salmon Portions with Seafood Stuffing",
-        "impacted_states": [
-            "AZ",
-            "CA",
-            "NV"
-        ],
-        "agency": "FDA",
-        "uid": "0924b43d-fa58-495a-987c-1e6678cb6cf5",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/santa-monica-seafood-voluntarily-recalls-atlantic-salmon-portions-seafood-stuffing-due-undeclared",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": null,
