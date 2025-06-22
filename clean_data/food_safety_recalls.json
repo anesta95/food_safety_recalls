@@ -1,5 +1,26 @@
 [
     {
+        "title": "Face Rock Creamery Voluntarily Recalls Vampire Slayer Garlic Cheddar Curds Because of Possible Health Risk",
+        "company_announce_dttm": "2025-06-20T21:27:00+00:00",
+        "notification_dttm": "2025-06-21T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "Face Rock Creamer",
+        "brand_name": "Face Rock Creamery",
+        "product_description": "Vampire Slayer Garlic Cheddar Curds",
+        "impacted_states": [
+            "CA",
+            "NV",
+            "OR"
+        ],
+        "agency": "FDA",
+        "uid": "a3fd347c-d834-4acf-a70d-fe150c0143f9",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/face-rock-creamery-voluntarily-recalls-vampire-slayer-garlic-cheddar-curds-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "FSIS Issues Public Health Alert for Meat Sauce Products Produced Without the Benefit of Inspection",
         "company_announce_dttm": null,
         "notification_dttm": "2025-06-20T00:00:00+00:00",
