@@ -1,5 +1,31 @@
 [
     {
+        "title": "Kilwins Quality Confections, LLC. Issues Allergy Alert on Undeclared Pecans in Mocha Truffles",
+        "company_announce_dttm": "2025-06-25T20:00:00+00:00",
+        "notification_dttm": "2025-06-25T20:00:00+00:00",
+        "recall_reason": "Undeclared pecans",
+        "company_name": "Kilwins Quality Confections, LLC",
+        "brand_name": "Kilwins",
+        "product_description": "Mocha Truffles",
+        "impacted_states": [
+            "AL",
+            "FL",
+            "GA",
+            "MD",
+            "NH",
+            "NC",
+            "VA",
+            "MI"
+        ],
+        "agency": "FDA",
+        "uid": "d19f41b8-bd36-4780-910c-9078c5dac1a5",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kilwins-quality-confections-llc-issues-allergy-alert-undeclared-pecans-mocha-truffles",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Starway International Group LLC Expands Recall for Ineligible Frozen Siluriformes Fish Products Imported from Vietnam",
         "company_announce_dttm": null,
         "notification_dttm": "2025-06-25T00:00:00+00:00",
