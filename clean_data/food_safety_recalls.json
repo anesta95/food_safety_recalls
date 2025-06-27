@@ -1,5 +1,24 @@
 [
     {
+        "title": "Shang Hao Jia, Inc. Issues Allergy Alert on Undeclared Sesame in Danshi Brand Spicy Shredded Tofu",
+        "company_announce_dttm": "2025-06-26T04:00:00+00:00",
+        "notification_dttm": "2025-06-27T17:00:00+00:00",
+        "recall_reason": "Undeclared Sesame",
+        "company_name": "SHANG HAO JIA, INC",
+        "brand_name": "Danshi",
+        "product_description": "Spicy Shredded Tofu ",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "88234c68-3259-433c-99a5-3541d56ea1e7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/shang-hao-jia-inc-issues-allergy-alert-undeclared-sesame-danshi-brand-spicy-shredded-tofu",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": null,
+        "recall_classification": null
+    },
+    {
         "title": "Kilwins Quality Confections, LLC. Issues Allergy Alert on Undeclared Pecans in Mocha Truffles",
         "company_announce_dttm": "2025-06-25T20:00:00+00:00",
         "notification_dttm": "2025-06-25T20:00:00+00:00",
