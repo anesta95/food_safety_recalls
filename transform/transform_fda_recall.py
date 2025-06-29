@@ -797,7 +797,7 @@ root = tree.getroot()
 staging_data = []
 
 full_clean_json = load_json_file("food_safety_recalls.json", "../clean_data")
-full_clean_url_list = [recall[recall_url] for recall in full_clean_json if recall_url in recall]
+full_clean_url_list = [recall["recall_url"] for recall in full_clean_json if "recall_url" in recall]
 
 for item in root.iterfind(".//item"):
     recall_title = item.find("title").text.strip()
