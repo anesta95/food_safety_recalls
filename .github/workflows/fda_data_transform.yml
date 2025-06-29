@@ -28,7 +28,9 @@ jobs:
           pip install pipenv
           pipenv install
           
-      - name: execute py scripts 
+      - name: execute py scripts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           pipenv run python ./transform/transform_fda_recall.py
         
