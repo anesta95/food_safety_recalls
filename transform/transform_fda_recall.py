@@ -172,7 +172,7 @@ def change_timezones(dttm, tz_dest):
 # Function to send extracted recall text to OpenAI prompt
 @retry(ValueError, tries=3, delay=3)
 def classify_recall(recall_text):
-    client = OpenAI(OPENAI_API_KEY)
+    client = OpenAI()
 
     response = client.chat.completions.create(
         model="gpt-4-turbo-2024-04-09",
