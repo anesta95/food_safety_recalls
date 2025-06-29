@@ -4,7 +4,7 @@
 
 # Operation
 * ~~Figure out how to deal with edge case of multiple FDA or USDA recalls issued with identical `notification_dttm` values.~~
-* Get back to USDA FSIS Recall API webmaster team about optimizing HTTP GET data query (do I need request headers/cookies?)
+* ~~Get back to USDA FSIS Recall API webmaster team about optimizing HTTP GET data query (do I need request headers/cookies?)~~
 
 # Optimization
 * Figure out way to access functions, classes and objects shared between multiple different python file from one singular location.
@@ -18,4 +18,4 @@
 * Publish final JSON to GH pages.
 * Build an [Observable Framework](https://observablehq.com/framework/) site that's built on underlying JSON that has cool custom dashboard.
 * Publish the dashboard as it's own page on GH pages.
-* Use an LLM or ML to use FDA recall text to try and "pre-classify" it as Class I-III.
+* ~~Use an LLM or ML to use FDA recall text to try and "pre-classify" it as Class I-III.~~

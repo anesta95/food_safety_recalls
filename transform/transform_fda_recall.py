@@ -69,6 +69,14 @@ def get_data_from_url(url):
         print(f"Request Error: {err}")
         return None  # Return None to indicate an error
 
+def load_json_file(file_name, rel_file_folder_path):
+    script_dir = os.path.dirname(__file__)
+    data_file_path = os.path.join(script_dir, rel_file_folder_path, file_name)
+
+    with open(data_file_path, "r") as f:
+        json_data = json.load(f)
+    
+    return json_data
 
 def extract_dl_terms(dt_elmnt):
     dt_str = dt_elmnt.string
@@ -788,6 +796,9 @@ root = tree.getroot()
 
 staging_data = []
 
+full_clean_json = load_json_file("food_safety_recalls.json", "../clean_data")
+full_clean_url_list = [recall[recall_url] for recall in full_clean_json if recall_url in recall]
+
 for item in root.iterfind(".//item"):
     recall_title = item.find("title").text.strip()
     recall_url = item.find("guid").text.strip()
@@ -796,17 +807,20 @@ for item in root.iterfind(".//item"):
     # recall_pub_dttm_str = item.find("pubDate").text
     # format_string = "%a, %d %b %Y %H:%M:%S %Z"
     # recall_pub_dttm = datetime.strptime(recall_pub_dttm_str, format_string)
-    recall_dict = create_fda_dict(recall_url, recall_title)
-    staging_data.append(recall_dict)
+    if recall_url not in full_clean_url_list:
+        recall_dict = create_fda_dict(recall_url, recall_title)
+        staging_data.append(recall_dict)
 
-# Write out FDA Food Safety Recalls as JSON into `transformed_staged_data` folder
-# Getting script folder
-script_dir = os.path.dirname(__file__)
-staged_data_folder_rel_path = "../transformed_staged_data"
-staged_data_file_path = os.path.join(script_dir, staged_data_folder_rel_path, "fda_food_safety_recalls_staged.json")
+if not staging_data:
+    print("No new FDA data to add to the staging file.")
+else:
+    # Write out FDA Food Safety Recalls as JSON into `transformed_staged_data` folder
+    # Getting script folder
+    script_dir = os.path.dirname(__file__)
+    staged_data_folder_rel_path = "../transformed_staged_data"
+    staged_data_file_path = os.path.join(script_dir, staged_data_folder_rel_path, "fda_food_safety_recalls_staged.json")
 
-print("Writing out staged FDA JSON")
-# Writing out dict as JSON
-with open(staged_data_file_path, 'w') as f:
-    json.dump(staging_data, f, indent=4, separators=(",", ": "), cls=DateTimeEncoder)
-
+    print("Writing out staged FDA JSON")
+    # Writing out dict as JSON
+    with open(staged_data_file_path, 'w') as f:
+        json.dump(staging_data, f, indent=4, separators=(",", ": "), cls=DateTimeEncoder)
