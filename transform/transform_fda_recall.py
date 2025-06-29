@@ -355,13 +355,15 @@ def extract_fda_recall_data(url):
     recall_classification = classify_recall(combined_p_txt_str)
 
     if recall_classification == "Class I":
-        risk_level = "High - Class I"
+        risk_level = "Potentially High - Class I"
     elif recall_classification == "Class II":
-        risk_level = "Low - Class II"
+        risk_level = "Potentially Low - Class II"
     elif recall_classification == "Class III":
-        risk_level = "Marginal - Class III"
+        risk_level = "Potentially Marginal - Class III"
     elif recall_classification == "Unknown":
         risk_level = "Unknown"
+    
+    hedge_recall_classification = f"Potentially {recall_classification}"
 
     all_state_abb_matches = search_paragraphs(states[0], paragraph_list)
     all_state_name_matches = search_paragraphs(states[1], paragraph_list)
@@ -400,7 +402,7 @@ def extract_fda_recall_data(url):
     val_list.append(risk_level)
 
     key_list.append("recall_classification")
-    val_list.append(recall_classification)
+    val_list.append(hedge_recall_classification)
 
     if len(key_list) != len(val_list):
         raise CustomError(f"Key list has a length of {len(key_list)} but the value list has a length of {len(val_list)}.")
