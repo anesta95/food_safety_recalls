@@ -11,12 +11,12 @@
             "CA"
         ],
         "agency": "FDA",
-        "uid": "ac09a4f7-6788-4683-aae8-5b9a594ed198",
+        "uid": "e4fce6f6-9de8-4857-ae8e-1edd2dd78509",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/shang-hao-jia-inc-issues-allergy-alert-undeclared-sesame-danshi-brand-spicy-shredded-tofu",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Kilwins Quality Confections, LLC. Issues Allergy Alert on Undeclared Pecans in Mocha Truffles",
@@ -37,12 +37,12 @@
             "MI"
         ],
         "agency": "FDA",
-        "uid": "cd2d3681-8567-4139-840f-2b06deeb990b",
+        "uid": "cc5555ca-7b65-4032-9318-626e379221c5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kilwins-quality-confections-llc-issues-allergy-alert-undeclared-pecans-mocha-truffles",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Sabores Bakery, Dba Sabores A Tu Mesa, Issues Allergy Alert on Undeclared Milk in Mousse Desserts",
@@ -56,12 +56,12 @@
             "FL"
         ],
         "agency": "FDA",
-        "uid": "a134a05a-2875-46c1-8748-7cdd4a6102ae",
+        "uid": "f60b00c2-ae84-4a9c-8dda-d3354311d0c1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sabores-bakery-dba-sabores-tu-mesa-issues-allergy-alert-undeclared-milk-mousse-desserts",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Face Rock Creamery Voluntarily Recalls Vampire Slayer Garlic Cheddar Curds Because of Possible Health Risk",
@@ -77,12 +77,12 @@
             "OR"
         ],
         "agency": "FDA",
-        "uid": "534f0947-d8ae-483c-b434-7e56b47b225d",
+        "uid": "1d5e92bc-52dc-4453-baed-1ee39051992d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/face-rock-creamery-voluntarily-recalls-vampire-slayer-garlic-cheddar-curds-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "International Foodsource, LLC. Issues Allergy Alert in Nonpareil, Semi-Sweet Chocolate (Christmas Seeds) Sold as Dark Chocolate Nonpareils",
@@ -99,12 +99,12 @@
             "LA"
         ],
         "agency": "FDA",
-        "uid": "b7446cfd-4921-4472-b641-4ea355ef68a2",
+        "uid": "b5e22e8e-2b6b-4793-863a-f15108a0a021",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/international-foodsource-llc-issues-allergy-alert-nonpareil-semi-sweet-chocolate-christmas-seeds",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Lipari Foods Issues Allergy Alert on Undeclared Milk in \"Dark Chocolate Nonpareils\"",
@@ -119,12 +119,12 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "6706a488-f3a8-4f02-bb4a-dea835e4701a",
+        "uid": "75dd7b6e-d5d0-4a1a-85c0-44f0591626c5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lipari-foods-issues-allergy-alert-undeclared-milk-dark-chocolate-nonpareils",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Weaver Nut Company Inc., Issues Allergy Alert on Undeclared Milk in Chocolate Nonpareils",
@@ -136,12 +136,12 @@
         "product_description": " Semi sweet chocolate pareils with white or Christmas colored seeds",
         "impacted_states": [],
         "agency": "FDA",
-        "uid": "bc03fdb2-f79b-434d-b969-9bfdb77185c1",
+        "uid": "dbdb02c5-04b3-44d7-b719-55b8943e6432",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/weaver-nut-company-inc-issues-allergy-alert-undeclared-milk-chocolate-nonpareils",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Medtech Products Inc. Issues Nationwide Recall of Little Remedies\u00ae Honey Cough Syrup Due to Microbial Contamination",
@@ -156,12 +156,12 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "da1f8579-8fdb-484e-a32c-d91b08b4a2e5",
+        "uid": "3f4e859f-88ea-4997-8cdb-b551f619e52d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medtech-products-inc-issues-nationwide-recall-little-remediesr-honey-cough-syrup-due-microbial",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Meijer Issues Recall on Frederik\u2019s Dark Chocolate Almonds Due to Presence of Undeclared Cashews",
@@ -180,12 +180,12 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "c22fdd17-cba4-41b2-9667-76886a100775",
+        "uid": "6b0a0b20-803a-4f01-be11-a3f815474761",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/meijer-issues-recall-frederiks-dark-chocolate-almonds-due-presence-undeclared-cashews",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Fuentes Farms, LLC Recalls Product Because of Possible Health Risk",
@@ -199,12 +199,12 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "18b6387f-e9cc-4cef-8262-563044d90af0",
+        "uid": "1a436a13-8282-45fd-b0c9-068ad51233ec",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fuentes-farms-llc-recalls-product-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Turkana Food Inc. Recall Flora Dried Apricots with Undeclared Sulfites on Product Labeling Because of Possible Health Risk",
@@ -235,12 +235,12 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "5cb09465-7132-45c7-8ce3-d821d4c27a11",
+        "uid": "6b2ba962-1ca4-4c4e-bc0b-f040f9dcdb88",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/turkana-food-inc-recall-flora-dried-apricots-undeclared-sulfites-product-labeling-because-possible",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "Marginal - Class III",
-        "recall_classification": "Class III"
+        "risk_level": "Potentially Marginal - Class III",
+        "recall_classification": "Potentially Class III"
     },
     {
         "title": "Vita-Warehouse Corp. Issues Allergy Alert on Undeclared  Peanut Allergen in ALDI Welby\u00ae, Berkley Jensen\u00ae, and  VitaGlobe\u2122 Vitamin B12 Gummy Products",
@@ -254,12 +254,12 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "71f96c84-e482-4541-9336-1a6d9aa276a7",
+        "uid": "06353bcc-a81f-401c-9317-47feaae43aae",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vita-warehouse-corp-issues-allergy-alert-undeclared-peanut-allergen-aldi-welbyr-berkley-jensenr-and",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Hofood99 Inc Recalls Enoki Mushroom Due to Possible Health Risk",
@@ -275,12 +275,12 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "bbd9fac9-fe0e-4545-b00c-f410414df315",
+        "uid": "5d4dc260-9994-4afd-a21c-6a1d94474c1f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hofood99-inc-recalls-enoki-mushroom-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Bornstein Seafoods Inc Recalls Cooked & Peeled Ready-To-Eat Coldwater Shrimp Meat Because of Possible Health Risk",
@@ -297,12 +297,12 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "07a3a3e4-7474-4e16-80bb-9e6fca4b8a9a",
+        "uid": "96f15c88-618c-4618-999f-bc6f16024991",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bornstein-seafoods-inc-recalls-cooked-peeled-ready-eat-coldwater-shrimp-meat-because-possible-health",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "P. East Trading Corp Distributors Issues Alert on Uneviscerated 'Salted Smoked Split Herring\u2019 Due to Potential Clostridium Botulinum Contamination",
@@ -319,12 +319,12 @@
             "NJ"
         ],
         "agency": "FDA",
-        "uid": "c9cf9027-e6f1-4dee-b769-fce539331514",
+        "uid": "a7197fc5-9fea-438b-aebf-f9c434483206",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/p-east-trading-corp-distributors-issues-alert-uneviscerated-salted-smoked-split-herring-due",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "August Egg Company Recalls Shell Eggs Because of Possible Health Risk",
@@ -346,12 +346,12 @@
             "WY"
         ],
         "agency": "FDA",
-        "uid": "af9503d5-d5a5-41bf-a530-8579b6aa3719",
+        "uid": "ecc7beee-2b7e-4d50-8089-0633fce07608",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/august-egg-company-recalls-shell-eggs-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Tgd Cuts, LLC Initiated Voluntary Recall of Cucumber from Bedner Growers Inc., Which Had the Potential to Be Contaminated with Salmonella",
@@ -369,12 +369,12 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "17951876-01d5-438b-be63-f06dcf899b63",
+        "uid": "ea7f56c0-895b-47a4-9e77-d64aeadfecac",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tgd-cuts-llc-initiated-voluntary-recall-cucumber-bedner-growers-inc-which-had-potential-be",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Firehook of Virginia Issues Allergy Alert on Undeclared Sesame in Classic Sea Salt Crackers",
@@ -398,12 +398,12 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "85545db3-01ff-4946-8ca0-1ba6847b225e",
+        "uid": "c89213f2-e39e-41b9-81a9-af9d85821854",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/firehook-virginia-issues-allergy-alert-undeclared-sesame-classic-sea-salt-crackers",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Camerican International, Inc. Issues Allergy Alert on Undeclared Milk in Aldi Brand Casa Mamita Churro Bites Filled with Chocolate Hazelnut Cream",
@@ -430,12 +430,12 @@
             "TN"
         ],
         "agency": "FDA",
-        "uid": "0fcfec18-6822-4991-9513-c1d52fe95589",
+        "uid": "91e6d683-dc51-4091-ab15-c9a27f88c0b0",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/camerican-international-inc-issues-allergy-alert-undeclared-milk-aldi-brand-casa-mamita-churro-bites",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     },
     {
         "title": "Homegrown Family Foods Issues Allergy Alert on Undeclared Milk in Shore Lunch Oven Style Breader & Batter Mix",
@@ -458,11 +458,11 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "9a18c413-589c-4879-914a-726a8d20e714",
+        "uid": "f11bb2cf-41bf-4cb4-b016-b4f3e1ba5054",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/homegrown-family-foods-issues-allergy-alert-undeclared-milk-shore-lunch-oven-style-breader-batter",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "High - Class I",
-        "recall_classification": "Class I"
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
     }
 ]
