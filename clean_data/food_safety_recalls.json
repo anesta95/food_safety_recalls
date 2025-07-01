@@ -1,5 +1,34 @@
 [
     {
+        "title": "Mellace Family Brands California, Inc. Issues An Allergy Alert On Undeclared Milk Allergen In Wegmans Semi-Sweet Chocolate Nonpareils",
+        "company_announce_dttm": "2025-06-25T22:35:00+00:00",
+        "notification_dttm": "2025-06-30T04:00:00+00:00",
+        "recall_reason": "Undeclared milk allergen",
+        "company_name": "Mellace Family Brands California, Inc.",
+        "brand_name": "Wegmans",
+        "product_description": "Semi-sweet Chocolate",
+        "impacted_states": [
+            "OH",
+            "CA",
+            "DE",
+            "MD",
+            "MA",
+            "NJ",
+            "NY",
+            "NC",
+            "PA",
+            "VA",
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "4ebebabb-fe88-4fbd-9e73-9f2fda40c3d2",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mellace-family-brands-california-inc-issues-allergy-alert-undeclared-milk-allergen-wegmans-semi",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Gaiser&#039;s European Style Provisions Inc. Recalls Ready-To-Eat Meat and Poultry Bologna Products Due to Misbranding ",
         "company_announce_dttm": null,
         "notification_dttm": "2025-06-27T00:00:00+00:00",
