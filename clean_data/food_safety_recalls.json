@@ -1,5 +1,24 @@
 [
     {
+        "title": "Mondel\u0113z Global LLC Conducts U.S. Voluntary Recall of  Four Carton Sizes of RITZ Peanut Butter Cracker  Sandwiches Due to Labeling Error",
+        "company_announce_dttm": "2025-07-08T20:13:00+00:00",
+        "notification_dttm": "2025-07-08T04:00:00+00:00",
+        "recall_reason": "Undeclared Allergen \u2013 Peanut",
+        "company_name": "Mondelez Global LLC",
+        "brand_name": "Ritz",
+        "product_description": "Peanut butter cracker sandwiches",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "52426a66-8978-448f-971a-41fa48aaaee0",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mondelez-global-llc-conducts-us-voluntary-recall-four-carton-sizes-ritz-peanut-butter-cracker",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "FSIS Issues Public Health Alert for Ready-to-eat Beef Jerky Stick Products Due to Possible Extraneous Material Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-07-02T00:00:00+00:00",
