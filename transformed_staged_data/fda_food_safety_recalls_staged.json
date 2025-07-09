@@ -1,18 +1,20 @@
 [
     {
-        "title": "Mondel\u0113z Global LLC Conducts U.S. Voluntary Recall of  Four Carton Sizes of RITZ Peanut Butter Cracker  Sandwiches Due to Labeling Error",
-        "company_announce_dttm": "2025-07-08T20:13:00+00:00",
-        "notification_dttm": "2025-07-08T04:00:00+00:00",
-        "recall_reason": "Undeclared Allergen \u2013 Peanut",
-        "company_name": "Mondelez Global LLC",
-        "brand_name": "Ritz",
-        "product_description": "Peanut butter cracker sandwiches",
+        "title": "CHS Inc. Recalls Payback Champion Lamb Feed Due to Elevated Copper Health Risk",
+        "company_announce_dttm": "2025-07-09T14:00:00+00:00",
+        "notification_dttm": "2025-07-09T04:00:00+00:00",
+        "recall_reason": "Elevated levels of copper",
+        "company_name": "CHS, Inc.",
+        "brand_name": "Payback\u00ae ",
+        "product_description": "Champion Lamb Text B30 with Power Booster",
         "impacted_states": [
-            "US"
+            "MT",
+            "ND",
+            "WY"
         ],
         "agency": "FDA",
-        "uid": "52426a66-8978-448f-971a-41fa48aaaee0",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mondelez-global-llc-conducts-us-voluntary-recall-four-carton-sizes-ritz-peanut-butter-cracker",
+        "uid": "3765a085-0050-4fc0-93f5-8cee603ddff7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/chs-inc-recalls-payback-champion-lamb-feed-due-elevated-copper-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
