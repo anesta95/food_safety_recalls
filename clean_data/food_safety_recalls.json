@@ -1,5 +1,36 @@
 [
     {
+        "title": "Natureen International Inc. Recalls Wei-Chuan Dried Black Fungus Slice (2.5oz) Because of Possible Health Risk",
+        "company_announce_dttm": "2025-07-08T17:52:00+00:00",
+        "notification_dttm": "2025-07-09T04:00:00+00:00",
+        "recall_reason": "Salmonella",
+        "company_name": "Natureen International Inc.",
+        "brand_name": "Wei-Chuan",
+        "product_description": "Dried Black Fungus Slice",
+        "impacted_states": [
+            "CA",
+            "CT",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "MI",
+            "MN",
+            "MO",
+            "NE",
+            "OH",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "96c03c39-4a3b-4a8f-859b-c335f61ae9a2",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natureen-international-inc-recalls-wei-chuan-dried-black-fungus-slice-25oz-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "CHS Inc. Recalls Payback Champion Lamb Feed Due to Elevated Copper Health Risk",
         "company_announce_dttm": "2025-07-09T14:00:00+00:00",
         "notification_dttm": "2025-07-09T04:00:00+00:00",
