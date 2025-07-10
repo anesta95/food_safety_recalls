@@ -1,5 +1,35 @@
 [
     {
+        "title": "Hartford Bakery, Inc. Issues Allergy Alert on Undeclared Hazelnuts in \u201cLewis Bake Shop Artisan Style \u00bd Loaf\u201d",
+        "company_announce_dttm": "2025-07-10T19:24:00+00:00",
+        "notification_dttm": "2025-07-10T04:00:00+00:00",
+        "recall_reason": "Undeclared hazelnuts",
+        "company_name": "Hartford Bakery, Inc.",
+        "brand_name": "Lewis Bake Shop",
+        "product_description": "Artisan Style 1/2 Loaf",
+        "impacted_states": [
+            "IN",
+            "AL",
+            "AR",
+            "GA",
+            "IL",
+            "KY",
+            "MI",
+            "MS",
+            "MO",
+            "OH",
+            "TN",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "48451243-de0c-48f8-bcfb-9c96b5a2be38",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hartford-bakery-inc-issues-allergy-alert-undeclared-hazelnuts-lewis-bake-shop-artisan-style-12-loaf",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Sheehan Brothers Vending Issues a Voluntary Recall Due to an Undeclared Sesame Allergen",
         "company_announce_dttm": "2025-07-08T15:55:00+00:00",
         "notification_dttm": "2025-07-10T04:00:00+00:00",
