@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sheehan Brothers Vending Issues a Voluntary Recall Due to an Undeclared Sesame Allergen",
+        "company_announce_dttm": "2025-07-08T15:55:00+00:00",
+        "notification_dttm": "2025-07-10T04:00:00+00:00",
+        "recall_reason": "Undeclared sesame",
+        "company_name": "Sheehan Brothers Vending",
+        "brand_name": "Sheehan Brothers Vending",
+        "product_description": "Cheeseburgers, Spicy Chicken Sandwich, Italian Mini Subs, Pepperoni Pizza Sub, Chili Cheese Coney and BBQ Riblet w/coleslaw",
+        "impacted_states": [
+            "IN",
+            "KY",
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "b30d6c77-0a37-499c-9820-3c0390face3e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sheehan-brothers-vending-issues-voluntary-recall-due-undeclared-sesame-allergen",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Natureen International Inc. Recalls Wei-Chuan Dried Black Fungus Slice (2.5oz) Because of Possible Health Risk",
         "company_announce_dttm": "2025-07-08T17:52:00+00:00",
         "notification_dttm": "2025-07-09T04:00:00+00:00",
