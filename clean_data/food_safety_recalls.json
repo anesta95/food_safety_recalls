@@ -1,5 +1,25 @@
 [
     {
+        "title": "Wiet Peeters Farm Products Limited RECALLS  \u201cAunt Mid\u2019s Fresh Sliced Mushrooms, Peeters Mushroom Farm Cremini Sliced and Peeters Mushroom Farm Thick Slice Mushroom \" Because of Possible Listeria Monocytogenes Contamination",
+        "company_announce_dttm": "2025-07-10T15:20:00+00:00",
+        "notification_dttm": "2025-07-11T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Listeria monocytogenes",
+        "company_name": "Wiet Peeters Farm Products Limited",
+        "brand_name": "Peeters and Aunt Mid\u2019s",
+        "product_description": "Fresh sliced and Cremini sliced mushrooms",
+        "impacted_states": [
+            "MI",
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "2db6268c-f545-42d8-baf2-60471fa1f0b3",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wiet-peeters-farm-products-limited-recalls-aunt-mids-fresh-sliced-mushrooms-peeters-mushroom-farm",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Hartford Bakery, Inc. Issues Allergy Alert on Undeclared Hazelnuts in \u201cLewis Bake Shop Artisan Style \u00bd Loaf\u201d",
         "company_announce_dttm": "2025-07-10T19:24:00+00:00",
         "notification_dttm": "2025-07-10T04:00:00+00:00",
