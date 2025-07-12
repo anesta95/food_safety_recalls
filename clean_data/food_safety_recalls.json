@@ -1,5 +1,26 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Ready-To-Eat Pulled Pork Products Due to Misbranding and Undeclared Allergens",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-07-11T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "Roth Premium Foods, LLC",
+        "brand_name": null,
+        "product_description": "16-oz. plastic trays containing \u201cPrep Chef PULLED PORK WITH BBQ SAUCE\u201d with \u201cBest if used by\u201d dates 7/10/25, 7/15/25, 7/24/25, or 7/31/25 and lot codes 025148, 025153, 5162, 5169, 5176, 5189, or 5190 printed on the label., 10-lb. boxes containing two 5-lb. bags of frozen \u201cPrep Chef BBQ PULLED PORK &amp; GOUDA MAC AND CHEESE BURRITO FILLING\u201d with USE BY dates 4/3/2026, 4/24/2026, 5/2/2026, 5/5/2026, 5/16/2026, 5/22/2026, 6/12/2026, 6/23/2026 or 7/3/2026 and lot codes 025093, 0",
+        "impacted_states": [
+            "ID",
+            "ME",
+            "NY"
+        ],
+        "agency": "USDA",
+        "uid": "e1ae095f-b416-4ec5-946e-b3130d73c728",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-pulled-pork-products-due-misbranding-and",
+        "notice_id_number": "PHA-07112025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Wiet Peeters Farm Products Limited RECALLS  \u201cAunt Mid\u2019s Fresh Sliced Mushrooms, Peeters Mushroom Farm Cremini Sliced and Peeters Mushroom Farm Thick Slice Mushroom \" Because of Possible Listeria Monocytogenes Contamination",
         "company_announce_dttm": "2025-07-10T15:20:00+00:00",
         "notification_dttm": "2025-07-11T04:00:00+00:00",
