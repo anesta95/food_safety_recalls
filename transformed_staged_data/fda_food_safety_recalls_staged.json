@@ -1,19 +1,19 @@
 [
     {
-        "title": "Wiet Peeters Farm Products Limited RECALLS  \u201cAunt Mid\u2019s Fresh Sliced Mushrooms, Peeters Mushroom Farm Cremini Sliced and Peeters Mushroom Farm Thick Slice Mushroom \" Because of Possible Listeria Monocytogenes Contamination",
-        "company_announce_dttm": "2025-07-10T15:20:00+00:00",
-        "notification_dttm": "2025-07-11T04:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness - Listeria monocytogenes",
-        "company_name": "Wiet Peeters Farm Products Limited",
-        "brand_name": "Peeters and Aunt Mid\u2019s",
-        "product_description": "Fresh sliced and Cremini sliced mushrooms",
+        "title": "LLK Trading Inc. Recalls \u201cNeedle Mushrooms\u201d Because of Possible Health Risk",
+        "company_announce_dttm": "2025-07-11T04:00:00+00:00",
+        "notification_dttm": "2025-07-13T13:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "LLK TRADING INC.",
+        "brand_name": "LLK TRADING INC.",
+        "product_description": "Needle mushroom",
         "impacted_states": [
-            "MI",
-            "OH"
+            "NJ",
+            "NY"
         ],
         "agency": "FDA",
-        "uid": "2db6268c-f545-42d8-baf2-60471fa1f0b3",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wiet-peeters-farm-products-limited-recalls-aunt-mids-fresh-sliced-mushrooms-peeters-mushroom-farm",
+        "uid": "4fcdc215-fff2-4d5d-a618-90c0159b5a82",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/llk-trading-inc-recalls-needle-mushrooms-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
