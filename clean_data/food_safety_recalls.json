@@ -1,5 +1,35 @@
 [
     {
+        "title": "Updated Release: Hartford Bakery, Inc. Issues Allergy Alert on Undeclared Hazelnuts in \u201cLewis Bake Shop Artisan Style \u00bd Loaf\u201d",
+        "company_announce_dttm": "2025-07-11T20:17:00+00:00",
+        "notification_dttm": "2025-07-14T04:00:00+00:00",
+        "recall_reason": "Undeclared hazelnuts",
+        "company_name": "Hartford Bakery, Inc.",
+        "brand_name": "Lewis Bake Shop",
+        "product_description": "Artisan Style 1/2 Loaf",
+        "impacted_states": [
+            "IN",
+            "AL",
+            "AR",
+            "GA",
+            "IL",
+            "KY",
+            "MI",
+            "MS",
+            "MO",
+            "OH",
+            "TN",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "0f1479be-b680-4755-aaf8-253a322f9083",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-release-hartford-bakery-inc-issues-allergy-alert-undeclared-hazelnuts-lewis-bake-shop",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "LLK Trading Inc. Recalls \u201cNeedle Mushrooms\u201d Because of Possible Health Risk",
         "company_announce_dttm": "2025-07-11T04:00:00+00:00",
         "notification_dttm": "2025-07-13T13:00:00+00:00",
