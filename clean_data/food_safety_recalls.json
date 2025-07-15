@@ -1,5 +1,25 @@
 [
     {
+        "title": "Krasniy Oktyabr Inc. USA Issues Alert on Eviscerate Dry Salted Vobla \u201cAral Silver\u201d",
+        "company_announce_dttm": "2025-07-15T23:05:00+00:00",
+        "notification_dttm": "2025-07-15T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Clostridium botulinum  ",
+        "company_name": "KRASNIY OKTYABR INC. USA",
+        "brand_name": "ARAL SILVER VOBLA ",
+        "product_description": "EVISCERATE DRY SALTED VOBLA ARAL SILVER",
+        "impacted_states": [
+            "NY",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "620f2178-b302-4615-85f3-f74d7b9a6b60",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasniy-oktyabr-inc-usa-issues-alert-eviscerate-dry-salted-vobla-aral-silver",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "YoCrunch\u00ae Products Voluntarily Recalled by Danone U.S. Due to Potential Presence of Plastic Pieces in Dome Topper",
         "company_announce_dttm": "2025-07-14T22:07:00+00:00",
         "notification_dttm": "2025-07-14T04:00:00+00:00",
