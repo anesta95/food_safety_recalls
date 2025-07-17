@@ -1,5 +1,22 @@
 [
     {
+        "title": "Kayem Foods Inc. Recalls Ready-To-Eat Chicken Sausage Products Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-07-17T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Kayem Foods Inc.",
+        "brand_name": null,
+        "product_description": "\u2022\t11-oz. vacuum-packed packages containing four pieces of \u201cALL NATURAL al fresco CHICKEN SAUSAGE SWEET APPLE with Vermont made syrup\u201d with lot code \u201c179\u201d and \u201cUSE/FRZ BY\u201d date \u201cOCT 01 2025\u201d printed on the back package label.",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "9e7d541b-1901-4f06-8c7c-63ab3a0b14c0",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/kayem-foods-inc--recalls-ready-eat-chicken-sausage-products-due-possible-foreign",
+        "notice_id_number": "026-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Jalux Americas, Inc. (dba J.sweets) Issues Allergy Alert on Undeclared Tree Nuts and Milk in L\u2019espoir Brand Cookies",
         "company_announce_dttm": "2025-07-14T20:26:00+00:00",
         "notification_dttm": "2025-07-17T04:00:00+00:00",
