@@ -1,20 +1,19 @@
 [
     {
-        "title": "Jalux Americas, Inc. (dba J.sweets) Issues Allergy Alert on Undeclared Tree Nuts and Milk in L\u2019espoir Brand Cookies",
-        "company_announce_dttm": "2025-07-14T20:26:00+00:00",
-        "notification_dttm": "2025-07-17T04:00:00+00:00",
-        "recall_reason": "Undeclared milk and tree nuts (almonds and macadamia nuts)",
-        "company_name": "Jalux Americas, Inc.(dba J.sweets)",
-        "brand_name": "L'espoir",
-        "product_description": "L\u2019espoir and Drycapot cookies,",
+        "title": "Nirwana Foods Issues Allergy Alert on Undeclared Sulfites on Golden Raisin 28Oz Pouch Label",
+        "company_announce_dttm": "2025-06-28T22:13:00+00:00",
+        "notification_dttm": "2025-07-18T04:00:00+00:00",
+        "recall_reason": "Undeclared sulfites",
+        "company_name": "Nirwana Foods LLC",
+        "brand_name": "Nirwana Foods",
+        "product_description": "Golden Raisins",
         "impacted_states": [
-            "CA",
-            "IL",
-            "WA"
+            "NJ",
+            "NY"
         ],
         "agency": "FDA",
-        "uid": "e613f521-f511-4761-b089-af585a49e906",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jalux-americas-inc-dba-jsweets-issues-allergy-alert-undeclared-tree-nuts-and-milk-lespoir-brand",
+        "uid": "088adec2-4233-4bd3-b4be-59dce41438b1",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nirwana-foods-issues-allergy-alert-undeclared-sulfites-golden-raisin-28oz-pouch-label",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
