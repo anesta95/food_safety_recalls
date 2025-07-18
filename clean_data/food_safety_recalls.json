@@ -1,5 +1,25 @@
 [
     {
+        "title": "Nirwana Foods Issues Allergy Alert on Undeclared Sulfites on Golden Raisin 28Oz Pouch Label",
+        "company_announce_dttm": "2025-06-28T22:13:00+00:00",
+        "notification_dttm": "2025-07-18T04:00:00+00:00",
+        "recall_reason": "Undeclared sulfites",
+        "company_name": "Nirwana Foods LLC",
+        "brand_name": "Nirwana Foods",
+        "product_description": "Golden Raisins",
+        "impacted_states": [
+            "NJ",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "088adec2-4233-4bd3-b4be-59dce41438b1",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nirwana-foods-issues-allergy-alert-undeclared-sulfites-golden-raisin-28oz-pouch-label",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Kayem Foods Inc. Recalls Ready-To-Eat Chicken Sausage Products Due to Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-07-17T00:00:00+00:00",
