@@ -1,21 +1,20 @@
 [
     {
-        "title": "Albertsons Companies Stores in Arkansas, Louisiana, Oklahoma and Texas Voluntarily  Recalls Select Items Containing Tuna Salad from Reser\u2019s Fine Foods Due to an  Ingredient Recall Linked to Possible Listeria Monocytogenes Contamination",
-        "company_announce_dttm": "2025-07-17T20:35:00+00:00",
+        "title": "Jewel Osco Stores in Illinois, Indiana and Iowa Voluntarily Recalls Select Items  Containing Tuna Salad from Reser\u2019s Fine Foods Due to an Ingredient Recall Linked to  Possible Listeria Monocytogenes Contamination",
+        "company_announce_dttm": "2025-07-17T22:14:00+00:00",
         "notification_dttm": "2025-07-21T04:00:00+00:00",
         "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
-        "company_name": "Albertsons",
-        "brand_name": "Randalls, Albertsons",
-        "product_description": "Tuna Salad products",
+        "company_name": "Jewel Osco",
+        "brand_name": "Jewel Osco",
+        "product_description": "Tuna Salad Products",
         "impacted_states": [
-            "LA",
-            "OK",
-            "AR",
-            "TX"
+            "IN",
+            "IL",
+            "IA"
         ],
         "agency": "FDA",
-        "uid": "e1eabb4b-eea0-4f8f-9c1b-b7e1410cc083",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-stores-arkansas-louisiana-oklahoma-and-texas-voluntarily-recalls-select-items",
+        "uid": "ebb420a4-50ed-467c-b789-caf5bc0868e6",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jewel-osco-stores-illinois-indiana-and-iowa-voluntarily-recalls-select-items-containing-tuna-salad",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
