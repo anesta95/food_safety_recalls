@@ -1,5 +1,27 @@
 [
     {
+        "title": "W.W. Industrial Group Recalls Pear Slices in Juice Due to Elevated Levels of Lead and Cadmium",
+        "company_announce_dttm": "2025-07-23T20:19:00+00:00",
+        "notification_dttm": "2025-07-23T04:00:00+00:00",
+        "recall_reason": "Potential Metal Contaminant \u2013 Lead and Cadmium",
+        "company_name": "WW Industrial Group",
+        "brand_name": "Parashore ",
+        "product_description": "Canned Sliced Pears",
+        "impacted_states": [
+            "NY",
+            "US",
+            "CA",
+            "MD"
+        ],
+        "agency": "FDA",
+        "uid": "2b569f0f-87dd-4ff7-a8e0-24390baabb56",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ww-industrial-group-recalls-pear-slices-juice-due-elevated-levels-lead-and-cadmium",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Jewel Osco Stores in Illinois, Indiana and Iowa Voluntarily Recalls Select Items  Containing Tuna Salad from Reser\u2019s Fine Foods Due to an Ingredient Recall Linked to  Possible Listeria Monocytogenes Contamination",
         "company_announce_dttm": "2025-07-17T22:14:00+00:00",
         "notification_dttm": "2025-07-21T04:00:00+00:00",
