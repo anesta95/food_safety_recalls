@@ -1,5 +1,22 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert For Ready-To-Eat Ham Salad Products Containing FDA-Regulated Breadcrumbs That Have Been Recalled Due to Possible Listeria Monocytogenes Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-07-27T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Reser&#039;s Fine Foods, Inc.",
+        "brand_name": null,
+        "product_description": "\u2022 12-oz. printed plastic tubs containing \u201cRESER\u2019S FINE FOODS Ham Salad\u201d with sell by dates of 09/01/25., \u2022 5-lb. clear plastic tubs containing \u201cMolly\u2019s Kitchen Ham Salad\u201d with sell by dates of 08/31/25. ",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "bf11d7da-2313-4fbe-8a61-ad3c7e848acb",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-ham-salad-products-containing-fda",
+        "notice_id_number": "PHA-07272025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Tropicale Foods Recalls Certain Helados Mexico and La Michoacana Products Due to Undeclared Milk",
         "company_announce_dttm": "2025-07-25T04:00:00+00:00",
         "notification_dttm": "2025-07-26T17:00:00+00:00",
