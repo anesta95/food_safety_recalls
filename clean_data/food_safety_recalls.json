@@ -1,5 +1,28 @@
 [
     {
+        "title": "Hillside Orchard Farms Recalls Various Fruit Breads & Fritters Due to Undeclared Egg",
+        "company_announce_dttm": "2025-07-28T21:54:00+00:00",
+        "notification_dttm": "2025-07-28T04:00:00+00:00",
+        "recall_reason": "Undeclared Allergen \u2013 Egg",
+        "company_name": "Hillside Orchard Farms",
+        "brand_name": "Hillside Orchard Farms",
+        "product_description": "Fruit Bread and Fritters",
+        "impacted_states": [
+            "GA",
+            "AL",
+            "NC",
+            "PA",
+            "SC"
+        ],
+        "agency": "FDA",
+        "uid": "cf9486a7-8f08-4bc4-afbe-c2cf712e3ebd",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hillside-orchard-farms-recalls-various-fruit-breads-fritters-due-undeclared-egg",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Albertsons Companies Stores in Arkansas, Louisiana, Oklahoma and Texas Voluntarily Expands Recall to Select Items Containing Tuna Salad from Reser\u2019s Fine Foods Due to an Ingredient Recall Linked to Possible Listeria monocytogenes Contamination",
         "company_announce_dttm": "2025-07-26T19:40:00+00:00",
         "notification_dttm": "2025-07-28T04:00:00+00:00",
