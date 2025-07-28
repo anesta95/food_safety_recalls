@@ -1,19 +1,21 @@
 [
     {
-        "title": "Tropicale Foods Recalls Certain Helados Mexico and La Michoacana Products Due to Undeclared Milk",
-        "company_announce_dttm": "2025-07-25T04:00:00+00:00",
-        "notification_dttm": "2025-07-26T17:00:00+00:00",
-        "recall_reason": "Undeclared milk",
-        "company_name": "Tropicale Foods",
-        "brand_name": "La Michoacana, Helados Mexico",
-        "product_description": "Ice cream products",
+        "title": "Albertsons Companies Stores in Arkansas, Louisiana, Oklahoma and Texas Voluntarily Expands Recall to Select Items Containing Tuna Salad from Reser\u2019s Fine Foods Due to an Ingredient Recall Linked to Possible Listeria monocytogenes Contamination",
+        "company_announce_dttm": "2025-07-26T19:40:00+00:00",
+        "notification_dttm": "2025-07-28T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Listeria monocytogenes",
+        "company_name": "Albertsons",
+        "brand_name": "Randalls, Albertsons, Tom Thumb",
+        "product_description": "Additional Tuna Salad products",
         "impacted_states": [
-            "CA",
-            "US"
+            "LA",
+            "OK",
+            "AR",
+            "TX"
         ],
         "agency": "FDA",
-        "uid": "be8ddec7-0fef-4735-94a3-93d8107b632d",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tropicale-foods-recalls-certain-helados-mexico-and-la-michoacana-products-due-undeclared-milk",
+        "uid": "001143b1-acf3-4701-bc44-685f02ef9529",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-stores-arkansas-louisiana-oklahoma-and-texas-voluntarily-expands-recall-select",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
