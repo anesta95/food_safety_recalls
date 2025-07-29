@@ -1,5 +1,28 @@
 [
     {
+        "title": "Ada Valley Meat Company Recalls Ready-To-Eat Ground Beef Products Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-07-29T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Ada Valley Gourmet Foods",
+        "brand_name": null,
+        "product_description": "20-lb. cardboard box cases containing four 5-lb. plastic bags of &quot;Ada Valley FULLY COOKED GROUND BEEF&quot; with Pack Date 5/28/25 with lot code 35156 or Pack Date 5/30/25 with lot code 35157 represented on the label.",
+        "impacted_states": [
+            "CA",
+            "DE",
+            "IL",
+            "MI",
+            "PA"
+        ],
+        "agency": "USDA",
+        "uid": "c6dbfc2f-d94a-4c1c-a5ed-b991eaa9cd14",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/ada-valley-meat-company-recalls-ready-eat-ground-beef-products-due-possible-foreign",
+        "notice_id_number": "027-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Hillside Orchard Farms Recalls Various Fruit Breads & Fritters Due to Undeclared Egg",
         "company_announce_dttm": "2025-07-28T21:54:00+00:00",
         "notification_dttm": "2025-07-28T04:00:00+00:00",
