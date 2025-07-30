@@ -1,5 +1,27 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Frozen Pork and Beef Tortellini Product Due to Misbranding and Undeclared Allergens",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-07-30T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "P.E. &amp; F Inc. DBA DiMare&#039;s Specialty Foods",
+        "brand_name": null,
+        "product_description": "16-oz. bag &quot;Schnucks Tortellini PORK &amp;amp; BEEF&quot; with best by date of 05/27/2026 printed at the top of the bag.",
+        "impacted_states": [
+            "IL",
+            "IN",
+            "MO",
+            "WI"
+        ],
+        "agency": "USDA",
+        "uid": "c414a8f5-e228-424f-9a91-4d191a0357f1",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-pork-and-beef-tortellini-product-due",
+        "notice_id_number": "PHA-07302025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "High Noon Announces Recall of its Vodka Seltzer Beach Pack (12 Pack) Due to Inclusion of CELSIUS\u00ae ASTRO VIBE \u2122 Energy Drink Cans that were Inadvertently Filled with Vodka Seltzer",
         "company_announce_dttm": "2025-07-29T15:46:00+00:00",
         "notification_dttm": "2025-07-30T04:00:00+00:00",
