@@ -1,25 +1,29 @@
 [
     {
-        "title": "Hillside Orchard Farms Recalls Various Fruit Breads & Fritters Due to Undeclared Egg",
-        "company_announce_dttm": "2025-07-28T21:54:00+00:00",
-        "notification_dttm": "2025-07-28T04:00:00+00:00",
-        "recall_reason": "Undeclared Allergen \u2013 Egg",
-        "company_name": "Hillside Orchard Farms",
-        "brand_name": "Hillside Orchard Farms",
-        "product_description": "Fruit Bread and Fritters",
+        "title": "High Noon Announces Recall of its Vodka Seltzer Beach Pack (12 Pack) Due to Inclusion of CELSIUS\u00ae ASTRO VIBE \u2122 Energy Drink Cans that were Inadvertently Filled with Vodka Seltzer",
+        "company_announce_dttm": "2025-07-29T15:46:00+00:00",
+        "notification_dttm": "2025-07-30T04:00:00+00:00",
+        "recall_reason": "Cans contain alcohol",
+        "company_name": "High Noon",
+        "brand_name": "High Noon, Celsius",
+        "product_description": "Energy Drink",
         "impacted_states": [
-            "GA",
-            "AL",
-            "NC",
-            "PA",
-            "SC"
+            "CA",
+            "FL",
+            "MI",
+            "NY",
+            "OH",
+            "OK",
+            "SC",
+            "VA",
+            "WI"
         ],
         "agency": "FDA",
-        "uid": "cf9486a7-8f08-4bc4-afbe-c2cf712e3ebd",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hillside-orchard-farms-recalls-various-fruit-breads-fritters-due-undeclared-egg",
+        "uid": "06507499-93c6-45e8-891c-33479d091c82",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/high-noon-announces-recall-its-vodka-seltzer-beach-pack-12-pack-due-inclusion-celsiusr-astro-vibe-tm",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
     }
 ]
