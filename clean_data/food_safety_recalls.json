@@ -1,5 +1,32 @@
 [
     {
+        "title": "High Noon Announces Recall of its Vodka Seltzer Beach Pack (12 Pack) Due to Inclusion of CELSIUS\u00ae ASTRO VIBE \u2122 Energy Drink Cans that were Inadvertently Filled with Vodka Seltzer",
+        "company_announce_dttm": "2025-07-29T15:46:00+00:00",
+        "notification_dttm": "2025-07-30T04:00:00+00:00",
+        "recall_reason": "Cans contain alcohol",
+        "company_name": "High Noon",
+        "brand_name": "High Noon, Celsius",
+        "product_description": "Energy Drink",
+        "impacted_states": [
+            "CA",
+            "FL",
+            "MI",
+            "NY",
+            "OH",
+            "OK",
+            "SC",
+            "VA",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "06507499-93c6-45e8-891c-33479d091c82",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/high-noon-announces-recall-its-vodka-seltzer-beach-pack-12-pack-due-inclusion-celsiusr-astro-vibe-tm",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
+    },
+    {
         "title": "Ada Valley Meat Company Recalls Ready-To-Eat Ground Beef Products Due to Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-07-29T00:00:00+00:00",
