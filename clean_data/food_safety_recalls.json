@@ -1,5 +1,28 @@
 [
     {
+        "title": "Hans Kissle LLC Issues Allergy Alert on Undeclared Wheat (Allergen) in Hans Kissle Red Potato Bliss Salad",
+        "company_announce_dttm": "2025-08-05T20:20:00+00:00",
+        "notification_dttm": "2025-08-05T04:00:00+00:00",
+        "recall_reason": "Undeclared wheat",
+        "company_name": "Hans Kissle",
+        "brand_name": "Hans Kissle",
+        "product_description": "Red Bliss Potato Salad",
+        "impacted_states": [
+            "MA",
+            "CT",
+            "NJ",
+            "NY",
+            "RI"
+        ],
+        "agency": "FDA",
+        "uid": "cd8af9b7-1eee-4bd9-94d8-262f83a569b4",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hans-kissle-llc-issues-allergy-alert-undeclared-wheat-allergen-hans-kissle-red-potato-bliss-salad",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Doehler Dry Ingredient Solutions, LLC Recalls Member\u2019s Mark Freeze Dried Fruit Variety Pack for Listeria monocytogenes Contamination",
         "company_announce_dttm": "2025-07-30T11:30:00+00:00",
         "notification_dttm": "2025-07-31T04:00:00+00:00",
