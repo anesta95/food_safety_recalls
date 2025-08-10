@@ -1,20 +1,23 @@
 [
     {
-        "title": "Friendly\u2019s Issues Allergy Alert on Undeclared Soy/Wheat in Friendly\u2019s Cookies & Cream Ice Cream",
-        "company_announce_dttm": "2025-08-05T22:23:00+00:00",
-        "notification_dttm": "2025-08-06T04:00:00+00:00",
-        "recall_reason": "Undeclared wheat and soy allergens",
-        "company_name": "DFA Dairy Brands, LLC",
-        "brand_name": "Friendly\u2019s",
-        "product_description": "Cookies and Cream Ice Cream",
+        "title": "Neuhaus Issues Allergy Alert on Undeclared Wheat in Belgian Chocolate Moments Smurf\u2019s Popping Milk Chocolates with Cookies'",
+        "company_announce_dttm": "2025-08-08T17:51:00+00:00",
+        "notification_dttm": "2025-08-10T04:00:00+00:00",
+        "recall_reason": "Undeclared wheat allergen",
+        "company_name": "Neuhaus Chocolates NV",
+        "brand_name": "Neuhaus",
+        "product_description": "Belgian Chocolate Moments Smurfs Popping Milk Chocolates with Cookies",
         "impacted_states": [
+            "NV",
             "MD",
+            "NY",
             "PA",
-            "VA"
+            "VA",
+            "WA"
         ],
         "agency": "FDA",
-        "uid": "af1e80cd-18ad-4b3e-a66b-58b852a0a48e",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/friendlys-issues-allergy-alert-undeclared-soywheat-friendlys-cookies-cream-ice-cream",
+        "uid": "efb777da-8b04-4179-84b1-ab913db36621",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/neuhaus-issues-allergy-alert-undeclared-wheat-belgian-chocolate-moments-smurfs-popping-milk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
