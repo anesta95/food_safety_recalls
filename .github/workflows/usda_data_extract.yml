@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v4 # checkout the repository content to github runner
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          token: ${{ secrets.MY_TOKEN }} # This is this way because of this article. Just use an indefinite GitHub PAT. https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow#triggering-a-workflow-from-a-workflow 
 
       - name: setup python
         uses: actions/setup-python@v5
