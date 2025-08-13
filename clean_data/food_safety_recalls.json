@@ -1,5 +1,25 @@
 [
     {
+        "title": "Quesito El Establo Retira Del Mercado Queso (Quesito Colombiano) Debido a Posible Riesgo Para La Salud",
+        "company_announce_dttm": "2025-08-12T16:35:00+00:00",
+        "notification_dttm": "2025-08-13T04:00:00+00:00",
+        "recall_reason": "Due to the presence of rodent, rodent activity, and other insanitary conditions during the manufacturing and storage process",
+        "company_name": "Quesito El Establo",
+        "brand_name": "Quesito El Establo",
+        "product_description": "Spanish Cheese (Quesito Colombiano)",
+        "impacted_states": [
+            "NH",
+            "MA"
+        ],
+        "agency": "FDA",
+        "uid": "b392f6a8-6b1f-4b5b-bdd3-6d649e28a556",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quesito-el-establo-retira-del-mercado-queso-quesito-colombiano-debido-posible-riesgo-para-la-salud",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Dollar General Announces Voluntary Recall of Clover Valley\u00ae Instant Coffee  Due to Potential Presence of Glass",
         "company_announce_dttm": "2025-08-11T21:55:00+00:00",
         "notification_dttm": "2025-08-12T04:00:00+00:00",
