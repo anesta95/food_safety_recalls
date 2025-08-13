@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v4 # checkout the repository content to github runner
-        with:
-          token: ${{ secrets.MY_TOKEN }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: setup python
         uses: actions/setup-python@v5
