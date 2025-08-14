@@ -1,19 +1,18 @@
 [
     {
-        "title": "Quesito El Establo Retira Del Mercado Queso (Quesito Colombiano) Debido a Posible Riesgo Para La Salud",
-        "company_announce_dttm": "2025-08-12T16:35:00+00:00",
-        "notification_dttm": "2025-08-13T04:00:00+00:00",
-        "recall_reason": "Due to the presence of rodent, rodent activity, and other insanitary conditions during the manufacturing and storage process",
-        "company_name": "Quesito El Establo",
-        "brand_name": "Quesito El Establo",
-        "product_description": "Spanish Cheese (Quesito Colombiano)",
+        "title": "Fromi USA Recalls Brie Royal Faucon 1kg Because of Possible Health Risk",
+        "company_announce_dttm": "2025-08-14T16:00:00+00:00",
+        "notification_dttm": "2025-08-14T16:00:00+00:00",
+        "recall_reason": "Potential contamination with Listeria monocytogenes",
+        "company_name": "Fromi USA",
+        "brand_name": "Brie Royal Faucon",
+        "product_description": "Brie Royal Faucon Cheese",
         "impacted_states": [
-            "NH",
-            "MA"
+            "NY"
         ],
         "agency": "FDA",
-        "uid": "b392f6a8-6b1f-4b5b-bdd3-6d649e28a556",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/quesito-el-establo-retira-del-mercado-queso-quesito-colombiano-debido-posible-riesgo-para-la-salud",
+        "uid": "3a5de556-cb20-4d20-9ffd-47dd5e40bdaa",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromi-usa-recalls-brie-royal-faucon-1kg-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
