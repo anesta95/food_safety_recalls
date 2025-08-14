@@ -1,5 +1,24 @@
 [
     {
+        "title": "Fromi USA Recalls Brie Royal Faucon 1kg Because of Possible Health Risk",
+        "company_announce_dttm": "2025-08-14T16:00:00+00:00",
+        "notification_dttm": "2025-08-14T16:00:00+00:00",
+        "recall_reason": "Potential contamination with Listeria monocytogenes",
+        "company_name": "Fromi USA",
+        "brand_name": "Brie Royal Faucon",
+        "product_description": "Brie Royal Faucon Cheese",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "3a5de556-cb20-4d20-9ffd-47dd5e40bdaa",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromi-usa-recalls-brie-royal-faucon-1kg-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Quesito El Establo Retira Del Mercado Queso (Quesito Colombiano) Debido a Posible Riesgo Para La Salud",
         "company_announce_dttm": "2025-08-12T16:35:00+00:00",
         "notification_dttm": "2025-08-13T04:00:00+00:00",
