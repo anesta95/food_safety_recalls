@@ -1,5 +1,24 @@
 [
     {
+        "title": "Middlefield Original Cheese Co-Op Recalls 100% Grass-Fed Pepper Jack Cheese and Horseradish Flavored Cheese Due to Possible Listeria monocytogenes Contamination",
+        "company_announce_dttm": "2025-08-18T21:45:00+00:00",
+        "notification_dttm": "2025-08-18T04:00:00+00:00",
+        "recall_reason": "Potential contamination with Listeria monocytogenes",
+        "company_name": "Middlefield Original Cheese Co-op",
+        "brand_name": "Middlefield Original Cheese Co-op/Copia Collective/Farmers Cheese",
+        "product_description": " Cheese",
+        "impacted_states": [
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "faf79199-4934-4f16-9419-a7d5967a9be2",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/middlefield-original-cheese-co-op-recalls-100-grass-fed-pepper-jack-cheese-and-horseradish-flavored",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Fromi USA Recalls Brie Royal Faucon 1kg Because of Possible Health Risk",
         "company_announce_dttm": "2025-08-14T16:00:00+00:00",
         "notification_dttm": "2025-08-14T16:00:00+00:00",
