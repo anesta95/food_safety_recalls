@@ -1,5 +1,22 @@
 [
     {
+        "title": "Sabrositos Hondurenos, LLC, Recalls Various Meat Products  Produced Without Benefit of Inspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-08-20T00:00:00+00:00",
+        "recall_reason": "Produced Without Benefit of Inspection",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": " \u2022\t14-oz. vacuum-sealed packages containing homestyle chorizo labeled \u201cOLANCHO Chorizo Suelto Olanchano SABROCITOS HONDURE\u00d1OS.\u201d , \u2022\t14-oz. vacuum-sealed packages containing smoked pork chops labeled \u201cOLANCHO Chuleta Ahumada Olanchana SABROCITOS HONDURE\u00d1OS.\u201d , \u2022\t14-oz. vacuum-sealed packages containing smoked chorizo labeled \u201cOLANCHO Chorizo Ahumado Olanchano SABROCITOS HONDURE\u00d1OS.\u201d , \u2022\t14-oz. vacuum-sealed packages containing cased homestyle chorizo, labeled \u201cOLANCHO Chorizo Olanchano Criollo SABROCITOS HONDURE\u00d1OS.\u201d ,  \u2022\t14-oz. vacuum-sealed packages containing smoked BBQ spicy chorizo labeled \u201cOLANCHO Chorizo Parrillero SABROCITOS HONDURE\u00d1OS.\u201d ,  \u2022\t14-oz. vacuum-sealed packages containing smoked ribs labeled \u201cOLANCHO Costilla Ahumada Olanchana SABROCITOS HONDURE\u00d1OS.\u201d ",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "1c06b3b7-cd47-490f-80d2-6814f569a854",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/sabrositos-hondurenos-llc-recalls-various-meat-products-produced-without-benefit",
+        "notice_id_number": "028-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Middlefield Original Cheese Co-Op Recalls 100% Grass-Fed Pepper Jack Cheese and Horseradish Flavored Cheese Due to Possible Listeria monocytogenes Contamination",
         "company_announce_dttm": "2025-08-18T21:45:00+00:00",
         "notification_dttm": "2025-08-18T04:00:00+00:00",
