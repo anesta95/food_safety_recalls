@@ -1,5 +1,32 @@
 [
     {
+        "title": "Viva Raw Issues Voluntary Recall of Two Lots of Dog an Cat Foods Due to Salmonella and Listeria Monocytogenes Contamination",
+        "company_announce_dttm": "2025-08-25T21:30:00+00:00",
+        "notification_dttm": "2025-08-25T04:00:00+00:00",
+        "recall_reason": "Salmonella and Listeria monocytogenes contamination",
+        "company_name": "Viva Raw LLC.",
+        "brand_name": "Viva",
+        "product_description": "Ground Beef for Dogs and Ground Chicken for Dogs and Cats",
+        "impacted_states": [
+            "NC",
+            "AZ",
+            "CA",
+            "FL",
+            "IL",
+            "KS",
+            "NY",
+            "SC",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "e542f741-b0b6-41d4-93a1-d7ff13a8faa2",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/viva-raw-issues-voluntary-recall-two-lots-dog-cat-foods-due-salmonella-and-listeria-monocytogenes",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Blue Bell Ice Cream Issues Allergy Alert on Undeclared Almond, Walnut, and Pecan in Moo-llennium Crunch Ice Cream Packaged in a Chocolate Chip Cookie Dough Half Gallon Carton with a Moo-llennium Crunch Ice Cream Lid",
         "company_announce_dttm": "2025-08-22T20:17:00+00:00",
         "notification_dttm": "2025-08-22T04:00:00+00:00",
