@@ -1,5 +1,28 @@
 [
     {
+        "title": "Hans Kissle LLC Issues Allergy Alert on Undeclared Wheat (Allergen) in Hans Kissle Red Potato Bliss Salad",
+        "company_announce_dttm": "2025-08-29T17:15:00+00:00",
+        "notification_dttm": "2025-08-29T04:00:00+00:00",
+        "recall_reason": "Undeclared wheat",
+        "company_name": "Hans Kissle",
+        "brand_name": "Hans Kissle",
+        "product_description": "Red Bliss Potato Salad",
+        "impacted_states": [
+            "MA",
+            "CT",
+            "NJ",
+            "NY",
+            "RI"
+        ],
+        "agency": "FDA",
+        "uid": "18e6225b-b1da-40a3-a7f6-9c1574933fbe",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hans-kissle-llc-issues-allergy-alert-undeclared-wheat-allergen-hans-kissle-red-potato-bliss-salad-0",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Aquastar (USA) Corp Recalls Cocktail Shrimp 6oz Because of Possible Health Risk",
         "company_announce_dttm": "2025-08-28T19:28:00+00:00",
         "notification_dttm": "2025-08-28T04:00:00+00:00",
