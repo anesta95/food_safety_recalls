@@ -1,5 +1,24 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for a Frozen Pepperoni Pizza Product Imported Without the Benefit of Import Reinspection",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-08-29T00:00:00+00:00",
+        "recall_reason": "Import Violation",
+        "company_name": null,
+        "brand_name": null,
+        "product_description": "\u2022\t17.63-oz. cardboard box packages containing \u201cTRADER JOE\u2019S UNCURED PEPPERONI PIZZA PRODUCT OF ITALY\u201d with \u201cMFG LOT: 06/16/25 BEST BY: 08/16/26\u201d or \u201cMFG LOT: 06/21/25 BEST BY 08/21/26\u201d printed on the bottom of the package.",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "USDA",
+        "uid": "fc63243f-3fa4-43aa-8520-9288e744c6bb",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-a-frozen-pepperoni-pizza-product-imported-without",
+        "notice_id_number": "PHA-08292025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Hans Kissle LLC Issues Allergy Alert on Undeclared Wheat (Allergen) in Hans Kissle Red Potato Bliss Salad",
         "company_announce_dttm": "2025-08-29T17:15:00+00:00",
         "notification_dttm": "2025-08-29T04:00:00+00:00",
