@@ -1,5 +1,32 @@
 [
     {
+        "title": "Updated Release: Southwind Foods, LLC Recalls Frozen Shrimp Because of Possible Health Risk",
+        "company_announce_dttm": "2025-08-29T22:55:00+00:00",
+        "notification_dttm": "2025-08-29T04:00:00+00:00",
+        "recall_reason": "Due to possible radionuclide (Cesium-137) contamination.",
+        "company_name": "Southwind Foods, LLC.",
+        "brand_name": "Sand Bar/Arctic Shores/Best Yet/Great American/First Street",
+        "product_description": " Frozen shrimp",
+        "impacted_states": [
+            "AL",
+            "AZ",
+            "CA",
+            "MA",
+            "MN",
+            "PA",
+            "UT",
+            "VA",
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "fe545c3c-cc35-408d-8270-82cf403497a2",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-release-southwind-foods-llc-recalls-frozen-shrimp-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "FSIS Issues Public Health Alert for a Frozen Pepperoni Pizza Product Imported Without the Benefit of Import Reinspection",
         "company_announce_dttm": null,
         "notification_dttm": "2025-08-29T00:00:00+00:00",
