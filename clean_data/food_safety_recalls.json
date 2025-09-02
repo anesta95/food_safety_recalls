@@ -1,5 +1,24 @@
 [
     {
+        "title": "Ice Cream Factory Issues Allergy Alert on Undeclared Almond in Vanilla G.Nutt Ice Cream",
+        "company_announce_dttm": "2025-08-29T13:33:00+00:00",
+        "notification_dttm": "2025-09-02T04:00:00+00:00",
+        "recall_reason": "Undeclared almond allergen",
+        "company_name": "Ice Cream Factory",
+        "brand_name": "G.Nutt",
+        "product_description": "Vanilla G.Nutt Ice Cream",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "6bf4cb74-104b-4b95-829f-9bdf6f1e2a1e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ice-cream-factory-issues-allergy-alert-undeclared-almond-vanilla-gnutt-ice-cream",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Updated Release: Southwind Foods, LLC Recalls Frozen Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-08-29T22:55:00+00:00",
         "notification_dttm": "2025-08-29T04:00:00+00:00",
