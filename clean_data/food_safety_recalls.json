@@ -1,5 +1,30 @@
 [
     {
+        "title": "Endico Potatoes Inc. Recalls 2.5lb Bags of Frozen \u201cPeas And Carrots\u201d and \u201cMixed Vegetables\u201d Because of Possible Health Risk",
+        "company_announce_dttm": "2025-09-03T15:26:00+00:00",
+        "notification_dttm": "2025-09-04T04:00:00+00:00",
+        "recall_reason": "Potential contamination with Listeria monocytogenes",
+        "company_name": "Endico Potatoes Inc.",
+        "brand_name": "Endico",
+        "product_description": "Frozen Peas and Carrots, Mixed Vegetables",
+        "impacted_states": [
+            "NY",
+            "CT",
+            "DC",
+            "FL",
+            "MD",
+            "NJ",
+            "PA"
+        ],
+        "agency": "FDA",
+        "uid": "df05fcf0-e4ca-4562-935d-b21731235f57",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/endico-potatoes-inc-recalls-25lb-bags-frozen-peas-and-carrots-and-mixed-vegetables-because-possible",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Ice Cream Factory Issues Allergy Alert on Undeclared Almond in Vanilla G.Nutt Ice Cream",
         "company_announce_dttm": "2025-08-29T13:33:00+00:00",
         "notification_dttm": "2025-09-02T04:00:00+00:00",
