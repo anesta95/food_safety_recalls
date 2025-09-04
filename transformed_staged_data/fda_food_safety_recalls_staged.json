@@ -1,5 +1,30 @@
 [
     {
+        "title": "Endico Potatoes Inc. Recalls 2.5lb Bags of Frozen \u201cPeas And Carrots\u201d and \u201cMixed Vegetables\u201d Because of Possible Health Risk",
+        "company_announce_dttm": "2025-09-03T15:26:00+00:00",
+        "notification_dttm": "2025-09-04T04:00:00+00:00",
+        "recall_reason": "Potential contamination with Listeria monocytogenes",
+        "company_name": "Endico Potatoes Inc.",
+        "brand_name": "Endico",
+        "product_description": "Frozen Peas and Carrots, Mixed Vegetables",
+        "impacted_states": [
+            "NY",
+            "CT",
+            "DC",
+            "FL",
+            "MD",
+            "NJ",
+            "PA"
+        ],
+        "agency": "FDA",
+        "uid": "df05fcf0-e4ca-4562-935d-b21731235f57",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/endico-potatoes-inc-recalls-25lb-bags-frozen-peas-and-carrots-and-mixed-vegetables-because-possible",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Viva Raw Issues Voluntary Recall of Two Lots of Dog and Cat Foods Due to Salmonella and Listeria Monocytogenes Contamination",
         "company_announce_dttm": "2025-08-25T21:30:00+00:00",
         "notification_dttm": "2025-08-25T04:00:00+00:00",
@@ -19,7 +44,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "ed14a0e7-7888-4170-a2b0-c999b1c36b3f",
+        "uid": "c20f9bb1-d207-45ff-9950-58c9e44cd950",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/viva-raw-issues-voluntary-recall-two-lots-dog-and-cat-foods-due-salmonella-and-listeria",
         "notice_id_number": null,
         "recall_type": null,
