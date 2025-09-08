@@ -1,5 +1,27 @@
 [
     {
+        "title": "Middlefield Original Cheese Co-Op Recalls Organic Gouda, Colored Cheddar, Mozzarella/Provolone, Pepper Jack, Swiss, Dilly Pickle Cheese and Monterey Jack Due to Possible Listeria Monocytogenes Contamination",
+        "company_announce_dttm": "2025-09-05T15:48:00+00:00",
+        "notification_dttm": "2025-09-08T04:00:00+00:00",
+        "recall_reason": "Potential contamination with-Listeria monocytogenes",
+        "company_name": "Middlefield Original Cheese Co-op",
+        "brand_name": "Middlefield Original Cheese Co-op, Sunrise Creamery",
+        "product_description": " Cheese",
+        "impacted_states": [
+            "OH",
+            "MN",
+            "TX",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "303bab76-1d79-488f-9fc1-86dcf86688d9",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/middlefield-original-cheese-co-op-recalls-organic-gouda-colored-cheddar-mozzarellaprovolone-pepper",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Viva Raw Issues Voluntary Recall of Two Lots of Dog and Cat Foods Due to Salmonella and Listeria Monocytogenes Contamination",
         "company_announce_dttm": "2025-08-25T21:30:00+00:00",
         "notification_dttm": "2025-08-25T04:00:00+00:00",
@@ -19,7 +41,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "20b0e2a9-0a8c-4677-8ed6-75ec824728a8",
+        "uid": "3ead7772-a5ec-49fe-9202-43d31a75c91f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/viva-raw-issues-voluntary-recall-two-lots-dog-and-cat-foods-due-salmonella-and-listeria",
         "notice_id_number": null,
         "recall_type": null,
