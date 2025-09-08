@@ -1,5 +1,27 @@
 [
     {
+        "title": "Middlefield Original Cheese Co-Op Recalls Organic Gouda, Colored Cheddar, Mozzarella/Provolone, Pepper Jack, Swiss, Dilly Pickle Cheese and Monterey Jack Due to Possible Listeria Monocytogenes Contamination",
+        "company_announce_dttm": "2025-09-05T15:48:00+00:00",
+        "notification_dttm": "2025-09-08T04:00:00+00:00",
+        "recall_reason": "Potential contamination with-Listeria monocytogenes",
+        "company_name": "Middlefield Original Cheese Co-op",
+        "brand_name": "Middlefield Original Cheese Co-op, Sunrise Creamery",
+        "product_description": " Cheese",
+        "impacted_states": [
+            "OH",
+            "MN",
+            "TX",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "303bab76-1d79-488f-9fc1-86dcf86688d9",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/middlefield-original-cheese-co-op-recalls-organic-gouda-colored-cheddar-mozzarellaprovolone-pepper",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Endico Potatoes Inc. Recalls 2.5lb Bags of Frozen \u201cPeas And Carrots\u201d and \u201cMixed Vegetables\u201d Because of Possible Health Risk",
         "company_announce_dttm": "2025-09-03T15:26:00+00:00",
         "notification_dttm": "2025-09-04T04:00:00+00:00",
