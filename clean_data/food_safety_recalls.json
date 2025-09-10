@@ -1,5 +1,24 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert for Raw Sirloin Beef Tip Product Due to Misbranding and Undeclared Allergens",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-09-10T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "Bianco Inc.",
+        "brand_name": null,
+        "product_description": "1-lb. vacuum-packed packages containing \u201cBianco &amp; Sons SWEET HEAT SIRLOIN BEEF TIPS\u201d on the front package label with \u201cUSE OR FREEZE BY:10/01/2025\u201d on the back package label.",
+        "impacted_states": [
+            "MA"
+        ],
+        "agency": "USDA",
+        "uid": "efaf568a-2045-4881-b3ce-497440e4fbd2",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-raw-sirloin-beef-tip-product-due-misbranding-and",
+        "notice_id_number": "PHA-09102025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Middlefield Original Cheese Co-Op Recalls Organic Gouda, Colored Cheddar, Mozzarella/Provolone, Pepper Jack, Swiss, Dilly Pickle Cheese and Monterey Jack Due to Possible Listeria Monocytogenes Contamination",
         "company_announce_dttm": "2025-09-05T15:48:00+00:00",
         "notification_dttm": "2025-09-08T04:00:00+00:00",
