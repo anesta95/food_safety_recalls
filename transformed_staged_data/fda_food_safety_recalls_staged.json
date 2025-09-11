@@ -1,5 +1,64 @@
 [
     {
+        "title": "One Frozen, LLC Voluntarily Recalls Good & Gather\u2122 Southwest Style Burrito Bowl Blend, Frozen, 12oz Bags Due to Undeclared Shrimp Allergen",
+        "company_announce_dttm": "2025-09-11T01:15:00+00:00",
+        "notification_dttm": "2025-09-10T04:00:00+00:00",
+        "recall_reason": "Undeclared shrimp (shellfish)",
+        "company_name": "One Frozen, LLC",
+        "brand_name": "Good & Gather",
+        "product_description": "Frozen Burrito Bowl",
+        "impacted_states": [
+            "NY",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "317bc723-0cfc-4f7c-8297-01dd486f5642",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/one-frozen-llc-voluntarily-recalls-good-gathertm-southwest-style-burrito-bowl-blend-frozen-12oz-bags",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "Chetak LLC Group Expands Voluntary Product Recall to Include Additional Frozen Vegetable and Fruit Products Due to Possible Health Risk",
+        "company_announce_dttm": "2025-09-10T22:44:00+00:00",
+        "notification_dttm": "2025-09-10T04:00:00+00:00",
+        "recall_reason": "Salmonella ",
+        "company_name": "CHETAK  LLC GROUP",
+        "brand_name": "Deep",
+        "product_description": "Frozen fruits and vegetables",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "defcd12e-dd16-4b0b-bc7a-39ebe8ce9515",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/chetak-llc-group-expands-voluntary-product-recall-include-additional-frozen-vegetable-and-fruit",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "Gina Marie Bakery of Waterbury Issues Recall of Cookies Due to Undeclared Almonds, Sesame and Food Dyes",
+        "company_announce_dttm": "2025-09-10T21:06:00+00:00",
+        "notification_dttm": "2025-09-10T04:00:00+00:00",
+        "recall_reason": "Undeclared almonds, sesame, Red 40, Red 3, Blue 1, Yellow 5, Red 40, Yellow 6",
+        "company_name": "Gina Marie Bakery",
+        "brand_name": "No Brand ",
+        "product_description": "Cookies",
+        "impacted_states": [
+            "CT",
+            "MA"
+        ],
+        "agency": "FDA",
+        "uid": "9d357df4-86f1-45d3-8f91-dde8866e1e47",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gina-marie-bakery-waterbury-issues-recall-cookies-due-undeclared-almonds-sesame-and-food-dyes",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Viva Raw Issues Voluntary Recall of Two Lots of Dog and Cat Foods Due to Salmonella and Listeria Monocytogenes Contamination",
         "company_announce_dttm": "2025-08-25T21:30:00+00:00",
         "notification_dttm": "2025-08-25T04:00:00+00:00",
@@ -19,7 +78,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "ef977ce6-e4dc-46b1-92dc-1d77a4f71b5d",
+        "uid": "e6154565-71ed-4e21-b52b-c3a52078c8ff",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/viva-raw-issues-voluntary-recall-two-lots-dog-and-cat-foods-due-salmonella-and-listeria",
         "notice_id_number": null,
         "recall_type": null,
