@@ -1,22 +1,22 @@
 [
     {
-        "title": "Gooder Foods Issues Allergy Alert On - Undeclared Milk and Cashews in Goodles Vegan is Believin\u2019 \u2013 Plant Based White Cheddar with Spirals and Goodles Here Comes Truffle \u2013 Creamy Truffle Flavored Cheddar and Shells",
-        "company_announce_dttm": "2025-09-10T15:22:00+00:00",
-        "notification_dttm": "2025-09-11T04:00:00+00:00",
-        "recall_reason": "Undeclared milk and cashews",
-        "company_name": "Gooder Foods, Inc",
-        "brand_name": "Goodles",
-        "product_description": "Flavored pasta",
+        "title": "Sprout Organics Voluntarily Recalls One Lot of Sweet Potato Apple and Spinach Due to Possible Health Risk",
+        "company_announce_dttm": "2025-09-16T18:26:00+00:00",
+        "notification_dttm": "2025-09-16T04:00:00+00:00",
+        "recall_reason": "Product may contain elevated levels of lead",
+        "company_name": "Sprout Organics",
+        "brand_name": "Sprout Organics",
+        "product_description": "Sweet Potato Apple and Spinach, 3.5-ounce pouch",
         "impacted_states": [
-            "CA"
+            "US"
         ],
         "agency": "FDA",
-        "uid": "4ca23d66-71c5-4ae3-9995-ec255887eb1a",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gooder-foods-issues-allergy-alert-undeclared-milk-and-cashews-goodles-vegan-believin-plant-based",
+        "uid": "3ad59185-8245-44ca-8e26-a52e47c102b1",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sprout-organics-voluntarily-recalls-one-lot-sweet-potato-apple-and-spinach-due-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
     },
     {
         "title": "Viva Raw Issues Voluntary Recall of Two Lots of Dog and Cat Foods Due to Salmonella and Listeria Monocytogenes Contamination",
@@ -38,7 +38,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "023fbd80-33ba-41cd-978a-70e3e99b979a",
+        "uid": "f6ccdbf1-a71d-41a6-aebb-76d66c29d43b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/viva-raw-issues-voluntary-recall-two-lots-dog-and-cat-foods-due-salmonella-and-listeria",
         "notice_id_number": null,
         "recall_type": null,
