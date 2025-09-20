@@ -1,5 +1,22 @@
 [
     {
+        "title": " FSIS Issues Public Health Alert for Ready-To-Eat Turkey Wrap Product Due To Possible Listeria Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-09-19T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "WCD Kitchen - Minooka",
+        "brand_name": null,
+        "product_description": "10-oz. clear plastic clamshell packages containing \u201cTRADER JOE\u2019S TURKEY GOBBLER WRAP\u201d with \u201cBEST BY SEP 16, 2025.\u201d",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "41c42c21-b5b5-4ec6-92cf-bd02eba3e423",
+        "recall_url": null,
+        "notice_id_number": "PHA-09192025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Haifa Smoked Fish Recalls \u201cCold Smoked Salmon\u201d and \u201cCold Smoked Seabass\u201d Due to Possible Health Risk",
         "company_announce_dttm": "2025-09-16T17:25:00+00:00",
         "notification_dttm": "2025-09-17T04:00:00+00:00",
