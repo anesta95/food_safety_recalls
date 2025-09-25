@@ -1,5 +1,56 @@
 [
     {
+        "title": "Goot Essa Recalls Der Mutterschaf Cheese Because of Possible Health Risk",
+        "company_announce_dttm": "2025-09-19T19:18:00+00:00",
+        "notification_dttm": "2025-09-25T04:00:00+00:00",
+        "recall_reason": "Potential contamination with Listeria monocytogenes",
+        "company_name": "Goot Essa LLC",
+        "brand_name": "Goot Essa ",
+        "product_description": "Der Mutterschaf Cheese",
+        "impacted_states": [
+            "PA",
+            "CT",
+            "MT",
+            "NJ",
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "7f7de535-a7d5-4ab5-982a-3b755b286799",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/goot-essa-recalls-der-mutterschaf-cheese-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "AquaStar (USA) Corp Recalls AquaStar Raw Shrimp Skewers Because of Possible Health Risk",
+        "company_announce_dttm": "2025-09-23T18:48:00+00:00",
+        "notification_dttm": "2025-09-25T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - possible radionuclide (Cesium-137) contamination",
+        "company_name": "Aquastar Corp",
+        "brand_name": "AquaStar",
+        "product_description": "Shrimp Skewers, Raw Peeled Tail-on",
+        "impacted_states": [
+            "DE",
+            "GA",
+            "KY",
+            "MD",
+            "NC",
+            "PA",
+            "SC",
+            "TN",
+            "VA",
+            "WV"
+        ],
+        "agency": "FDA",
+        "uid": "5869adf1-bb24-4ffb-b803-d4aa61122ea3",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-aquastar-raw-shrimp-skewers-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Updated Release: Southwind Foods, LLC Recalls Frozen Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-09-23T22:23:00+00:00",
         "notification_dttm": "2025-09-23T04:00:00+00:00",
