@@ -1,5 +1,30 @@
 [
     {
+        "title": "SLR Food Distribution, Inc. Recalls Wise Wife Brand Ground Cinnamon Because of Possible Health Risk",
+        "company_announce_dttm": "2025-09-26T19:21:00+00:00",
+        "notification_dttm": "2025-09-26T04:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with elevated levels of lead ",
+        "company_name": "SLR Food Distribution",
+        "brand_name": "Wise Wife",
+        "product_description": "Cinnamon powder",
+        "impacted_states": [
+            "FL",
+            "MD",
+            "MN",
+            "NJ",
+            "NY",
+            "OH",
+            "OK"
+        ],
+        "agency": "FDA",
+        "uid": "2f19c248-505e-4677-a137-7b6e9734bf39",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/slr-food-distribution-inc-recalls-wise-wife-brand-ground-cinnamon-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "FSIS Issues Public Health Alert For Ready-To-Eat Meals Containing Pasta That May Be Contaminated with Listeria ",
         "company_announce_dttm": null,
         "notification_dttm": "2025-09-25T00:00:00+00:00",
