@@ -1,5 +1,22 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert For Ready-To-Eat Meals Containing Pasta That May Be Contaminated with Listeria ",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-09-25T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Freshrealm, FreshRealm",
+        "brand_name": null,
+        "product_description": " \u2022 12-oz. clear plastic tray packages labeled \u201cMARKETSIDE LINGUINE WITH BEEF MEATBALLS &amp; MARINARA SAUCE\u201d with \u201cbest if used by\u201d dates SEP 22, 2025; SEP 24, 2025; SEP 25, 2025; SEP 29, 2025; SEP 30, 2025; and OCT 01, 2025.",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "eb60930a-9161-4694-9429-bef7e8e89d92",
+        "recall_url": null,
+        "notice_id_number": "PHA-09252025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Goot Essa Recalls Der Mutterschaf Cheese Because of Possible Health Risk",
         "company_announce_dttm": "2025-09-19T19:18:00+00:00",
         "notification_dttm": "2025-09-25T04:00:00+00:00",
