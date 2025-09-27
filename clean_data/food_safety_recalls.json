@@ -1,5 +1,24 @@
 [
     {
+        "title": "Gansu Zhaofeng Agricultural Development Co., Ltd. Is Voluntarily Recalling Its Dried Bean Curd Due to Undeclared Wheat",
+        "company_announce_dttm": "2025-09-26T04:00:00+00:00",
+        "notification_dttm": "2025-09-27T20:00:00+00:00",
+        "recall_reason": "Undeclared wheat allergen",
+        "company_name": "Gansu Zhaofeng Agricultural Development Co., Ltd.",
+        "brand_name": "G&L Food",
+        "product_description": "Dried Bean Curd",
+        "impacted_states": [
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "601ea546-a54f-45a0-9a4c-8752aa721982",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gansu-zhaofeng-agricultural-development-co-ltd-voluntarily-recalling-its-dried-bean-curd-due",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "SLR Food Distribution, Inc. Recalls Wise Wife Brand Ground Cinnamon Because of Possible Health Risk",
         "company_announce_dttm": "2025-09-26T19:21:00+00:00",
         "notification_dttm": "2025-09-26T04:00:00+00:00",
