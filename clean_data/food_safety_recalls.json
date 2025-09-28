@@ -1,5 +1,22 @@
 [
     {
+        "title": "The Hillshire Brands Company Recalls Corn Dog and Sausage On A Stick Products Due To Possible Extraneous Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-09-27T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "The Hillshire Brands Company",
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "f7f5d5a2-671b-4533-b2f9-c145cf8a4c02",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/hillshire-brands-company-recalls-corn-dog-and-sausage-a-stick-products-due-possible",
+        "notice_id_number": "030-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Gansu Zhaofeng Agricultural Development Co., Ltd. Is Voluntarily Recalling Its Dried Bean Curd Due to Undeclared Wheat",
         "company_announce_dttm": "2025-09-26T04:00:00+00:00",
         "notification_dttm": "2025-09-27T20:00:00+00:00",
