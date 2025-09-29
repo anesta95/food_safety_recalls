@@ -1,18 +1,19 @@
 [
     {
-        "title": "Gansu Zhaofeng Agricultural Development Co., Ltd. Is Voluntarily Recalling Its Dried Bean Curd Due to Undeclared Wheat",
-        "company_announce_dttm": "2025-09-26T04:00:00+00:00",
-        "notification_dttm": "2025-09-27T20:00:00+00:00",
-        "recall_reason": "Undeclared wheat allergen",
-        "company_name": "Gansu Zhaofeng Agricultural Development Co., Ltd.",
-        "brand_name": "G&L Food",
-        "product_description": "Dried Bean Curd",
+        "title": "Georgia Nut Company (GNC), Third-Party Manufacturer for Tru Fru, LLC Issues Voluntary Recall of  Specific Varieties of Tru Fru Freeze Dried Products Due to Potential Presence of Metal in Product",
+        "company_announce_dttm": "2025-09-26T14:54:00+00:00",
+        "notification_dttm": "2025-09-29T04:00:00+00:00",
+        "recall_reason": "Due to potential presence of metal in the product.",
+        "company_name": "Georgia Nut Company",
+        "brand_name": "Tru Fru",
+        "product_description": " Freeze Dried Fruit snacks",
         "impacted_states": [
-            "CA"
+            "UT",
+            "GA"
         ],
         "agency": "FDA",
-        "uid": "601ea546-a54f-45a0-9a4c-8752aa721982",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gansu-zhaofeng-agricultural-development-co-ltd-voluntarily-recalling-its-dried-bean-curd-due",
+        "uid": "95deeccb-e277-43b8-9d2d-7cdb97a416bf",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/georgia-nut-company-gnc-third-party-manufacturer-tru-fru-llc-issues-voluntary-recall-specific",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
