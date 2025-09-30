@@ -1,5 +1,57 @@
 [
     {
+        "title": "Albertsons Companies Voluntarily Recalls Select Store-Made Deli Items Containing  Bowtie Pasta Supplied by Fresh Creative Foods Due to an Ingredient Recall for Possible Listeria monocytogenes Contamination",
+        "company_announce_dttm": "2025-09-29T21:24:00+00:00",
+        "notification_dttm": "2025-09-30T04:00:00+00:00",
+        "recall_reason": "Possible Listeria monocytogenes contamination",
+        "company_name": "Albertsons Companies",
+        "brand_name": "Albertsons Companies",
+        "product_description": "Bowtie Pasta Salads and Meals",
+        "impacted_states": [
+            "CA",
+            "NE",
+            "NM",
+            "NV",
+            "TX",
+            "LA",
+            "OK",
+            "HI",
+            "AK",
+            "AZ",
+            "AR",
+            "CO",
+            "SD",
+            "UT",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "fb23edea-5db8-4ab4-8171-5ede769afbe0",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-voluntarily-recalls-select-store-made-deli-items-containing-bowtie-pasta",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "Abdallah Candies Issues a Voluntary Recall of Pecan Caramel Clusters Due to Undeclared, Mislabeled Allergens",
+        "company_announce_dttm": "2025-09-30T22:34:00+00:00",
+        "notification_dttm": "2025-09-30T04:00:00+00:00",
+        "recall_reason": "Due to a mislabeled allergen, cashews",
+        "company_name": "Abdallah Inc.",
+        "brand_name": "Lunds & Byerlys",
+        "product_description": " Chocolate candy with nuts.",
+        "impacted_states": [
+            "MN"
+        ],
+        "agency": "FDA",
+        "uid": "9ac0be63-6d42-4447-9d2a-acdadb580955",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abdallah-candies-issues-voluntary-recall-pecan-caramel-clusters-due-undeclared-mislabeled-allergens",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Wholesale Produce Supply of Minneapolis, Minnesota is Recalling Fresh Cut/Processed Cantaloupe, Because it has the Potential to be Contaminated With Listeria Monocytogenes",
         "company_announce_dttm": "2025-09-29T23:07:00+00:00",
         "notification_dttm": "2025-09-29T04:00:00+00:00",
