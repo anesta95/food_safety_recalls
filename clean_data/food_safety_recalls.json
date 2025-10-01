@@ -1,5 +1,24 @@
 [
     {
+        "title": "New Age International Recalls Signature Enoki Mushrooms Due to Potential Health Risk",
+        "company_announce_dttm": "2025-09-29T20:52:00+00:00",
+        "notification_dttm": "2025-10-01T04:00:00+00:00",
+        "recall_reason": "Product may be contaminated with Listeria monocytogenes",
+        "company_name": "New Age International Inc",
+        "brand_name": "Signature",
+        "product_description": "Enoki Mushrooms",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "e79efffb-562a-40be-a01e-daae5b9b9c93",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-signature-enoki-mushrooms-due-potential-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Sea Port Products Corp is Recalling Raw Frozen Easy Peel White Shrimp Because Product May Have Become Contaminated with Cesium-137 (Cs-137)",
         "company_announce_dttm": "2025-09-30T16:08:00+00:00",
         "notification_dttm": "2025-10-01T04:00:00+00:00",
