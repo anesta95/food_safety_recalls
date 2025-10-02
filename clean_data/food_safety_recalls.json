@@ -1,5 +1,38 @@
 [
     {
+        "title": "UPDATE - Albertsons Companies Voluntarily Recalls Select Store-Made Deli Items Containing  Bowtie Pasta Supplied by Fresh Creative Foods Due to an Ingredient Recall for Possible Listeria monocytogenes Contamination",
+        "company_announce_dttm": "2025-10-01T20:17:00+00:00",
+        "notification_dttm": "2025-10-02T04:00:00+00:00",
+        "recall_reason": "Possible Listeria monocytogenes contamination",
+        "company_name": "Albertsons Companies",
+        "brand_name": "Multiple brand names",
+        "product_description": "Bowtie Pasta Salads and Meals",
+        "impacted_states": [
+            "CA",
+            "NE",
+            "NM",
+            "NV",
+            "TX",
+            "LA",
+            "OK",
+            "HI",
+            "AK",
+            "AZ",
+            "AR",
+            "CO",
+            "SD",
+            "UT",
+            "WY"
+        ],
+        "agency": "FDA",
+        "uid": "44e78bd9-f583-4731-a05e-15caa11b0e59",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/update-albertsons-companies-voluntarily-recalls-select-store-made-deli-items-containing-bowtie-pasta",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Demers Food Group Voluntarily Recalls Select Scott & Jon's Shrimp Scampi with Linguini  Bowls Due to an Ingredient Recall Initiated by Nate\u2019s Fine Foods for Possible Listeria  Monocytogenes Contamination",
         "company_announce_dttm": "2025-10-01T13:28:00+00:00",
         "notification_dttm": "2025-10-02T04:00:00+00:00",
