@@ -1,18 +1,18 @@
 [
     {
-        "title": "New Age International Recalls Signature Enoki Mushrooms Due to Potential Health Risk",
-        "company_announce_dttm": "2025-09-29T20:52:00+00:00",
-        "notification_dttm": "2025-10-01T04:00:00+00:00",
-        "recall_reason": "Product may be contaminated with Listeria monocytogenes",
-        "company_name": "New Age International Inc",
-        "brand_name": "Signature",
-        "product_description": "Enoki Mushrooms",
+        "title": "Demers Food Group Voluntarily Recalls Select Scott & Jon's Shrimp Scampi with Linguini  Bowls Due to an Ingredient Recall Initiated by Nate\u2019s Fine Foods for Possible Listeria  Monocytogenes Contamination",
+        "company_announce_dttm": "2025-10-01T13:28:00+00:00",
+        "notification_dttm": "2025-10-02T04:00:00+00:00",
+        "recall_reason": "Potential Listeria monocytogenes contamination.",
+        "company_name": "Demers Food Group",
+        "brand_name": "Scott & Jon's",
+        "product_description": "Shrimp Scampi with Linguini ",
         "impacted_states": [
-            "NY"
+            "CA"
         ],
         "agency": "FDA",
-        "uid": "e79efffb-562a-40be-a01e-daae5b9b9c93",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-age-international-recalls-signature-enoki-mushrooms-due-potential-health-risk",
+        "uid": "b8d1e96c-64f0-4c5f-b2a6-2e93dbf79fe7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/demers-food-group-voluntarily-recalls-select-scott-jons-shrimp-scampi-linguini-bowls-due-ingredient",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
