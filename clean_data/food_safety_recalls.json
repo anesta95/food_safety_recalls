@@ -1,5 +1,26 @@
 [
     {
+        "title": "Best Buy Bones, Inc. Recalls Nature\u2019s Own Pet Chews Bully Bites Because of Possible Salmonella Health Risk",
+        "company_announce_dttm": "2025-10-03T20:28:00+00:00",
+        "notification_dttm": "2025-10-03T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne illness - Salmonella",
+        "company_name": "Best Buy Bones, Inc.",
+        "brand_name": "Nature\u2019s Own",
+        "product_description": "Pet Chews Bully Bites Treats",
+        "impacted_states": [
+            "MI",
+            "MN",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "411bdc4f-6f13-4b66-9073-7eb3319cad96",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/best-buy-bones-inc-recalls-natures-own-pet-chews-bully-bites-because-possible-salmonella-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "UPDATE - Albertsons Companies Voluntarily Recalls Select Store-Made Deli Items Containing  Bowtie Pasta Supplied by Fresh Creative Foods Due to an Ingredient Recall for Possible Listeria monocytogenes Contamination",
         "company_announce_dttm": "2025-10-01T20:17:00+00:00",
         "notification_dttm": "2025-10-02T04:00:00+00:00",
