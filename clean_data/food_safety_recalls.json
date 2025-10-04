@@ -1,5 +1,25 @@
 [
     {
+        "title": "Twin Marquis LLC Voluntarily Recalls Twin Marquis\u00ae Thick Shanghai Style  Plain Noodle Packages Due to Undeclared Egg",
+        "company_announce_dttm": "2025-10-03T21:12:00+00:00",
+        "notification_dttm": "2025-10-04T04:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen - Egg",
+        "company_name": "Twin Marquis LLC",
+        "brand_name": "Twin Marquis",
+        "product_description": "Thick Shanghai Style Plain Noodles",
+        "impacted_states": [
+            "US",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "40542b5e-7bee-4297-9e01-6719b678d5d5",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/twin-marquis-llc-voluntarily-recalls-twin-marquisr-thick-shanghai-style-plain-noodle-packages-due",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Foster Poultry Farms, LLC Recalls Chicken Corn Dog Products Due To Possible Extraneous Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-10-04T00:00:00+00:00",
