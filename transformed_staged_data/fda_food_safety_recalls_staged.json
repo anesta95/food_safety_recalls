@@ -1,20 +1,22 @@
 [
     {
-        "title": "Best Buy Bones, Inc. Recalls Nature\u2019s Own Pet Chews Bully Bites Because of Possible Salmonella Health Risk",
-        "company_announce_dttm": "2025-10-03T20:28:00+00:00",
+        "title": "Giant Eagle Recalls Smoked Mozzarella Pasta Salad Due to Potential Listeria Monocytogenes Contamination Associated with Nationwide Recall from Nate\u2019s Fine Foods",
+        "company_announce_dttm": "2025-10-03T21:57:00+00:00",
         "notification_dttm": "2025-10-03T04:00:00+00:00",
-        "recall_reason": "Potential Foodborne illness - Salmonella",
-        "company_name": "Best Buy Bones, Inc.",
-        "brand_name": "Nature\u2019s Own",
-        "product_description": "Pet Chews Bully Bites Treats",
+        "recall_reason": "Potential listeria monocytogenes contamination",
+        "company_name": "Giant Eagle, Inc.",
+        "brand_name": "Giant Eagle",
+        "product_description": "Smoked Mozzarella Pasta Salad",
         "impacted_states": [
-            "MI",
-            "MN",
-            "WI"
+            "IN",
+            "MD",
+            "US",
+            "OH",
+            "PA"
         ],
         "agency": "FDA",
-        "uid": "411bdc4f-6f13-4b66-9073-7eb3319cad96",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/best-buy-bones-inc-recalls-natures-own-pet-chews-bully-bites-because-possible-salmonella-health-risk",
+        "uid": "6bc60010-3141-4d03-99ba-e76cebdf6ce8",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/giant-eagle-recalls-smoked-mozzarella-pasta-salad-due-potential-listeria-monocytogenes-contamination",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -33,7 +35,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "4247d3a3-a1b3-4c29-a913-6e4d98b148eb",
+        "uid": "740508bc-5034-47fd-bb57-f4c8d8ec1f90",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
