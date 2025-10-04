@@ -1,5 +1,28 @@
 [
     {
+        "title": "Giant Eagle Recalls Smoked Mozzarella Pasta Salad Due to Potential Listeria Monocytogenes Contamination Associated with Nationwide Recall from Nate\u2019s Fine Foods",
+        "company_announce_dttm": "2025-10-03T21:57:00+00:00",
+        "notification_dttm": "2025-10-03T04:00:00+00:00",
+        "recall_reason": "Potential listeria monocytogenes contamination",
+        "company_name": "Giant Eagle, Inc.",
+        "brand_name": "Giant Eagle",
+        "product_description": "Smoked Mozzarella Pasta Salad",
+        "impacted_states": [
+            "IN",
+            "MD",
+            "US",
+            "OH",
+            "PA"
+        ],
+        "agency": "FDA",
+        "uid": "6bc60010-3141-4d03-99ba-e76cebdf6ce8",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/giant-eagle-recalls-smoked-mozzarella-pasta-salad-due-potential-listeria-monocytogenes-contamination",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Best Buy Bones, Inc. Recalls Nature\u2019s Own Pet Chews Bully Bites Because of Possible Salmonella Health Risk",
         "company_announce_dttm": "2025-10-03T20:28:00+00:00",
         "notification_dttm": "2025-10-03T04:00:00+00:00",
