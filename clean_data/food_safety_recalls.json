@@ -1,5 +1,22 @@
 [
     {
+        "title": "Foster Poultry Farms, LLC Recalls Chicken Corn Dog Products Due To Possible Extraneous Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-10-04T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Foster Poultry Farms, LLC",
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "271d1929-2924-4b48-b238-47a254beaff9",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/foster-poultry-farms-llc-recalls-chicken-corn-dog-products-due-possible-extraneous",
+        "notice_id_number": "031-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Kroger Voluntarily Recalls Two Varieties of Deli Pasta Salads Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-04T17:17:00+00:00",
         "notification_dttm": "2025-10-04T04:00:00+00:00",
