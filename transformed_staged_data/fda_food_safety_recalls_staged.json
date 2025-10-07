@@ -1,19 +1,19 @@
 [
     {
-        "title": "Twin Marquis LLC Voluntarily Recalls Twin Marquis\u00ae Thick Shanghai Style  Plain Noodle Packages Due to Undeclared Egg",
-        "company_announce_dttm": "2025-10-03T21:12:00+00:00",
-        "notification_dttm": "2025-10-04T04:00:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen - Egg",
-        "company_name": "Twin Marquis LLC",
-        "brand_name": "Twin Marquis",
-        "product_description": "Thick Shanghai Style Plain Noodles",
+        "title": "Sno Pac Foods Recalls Del Mar 35 LB Bulk Frozen Spinach and 10 oz Organic Frozen Cut  Spinach",
+        "company_announce_dttm": "2025-10-06T19:59:00+00:00",
+        "notification_dttm": "2025-10-07T04:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Listeria monocytogenes",
+        "company_name": "Sno Pac Foods, Inc.",
+        "brand_name": "Sno Pac/Del Mar",
+        "product_description": " Frozen Spinach",
         "impacted_states": [
-            "US",
-            "NY"
+            "MN",
+            "US"
         ],
         "agency": "FDA",
-        "uid": "40542b5e-7bee-4297-9e01-6719b678d5d5",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/twin-marquis-llc-voluntarily-recalls-twin-marquisr-thick-shanghai-style-plain-noodle-packages-due",
+        "uid": "1400c3e4-9795-437c-89bc-44641c3a4379",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sno-pac-foods-recalls-del-mar-35-lb-bulk-frozen-spinach-and-10-oz-organic-frozen-cut-spinach",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -32,7 +32,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "6f78fd11-4a42-4738-968f-d869bd78ab3a",
+        "uid": "949d2016-b7a3-4802-b679-d3671c978a16",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
