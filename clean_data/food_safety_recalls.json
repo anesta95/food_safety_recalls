@@ -1,5 +1,22 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert For Ready-To-Eat Meals Containing Spinach That May Be Contaminated With Listeria ",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-10-06T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "FreshRealm, Freshrealm, FreshRealm",
+        "brand_name": null,
+        "product_description": "10.1-oz. containers of \u201cHELLO FRESH READY MADE MEALS CHEESY PULLED PORK PEPPER PASTA\u201d with establishment number \u201cEst. 47718\u201d and lot code 49107 or establishment number \u201cEst. 2937\u201d and lot code 48840. This item was shipped directly to consumers by HelloFr, 10-oz. containers of \u201cHELLO FRESH READY MADE MEALS UNSTUFFED PEPPERS WITH GROUND TURKEY\u201d with establishment number \u201cP-47718\u201d and lot codes 50069, 50073, or 50698. This item was shipped directly to consumers by HelloFresh.",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "1097a03b-2e41-41fc-9fc0-4c415a34593b",
+        "recall_url": null,
+        "notice_id_number": "PHA-10062025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Twin Marquis LLC Voluntarily Recalls Twin Marquis\u00ae Thick Shanghai Style  Plain Noodle Packages Due to Undeclared Egg",
         "company_announce_dttm": "2025-10-03T21:12:00+00:00",
         "notification_dttm": "2025-10-04T04:00:00+00:00",
