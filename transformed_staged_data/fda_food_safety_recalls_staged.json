@@ -1,25 +1,5 @@
 [
     {
-        "title": "Durra Ground Cinnamon 100 G Because of Possible Health Risk",
-        "company_announce_dttm": "2025-10-07T00:23:00+00:00",
-        "notification_dttm": "2025-10-07T04:00:00+00:00",
-        "recall_reason": "Potential Metal Contaminant - Lead",
-        "company_name": "Eureka Inc.",
-        "brand_name": "Durra",
-        "product_description": "Ground cinnamon",
-        "impacted_states": [
-            "CA",
-            "MI"
-        ],
-        "agency": "FDA",
-        "uid": "7d43ba98-61bd-4cd7-a223-0ec216a85f37",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/durra-ground-cinnamon-100-g-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
         "title": "Doan\u2019s Bakery Issues Allergy Update on Undeclared Wheat and Milk Allergens in Bundt Cakes",
         "company_announce_dttm": "2025-10-01T23:49:00+00:00",
         "notification_dttm": "2025-10-01T04:00:00+00:00",
@@ -32,7 +12,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "c4e1679c-65f3-4e70-b880-5e9a36538c6f",
+        "uid": "b9be331a-2240-495d-9598-6575c1873ab4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
