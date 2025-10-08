@@ -1,5 +1,25 @@
 [
     {
+        "title": "Tai Foong USA Issues Allergy Alert on Undeclared Shrimp in Fusia Asian Inspirations Veggie Spring Rolls",
+        "company_announce_dttm": "2025-10-08T21:04:00+00:00",
+        "notification_dttm": "2025-10-08T21:25:00+00:00",
+        "recall_reason": "Undeclared shrimp allergen",
+        "company_name": "TAI FOONG USA",
+        "brand_name": "Fusia Asian Inspirations ",
+        "product_description": "Veggie Spring Rolls",
+        "impacted_states": [
+            "US",
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "4c82b188-38be-4d40-962c-1ce40430fbb5",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tai-foong-usa-issues-allergy-alert-undeclared-shrimp-fusia-asian-inspirations-veggie-spring-rolls",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Doan\u2019s Bakery Issues Allergy Update on Undeclared Wheat and Milk Allergens in Bundt Cakes",
         "company_announce_dttm": "2025-10-01T23:49:00+00:00",
         "notification_dttm": "2025-10-01T04:00:00+00:00",
@@ -12,7 +32,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "ffcd7cbd-172e-41c2-896f-ff8ed5a716f5",
+        "uid": "4040eb0e-9f32-420d-bbe4-18c231ecaf0e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
