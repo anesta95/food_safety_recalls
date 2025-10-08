@@ -1,5 +1,22 @@
 [
     {
+        "title": "FSIS Issues Public Health Alert For Ready-To-Eat Meals Containing Riced Cauliflower That May Be Contaminated With Listeria ",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-10-07T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Freshrealm, FreshRealm",
+        "brand_name": null,
+        "product_description": " Sold by Blue Apron: 13.05-oz. plastic tray packages labeled &quot;DISH by Blue Apron Cheesy Chicken Mac with Vegetables&quot; with lot codes 25240 and 25247. The product bears establishment number &quot;P-3081.&quot;, Sold by Marley Spoon: 10.5-oz. packages labeled \u201cBALANCE by Marley Spoon BBQ Sauce Beef Meatballs with Cheesy Cauliflower\u201d with lot code 25255.\u00a0 The product bears establishment number \u201cEst. 47718.\u201d",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "5788c102-083d-4f73-b8b4-4dc43db4644d",
+        "recall_url": null,
+        "notice_id_number": "PHA-10072025-01",
+        "recall_type": "Public Health Alert",
+        "risk_level": "Public Health Alert",
+        "recall_classification": "Public Health Alert"
+    },
+    {
         "title": "Sno Pac Foods Recalls Del Mar 35 LB Bulk Frozen Spinach and 10 oz Organic Frozen Cut  Spinach",
         "company_announce_dttm": "2025-10-06T19:59:00+00:00",
         "notification_dttm": "2025-10-07T04:00:00+00:00",
