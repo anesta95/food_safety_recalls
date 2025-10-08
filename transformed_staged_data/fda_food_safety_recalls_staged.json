@@ -1,19 +1,19 @@
 [
     {
-        "title": "Sno Pac Foods Recalls Del Mar 35 LB Bulk Frozen Spinach and 10 oz Organic Frozen Cut  Spinach",
-        "company_announce_dttm": "2025-10-06T19:59:00+00:00",
+        "title": "Durra Ground Cinnamon 100 G Because of Possible Health Risk",
+        "company_announce_dttm": "2025-10-07T00:23:00+00:00",
         "notification_dttm": "2025-10-07T04:00:00+00:00",
-        "recall_reason": "Potential to be contaminated with Listeria monocytogenes",
-        "company_name": "Sno Pac Foods, Inc.",
-        "brand_name": "Sno Pac/Del Mar",
-        "product_description": " Frozen Spinach",
+        "recall_reason": "Potential Metal Contaminant - Lead",
+        "company_name": "Eureka Inc.",
+        "brand_name": "Durra",
+        "product_description": "Ground cinnamon",
         "impacted_states": [
-            "MN",
-            "US"
+            "CA",
+            "MI"
         ],
         "agency": "FDA",
-        "uid": "1400c3e4-9795-437c-89bc-44641c3a4379",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sno-pac-foods-recalls-del-mar-35-lb-bulk-frozen-spinach-and-10-oz-organic-frozen-cut-spinach",
+        "uid": "7d43ba98-61bd-4cd7-a223-0ec216a85f37",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/durra-ground-cinnamon-100-g-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -32,7 +32,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "949d2016-b7a3-4802-b679-d3671c978a16",
+        "uid": "c4e1679c-65f3-4e70-b880-5e9a36538c6f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
