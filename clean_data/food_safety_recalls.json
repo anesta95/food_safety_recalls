@@ -1,5 +1,27 @@
 [
     {
+        "title": "Raw Bistro Pet Fare Voluntarily Recalls Frozen Beef Entr\u00e9e Because of Possible Salmonella Health Risk",
+        "company_announce_dttm": "2025-10-10T22:41:00+00:00",
+        "notification_dttm": "2025-10-10T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Salmonella",
+        "company_name": "Raw Bistro Pet Fare",
+        "brand_name": "Raw Bistro",
+        "product_description": "Frozen Beef Dog Food",
+        "impacted_states": [
+            "MN",
+            "CA",
+            "CO",
+            "IL"
+        ],
+        "agency": "FDA",
+        "uid": "f0f5fe88-eb69-4172-a1e3-11b757ca454e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/raw-bistro-pet-fare-voluntarily-recalls-frozen-beef-entree-because-possible-salmonella-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Foodynamics Recalls Raw Dog Barkery, BellePepper Cats, and Kanu Pets Brand Freeze-Dried Pet Treats Because Of Possible Salmonella Contamination",
         "company_announce_dttm": "2025-10-09T17:07:00+00:00",
         "notification_dttm": "2025-10-09T17:00:00+00:00",
