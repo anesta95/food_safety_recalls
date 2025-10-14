@@ -1,5 +1,22 @@
 [
     {
+        "title": "Ben\u2019s Original\u2122 Issues Voluntary Recall of Select Ben's Original Long Grain White, Whole Grain Brown, and Long Grain & Wild Ready Rice Products Due to Possible Presence of Small Stones from Farm",
+        "company_announce_dttm": "2025-10-10T04:00:00+00:00",
+        "notification_dttm": "2025-10-14T17:29:00+00:00",
+        "recall_reason": "Potential Foreign Body Contaminant \u2013 Small Stones",
+        "company_name": "Ben\u2019s Original",
+        "brand_name": "Ben\u2019s Original",
+        "product_description": "Long Grain White, Whole Grain Brown, and Long Grain & Wild Ready Rice",
+        "impacted_states": [],
+        "agency": "FDA",
+        "uid": "ccf95787-8525-466f-a2fd-d87ebbca090c",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bens-originaltm-issues-voluntary-recall-select-bens-original-long-grain-white-whole-grain-brown-and",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
+    },
+    {
         "title": "Raw Bistro Pet Fare Voluntarily Recalls Frozen Beef Entr\u00e9e Because of Possible Salmonella Health Risk",
         "company_announce_dttm": "2025-10-10T22:41:00+00:00",
         "notification_dttm": "2025-10-10T04:00:00+00:00",
