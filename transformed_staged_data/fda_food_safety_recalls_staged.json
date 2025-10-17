@@ -1,5 +1,26 @@
 [
     {
+        "title": "CORRECTION: Foodynamics Recalls Raw Dog Barkery, BellePepper Cats, and Kanu Pets Brand Freeze-Dried Pet Treats Because Of Possible Salmonella Contamination",
+        "company_announce_dttm": "2025-10-09T17:07:00+00:00",
+        "notification_dttm": "2025-10-09T17:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Salmonella ",
+        "company_name": "Foodynamics",
+        "brand_name": "Foodynamics",
+        "product_description": "Freeze Dried Pet Treats",
+        "impacted_states": [
+            "FL",
+            "NY",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "d968f6f1-23db-4d15-9da9-74657c84178a",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Doan\u2019s Bakery Issues Allergy Update on Undeclared Wheat and Milk Allergens in Bundt Cakes",
         "company_announce_dttm": "2025-10-01T23:49:00+00:00",
         "notification_dttm": "2025-10-01T04:00:00+00:00",
@@ -12,7 +33,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "2336f760-c704-4869-819b-f7df96cef49a",
+        "uid": "b61ccca3-5547-4d33-846e-c7dd9c92d0b9",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
