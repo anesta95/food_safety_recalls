@@ -1,5 +1,32 @@
 [
     {
+        "title": "Nat\u2019s Nuts Issues Allergy Alert on Potential Undeclared Cashews in Nat\u2019s Nuts Brand Cinnamon Whiskey Pecans",
+        "company_announce_dttm": "2025-10-17T04:00:00+00:00",
+        "notification_dttm": "2025-10-17T19:00:00+00:00",
+        "recall_reason": "Undeclared cashews",
+        "company_name": "Nat\u2019s Nuts",
+        "brand_name": "Nat\u2019s Nuts",
+        "product_description": "Cinnamon Whiskey Pecans",
+        "impacted_states": [
+            "NY",
+            "CT",
+            "FL",
+            "NV",
+            "NH",
+            "NJ",
+            "OH",
+            "PA",
+            "WI"
+        ],
+        "agency": "FDA",
+        "uid": "687214ac-99f3-462c-9d64-bdfdfe9928be",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nats-nuts-issues-allergy-alert-potential-undeclared-cashews-nats-nuts-brand-cinnamon-whiskey-pecans",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Kenz Henz Recalls \"Pastured Raised Eggs\" Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-16T04:00:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
