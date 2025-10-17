@@ -1,5 +1,59 @@
 [
     {
+        "title": "Jody\u2019s Inc. Recalls Cabot Creamery Sea Salt Caramel Cheddar Popcorn Due to Undeclared Peanuts",
+        "company_announce_dttm": "2025-10-17T22:53:00+00:00",
+        "notification_dttm": "2025-10-17T04:00:00+00:00",
+        "recall_reason": "Due to presence of undeclared peanuts",
+        "company_name": "Jody's Inc.",
+        "brand_name": "Cabot Creamery",
+        "product_description": "Sea Salt Caramel Cheddar Popcorn ",
+        "impacted_states": [
+            "CA",
+            "FL",
+            "GA",
+            "IL",
+            "MD",
+            "MA",
+            "US",
+            "NC",
+            "OR",
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "d58e03cf-e242-44fc-afa9-994c1e3be4de",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "Publix Rich & Creamy Vanilla Ice Cream Voluntarily Recalled in Select Areas",
+        "company_announce_dttm": "2025-10-14T23:18:00+00:00",
+        "notification_dttm": "2025-10-17T04:00:00+00:00",
+        "recall_reason": "May contain undeclared egg allergen",
+        "company_name": "Publix",
+        "brand_name": "Publix",
+        "product_description": "Rich & Creamy Vanilla Ice Cream",
+        "impacted_states": [
+            "AL",
+            "FL",
+            "GA",
+            "KY",
+            "NC",
+            "SC",
+            "TN",
+            "VA"
+        ],
+        "agency": "FDA",
+        "uid": "7ed53325-8463-4f9b-ba41-7162a9081d7e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "CORRECTION: Foodynamics Recalls Raw Dog Barkery, BellePepper Cats, and Kanu Pets Brand Freeze-Dried Pet Treats Because Of Possible Salmonella Contamination",
         "company_announce_dttm": "2025-10-09T17:07:00+00:00",
         "notification_dttm": "2025-10-09T17:00:00+00:00",
@@ -13,7 +67,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "d968f6f1-23db-4d15-9da9-74657c84178a",
+        "uid": "4460147a-079f-44b6-a3a9-0bf63217c8da",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
@@ -33,7 +87,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "b61ccca3-5547-4d33-846e-c7dd9c92d0b9",
+        "uid": "1d86c75b-5825-4a91-b7d5-49334d37125d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
