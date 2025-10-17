@@ -1,25 +1,5 @@
 [
     {
-        "title": "Haitai, Inc. Recalls Haetae (HT) Brand Cinnamon Powder 8 oz of Possible Risk",
-        "company_announce_dttm": "2025-10-17T04:00:00+00:00",
-        "notification_dttm": "2025-10-17T19:14:00+00:00",
-        "recall_reason": "Potential Metal Contaminant - Lead",
-        "company_name": "Haitai, Inc",
-        "brand_name": "Haetae",
-        "product_description": "Ground cinnamon",
-        "impacted_states": [
-            "CA",
-            "US"
-        ],
-        "agency": "FDA",
-        "uid": "eb267b9f-1650-4a66-aa1d-c1b8324fa67b",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/haitai-inc-recalls-haetae-ht-brand-cinnamon-powder-8-oz-possible-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
         "title": "Doan\u2019s Bakery Issues Allergy Update on Undeclared Wheat and Milk Allergens in Bundt Cakes",
         "company_announce_dttm": "2025-10-01T23:49:00+00:00",
         "notification_dttm": "2025-10-01T04:00:00+00:00",
@@ -32,7 +12,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "8e86b51b-84bd-42fd-bf5b-9df4cb49551d",
+        "uid": "2336f760-c704-4869-819b-f7df96cef49a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
