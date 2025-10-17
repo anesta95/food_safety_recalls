@@ -1,5 +1,25 @@
 [
     {
+        "title": "Haitai, Inc. Recalls Haetae (HT) Brand Cinnamon Powder 8 oz of Possible Risk",
+        "company_announce_dttm": "2025-10-17T04:00:00+00:00",
+        "notification_dttm": "2025-10-17T19:14:00+00:00",
+        "recall_reason": "Potential Metal Contaminant - Lead",
+        "company_name": "Haitai, Inc",
+        "brand_name": "Haetae",
+        "product_description": "Ground cinnamon",
+        "impacted_states": [
+            "CA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "eb267b9f-1650-4a66-aa1d-c1b8324fa67b",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/haitai-inc-recalls-haetae-ht-brand-cinnamon-powder-8-oz-possible-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Nat\u2019s Nuts Issues Allergy Alert on Potential Undeclared Cashews in Nat\u2019s Nuts Brand Cinnamon Whiskey Pecans",
         "company_announce_dttm": "2025-10-17T04:00:00+00:00",
         "notification_dttm": "2025-10-17T19:00:00+00:00",
