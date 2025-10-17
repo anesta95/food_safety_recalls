@@ -1,5 +1,24 @@
 [
     {
+        "title": "Kenz Henz Recalls \"Pastured Raised Eggs\" Because of Possible Health Risk",
+        "company_announce_dttm": "2025-10-16T04:00:00+00:00",
+        "notification_dttm": "2025-10-17T04:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Salmonella",
+        "company_name": "Kenz Henz",
+        "brand_name": "Kenz Henz",
+        "product_description": "Grade AA Large Pasture Raised Eggs",
+        "impacted_states": [
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "133b0584-15d1-40ff-b6cb-7fe418fd49b7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/kenz-henz-recalls-pastured-raised-eggs-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Ben\u2019s Original\u2122 Issues Voluntary Recall of Select Ben's Original Long Grain White, Whole Grain Brown, and Long Grain & Wild Ready Rice Products Due to Possible Presence of Small Stones from Farm",
         "company_announce_dttm": "2025-10-10T04:00:00+00:00",
         "notification_dttm": "2025-10-14T17:29:00+00:00",
