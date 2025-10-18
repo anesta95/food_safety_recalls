@@ -1,5 +1,24 @@
 [
     {
+        "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
+        "company_announce_dttm": "2025-10-18T01:43:00+00:00",
+        "notification_dttm": "2025-10-17T04:00:00+00:00",
+        "recall_reason": "Product may have been prepared, packed, or held under conditions whereby they may have become exposed to very low levels of cesium-137 (Cs-137)",
+        "company_name": "AquaStar Corp",
+        "brand_name": "AquaStar, Best Yet, Waterfront Bistro, Publix",
+        "product_description": "Frozen Raw Shrimp ",
+        "impacted_states": [
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "cc3083d9-b33d-41e0-be9d-b24fbc70ada7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
+    },
+    {
         "title": "Jody\u2019s Inc. Recalls Cabot Creamery Sea Salt Caramel Cheddar Popcorn Due to Undeclared Peanuts",
         "company_announce_dttm": "2025-10-17T22:53:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -20,7 +39,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "3c21c492-cb78-4c3d-bc27-77d19e2baf06",
+        "uid": "8edaeb4e-7797-4d0f-bfed-202b489b9bb3",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts",
         "notice_id_number": null,
         "recall_type": null,
@@ -46,7 +65,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "9acf6651-60eb-4775-80d4-4b8733b42180",
+        "uid": "55efcafe-35c1-426c-a4ad-35d8b99fe12b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -67,7 +86,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "722fd9e9-3eab-4732-8826-1a9266fda802",
+        "uid": "5d2ef48f-f201-435b-b5ff-5b6ae30933be",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
@@ -87,7 +106,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "dd2188a1-ee52-43a6-a405-1d4872042a64",
+        "uid": "21e0c427-a7cf-4049-bd43-3af88fdef5df",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
