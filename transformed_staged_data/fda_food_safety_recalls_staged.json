@@ -20,34 +20,8 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "d58e03cf-e242-44fc-afa9-994c1e3be4de",
+        "uid": "c23ba8be-5123-4093-ac0f-d62c5070c500",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
-        "title": "Publix Rich & Creamy Vanilla Ice Cream Voluntarily Recalled in Select Areas",
-        "company_announce_dttm": "2025-10-14T23:18:00+00:00",
-        "notification_dttm": "2025-10-17T04:00:00+00:00",
-        "recall_reason": "May contain undeclared egg allergen",
-        "company_name": "Publix",
-        "brand_name": "Publix",
-        "product_description": "Rich & Creamy Vanilla Ice Cream",
-        "impacted_states": [
-            "AL",
-            "FL",
-            "GA",
-            "KY",
-            "NC",
-            "SC",
-            "TN",
-            "VA"
-        ],
-        "agency": "FDA",
-        "uid": "7ed53325-8463-4f9b-ba41-7162a9081d7e",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -67,7 +41,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "4460147a-079f-44b6-a3a9-0bf63217c8da",
+        "uid": "910f8afe-a5c4-49a0-99c6-e5a7dce30111",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
@@ -87,7 +61,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "1d86c75b-5825-4a91-b7d5-49334d37125d",
+        "uid": "2a622523-b334-4c45-b8ee-07bd1673d593",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
