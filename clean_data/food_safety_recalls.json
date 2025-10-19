@@ -1,5 +1,22 @@
 [
     {
+        "title": "M.C.I. Foods, Inc. Recalls Ready-To-Eat Breakfast Burrito and Wrap Products Due to Possible Listeria Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-10-18T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "M.C.I. Foods, Inc.",
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "a02bbfd3-3a69-4424-b56c-a91dcbcb30ad",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/m-c-i--foods-inc--recalls-ready-eat-breakfast-burrito-and-wrap-products-due-possible",
+        "notice_id_number": "032-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Haitai, Inc. Recalls Haetae (HT) Brand Cinnamon Powder 8 oz of Possible Risk",
         "company_announce_dttm": "2025-10-17T04:00:00+00:00",
         "notification_dttm": "2025-10-17T19:14:00+00:00",
