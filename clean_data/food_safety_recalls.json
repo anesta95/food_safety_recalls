@@ -1,5 +1,33 @@
 [
     {
+        "title": "Jody\u2019s Inc. Recalls Cabot Creamery Sea Salt Caramel Cheddar Popcorn Due to Undeclared Peanuts",
+        "company_announce_dttm": "2025-10-17T21:03:00+00:00",
+        "notification_dttm": "2025-10-20T04:00:00+00:00",
+        "recall_reason": "Due to presence of undeclared peanuts",
+        "company_name": "Jody's Inc.",
+        "brand_name": "Cabot Creamery",
+        "product_description": "Sea Salt Caramel Cheddar Popcorn ",
+        "impacted_states": [
+            "CA",
+            "FL",
+            "GA",
+            "IL",
+            "MD",
+            "MA",
+            "US",
+            "NC",
+            "OR",
+            "TX"
+        ],
+        "agency": "FDA",
+        "uid": "6f424118-5f0a-4b35-a086-3d5a5970f092",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "M.C.I. Foods, Inc. Recalls Ready-To-Eat Breakfast Burrito and Wrap Products Due to Possible Listeria Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-10-18T00:00:00+00:00",
