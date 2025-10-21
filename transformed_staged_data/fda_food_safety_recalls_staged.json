@@ -11,7 +11,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "7b427ad7-80bf-4692-8880-64cb16093dcb",
+        "uid": "da284869-45b5-4244-9867-a793f76477bd",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -19,9 +19,9 @@
         "recall_classification": "Potentially Class II"
     },
     {
-        "title": "Jody\u2019s Inc. Recalls Cabot Creamery Sea Salt Caramel Cheddar Popcorn Due to Undeclared Peanuts",
+        "title": "Jody\u2019s Inc. Recalls Cabot Creamery Sea Salt Caramel Cheddar Popcorn Due to Undeclared Peanuts CORRECTED UPC CODE",
         "company_announce_dttm": "2025-10-17T21:03:00+00:00",
-        "notification_dttm": "2025-10-20T04:00:00+00:00",
+        "notification_dttm": "2025-10-17T04:00:00+00:00",
         "recall_reason": "Due to presence of undeclared peanuts",
         "company_name": "Jody's Inc.",
         "brand_name": "Cabot Creamery",
@@ -39,8 +39,8 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "6f424118-5f0a-4b35-a086-3d5a5970f092",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts",
+        "uid": "7b1bc8fd-90e7-4cee-b7f0-77578cd1b79e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -65,7 +65,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "2dc0148c-56e6-42ad-81f6-645f0ad4dbec",
+        "uid": "e7444f4f-e62f-4cb5-98e1-f7898cf0305b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -86,7 +86,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "ffc06b6f-1e9e-4bde-8ed2-5893351486d2",
+        "uid": "df8d1ab2-a018-4671-9493-f3e5e7ef3fca",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
@@ -106,7 +106,7 @@
             "US"
         ],
         "agency": "FDA",
-        "uid": "2ae810db-3dfa-4136-8547-6c8acef3f8c6",
+        "uid": "e12886a1-caa5-456a-9b84-a9305b42f082",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
