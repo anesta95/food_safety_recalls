@@ -1,5 +1,22 @@
 [
     {
+        "title": "Hormel Foods Corporation Recalls Ready-To-Eat Frozen Chicken Products Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-10-25T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "Hormel Foods Corporation",
+        "brand_name": null,
+        "product_description": "\u2022\t13.9-lb. cases containing \u201cHormel FIRE BRAISED MEATS ALL NATURAL BONELESS CHICKEN THIGH MEAT,\u201d with item code \u201c65009\u201d printed on the label., \u2022\t13.8-lb. cases containing 3-oz.\u201cHormel FIRE BRAISED MEATS ALL NATURAL BONELESS CHICKEN BREAST,\u201d with item code \u201c77531\u201d printed on the label., \u2022\t13.8-lb. cases containing 4-oz.\u201cHormel FIRE BRAISED MEATS ALL NATURAL BONELESS CHICKEN BREAST,\u201d with item code \u201c46750\u201d printed on the label., \u2022\t23.8-lb. cases containing 5-oz.\u201cHormel FIRE BRAISED MEATS ALL NATURAL BONELESS CHICKEN BREAST,\u201d with item code \u201c86206\u201d printed on the label., \u2022\t13.95-lb. cases containing \u201cBONELESS CHICKEN BREAST WITH RIB MEAT,\u201d with item code \u201c134394\u201d printed on the label.",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "cd7fb850-9891-49e7-b6ed-3accba6db073",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/hormel-foods-corporation-recalls-ready-eat-frozen-chicken-products-due-possible",
+        "notice_id_number": "034-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "LSI, Inc. Recalls BBQ Pork Jerky Product  Due To Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-10-24T00:00:00+00:00",
