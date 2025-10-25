@@ -1,5 +1,22 @@
 [
     {
+        "title": "LSI, Inc. Recalls BBQ Pork Jerky Product  Due To Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-10-24T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "LSI, Inc.",
+        "brand_name": null,
+        "product_description": null,
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "26968aef-4a58-4c1a-bef4-3b5b11b1158b",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/lsi-inc--recalls-bbq-pork-jerky-product-due-possible-foreign-matter-contamination",
+        "notice_id_number": "033-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Jody\u2019s Inc. Recalls Cabot Creamery Sea Salt Caramel Cheddar Popcorn Due to Undeclared Peanuts",
         "company_announce_dttm": "2025-10-17T21:03:00+00:00",
         "notification_dttm": "2025-10-20T04:00:00+00:00",
