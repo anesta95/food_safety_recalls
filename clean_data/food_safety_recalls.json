@@ -1,5 +1,47 @@
 [
     {
+        "title": "Zingerman\u2019s Candy Manufactory Issues Allergy Alert on Undeclared Peanut & Cashew in Candy Bars",
+        "company_announce_dttm": "2025-10-24T04:00:00+00:00",
+        "notification_dttm": "2025-10-27T04:00:00+00:00",
+        "recall_reason": "Potential or Undeclared Allergen \u2013 Undeclared Cashew and Peanut",
+        "company_name": "Zingerman\u2019s Candy Manufactory",
+        "brand_name": "Zingerman\u2019s Candy",
+        "product_description": "Peanut Butter Crush and Ca$hew Cow candy bars",
+        "impacted_states": [
+            "MI",
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "6fa03323-2982-4c92-9ba6-2f944ad879c6",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/zingermans-candy-manufactory-issues-allergy-alert-undeclared-peanut-cashew-candy-bars",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "Peterson Company Recalls Twin Sisters Creamery Brand Whatcom Blue and Farmhouse Cheese Products Because of Possible Health Risk",
+        "company_announce_dttm": "2025-10-26T04:00:00+00:00",
+        "notification_dttm": "2025-10-27T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness - Shiga toxin-producing Escherichia coli (STEC) and Escherichia coli O103",
+        "company_name": "Peterson Company",
+        "brand_name": "Twin Sisters Creamery",
+        "product_description": "Whatcom Blue and Farmhouse cheese products",
+        "impacted_states": [
+            "OR",
+            "WA",
+            "CO",
+            "ID"
+        ],
+        "agency": "FDA",
+        "uid": "f3235ac5-6adc-4ae6-89d6-a398d4fcfaab",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/peterson-company-recalls-twin-sisters-creamery-brand-whatcom-blue-and-farmhouse-cheese-products",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Hormel Foods Corporation Recalls Ready-To-Eat Frozen Chicken Products Due to Possible Foreign Matter Contamination",
         "company_announce_dttm": null,
         "notification_dttm": "2025-10-25T00:00:00+00:00",
