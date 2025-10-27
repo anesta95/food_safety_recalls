@@ -11,7 +11,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "8e1cdfeb-0eea-43d8-9d6a-05b6ce0b25d4",
+        "uid": "69e1fe79-64e2-485a-b107-0afb423be726",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -39,7 +39,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "e2e0a3fb-f3b6-41e9-b04a-3c81ddb317a4",
+        "uid": "9360f1ac-7e11-4690-87c3-de5cfd733477",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -65,7 +65,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "46f39576-60bb-421c-967b-74adf1087434",
+        "uid": "98f7fd19-457e-4c6b-b3d2-55b3c4a03697",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -86,28 +86,8 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "e033fe3a-d05b-4dd9-afbb-ff52e6f143d7",
+        "uid": "7b33c5e8-9d91-435c-a58a-f3ce1f50c1df",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
-        "title": "Doan\u2019s Bakery Issues Allergy Update on Undeclared Wheat and Milk Allergens in Bundt Cakes",
-        "company_announce_dttm": "2025-10-01T23:49:00+00:00",
-        "notification_dttm": "2025-10-01T04:00:00+00:00",
-        "recall_reason": "Undeclared allergens, wheat and milk",
-        "company_name": "Doan's Bakery",
-        "brand_name": "Doan's Bakery",
-        "product_description": "White Chocolate Coconut & Carrot Bundt Cakes",
-        "impacted_states": [
-            "CA",
-            "US"
-        ],
-        "agency": "FDA",
-        "uid": "e13e8c0f-325c-4e95-a1e9-6c3a683c505b",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
