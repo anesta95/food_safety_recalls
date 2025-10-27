@@ -1,5 +1,25 @@
 [
     {
+        "title": "E.A. Sween Company Announces Product Recall Due to Choking Hazard",
+        "company_announce_dttm": "2025-10-25T04:00:00+00:00",
+        "notification_dttm": "2025-10-27T04:00:00+00:00",
+        "recall_reason": "Due to the potential presence of foreign particles (plastic).",
+        "company_name": "E. A. Sween Company",
+        "brand_name": "Deli Express",
+        "product_description": " BBQ Pulled Pork Sandwich",
+        "impacted_states": [
+            "GU",
+            "HI"
+        ],
+        "agency": "FDA",
+        "uid": "f0c4f452-81bf-48ce-a2e8-d038d8f48414",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ea-sween-company-announces-product-recall-due-choking-hazard",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
+    },
+    {
         "title": "Zingerman\u2019s Candy Manufactory Issues Allergy Alert on Undeclared Peanut & Cashew in Candy Bars",
         "company_announce_dttm": "2025-10-24T04:00:00+00:00",
         "notification_dttm": "2025-10-27T04:00:00+00:00",
