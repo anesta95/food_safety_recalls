@@ -1,45 +1,23 @@
 [
     {
-        "title": "Peterson Company Recalls Twin Sisters Creamery Brand Whatcom Blue and Farmhouse Cheese Products Because of Possible Health Risk",
-        "company_announce_dttm": "2025-10-26T04:00:00+00:00",
+        "title": "E.A. Sween Company Announces Product Recall Due to Choking Hazard",
+        "company_announce_dttm": "2025-10-25T04:00:00+00:00",
         "notification_dttm": "2025-10-27T04:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness - Shiga toxin-producing Escherichia coli (STEC) and Escherichia coli O103",
-        "company_name": "Peterson Company",
-        "brand_name": "Twin Sisters Creamery",
-        "product_description": "Whatcom Blue and Farmhouse cheese products",
+        "recall_reason": "Due to the potential presence of foreign particles (plastic).",
+        "company_name": "E. A. Sween Company",
+        "brand_name": "Deli Express",
+        "product_description": " BBQ Pulled Pork Sandwich",
         "impacted_states": [
-            "OR",
-            "WA",
-            "CO",
-            "ID"
+            "GU",
+            "HI"
         ],
         "agency": "FDA",
-        "uid": "f3235ac5-6adc-4ae6-89d6-a398d4fcfaab",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/peterson-company-recalls-twin-sisters-creamery-brand-whatcom-blue-and-farmhouse-cheese-products",
+        "uid": "f0c4f452-81bf-48ce-a2e8-d038d8f48414",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ea-sween-company-announces-product-recall-due-choking-hazard",
         "notice_id_number": null,
         "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
-        "title": "Zingerman\u2019s Candy Manufactory Issues Allergy Alert on Undeclared Peanut & Cashew in Candy Bars",
-        "company_announce_dttm": "2025-10-24T04:00:00+00:00",
-        "notification_dttm": "2025-10-27T04:00:00+00:00",
-        "recall_reason": "Potential or Undeclared Allergen \u2013 Undeclared Cashew and Peanut",
-        "company_name": "Zingerman\u2019s Candy Manufactory",
-        "brand_name": "Zingerman\u2019s Candy",
-        "product_description": "Peanut Butter Crush and Ca$hew Cow candy bars",
-        "impacted_states": [
-            "MI",
-            "NY"
-        ],
-        "agency": "FDA",
-        "uid": "6fa03323-2982-4c92-9ba6-2f944ad879c6",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/zingermans-candy-manufactory-issues-allergy-alert-undeclared-peanut-cashew-candy-bars",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
     },
     {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
@@ -53,7 +31,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "e141daf5-1cfb-4c4a-8588-0e5881291bfd",
+        "uid": "599f0e8b-06cf-445e-9f6c-cf1c432681a5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -81,7 +59,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "7051ae4f-4527-41a1-8ce6-961d15003e4f",
+        "uid": "55835826-f74b-433a-9cfc-0ee967d5f432",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -107,7 +85,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "c989e6f4-3e72-4a2e-bdea-bf6ffc80f43b",
+        "uid": "f5baa49b-ceda-472c-aacd-fe3efdeaf70f",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -128,28 +106,8 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "ce60189c-20b7-4d3f-8fa5-7abe6752774f",
+        "uid": "888edf8b-cde6-4d00-8993-e3be59f8a3d1",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
-        "title": "Doan\u2019s Bakery Issues Allergy Update on Undeclared Wheat and Milk Allergens in Bundt Cakes",
-        "company_announce_dttm": "2025-10-01T23:49:00+00:00",
-        "notification_dttm": "2025-10-01T04:00:00+00:00",
-        "recall_reason": "Undeclared allergens, wheat and milk",
-        "company_name": "Doan's Bakery",
-        "brand_name": "Doan's Bakery",
-        "product_description": "White Chocolate Coconut & Carrot Bundt Cakes",
-        "impacted_states": [
-            "CA",
-            "US"
-        ],
-        "agency": "FDA",
-        "uid": "cbe05ce1-ab1d-4a63-a3e2-d268049b43f6",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
