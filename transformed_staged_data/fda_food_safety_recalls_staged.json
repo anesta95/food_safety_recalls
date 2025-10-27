@@ -1,25 +1,5 @@
 [
     {
-        "title": "E.A. Sween Company Announces Product Recall Due to Choking Hazard",
-        "company_announce_dttm": "2025-10-25T04:00:00+00:00",
-        "notification_dttm": "2025-10-27T04:00:00+00:00",
-        "recall_reason": "Due to the potential presence of foreign particles (plastic).",
-        "company_name": "E. A. Sween Company",
-        "brand_name": "Deli Express",
-        "product_description": " BBQ Pulled Pork Sandwich",
-        "impacted_states": [
-            "GU",
-            "HI"
-        ],
-        "agency": "FDA",
-        "uid": "f0c4f452-81bf-48ce-a2e8-d038d8f48414",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ea-sween-company-announces-product-recall-due-choking-hazard",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially Low - Class II",
-        "recall_classification": "Potentially Class II"
-    },
-    {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-18T01:43:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -31,7 +11,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "599f0e8b-06cf-445e-9f6c-cf1c432681a5",
+        "uid": "8e1cdfeb-0eea-43d8-9d6a-05b6ce0b25d4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -59,7 +39,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "55835826-f74b-433a-9cfc-0ee967d5f432",
+        "uid": "e2e0a3fb-f3b6-41e9-b04a-3c81ddb317a4",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -85,7 +65,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "f5baa49b-ceda-472c-aacd-fe3efdeaf70f",
+        "uid": "46f39576-60bb-421c-967b-74adf1087434",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -106,8 +86,28 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "888edf8b-cde6-4d00-8993-e3be59f8a3d1",
+        "uid": "e033fe3a-d05b-4dd9-afbb-ff52e6f143d7",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "Doan\u2019s Bakery Issues Allergy Update on Undeclared Wheat and Milk Allergens in Bundt Cakes",
+        "company_announce_dttm": "2025-10-01T23:49:00+00:00",
+        "notification_dttm": "2025-10-01T04:00:00+00:00",
+        "recall_reason": "Undeclared allergens, wheat and milk",
+        "company_name": "Doan's Bakery",
+        "brand_name": "Doan's Bakery",
+        "product_description": "White Chocolate Coconut & Carrot Bundt Cakes",
+        "impacted_states": [
+            "CA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "e13e8c0f-325c-4e95-a1e9-6c3a683c505b",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/doans-bakery-issues-allergy-update-undeclared-wheat-and-milk-allergens-bundt-cakes",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
