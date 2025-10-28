@@ -1,5 +1,22 @@
 [
     {
+        "title": "E.A. Sween Company Recalls Pulled Pork Sandwich Products Due to Possible Foreign Matter Contamination",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-10-27T00:00:00+00:00",
+        "recall_reason": "Product Contamination",
+        "company_name": "E.A. Sween Company",
+        "brand_name": null,
+        "product_description": "5.5-oz. paper wrapped \u201cDeli EXPRESS BBQ PULLED PORK on a sesame bun\u201d sandwiches.   ",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "25ad42ba-dfe8-4732-88e7-3ebedce62110",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/e-a--sween-company-recalls-pulled-pork-sandwich-products-due-possible-foreign-matter",
+        "notice_id_number": "035-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "E.A. Sween Company Announces Product Recall Due to Choking Hazard",
         "company_announce_dttm": "2025-10-25T04:00:00+00:00",
         "notification_dttm": "2025-10-27T04:00:00+00:00",
