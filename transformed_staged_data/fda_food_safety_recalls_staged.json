@@ -1,44 +1,19 @@
 [
     {
-        "title": "Pacific International Marketing Recalls Fresh Italian Parsley Because of Possible Health Risk",
-        "company_announce_dttm": "2025-10-28T22:34:00+00:00",
-        "notification_dttm": "2025-10-28T04:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness \u2013 Salmonella contamination",
-        "company_name": "Pacific International Marketing",
-        "brand_name": "Pacific",
-        "product_description": "Italian Parsley",
+        "title": "New Hoque & Sons Inc Issues Alert on Uneviscerated \u201cDry Ghoinnya Fish\u201d",
+        "company_announce_dttm": "2025-10-29T04:00:00+00:00",
+        "notification_dttm": "2025-10-29T04:00:00+00:00",
+        "recall_reason": "Product was found to be uneviscerated. Uneviscerated fish have been linked to outbreaks of botulism poisoning.",
+        "company_name": "New Hoque & Sons Inc.",
+        "brand_name": "Hoque",
+        "product_description": "Dry Ghoinnya Fish",
         "impacted_states": [
-            "CA",
-            "AZ",
-            "FL",
-            "GA",
-            "MI",
-            "MN",
-            "NV",
-            "OH"
+            "NY",
+            "US"
         ],
         "agency": "FDA",
-        "uid": "3bbec3fe-bf2b-49cb-b7e1-76de3a31e7e7",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pacific-international-marketing-recalls-fresh-italian-parsley-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
-        "title": "Homeneeds Inc. Recalls Devi Brand Ground Cinnamon (Dalchini Powder) Because of Possible Health Risk",
-        "company_announce_dttm": "2025-10-27T23:52:00+00:00",
-        "notification_dttm": "2025-10-28T04:00:00+00:00",
-        "recall_reason": "Potential Metal Contaminant - Lead",
-        "company_name": "Homeneeds Inc.",
-        "brand_name": "DEVI",
-        "product_description": "Ground Cinnamon",
-        "impacted_states": [
-            "WA"
-        ],
-        "agency": "FDA",
-        "uid": "4b885e3a-564b-4d09-aaee-26bbab282d1c",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/homeneeds-inc-recalls-devi-brand-ground-cinnamon-dalchini-powder-because-possible-health-risk",
+        "uid": "697bdfb6-bcd8-4198-952c-224e7113a4f6",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-hoque-sons-inc-issues-alert-uneviscerated-dry-ghoinnya-fish",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -56,7 +31,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "5b246198-87ed-4ef3-82f2-97268b85efac",
+        "uid": "ee65fec4-88f1-4dbf-a220-a4ff44c15964",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -84,7 +59,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "4a1c440d-7fb2-4d40-a38b-c5d5759fb1c3",
+        "uid": "80b17f81-cf20-4d53-9669-a91c64249840",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -110,7 +85,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "0689d359-435f-4db4-9147-10027ebb94ff",
+        "uid": "6e39fe42-497b-45ac-ba80-f79e10957c19",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -131,7 +106,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "c1956ce1-6ada-404a-885c-b7056b7e801e",
+        "uid": "98fb4f7a-24ef-4d6a-b711-fbda25815e6b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
