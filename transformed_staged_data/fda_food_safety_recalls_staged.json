@@ -1,25 +1,5 @@
 [
     {
-        "title": "New Hoque & Sons Inc Issues Alert on Uneviscerated \u201cDry Ghoinnya Fish\u201d",
-        "company_announce_dttm": "2025-10-29T04:00:00+00:00",
-        "notification_dttm": "2025-10-29T04:00:00+00:00",
-        "recall_reason": "Product was found to be uneviscerated. Uneviscerated fish have been linked to outbreaks of botulism poisoning.",
-        "company_name": "New Hoque & Sons Inc.",
-        "brand_name": "Hoque",
-        "product_description": "Dry Ghoinnya Fish",
-        "impacted_states": [
-            "NY",
-            "US"
-        ],
-        "agency": "FDA",
-        "uid": "697bdfb6-bcd8-4198-952c-224e7113a4f6",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-hoque-sons-inc-issues-alert-uneviscerated-dry-ghoinnya-fish",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-18T01:43:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -31,7 +11,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "ee65fec4-88f1-4dbf-a220-a4ff44c15964",
+        "uid": "4bb004cc-74a8-4bdb-ac5c-09367e18a5f2",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -59,7 +39,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "80b17f81-cf20-4d53-9669-a91c64249840",
+        "uid": "2b401c7b-210d-4bd4-a689-79b2a1b6365a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -85,7 +65,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "6e39fe42-497b-45ac-ba80-f79e10957c19",
+        "uid": "fb5e214a-ab16-4412-9b64-8e2b39ceb7c6",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -106,7 +86,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "98fb4f7a-24ef-4d6a-b711-fbda25815e6b",
+        "uid": "bbb6274e-ab71-4088-af85-f1ec8dedd838",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
