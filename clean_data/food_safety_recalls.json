@@ -1,5 +1,50 @@
 [
     {
+        "title": "Homeneeds Inc. Recalls Devi Brand Ground Cinnamon (Dalchini Powder) Because of Possible Health Risk",
+        "company_announce_dttm": "2025-10-27T23:52:00+00:00",
+        "notification_dttm": "2025-10-28T04:00:00+00:00",
+        "recall_reason": "Potential Metal Contaminant - Lead",
+        "company_name": "Homeneeds Inc.",
+        "brand_name": "DEVI",
+        "product_description": "Ground Cinnamon",
+        "impacted_states": [
+            "WA"
+        ],
+        "agency": "FDA",
+        "uid": "4b885e3a-564b-4d09-aaee-26bbab282d1c",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/homeneeds-inc-recalls-devi-brand-ground-cinnamon-dalchini-powder-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
+        "title": "Pacific International Marketing Recalls Fresh Italian Parsley Because of Possible Health Risk",
+        "company_announce_dttm": "2025-10-28T22:34:00+00:00",
+        "notification_dttm": "2025-10-28T04:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Salmonella contamination",
+        "company_name": "Pacific International Marketing",
+        "brand_name": "Pacific",
+        "product_description": "Italian Parsley",
+        "impacted_states": [
+            "CA",
+            "AZ",
+            "FL",
+            "GA",
+            "MI",
+            "MN",
+            "NV",
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "3bbec3fe-bf2b-49cb-b7e1-76de3a31e7e7",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pacific-international-marketing-recalls-fresh-italian-parsley-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Teasdale Latin Foods Issues Allergy Alert on Potential Undeclared Milk in Certain Taco Dinner Kits",
         "company_announce_dttm": "2025-10-25T04:00:00+00:00",
         "notification_dttm": "2025-10-28T04:00:00+00:00",
