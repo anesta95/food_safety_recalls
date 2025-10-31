@@ -1,31 +1,5 @@
 [
     {
-        "title": "Vanguard Enterprises, LLC. dba Bedrock MFG Recalls Monarch Premium Kratom Powder Because of Possible Health Risk",
-        "company_announce_dttm": "2025-10-30T11:58:00+00:00",
-        "notification_dttm": "2025-10-31T04:00:00+00:00",
-        "recall_reason": "Potential to be contaminated with Salmonella",
-        "company_name": "Vanguard Enterprises, LLC. DBA Bedrock MFG",
-        "brand_name": "Monarch Premium",
-        "product_description": " Bali Gold, Red Bali, Green Maeng Da, and White Elephant Kratom powder",
-        "impacted_states": [
-            "AL",
-            "AR",
-            "FL",
-            "ID",
-            "IN",
-            "US",
-            "RI",
-            "WI"
-        ],
-        "agency": "FDA",
-        "uid": "7f6b490c-699d-4b03-9bc3-6ab9ce15e264",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vanguard-enterprises-llc-dba-bedrock-mfg-recalls-monarch-premium-kratom-powder-because-possible",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-18T01:43:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -37,7 +11,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "c3d9db6d-d365-4398-9d8f-66ac794e8e28",
+        "uid": "f1d34e0b-2ad2-46f8-9fff-1b2947a8c5ca",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -65,7 +39,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "7298dbdb-d5ed-4d78-b9be-3b8cdbe4e6fa",
+        "uid": "b1567f09-d5d6-4d55-aa3c-e04422e10fbe",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -91,7 +65,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "27bcb7d2-24f7-4bb6-8d5d-22de9def0768",
+        "uid": "aedb2156-cb0c-455a-b6fd-43937c378a80",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -112,7 +86,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "38225ee3-77da-40d6-8b60-a84a144f251f",
+        "uid": "92efcf7a-b2c8-4650-b491-d700886a1b74",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
