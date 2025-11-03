@@ -1,5 +1,26 @@
 [
     {
+        "title": "First and Last Bakery, LLC Recalls First and Last Brand Tomato Sauce Products Because Of Possible Health Risk",
+        "company_announce_dttm": "2025-10-31T04:00:00+00:00",
+        "notification_dttm": "2025-11-03T05:00:00+00:00",
+        "recall_reason": "Potential for Clostridium botulinum hazard as the product is manufactured without an approved schedule",
+        "company_name": "First and Last Bakery LLC",
+        "brand_name": "First & Last",
+        "product_description": "Marinara Sauce, Puttanesca Sauce, and Meat Flavored Pasta Sauce",
+        "impacted_states": [
+            "CT",
+            "FL",
+            "MA"
+        ],
+        "agency": "FDA",
+        "uid": "cf9d7c6c-6487-43c5-a336-cc920743749b",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/first-and-last-bakery-llc-recalls-first-and-last-brand-tomato-sauce-products-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Supreme Produce LLC Voluntarily Recalls Moonlight Peaches Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-30T04:00:00+00:00",
         "notification_dttm": "2025-11-03T05:00:00+00:00",
