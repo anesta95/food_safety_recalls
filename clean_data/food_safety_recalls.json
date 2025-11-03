@@ -1,5 +1,34 @@
 [
     {
+        "title": "Supreme Produce LLC Voluntarily Recalls Moonlight Peaches Because of Possible Health Risk",
+        "company_announce_dttm": "2025-10-30T04:00:00+00:00",
+        "notification_dttm": "2025-11-03T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Listeria monocytogenes.",
+        "company_name": "Supreme Produce",
+        "brand_name": "Supreme Produce",
+        "product_description": "Peach Salsa",
+        "impacted_states": [
+            "AR",
+            "CO",
+            "GA",
+            "IL",
+            "IN",
+            "MI",
+            "MS",
+            "OR",
+            "TN",
+            "WA",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "b663f758-2ce9-496b-b4f8-324e232844d2",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-produce-llc-voluntarily-recalls-moonlight-peaches-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Vanguard Enterprises, LLC. dba Bedrock MFG Recalls Monarch Premium Kratom Powder Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-30T11:58:00+00:00",
         "notification_dttm": "2025-10-31T04:00:00+00:00",
