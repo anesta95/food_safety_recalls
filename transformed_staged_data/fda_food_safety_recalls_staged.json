@@ -1,34 +1,5 @@
 [
     {
-        "title": "Supreme Produce LLC Voluntarily Recalls Moonlight Peaches Because of Possible Health Risk",
-        "company_announce_dttm": "2025-10-30T04:00:00+00:00",
-        "notification_dttm": "2025-11-03T05:00:00+00:00",
-        "recall_reason": "Potential to be contaminated with Listeria monocytogenes.",
-        "company_name": "Supreme Produce",
-        "brand_name": "Supreme Produce",
-        "product_description": "Peach Salsa",
-        "impacted_states": [
-            "AR",
-            "CO",
-            "GA",
-            "IL",
-            "IN",
-            "MI",
-            "MS",
-            "OR",
-            "TN",
-            "WA",
-            "US"
-        ],
-        "agency": "FDA",
-        "uid": "b663f758-2ce9-496b-b4f8-324e232844d2",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supreme-produce-llc-voluntarily-recalls-moonlight-peaches-because-possible-health-risk",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-18T01:43:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -40,7 +11,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "6aabeb39-4cd9-4803-a000-e1776c5bb2be",
+        "uid": "6001448f-e59a-48ac-b8b8-6c5257fda7b5",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -68,7 +39,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "1a9694a1-d3b0-44ef-8f13-ecd0b883e061",
+        "uid": "440ca726-4cbf-4a1e-9bb6-e41a1191051b",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -94,7 +65,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "b3ae2494-d00d-43ac-b557-f548b0aae14e",
+        "uid": "ff35d623-79c4-4b3b-89f4-587823f66626",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -115,7 +86,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "ed836d49-1b7a-4a42-93fe-cd23a2ea6e83",
+        "uid": "fe93f9bc-5341-453d-a705-3bfc6ba69b79",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
