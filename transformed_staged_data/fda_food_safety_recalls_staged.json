@@ -1,5 +1,26 @@
 [
     {
+        "title": "First and Last Bakery, LLC Recalls First and Last Brand Tomato Sauce Products Because Of Possible Health Risk",
+        "company_announce_dttm": "2025-10-31T04:00:00+00:00",
+        "notification_dttm": "2025-11-03T05:00:00+00:00",
+        "recall_reason": "Potential for Clostridium botulinum hazard as the product is manufactured without an approved schedule",
+        "company_name": "First and Last Bakery LLC",
+        "brand_name": "First & Last",
+        "product_description": "Marinara Sauce, Puttanesca Sauce, and Meat Flavored Pasta Sauce",
+        "impacted_states": [
+            "CT",
+            "FL",
+            "MA"
+        ],
+        "agency": "FDA",
+        "uid": "cf9d7c6c-6487-43c5-a336-cc920743749b",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/first-and-last-bakery-llc-recalls-first-and-last-brand-tomato-sauce-products-because-possible-health",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-18T01:43:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -11,7 +32,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "c78036d4-f057-4fa4-a14e-dd62911c2d24",
+        "uid": "8e758d87-0281-4702-b167-3ab0f214e268",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -39,7 +60,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "e7acc7ae-8e97-4d61-84b1-80f48e3402c0",
+        "uid": "07a16bec-adf8-41e2-aa3b-deabd91b8370",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -65,7 +86,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "bd7aeeab-14cb-4171-830e-ae6b0d06dd68",
+        "uid": "389e8e78-b979-41a1-b525-c8379d1623ca",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
@@ -86,7 +107,7 @@
             "WI"
         ],
         "agency": "FDA",
-        "uid": "fbb30c23-54a9-4953-bac8-5838347068e1",
+        "uid": "01bc7420-1bd6-462b-bb4a-3dc44facca9a",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/correction-foodynamics-recalls-raw-dog-barkery-bellepepper-cats-and-kanu-pets-brand-freeze-dried-pet",
         "notice_id_number": null,
         "recall_type": null,
