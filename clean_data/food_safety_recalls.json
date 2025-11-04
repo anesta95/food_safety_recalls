@@ -1,5 +1,22 @@
 [
     {
+        "title": "Dreyer's Grand Ice Cream, Inc. Issues Allergy Alert on Undeclared Wheat in Haagen-Dazs Chocolate Dark Chocolate Mini Bars in 6 Count Pack",
+        "company_announce_dttm": "2025-11-03T05:00:00+00:00",
+        "notification_dttm": "2025-11-04T05:00:00+00:00",
+        "recall_reason": "May contain undeclared wheat",
+        "company_name": "Dreyer\u2019s Grand Ice Cream, Inc.",
+        "brand_name": "Haagen-Dazs",
+        "product_description": "Ice Cream Bars",
+        "impacted_states": [],
+        "agency": "FDA",
+        "uid": "6df51699-141a-4ab7-b7ca-3ebb88328479",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dreyers-grand-ice-cream-inc-issues-allergy-alert-undeclared-wheat-haagen-dazs-chocolate-dark",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "First and Last Bakery, LLC Recalls First and Last Brand Tomato Sauce Products Because Of Possible Health Risk",
         "company_announce_dttm": "2025-10-31T04:00:00+00:00",
         "notification_dttm": "2025-11-03T05:00:00+00:00",
