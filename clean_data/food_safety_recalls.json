@@ -1,5 +1,22 @@
 [
     {
+        "title": "Brazilian Taste Recalls Frozen Chicken and Beef Croquette Products Due to Misbranding and an Undeclared Allergen",
+        "company_announce_dttm": null,
+        "notification_dttm": "2025-11-04T00:00:00+00:00",
+        "recall_reason": "Misbranding, Unreported Allergens",
+        "company_name": "Brazilian Taste",
+        "brand_name": null,
+        "product_description": " \u2022\t17.63-oz. plastic bag packages containing 5 \u201cSAINT COXINHA XL CHICKEN CROQUETTES\u201d with \u201cbest by\u201d dates ranging \u201c11/04/2025\u201d to \u201c04/19/2026\u201d printed on the back of the packaging.,  \u2022\t15.8-oz. plastic bag packages containing 15 \u201cSAINT COXINHA CHICKEN CROQUETTES\u201d with \u201cbest by\u201d dates ranging \u201c11/04/2025\u201d to \u201c04/19/2026\u201d printed on the back of the packaging., \u2022\t13.7-oz. plastic bag packages containing 13 \u201cSAINT COXINHA GROUND BEEF CROQUETTE RISOLE DE CARNE\u201d with \u201cbest by\u201d date \u201c02/02/2026\u201d printed on the back of the packaging.",
+        "impacted_states": [],
+        "agency": "USDA",
+        "uid": "fd97582c-a0ab-4b12-a027-3a0cfa16c020",
+        "recall_url": "http://www.fsis.usda.gov/recalls-alerts/brazilian-taste-recalls-frozen-chicken-and-beef-croquette-products-due-misbranding",
+        "notice_id_number": "036-2025",
+        "recall_type": "Active Recall",
+        "risk_level": "High - Class I",
+        "recall_classification": "Class I"
+    },
+    {
         "title": "Dreyer's Grand Ice Cream, Inc. Issues Allergy Alert on Undeclared Wheat in Haagen-Dazs Chocolate Dark Chocolate Mini Bars in 6 Count Pack",
         "company_announce_dttm": "2025-11-03T05:00:00+00:00",
         "notification_dttm": "2025-11-04T05:00:00+00:00",
