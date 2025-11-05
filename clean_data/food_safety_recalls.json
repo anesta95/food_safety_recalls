@@ -1,5 +1,25 @@
 [
     {
+        "title": "JFE Franchising, Inc. Issues a Voluntary Recall Associated with a Nationwide Peach Recall Because Of Possible Health Risk",
+        "company_announce_dttm": "2025-11-04T01:02:00+00:00",
+        "notification_dttm": "2025-11-04T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Listeria monocytogenes.",
+        "company_name": "JFE Franchising Inc.",
+        "brand_name": "Snow Fruit",
+        "product_description": "Peach Salsa",
+        "impacted_states": [
+            "TX",
+            "CA"
+        ],
+        "agency": "FDA",
+        "uid": "e20d8819-7f8c-4da8-8a0f-5535a0fd9280",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-issues-voluntary-recall-associated-nationwide-peach-recall-because-possible",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Brazilian Taste Recalls Frozen Chicken and Beef Croquette Products Due to Misbranding and an Undeclared Allergen",
         "company_announce_dttm": null,
         "notification_dttm": "2025-11-04T00:00:00+00:00",
