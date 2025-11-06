@@ -1,5 +1,24 @@
 [
     {
+        "title": "Africa Imports Issues Voluntary Recall of Organic Moringa Leaf Powder Due to Potential Salmonella Contamination",
+        "company_announce_dttm": "2025-11-06T05:00:00+00:00",
+        "notification_dttm": "2025-11-06T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Salmonella",
+        "company_name": "Africa Imports",
+        "brand_name": "Africa Imports",
+        "product_description": "Organic Moringa Leaf Powder",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "ccdeef3b-df67-4540-8296-938c6464d6a6",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/africa-imports-issues-voluntary-recall-organic-moringa-leaf-powder-due-potential-salmonella",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Blue Oven Bakery, Inc. Issues a Voluntary Recall Due to Undeclared Milk Allergens in Their English Muffin",
         "company_announce_dttm": "2025-10-31T04:00:00+00:00",
         "notification_dttm": "2025-11-06T05:00:00+00:00",
