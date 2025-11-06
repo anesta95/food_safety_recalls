@@ -1,5 +1,24 @@
 [
     {
+        "title": "Africa Imports Issues Voluntary Recall of Organic Moringa Leaf Powder Due to Potential Salmonella Contamination",
+        "company_announce_dttm": "2025-11-06T05:00:00+00:00",
+        "notification_dttm": "2025-11-06T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Salmonella",
+        "company_name": "Africa Imports",
+        "brand_name": "Africa Imports",
+        "product_description": "Organic Moringa Leaf Powder",
+        "impacted_states": [
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "ccdeef3b-df67-4540-8296-938c6464d6a6",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/africa-imports-issues-voluntary-recall-organic-moringa-leaf-powder-due-potential-salmonella",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-18T01:43:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -11,7 +30,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "88054017-3487-4e99-a3fe-3e3de62e5408",
+        "uid": "b1cac028-fcca-43b3-95e8-00232dac6d12",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -39,34 +58,8 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "28126acd-c9b9-425d-9e5f-d154ef748be8",
+        "uid": "4851dd82-62e8-45d4-9af5-4648c92ffa9e",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
-    },
-    {
-        "title": "Publix Rich & Creamy Vanilla Ice Cream Voluntarily Recalled in Select Areas",
-        "company_announce_dttm": "2025-10-14T23:18:00+00:00",
-        "notification_dttm": "2025-10-17T04:00:00+00:00",
-        "recall_reason": "May contain undeclared egg allergen",
-        "company_name": "Publix",
-        "brand_name": "Publix",
-        "product_description": "Rich & Creamy Vanilla Ice Cream",
-        "impacted_states": [
-            "AL",
-            "FL",
-            "GA",
-            "KY",
-            "NC",
-            "SC",
-            "TN",
-            "VA"
-        ],
-        "agency": "FDA",
-        "uid": "07adbfd6-8b12-492e-b2ae-bdc101d71c73",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
