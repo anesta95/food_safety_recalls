@@ -1,5 +1,24 @@
 [
     {
+        "title": "Blue Oven Bakery, Inc. Issues a Voluntary Recall Due to Undeclared Milk Allergens in Their English Muffin",
+        "company_announce_dttm": "2025-10-31T04:00:00+00:00",
+        "notification_dttm": "2025-11-06T05:00:00+00:00",
+        "recall_reason": "Undeclared milk",
+        "company_name": "Blue Oven Bakery, Inc.",
+        "brand_name": "Blue Oven Bakery, Inc.",
+        "product_description": "English muffin",
+        "impacted_states": [
+            "OH"
+        ],
+        "agency": "FDA",
+        "uid": "1b6eea11-9575-4b41-a0d8-6ceca5438901",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-oven-bakery-inc-issues-voluntary-recall-due-undeclared-milk-allergens-their-english-muffin",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially Low - Class II",
+        "recall_classification": "Potentially Class II"
+    },
+    {
         "title": "African Food on Wheels Inc. Recalls Oven Dried Fish (Scomberomorus Cavalla) Because of Possible Health Risk",
         "company_announce_dttm": "2025-11-05T05:00:00+00:00",
         "notification_dttm": "2025-11-06T05:00:00+00:00",
