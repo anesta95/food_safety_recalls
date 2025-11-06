@@ -1,19 +1,18 @@
 [
     {
-        "title": "JFE Franchising, Inc. Issues a Voluntary Recall Associated with a Nationwide Peach Recall Because Of Possible Health Risk",
-        "company_announce_dttm": "2025-11-04T01:02:00+00:00",
-        "notification_dttm": "2025-11-04T05:00:00+00:00",
-        "recall_reason": "Potential to be contaminated with Listeria monocytogenes.",
-        "company_name": "JFE Franchising Inc.",
-        "brand_name": "Snow Fruit",
-        "product_description": "Peach Salsa",
+        "title": "African Food on Wheels Inc. Recalls Oven Dried Fish (Scomberomorus Cavalla) Because of Possible Health Risk",
+        "company_announce_dttm": "2025-11-05T05:00:00+00:00",
+        "notification_dttm": "2025-11-06T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Clostridium botulinum",
+        "company_name": "African Food on Wheels Inc.",
+        "brand_name": "African Food on Wheels Inc. ",
+        "product_description": "Oven Dried Fish (Scomberomorus cavalla) ",
         "impacted_states": [
-            "TX",
-            "CA"
+            "NY"
         ],
         "agency": "FDA",
-        "uid": "e20d8819-7f8c-4da8-8a0f-5535a0fd9280",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jfe-franchising-inc-issues-voluntary-recall-associated-nationwide-peach-recall-because-possible",
+        "uid": "3cdb1b47-6749-4a13-a4a6-e106f710896e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/african-food-wheels-inc-recalls-oven-dried-fish-scomberomorus-cavalla-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -31,7 +30,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "128ffe1a-db7e-4aec-9ba6-0c87fc629b5e",
+        "uid": "3d0699f1-dcdd-41a9-964c-389b2bd7e419",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -59,7 +58,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "1b9bd3d2-3ae3-4bc0-b721-efc43169aae8",
+        "uid": "fbfd365e-b830-4a25-827f-f8b56409f304",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
@@ -85,7 +84,7 @@
             "VA"
         ],
         "agency": "FDA",
-        "uid": "45f084f2-73ab-4f89-81c6-2983f378b6e2",
+        "uid": "8a37b15f-5964-4e92-ad84-807db54d0563",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-rich-creamy-vanilla-ice-cream-voluntarily-recalled-select-areas",
         "notice_id_number": null,
         "recall_type": null,
