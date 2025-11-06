@@ -1,5 +1,24 @@
 [
     {
+        "title": "African Food on Wheels Inc. Recalls Oven Dried Fish (Scomberomorus Cavalla) Because of Possible Health Risk",
+        "company_announce_dttm": "2025-11-05T05:00:00+00:00",
+        "notification_dttm": "2025-11-06T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Clostridium botulinum",
+        "company_name": "African Food on Wheels Inc.",
+        "brand_name": "African Food on Wheels Inc. ",
+        "product_description": "Oven Dried Fish (Scomberomorus cavalla) ",
+        "impacted_states": [
+            "NY"
+        ],
+        "agency": "FDA",
+        "uid": "3cdb1b47-6749-4a13-a4a6-e106f710896e",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/african-food-wheels-inc-recalls-oven-dried-fish-scomberomorus-cavalla-because-possible-health-risk",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "JFE Franchising, Inc. Issues a Voluntary Recall Associated with a Nationwide Peach Recall Because Of Possible Health Risk",
         "company_announce_dttm": "2025-11-04T01:02:00+00:00",
         "notification_dttm": "2025-11-04T05:00:00+00:00",
