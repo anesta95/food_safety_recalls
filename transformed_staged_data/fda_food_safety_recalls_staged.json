@@ -1,18 +1,19 @@
 [
     {
-        "title": "Africa Imports Issues Voluntary Recall of Organic Moringa Leaf Powder Due to Potential Salmonella Contamination",
-        "company_announce_dttm": "2025-11-06T05:00:00+00:00",
-        "notification_dttm": "2025-11-06T05:00:00+00:00",
-        "recall_reason": "Potential to be contaminated with Salmonella",
-        "company_name": "Africa Imports",
-        "brand_name": "Africa Imports",
-        "product_description": "Organic Moringa Leaf Powder",
+        "title": "In Response to a Broader FDA Investigation, ByHeart Initiates a Voluntary Recall of Two Batches of Infant Formula",
+        "company_announce_dttm": "2025-11-08T05:00:00+00:00",
+        "notification_dttm": "2025-11-08T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Clostridium botulinum",
+        "company_name": "ByHeart Inc.",
+        "brand_name": "ByHeart",
+        "product_description": "Whole Nutrition Infant formula",
         "impacted_states": [
+            "NY",
             "US"
         ],
         "agency": "FDA",
-        "uid": "ccdeef3b-df67-4540-8296-938c6464d6a6",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/africa-imports-issues-voluntary-recall-organic-moringa-leaf-powder-due-potential-salmonella",
+        "uid": "3668715b-36cc-4c5e-b73b-127c7a5e7804",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/response-broader-fda-investigation-byheart-initiates-voluntary-recall-two-batches-infant-formula",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -30,7 +31,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "b1cac028-fcca-43b3-95e8-00232dac6d12",
+        "uid": "a74f8eed-f1b2-4423-8093-4104f83b2edb",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -58,7 +59,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "4851dd82-62e8-45d4-9af5-4648c92ffa9e",
+        "uid": "3e5287ce-cf00-49f2-9123-9d6f6af7a06d",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
