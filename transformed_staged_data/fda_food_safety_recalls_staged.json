@@ -1,5 +1,25 @@
 [
     {
+        "title": "ByHeart Broadens Voluntary Recall While Investigation Continues",
+        "company_announce_dttm": "2025-11-11T17:10:00+00:00",
+        "notification_dttm": "2025-11-11T05:00:00+00:00",
+        "recall_reason": "Potential Foodborne Illness \u2013 Clostridium botulinum",
+        "company_name": "ByHeart Inc.",
+        "brand_name": "ByHeart",
+        "product_description": "Whole Nutrition Infant formula 24 oz cans and 0.6oz packets",
+        "impacted_states": [
+            "NY",
+            "US"
+        ],
+        "agency": "FDA",
+        "uid": "c34cf1ee-ca06-4025-b2f9-9942af599f55",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/byheart-broadens-voluntary-recall-while-investigation-continues",
+        "notice_id_number": null,
+        "recall_type": null,
+        "risk_level": "Potentially High - Class I",
+        "recall_classification": "Potentially Class I"
+    },
+    {
         "title": "Aquastar (USA) Corp Recalls Shrimp Because of Possible Health Risk",
         "company_announce_dttm": "2025-10-18T01:43:00+00:00",
         "notification_dttm": "2025-10-17T04:00:00+00:00",
@@ -11,7 +31,7 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "aa55999c-35dd-4fcb-851a-1d9e9ebbec5c",
+        "uid": "b6ca27b2-96c4-44a9-9c18-38e2fc5d3950",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
@@ -39,7 +59,7 @@
             "TX"
         ],
         "agency": "FDA",
-        "uid": "b2c2c505-c192-45da-a8a4-2ebb0b299207",
+        "uid": "00875511-1f02-4926-a60f-27bde7f0b2ee",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
         "notice_id_number": null,
         "recall_type": null,
