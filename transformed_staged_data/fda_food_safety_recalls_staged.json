@@ -1,19 +1,19 @@
 [
     {
-        "title": "ByHeart Broadens Voluntary Recall While Investigation Continues",
-        "company_announce_dttm": "2025-11-11T17:10:00+00:00",
-        "notification_dttm": "2025-11-11T05:00:00+00:00",
-        "recall_reason": "Potential Foodborne Illness \u2013 Clostridium botulinum",
-        "company_name": "ByHeart Inc.",
-        "brand_name": "ByHeart",
-        "product_description": "Whole Nutrition Infant formula 24 oz cans and 0.6oz packets",
+        "title": "Food To Live Voluntarily Recalls Organic Moringa Products Because of Possible Health Risk",
+        "company_announce_dttm": "2025-11-12T14:14:00+00:00",
+        "notification_dttm": "2025-11-13T05:00:00+00:00",
+        "recall_reason": "Potential to be contaminated with Salmonella",
+        "company_name": "Food To Live",
+        "brand_name": "Food To Live",
+        "product_description": "Organic Supergreens Powder Mix and Organic Moringa Leaf Powder",
         "impacted_states": [
             "NY",
             "US"
         ],
         "agency": "FDA",
-        "uid": "c34cf1ee-ca06-4025-b2f9-9942af599f55",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/byheart-broadens-voluntary-recall-while-investigation-continues",
+        "uid": "7475980f-2431-467a-8442-4a3ff527954c",
+        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/food-live-voluntarily-recalls-organic-moringa-products-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially High - Class I",
@@ -31,39 +31,11 @@
             "WA"
         ],
         "agency": "FDA",
-        "uid": "b6ca27b2-96c4-44a9-9c18-38e2fc5d3950",
+        "uid": "b30fed4e-f96f-46e6-88c2-5fc96ea0f4fe",
         "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-shrimp-because-possible-health-risk",
         "notice_id_number": null,
         "recall_type": null,
         "risk_level": "Potentially Low - Class II",
         "recall_classification": "Potentially Class II"
-    },
-    {
-        "title": "Jody\u2019s Inc. Recalls Cabot Creamery Sea Salt Caramel Cheddar Popcorn Due to Undeclared Peanuts CORRECTED UPC CODE",
-        "company_announce_dttm": "2025-10-17T21:03:00+00:00",
-        "notification_dttm": "2025-10-17T04:00:00+00:00",
-        "recall_reason": "Due to presence of undeclared peanuts",
-        "company_name": "Jody's Inc.",
-        "brand_name": "Cabot Creamery",
-        "product_description": "Sea Salt Caramel Cheddar Popcorn ",
-        "impacted_states": [
-            "CA",
-            "FL",
-            "GA",
-            "IL",
-            "MD",
-            "MA",
-            "US",
-            "NC",
-            "OR",
-            "TX"
-        ],
-        "agency": "FDA",
-        "uid": "00875511-1f02-4926-a60f-27bde7f0b2ee",
-        "recall_url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jodys-inc-recalls-cabot-creamery-sea-salt-caramel-cheddar-popcorn-due-undeclared-peanuts-corrected",
-        "notice_id_number": null,
-        "recall_type": null,
-        "risk_level": "Potentially High - Class I",
-        "recall_classification": "Potentially Class I"
     }
 ]
